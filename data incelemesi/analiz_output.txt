@@ -1,0 +1,112 @@
+============================================================
+VERİ YÜKLENİYOR
+============================================================
+  962,873 ürün | 50,153 query | 250,000 pozitif çift
+  Test: 3,359,679 çift | Yükleme: 35.7s
+
+============================================================
+A: QUERY TİPOLOJİSİ
+============================================================
+  Query token ort=2.6, med=2, max=9
+
+  Query Tipleri:
+  marka: 38,529 (76.8%)
+  marka+özellik: 8,128 (16.2%)
+  kategori/genel: 2,020 (4.0%)
+  tek_kelime: 874 (1.7%)
+  kod/numara: 455 (0.9%)
+  cinsiyet+kategori: 113 (0.2%)
+  renk+kategori: 34 (0.1%)
+
+============================================================
+B: ÜRÜN KATALOGU ANALİZİ
+============================================================
+  Top 10 Ana Kategori:
+  ev & mobilya: 251,121
+  giyim: 169,064
+  aksesuar: 98,686
+  ayakkabı: 85,418
+  elektronik: 80,181
+  kozmetik & kişisel bakım: 51,633
+  süpermarket: 47,551
+  otomobil & motosiklet: 35,915
+  anne & bebek & çocuk: 23,745
+  banyo yapı & hırdavat: 23,595
+
+  Cinsiyet Dağılımı:
+  unknown: 590,714
+  kadın: 192,045
+  erkek: 99,433
+  unisex: 80,681
+
+============================================================
+C: POZİTİF/NEGATİF ÖRÜNTÜ ANALİZİ
+============================================================
+  K/query: ort=13.9, med=7, max=1525
+  Test aday/query: ort=104.4, min=100, max=3680
+  Pozitif çiftler:
+  Jaccard(query,title): 0.154
+  Jaccard(query,kategori): 0.165
+  Marka query'de: 0.295
+  Cinsiyet query'de: 0.117
+  Query, title'da birebir: 0.191
+
+============================================================
+D: FEATURE DİSCRİMİNABİLİTY
+============================================================
+  Feature AUC (pozitif/negatif):
+  fuzz_partial: AUC=0.8927
+  fuzz_set: AUC=0.8841
+  q_cov_title: AUC=0.8777
+  jac: AUC=0.8762
+  t_cov_query: AUC=0.8754
+  cat_overlap: AUC=0.8536
+  brand_in_q: AUC=0.6306
+  exact_in_t: AUC=0.5941
+  attr_match: AUC=0.5688
+  gender_in_q: AUC=0.5549
+  age_in_q: AUC=0.5172
+  len_diff: AUC=0.5047
+  l1_match: AUC=0.5007
+
+============================================================
+E: ERROR ANALYSIS
+============================================================
+  Her ikisi POS: 1,291,071
+  Sadece BERT:   186,732
+  Sadece LGBM:   65,920
+  BERT ekliyor - kategori:
+  ev & mobilya: 29,594
+  giyim: 29,509
+  ayakkabı: 24,986
+  kozmetik & kişisel bakım: 21,860
+  aksesuar: 15,482
+  elektronik: 15,021
+  anne & bebek & çocuk: 13,608
+  süpermarket: 8,072
+  otomobil & motosiklet: 7,602
+  kitap: 5,537
+  BERT gender hatası: 12,063 (6.5% of BERT-only)
+
+============================================================
+F: TÜRKÇE ODAKLI YENİ FEATURElar
+============================================================
+  Türkçe Stem Jaccard:
+  'kadın spor ayakkabı' vs 'kadın koşu ayakkabıları': 0.200 -> 0.200
+  'erkek gömlek' vs 'erkek uzun kollu gömleği': 0.200 -> 0.200
+  'çocuk oyuncağı' vs 'çocuklar için oyuncaklar': 0.000 -> 0.250
+  'deri çanta' vs 'hakiki deri el çantaları': 0.200 -> 0.200
+  Renk query'de: %4.8, eşleşme: %2.8
+  Tip bazında pozitif sayısı:
+  marka: 197,045
+  marka+özellik: 35,235
+  kategori/genel: 9,123
+  tek_kelime: 6,689
+  cinsiyet+kategori: 1,109
+  kod/numara: 667
+  renk+kategori: 132
+
+============================================================
+RAPOR KAYDEDILDI: C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\data incelemesi\RAPOR.md
+Toplam süre: 5.6 dk
+============================================================

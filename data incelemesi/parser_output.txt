@@ -1,0 +1,98 @@
+Veri yükleniyor...
+
+═══ L1: MARKA TESPİTİ ═══
+  Marka tespiti uygulanıyor...
+
+  Marka tespit yöntemi dağılımı:
+    exact     : 31,805 query (63.4%)
+    none      : 12,028 query (24.0%)
+    token     :  6,320 query (12.6%)
+
+  Marka pozisyonu (exact match, 0=başta):
+    pozisyon 0.0: 26,730 query (84.0%)
+    pozisyon 1.0: 3,604 query (11.3%)
+    pozisyon 2.0: 1,243 query (3.9%)
+    pozisyon 3.0: 197 query (0.6%)
+    pozisyon 4.0: 23 query (0.1%)
+
+  Marka uzunluğu (kelime sayısı):
+    1 kelime: 27,861 (87.6%)
+    2 kelime: 3,306 (10.4%)
+    3 kelime: 567 (1.8%)
+    4 kelime: 67 (0.2%)
+    5 kelime: 4 (0.0%)
+
+  Örnek query ayrıştırmaları:
+    [nike erkek spor ayakkabı] → marka=[nike](exact) | ürün=[erkek spor ayakkabı]
+    [us polo tişört] → marka=[polo](exact) | ürün=[us tişört]
+    [fono yayınları] → marka=[fono yayınları](exact) | ürün=[]
+    [pandora gold] → marka=[pandora](exact) | ürün=[gold]
+    [kadın topuklu ayakkabı] → marka=[kadın](exact) | ürün=[topuklu ayakkabı]
+    [iphone 15 pro] → marka=[pro](exact) | ürün=[iphone 15]
+    [bebek battaniyesi] → marka=[bebek](exact) | ürün=[battaniyesi]
+    [karaca çaydanlık] → marka=[karaca](exact) | ürün=[çaydanlık]
+    [mavi kot pantolon] → marka=[mavi](exact) | ürün=[kot pantolon]
+
+═══ L2: DEMOGRAFİK ═══
+  Cinsiyet tespiti:
+    nan            : 45,372 (90.5%)
+    kadın          :  2,033 (4.1%)
+    erkek          :  1,911 (3.8%)
+    kız_çocuk      :    601 (1.2%)
+    erkek_çocuk    :    229 (0.5%)
+    unisex         :      7 (0.0%)
+  Yaş tespiti:
+    nan         : 47,750 (95.2%)
+    çocuk       :  1,363 (2.7%)
+    bebek       :    980 (2.0%)
+    genç        :     49 (0.1%)
+    yetişkin    :     11 (0.0%)
+
+═══ L3: ÜRÜN TİPİ ═══
+  Ürün tipi spesifiklik dağılımı:
+    kategori    : 16,312 (32.5%)
+    soyut       : 14,937 (29.8%)
+    spesifik    : 12,579 (25.1%)
+    belirsiz    :  6,325 (12.6%)
+
+═══ L4: NİTELİKLER ═══
+  Renk       içeren query: 2,585 (5.2%)
+  Beden      içeren query: 103 (0.2%)
+  Malzeme    içeren query: 793 (1.6%)
+  Stil       içeren query: 1,049 (2.1%)
+
+═══ L5: TÜRKÇE ZORLUK ANALİZİ ═══
+  Suffix içeren token oranı: ort=0.430
+  Bileşik kelime içeren query: 1,945 (3.9%)
+
+═══ QUERY TİP MATRİSİ ═══
+  En sık 20 query tipi kombinasyonu:
+    MARKA + CİNS(nan) + YAŞ(nan) + ÜRÜN          : 12,673 (25.3%)
+    CİNS(nan) + YAŞ(nan)                         : 11,717 (23.4%)
+    MARKA + CİNS(nan) + YAŞ(nan) + ÜRÜN↑         : 8,919 (17.8%)
+    MARKA + CİNS(nan) + YAŞ(nan)                 : 8,271 (16.5%)
+    MARKA + CİNS(kadın) + YAŞ(nan) + ÜRÜN↑       : 1,065 (2.1%)
+    MARKA + CİNS(nan) + YAŞ(nan) + RENK + ÜRÜN   :   997 (2.0%)
+    MARKA + CİNS(erkek) + YAŞ(nan) + ÜRÜN        :   978 (2.0%)
+    MARKA + CİNS(nan) + YAŞ(nan) + RENK + ÜRÜN↑  :   738 (1.5%)
+    MARKA + CİNS(kadın) + YAŞ(nan) + ÜRÜN        :   535 (1.1%)
+    MARKA + CİNS(nan) + YAŞ(bebek) + ÜRÜN↑       :   427 (0.9%)
+    MARKA + CİNS(nan) + YAŞ(çocuk) + ÜRÜN↑       :   380 (0.8%)
+    MARKA + CİNS(erkek) + YAŞ(nan) + ÜRÜN↑       :   376 (0.7%)
+    MARKA + CİNS(erkek) + YAŞ(nan)               :   316 (0.6%)
+    MARKA + CİNS(nan) + YAŞ(çocuk) + ÜRÜN        :   282 (0.6%)
+    MARKA + CİNS(nan) + YAŞ(bebek) + ÜRÜN        :   261 (0.5%)
+    MARKA + CİNS(nan) + YAŞ(nan) + RENK          :   243 (0.5%)
+    MARKA + CİNS(erkek_çocuk) + YAŞ(çocuk) + ÜRÜN↑:   179 (0.4%)
+    MARKA + CİNS(kız_çocuk) + YAŞ(çocuk) + ÜRÜN  :   173 (0.3%)
+    CİNS(nan) + YAŞ(nan) + RENK                  :   155 (0.3%)
+    MARKA + CİNS(kız_çocuk) + YAŞ(çocuk) + ÜRÜN↑ :   150 (0.3%)
+
+═══ DOĞRULAMA: PARSER vs POZİTİF ÇİFTLER ═══
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\data incelemesi\02_query_parser_analiz.py", line 341, in <module>
+    brand_overlap(bf, ib)
+  File "C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\data incelemesi\02_query_parser_analiz.py", line 336, in brand_overlap
+    d_toks = set(detected.split())
+                 ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'split'

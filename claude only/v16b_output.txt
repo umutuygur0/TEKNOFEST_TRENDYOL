@@ -1,0 +1,26 @@
+Veri yükleniyor...
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|##########| 201/201 [00:00<00:00, 7844.05it/s]
+Model yüklendi | Device: cuda
+
+BERT score dist: min=0.000 mean=0.521 max=1.000
+Inference: 17.4 dk
+
+--- THRESHOLD ANALİZİ ---
+  thr=0.30 → 1,853,350 pozitif (55.2%)
+  thr=0.35 → 1,841,315 pozitif (54.8%)
+  thr=0.40 → 1,829,700 pozitif (54.5%)
+  thr=0.45 → 1,817,490 pozitif (54.1%)
+  thr=0.50 → 1,803,885 pozitif (53.7%)
+  thr=0.55 → 1,788,224 pozitif (53.2%)
+  thr=0.60 → 1,768,692 pozitif (52.6%)
+  thr=0.65 → 1,742,763 pozitif (51.9%)
+  thr=0.70 → 1,706,230 pozitif (50.8%)
+
+Hedef %44 → threshold=0.8936 → 1,477,803 pozitif (44.0%)
+  %40 → thr=0.9536 → 1,343,858 pos | submission_v16b_bert_40pct.csv
+  %42 → thr=0.9316 → 1,410,184 pos | submission_v16b_bert_42pct.csv
+  %44 → thr=0.8936 → 1,477,803 pos | submission_v16b_bert_44pct.csv
+  %46 → thr=0.8354 → 1,545,299 pos | submission_v16b_bert_46pct.csv
+  %48 → thr=0.7808 → 1,612,179 pos | submission_v16b_bert_48pct.csv
+
+Bitti!

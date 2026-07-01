@@ -1,1 +1,45 @@
 trendyol-e-ticaret-yarismasi-2026-kaggle.zip
+trendyol-e-ticaret-yarismasi-2026-kaggle/items.csv
+trendyol-e-ticaret-yarismasi-2026-kaggle/sample_submission.csv
+trendyol-e-ticaret-yarismasi-2026-kaggle/submission_pairs.csv
+trendyol-e-ticaret-yarismasi-2026-kaggle/terms.csv
+trendyol-e-ticaret-yarismasi-2026-kaggle/training_pairs.csv
+
+# Local editor/assistant state
+.claude/
+.vscode/
+**/.vscode/
+
+# Python environments and caches
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Competition submissions and submit scripts
+**/submissions/
+**/submission*.csv
+**/*submission*.csv
+**/*submission*.py
+**/*submission*.ipynb
+
+# Generated model/cache artifacts
+checkpoints/
+**/models/
+**/emb_cache/
+**/emb_cache_*/
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Archives and run logs
+*.zip
+*.log
+*.err

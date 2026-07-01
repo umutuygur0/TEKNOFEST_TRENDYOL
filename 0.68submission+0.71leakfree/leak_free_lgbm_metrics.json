@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "negatives_per_positive": 2,
+  "training_rows": 750000,
+  "label_counts": {
+    "0": 500000,
+    "1": 250000
+  },
+  "best_oof_threshold": 0.575,
+  "best_oof_macro_f1": 0.969415378308097,
+  "oof_positive_rate": 0.33485733333333334,
+  "submission": {
+    "rows": 3359679,
+    "positives": 1279637,
+    "positive_rate": 0.38088073295097535
+  },
+  "elapsed_seconds": 873.72,
+  "leak_fix": "Negatives are generated only from training term_ids plus the item catalog; submission_pairs.csv is read only during inference."
+}

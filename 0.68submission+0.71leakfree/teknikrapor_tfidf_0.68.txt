@@ -1,0 +1,36 @@
+TEKNİK RAPOR: Trendyol E-Ticaret Arama Alaka Düzeyi (Search Relevancy) Sınıflandırma Modeli
+Proje Amacı: Kaggle "Trendyol E-Ticaret" yarışması kapsamında, kullanıcıların arama terimleri (⁠query⁠) ile karşılarına çıkan ürünlerin (⁠item⁠) birbiriyle alakalı olup olmadığını tahmin eden bir ikili sınıflandırma (Binary Classification) modeli geliştirmek.
+Değerlendirme Metriği: Macro F1 Score
+Güncel Skor (Public LB): 0.68
+1. Veri Stratejisi ve "Transductive Learning" (Hard Negative Mining)
+Trendyol veri setinde yalnızca pozitif (1) eşleşmelerin bulunduğu bir eğitim seti verildiği için, negatif (0) eşleşmeleri manuel olarak üretmemiz gerekti. Rastgele ürün eşleştirmek yerine, doğrudan test setinden (⁠submission_pairs.csv⁠) Transductive Learning / Pseudo-Labeling mantığıyla "Kesin Negatif (Hard Negative)" örnekler süzüldü.
+Negatif Süzme Kuralları:
+ Cinsiyet Çatışması (Gender Mismatch): Arama teriminde "erkek/kadın" geçmesine rağmen ürün cinsiyetinin tam zıttı olması.
+ Sıfır Kelime Kesişimi: Arama terimindeki kelimelerin, ürün başlığı (⁠title⁠) ve kategorisinde (⁠category⁠) hiç geçmemesi durumu.
+Bu kurallardan geçen 250.000 adet alakasız eşleşme ile Trendyol'un orijinal 250.000 adet alakalı eşleşmesi birleştirilerek, 500.000 satırlık mükemmel dengeli (Balanced) bir eğitim seti (⁠train_ready⁠) oluşturuldu.
+2. Özellik Mühendisliği (Feature Engineering)
+Metin verilerini makine öğrenmesi modelinin anlayabileceği matematiksel sinyallere dönüştürmek için 13 farklı sayısal/kategorik özellik (feature) üretildi:
+A. Kategorik Hiyerarşi Çıkarımı (Dimensionality Reduction):
+ ⁠ana_kategori⁠: Karmaşık ve uzun kategori yolları (örn: ⁠ev/mobilya/mutfak⁠), hiyerarşinin kök dizininden (⁠/⁠ işaretinden) bölünerek makro kategorilere indirgendi. Modelde Categorical Feature olarak kullanıldı.
+B. Gelişmiş Metin Benzerlikleri (Levenshtein & Set Theory):
+ ⁠jaccard_sim⁠: Arama terimi ve ürün başlığı arasındaki kelime kümesi (set) kesişim oranı.
+ ⁠fuzz_ratio_basic⁠: ⁠fuzz.ratio⁠ ile harf bazlı birebir benzerlik (Yazım yanlışlarını yakalamak için).
+ ⁠fuzz_partial⁠: ⁠fuzz.partial_ratio⁠ ile arama teriminin ürün başlığı içinde geçme durumu.
+ ⁠fuzz_token_sort⁠: ⁠fuzz.token_sort_ratio⁠ ile kelime sırasından bağımsız benzerlik (Örn: "siyah tişört" = "tişört siyah").
+ ⁠fuzz_ratio⁠: ⁠fuzz.token_set_ratio⁠ skoru.
+C. Anlamsal Vektör Uzayı (Semantic Similarity):
+ ⁠tfidf_cos_sim⁠: Tüm arama ve başlık metinleri 50.000 boyutlu (1-2 ngram) TF-IDF vektörlerine dönüştürüldü. RAM optimizasyonu için doğrudan matris çarpımı (⁠dot product⁠) yapılarak Cosine Similarity hesaplandı.
+D. Kapsam ve Fiziksel Metrikler:
+ ⁠attr_match_score⁠: Ürünün gizli detaylarını barındıran JSON benzeri ⁠attributes⁠ (Renk, Materyal vb.) sözlüğü ayrıştırıldı ve arama kelimelerinin bu sözlükteki varlık oranı hesaplandı.
+ ⁠len_diff⁠: Arama terimi ile ürün başlığı arasındaki mutlak karakter uzunluğu farkı.
+ ⁠is_brand_in_query⁠, ⁠is_gender_in_query⁠, ⁠is_age_in_query⁠: Marka, yaş grubu veya cinsiyet bilgisinin arama teriminde doğrudan geçip geçmediğini kontrol eden ikili (Boolean) bayraklar.
+ ⁠category_overlap⁠: Kategori metni ile arama terimi arasındaki Jaccard benzerliği.
+3. Model Mimarisi ve Çapraz Doğrulama (Cross Validation)
+ Algoritma: LightGBM Classifier (Ağaç tabanlı yapı).
+ Hiperparametreler: ⁠n_estimators=1000⁠, ⁠learning_rate=0.05⁠, ⁠max_depth=7⁠, ⁠num_leaves=128⁠, ⁠class_weight='balanced'⁠.
+ Validation Stratejisi: 5-Fold GroupKFold. Modelin eğitim ve doğrulama setleri arasında ezber (data leakage) yapmasını engellemek için gruplama ölçütü olarak ⁠term_id⁠ (Arama Terimi ID) kullanıldı. Aynı arama terimi farklı fold'lara sızdırılmadı.
+ Eşik Değeri (Threshold) Optimizasyonu: Çıkan olasılık skorları (Predict Proba) üzerinden ⁠[0.3, 0.7]⁠ aralığında tarama yapılarak Macro F1 skorunu maksimize eden en uygun eşik değeri (best threshold) dinamik olarak bulundu.
+4. Tahmin (Inference) ve Çıktı Üretimi
+3.36 Milyon satırlık devasa test seti (⁠submission_pairs.csv⁠), eğitim setine uygulanan birebir aynı özellik mühendisliği adımlarından (TF-IDF Transform dahil) geçirildi.
+5 farklı GroupKFold modelinden çıkan olasılık skorlarının ortalaması alınarak (Ensemble Prediction) nihai kararlar üretildi ve dinamik eşik değeri (Threshold) kullanılarak {0, 1} etiketlerine dönüştürüldü. Sonuçlar Kaggle formatına uygun olarak dışa aktarıldı.
+Sonuç: Model statik kuralları başarılı bir şekilde sayısal özelliklere dönüştürmüş olup, şu an LightGBM mimarisi üzerinden daha gelişmiş hiperparametre tuning ve veri seti genişletme iterasyonlarına (Kaba kuvvet optimizasyonlarına) hazırdır.

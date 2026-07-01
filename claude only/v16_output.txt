@@ -1,0 +1,133 @@
+============================================================
+AŞAMA A: LightGBM → Test Probability Scores
+============================================================
+  Veri: 37.6s
+  LightGBM özellikleri (train)...
+  LightGBM 5-fold...
+  Fold 1 | F1=0.9565
+  Fold 2 | F1=0.9540
+  Fold 3 | F1=0.9589
+  Fold 4 | F1=0.9632
+  Fold 5 | F1=0.9566
+
+  LightGBM özellikleri (test)...
+  Test score dist: min=0.001 mean=0.440 max=1.000
+  AŞAMA A bitti: 6.3 dk
+
+============================================================
+AŞAMA B: Pseudo-Labeling
+============================================================
+  Pseudo-neg (score<0.1): 1,725,592
+  Pseudo-pos (score>0.9): 1,287,321
+
+  BERT eğitim seti: 650,000 çift
+    Real pos  : 250,000
+    Pseudo neg: 300,000
+    Pseudo pos: 100,000
+
+============================================================
+AŞAMA C: Turkish BERT Cross-Encoder
+============================================================
+C:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\site-packages\huggingface_hub\file_download.py:137: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\Asus\.cache\huggingface\hub\models--dbmdz--bert-base-turkish-cased. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+  Model: dbmdz/bert-base-turkish-cased | Device: cuda
+  Pre-tokenize 650,000 çift...
+  50,000/650000 tokenize
+  100,000/650000 tokenize
+  150,000/650000 tokenize
+  200,000/650000 tokenize
+  250,000/650000 tokenize
+  300,000/650000 tokenize
+  350,000/650000 tokenize
+  400,000/650000 tokenize
+  450,000/650000 tokenize
+  500,000/650000 tokenize
+  550,000/650000 tokenize
+  600,000/650000 tokenize
+  Pre-tokenize: 59.5s
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 6545.07it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: dbmdz/bert-base-turkish-cased
+Key                                        | Status     | 
+-------------------------------------------+------------+-
+cls.predictions.bias                       | UNEXPECTED | 
+cls.predictions.transform.dense.bias       | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED | 
+cls.predictions.transform.dense.weight     | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED | 
+cls.seq_relationship.bias                  | UNEXPECTED | 
+cls.seq_relationship.weight                | UNEXPECTED | 
+classifier.weight                          | MISSING    | 
+classifier.bias                            | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+
+  Fine-tune: 10,157 steps | warmup=507
+  step   200/10157 | loss=0.5047 | 0.4dk | ETA 21.3dk
+  step   400/10157 | loss=0.1776 | 0.8dk | ETA 20.6dk
+  step   600/10157 | loss=0.1422 | 1.3dk | ETA 20.0dk
+  step   800/10157 | loss=0.1192 | 1.7dk | ETA 19.5dk
+  step  1000/10157 | loss=0.1197 | 2.1dk | ETA 19.1dk
+  step  1200/10157 | loss=0.1075 | 2.5dk | ETA 18.7dk
+  step  1400/10157 | loss=0.1056 | 2.9dk | ETA 18.3dk
+  step  1600/10157 | loss=0.0995 | 3.3dk | ETA 17.9dk
+  step  1800/10157 | loss=0.0960 | 3.8dk | ETA 17.5dk
+  step  2000/10157 | loss=0.0950 | 4.2dk | ETA 17.0dk
+  step  2200/10157 | loss=0.0864 | 4.6dk | ETA 16.6dk
+  step  2400/10157 | loss=0.0935 | 5.0dk | ETA 16.2dk
+  step  2600/10157 | loss=0.0787 | 5.5dk | ETA 15.8dk
+  step  2800/10157 | loss=0.0817 | 5.9dk | ETA 15.4dk
+  step  3000/10157 | loss=0.0857 | 6.3dk | ETA 15.0dk
+  step  3200/10157 | loss=0.0833 | 6.7dk | ETA 14.6dk
+  step  3400/10157 | loss=0.0826 | 7.2dk | ETA 14.2dk
+  step  3600/10157 | loss=0.0765 | 7.6dk | ETA 13.8dk
+  step  3800/10157 | loss=0.0791 | 8.0dk | ETA 13.4dk
+  step  4000/10157 | loss=0.0729 | 8.4dk | ETA 13.0dk
+  step  4200/10157 | loss=0.0715 | 8.9dk | ETA 12.6dk
+  step  4400/10157 | loss=0.0761 | 9.3dk | ETA 12.2dk
+  step  4600/10157 | loss=0.0686 | 9.7dk | ETA 11.8dk
+  step  4800/10157 | loss=0.0721 | 10.2dk | ETA 11.4dk
+  step  5000/10157 | loss=0.0684 | 10.6dk | ETA 10.9dk
+  step  5200/10157 | loss=0.0719 | 11.0dk | ETA 10.5dk
+  step  5400/10157 | loss=0.0696 | 11.5dk | ETA 10.1dk
+  step  5600/10157 | loss=0.0603 | 11.9dk | ETA 9.7dk
+  step  5800/10157 | loss=0.0636 | 12.3dk | ETA 9.3dk
+  step  6000/10157 | loss=0.0592 | 12.8dk | ETA 8.8dk
+  step  6200/10157 | loss=0.0654 | 13.2dk | ETA 8.4dk
+  step  6400/10157 | loss=0.0669 | 13.6dk | ETA 8.0dk
+  step  6600/10157 | loss=0.0636 | 14.1dk | ETA 7.6dk
+  step  6800/10157 | loss=0.0603 | 14.5dk | ETA 7.2dk
+  step  7000/10157 | loss=0.0699 | 15.0dk | ETA 6.7dk
+  step  7200/10157 | loss=0.0614 | 15.4dk | ETA 6.3dk
+  step  7400/10157 | loss=0.0620 | 15.8dk | ETA 5.9dk
+  step  7600/10157 | loss=0.0605 | 16.3dk | ETA 5.5dk
+  step  7800/10157 | loss=0.0560 | 16.7dk | ETA 5.1dk
+  step  8000/10157 | loss=0.0570 | 17.2dk | ETA 4.6dk
+  step  8200/10157 | loss=0.0575 | 17.6dk | ETA 4.2dk
+  step  8400/10157 | loss=0.0594 | 18.1dk | ETA 3.8dk
+  step  8600/10157 | loss=0.0616 | 18.5dk | ETA 3.4dk
+  step  8800/10157 | loss=0.0619 | 19.0dk | ETA 2.9dk
+  step  9000/10157 | loss=0.0625 | 19.4dk | ETA 2.5dk
+  step  9200/10157 | loss=0.0549 | 19.8dk | ETA 2.1dk
+  step  9400/10157 | loss=0.0566 | 20.3dk | ETA 1.6dk
+  step  9600/10157 | loss=0.0584 | 20.7dk | ETA 1.2dk
+  step  9800/10157 | loss=0.0615 | 21.2dk | ETA 0.8dk
+  step 10000/10157 | loss=0.0539 | 21.6dk | ETA 0.3dk
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.52it/s]Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.52it/s]
+  BERT kaydedildi: C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\models\bert_pseudolabel_v16 | 21.9 dk
+
+============================================================
+AŞAMA D: Test Inference (3,359,679 çift)...
+============================================================
+
+============================================================
+TAMAMLANDI — v16 Pseudo-Label + Turkish BERT
+  BERT pozitif    : 1,819,977 (54.2%)
+  Ensemble pozitif: 1,771,863 (52.7%)
+  Toplam süre     : 47.8 dk
+  BERT dosya      : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v16_bert_pseudolabel.csv
+  Ensemble dosya  : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v16_ensemble.csv
+============================================================

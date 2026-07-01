@@ -1,0 +1,28 @@
+Metrik,Değer
+--- VERİ BOYUTLARI ---,
+Toplam ürün (items),"962,873"
+Toplam sorgu (terms),"50,153"
+Eğitim çifti (hepsi pozitif),"250,000"
+Test çifti,"3,359,679"
+,
+--- SORGU İSTATİSTİKLERİ ---,
+Ort. sorgu kelime sayısı,2.58
+Medyan sorgu kelime sayısı,2
+Marka içeren sorgu oranı,63.1%
+Tek kelimelik sorgu oranı,10.1%
+,
+--- ÜRÜN İSTATİSTİKLERİ ---,
+Ort. başlık kelime sayısı,8.6
+Benzersiz L1 kategori,15
+Benzersiz marka,"79,790"
+Attributes boş olan ürün,0 (0.0%)
+,
+--- EĞİTİM ÇİFTİ İSTATİSTİKLERİ ---,
+Ort. pozitif/term,13.9
+Maks pozitif/term,1525
+Test setindeki term örtüşmesi,"0.0% term, 21.1% item"
+,
+--- SINYAL ANALİZİ ---,
+Pozitif çiftlerde başlık örtüşme oranı (ort),0.546
+Pozitif çiftlerde tam metin örtüşme recall,97.1%
+Tahmini test pozitif oranı,~13.3%

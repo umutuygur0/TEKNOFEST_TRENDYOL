@@ -1,0 +1,60 @@
+[3] Gerçekçi CV başlıyor (500 sorgu × 100 BM25 aday)...
+   (Test yapısını taklit ediyor: her sorgu için BM25 top-100 aday)
+  Item TF-IDF matrisi oluşturuluyor...
+  Item matrix: (962873, 200000) | 54.0s
+  50/500 | F1 so far: 0.183 | ETA: 691s
+  100/500 | F1 so far: 0.160 | ETA: 607s
+  150/500 | F1 so far: 0.165 | ETA: 529s
+  200/500 | F1 so far: 0.165 | ETA: 454s
+  250/500 | F1 so far: 0.170 | ETA: 381s
+  300/500 | F1 so far: 0.167 | ETA: 305s
+  350/500 | F1 so far: 0.160 | ETA: 228s
+  400/500 | F1 so far: 0.157 | ETA: 151s
+  450/500 | F1 so far: 0.153 | ETA: 75s
+
+============================================================
+CV SONUÇLARI (500 sorgu | Model: bge-reranker-v2-m3 zero-shot)
+============================================================
+  Precision (class 1): 0.136
+  Recall    (class 1): 0.144
+  F1        (class 1): 0.140
+  F1        (class 0): 0.865
+  MACRO F1  : 0.502
+
+  BM25 aday coverage: 36.5% (true pos in top-100)
+  Sorgu başı ort F1 : 0.157
+
+  F1 Dağılımı:
+    [0.0-0.1): 207 █████████████████████████████████████████
+    [0.1-0.3): 208 █████████████████████████████████████████
+    [0.3-0.5):  65 █████████████
+    [0.5-0.7):  17 ███
+    [0.7-0.9):   3 
+    [0.9-1.0):   0 
+
+  En iyi 5 sorgu:
+    F1=0.90  'kestane şekeri'  tp=13/15
+    F1=0.78  'ankara makarna'  tp=9/9
+    F1=0.73  'rich elbise'  tp=8/8
+    F1=0.70  'kardeş kombini'  tp=8/9
+    F1=0.69  'mika tabak'  tp=10/15
+
+  En kötü 5 sorgu (F1=0):
+    F1=0.00  'büyük çanta'  tp_in_cands=2/39
+    F1=0.00  'kadın gümüş yüzük'  tp_in_cands=6/75
+    F1=0.00  'kaplama kağıdı'  tp_in_cands=1/15
+    F1=0.00  'malt içecek'  tp_in_cands=0/1
+    F1=0.00  'uzanma koltuğu'  tp_in_cands=2/2
+
+  v9 karşılaştırma: v9=0.49 | bge_zero_shot=0.502
+  İyileştirme: +0.012
+
+============================================================
+  ✗ CV=0.502 < 0.56 → Test inference ATLANDI
+  Beklenti tutmadı. Sonraki adım: S3 dense hard negative mining
+============================================================
+
+  Sebep analizi:
+  - BM25 coverage sıfır olan sorgu: 81/500
+  - Model bu sorguların hiçbirinde pozitif bulamaz
+  → Çözüm: Dense retrieval (E5) → S3'e geç

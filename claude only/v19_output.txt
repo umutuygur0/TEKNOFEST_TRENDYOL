@@ -1,0 +1,43 @@
+============================================================
+[1] Veri yükleniyor...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test çifti | 41.8s
+
+[2] Negatifler üretiliyor...
+  Train: 600,000 çift | pos=250,000 neg=350,000
+
+[3] BERT inference (train + test)...
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|##########| 201/201 [00:00<00:00, 6402.25it/s]
+  Device: cuda
+  Test BERT yüklendi: 3,359,679
+  BERT inference: 3.0 dk
+
+[4] Özellikler hesaplanıyor...
+  Train features: (600000, 25) | 114.0s
+
+[5] LightGBM 5-fold...
+  Fold 1 | best_iter=244 | val F1=0.9691
+  Fold 2 | best_iter=207 | val F1=0.9667
+  Fold 3 | best_iter=216 | val F1=0.9680
+  Fold 4 | best_iter=250 | val F1=0.9694
+  Fold 5 | best_iter=208 | val F1=0.9693
+
+  OOF F1=0.96878 | threshold=0.55
+
+  Feature Önemleri (top 15):
+    bert_score               :   4625
+    fuzz_partial             :   2936
+    fuzz_basic               :   2329
+    fuzz_set                 :   2165
+    q_len                    :   1992
+    attr_match               :   1768
+    stem_cat_jac             :   1681
+    fuzz_sort                :   1550
+    t_len                    :   1496
+    cat_overlap              :   1131
+    ana_kategori             :    909
+    tfidf_cos                :    753
+    gender_cross             :    725
+    first_tok_brand          :    704
+    stem_jaccard             :    611
+
+[6] Test inference...
