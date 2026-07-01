@@ -1,0 +1,27 @@
+[17:18:46] Loading train, terms and item catalog
+[17:18:55] Building leak-free negatives from training terms and item catalog
+[17:18:58] Generated 500,000 negatives; source mix: {'same_main_category': 244806, 'different_main_category': 200920, 'gender_conflict': 40096, 'age_conflict': 14178}
+[17:19:01] Training rows: 750,000; label mix: {0: 500000, 1: 250000}
+[17:19:01] Fitting text vectorizers on leak-free training rows
+[17:19:51] Word vocab: 180,000; char vocab: 70,000
+[17:21:42] Training LightGBM with GroupKFold
+[17:21:51] Fold 1: best_iter=485, macro_f1@0.50=0.96114
+[17:22:05] Fold 2: best_iter=725, macro_f1@0.50=0.96952
+[17:22:17] Fold 3: best_iter=622, macro_f1@0.50=0.97009
+[17:22:27] Fold 4: best_iter=419, macro_f1@0.50=0.97142
+[17:22:36] Fold 5: best_iter=429, macro_f1@0.50=0.97153
+[17:22:48] Best OOF threshold=0.575; macro_f1=0.96942
+[17:22:48] Writing submission in chunks
+[17:23:42] Chunk 1: rows=300,000, positives=114,149 (0.3805)
+[17:24:37] Chunk 2: rows=600,000, positives=228,232 (0.3804)
+[17:25:31] Chunk 3: rows=900,000, positives=342,531 (0.3806)
+[17:26:28] Chunk 4: rows=1,200,000, positives=456,873 (0.3807)
+[17:27:25] Chunk 5: rows=1,500,000, positives=571,377 (0.3809)
+[17:28:24] Chunk 6: rows=1,800,000, positives=685,345 (0.3807)
+[17:29:21] Chunk 7: rows=2,100,000, positives=799,427 (0.3807)
+[17:30:16] Chunk 8: rows=2,400,000, positives=913,593 (0.3807)
+[17:31:11] Chunk 9: rows=2,700,000, positives=1,027,886 (0.3807)
+[17:32:10] Chunk 10: rows=3,000,000, positives=1,142,125 (0.3807)
+[17:33:08] Chunk 11: rows=3,300,000, positives=1,256,739 (0.3808)
+[17:33:20] Chunk 12: rows=3,359,679, positives=1,279,637 (0.3809)
+[17:33:20] Done. Submission: 0.68submission\submission_leak_free_lgbm.csv; metrics: 0.68submission\leak_free_lgbm_metrics.json

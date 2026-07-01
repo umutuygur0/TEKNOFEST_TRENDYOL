@@ -43,3 +43,8 @@ checkpoints/
 *.zip
 *.log
 *.err
+
+# Keep this submitted result package complete in git.
+!0.68submission+0.71leakfree/
+!0.68submission+0.71leakfree/**/
+!0.68submission+0.71leakfree/**
