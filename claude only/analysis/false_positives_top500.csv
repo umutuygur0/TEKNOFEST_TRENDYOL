@@ -1,0 +1,501 @@
+query,title,brand,main_category,oof_proba,bert_score,fuzz_set,head_in_title,product_type_cover
+ayaklı sunumluk kase,puantiye desenli küçük cam kase,flying tiger copenhagen,ev & mobilya,0.89891326,0.030151367,0.43137254901960786,1.0,0.3333333333333333
+süet topuklu,antrasit kadın deri stiletto,george hogg,ayakkabı,0.8801102,0.057281494,0.25,0.0,0.0
+mikrodalga dolabı,çamaşır makinesi dolabı kurutma makinesi dolabı metal banyo dolabı mısra beyaz,bofigo,ev & mobilya,0.9599727,0.9863281,0.5217391304347826,1.0,0.5
+bebek oto koltuğu,maxspace isofix grey melange,avionaut,anne & bebek & çocuk,0.97748685,0.00022697449,0.1777777777777777,0.0,0.0
+obsidyen,sertifikalı gerçek karlı obsidyen taşı ağaç - akik plakalı,tesbih atölyesi,ev & mobilya,0.9934408,0.99658203,1.0,1.0,1.0
+erkek çocuk kazak,bisiklet yaka uzun kollu yılbaşı temalı aile kombini triko kazak,kurgan tekstil,giyim,0.9951636,0.99609375,0.45454545454545453,1.0,1.0
+lc waikiki çocuk pantolon,diz altı kapri 2-10 yaş yeşil,lc waikiki,giyim,0.97384995,0.9946289,0.29629629629629634,0.0,0.0
+paten ayakkabı,patenli işikli spor ayakkabisi & tekerlekli sneakers,rocky,spor & outdoor,0.99129456,0.99658203,0.3939393939393939,0.4,1.0
+paten ayakkabı,çocuk patenli işıklı tekerlekli spor ayakkabı & rahat siyah kaykay ayakkabı 4 teker,rocky sport,spor & outdoor,0.8637456,0.09503174,0.7272727272727272,1.0,1.0
+kesme tahtası,plastik ölçek kap 5 litre,probitki genel,ev & mobilya,0.84117186,0.99121094,0.26315789473684204,0.0,0.0
+kesme tahtası,vakumlu tencere kapağı ve kesme tahtası tutucu - vakumlu yapışkanlı duvar & dolap içi raf,btm home,ev & mobilya,0.96264315,0.9614258,1.0,1.0,1.0
+büyük beden sweatshirt,büyük beden bisiklet yaka taş detaylı uzun kollu bluz 302622,stil diva,giyim,0.9303254,0.94628906,0.6666666666666665,0.0,0.6666666666666666
+büyük beden sweatshirt,3'lü avantaj set unisex büyük beden sıfır yaka sweatshirt,eyax moda,giyim,0.9931247,0.99365234,1.0,1.0,1.0
+beyaz düz taban spor ayakkabı,air jordan 1 mid se erkek basketbol ayakkabısı fq7831-142 (1 beden büyük almanızı öneriyoruz),nike,ayakkabı,0.9721244,0.69140625,0.3114754098360656,0.4,0.25
+beyaz düz taban spor ayakkabı,skye clean beyaz günlük ayakkabı 38014702,puma,ayakkabı,0.89945906,0.9609375,0.6511627906976745,1.0,0.25
+crop bomber ceket,vintage unisex haki oversize balon kol ceket,ilkcet moda,giyim,0.89184374,0.0637207,0.45454545454545453,1.0,0.3333333333333333
+kız bebek babet ayakkabı,simli kız bebek babet,first step,ayakkabı,0.998468,0.9560547,0.8333333333333333,0.0,0.5
+kız bebek babet ayakkabı,yeşil kadife kız bebek lastikli ilk adım babet-f-543,first step,ayakkabı,0.9952537,0.9741211,0.5454545454545454,0.0,0.5
+kız bebek babet ayakkabı,dantelli çocuk keten babet ayakkabı-pembe-f-4001,first step,ayakkabı,0.96017784,0.8491211,0.5555555555555556,0.4,1.0
+mutfak dekorasyon,at mdf tablo 2378 (model c),duvar dekorum,ev & mobilya,0.92510426,0.037902832,0.3181818181818181,0.0,0.0
+mutfak dekorasyon,duvara monte edilen 6 kancalı mutfak fincan kupa bardak kaşık kepçe askısı siyah 50cm,pulca shop,ev & mobilya,0.91831607,0.95410156,0.5217391304347826,0.0,0.5
+strafor,strafor maket pasta 25x10,oyd strafor ambalaj,hobi & eğlence,0.86864394,0.21325684,1.0,1.0,1.0
+strafor,strafor köpük maket pasta 25 x 20 cm,yeditepe osmanlı,hobi & eğlence,0.98121834,0.9873047,1.0,1.0,1.0
+strafor,strafor yuvarlak pasta tabani altliği - 15 x 3 cm,yeditepe osmanlı,banyo yapı & hırdavat,0.99682635,0.9970703,1.0,1.0,1.0
+tesettür sandy takım,şanel slopet ikili takım alt dokuma kumaş üst burgu likralı kol fırfırlı badi takım,erzani kids,giyim,0.8099344,0.9873047,0.4,1.0,0.3333333333333333
+napapijri,yeşil erkek çocuk kapüşonlu uzun kollu ceket np0a4gx9fm31 k rainforest aop 2,napapijri,giyim,0.9439923,0.9506836,0.16470588235294115,0.0,0.0
+napapijri,a-giovi,napapijri,giyim,0.9944642,0.9970703,0.375,0.0,0.0
+napapijri,b-smallwood c,napapijri,giyim,0.99466586,0.9970703,0.09090909090909094,0.0,0.0
+napapijri,yeşil erkek çocuk mont np0a4hhkg1m1 k rainforest wi 2,napapijri,giyim,0.974828,0.98828125,0.19354838709677424,0.0,0.0
+napapijri,p0a4i9t0411-r napapijri b-kander h erkek sweatshirt lacivert,napapijri,giyim,0.98317796,0.99365234,1.0,1.0,1.0
+napapijri,b-boyd h,napapijri,giyim,0.9907095,0.9951172,0.0,0.0,0.0
+napapijri,b-premium hz,napapijri,giyim,0.9921113,0.9970703,0.2857142857142857,0.0,0.0
+napapijri,patchwork sweater,napapijri,giyim,0.9495723,0.9301758,0.2307692307692308,0.0,0.0
+uno oyunu,ub12g2 12 inç deri uno g2 tom kumlu beyaz çift kat 14 mil,uno,hobi & eğlence,0.8943029,0.98583984,0.5,0.0,0.0
+yuvarlak ayna,yuvarlak raflı 58cm koridor dresuar konsol duvar salon banyo ofis çocuk yatak oda raflı ayna,tarzdesign,ev & mobilya,0.99852437,0.99658203,1.0,1.0,1.0
+yuvarlak ayna,dresuar takımı aynalı ledli **bronz kaplamali çekmeceli** ayaksız modern dresuar lüx,ayna,ev & mobilya,0.85825944,0.95458984,0.24719101123595508,0.0,0.0
+yuvarlak ayna,yuvarlak ayna 45 cm siyah dresuar hol koridor duvar salon banyo wc ofis ayna 5702,suel house,ev & mobilya,0.9995475,0.99658203,1.0,1.0,1.0
+pierre cardin eşarp,kadın  ipek saten eşarp kadın 90*90 ebat 7955230-392,pierre cardin,aksesuar,0.99303466,0.99365234,0.41666666666666663,1.0,1.0
+green clean,bitkisel likit sabun portakal yağlı 500 ml ve çamaşır suyu 5 lt,green clean,kozmetik & kişisel bakım,0.8638977,0.13708496,0.13513513513513517,0.0,0.0
+green clean,baby çamaşır deterjanı ve çamaşır yumuşatıcı 2' li set 5 l,green clean,süpermarket,0.9516383,0.9902344,0.1967213114754098,0.0,0.0
+green clean,organik portakal yağlı likit sabun 5000 ml,green clean,kozmetik & kişisel bakım,0.80472755,0.19226074,0.2264150943396227,0.0,0.0
+green clean,u baby çamaşır yumuşatıcı 1 l x 2 adet,green clean,süpermarket,0.9850725,0.99658203,0.16326530612244894,0.0,0.0
+green clean,organik portakal yağlı bitkisel likit el sabunu 500 ml 2'li,green clean,kozmetik & kişisel bakım,0.7976137,0.058441162,0.2,0.0,0.0
+green clean,organik portakal yağlı çok amaçlı yağ çözücü 500 ml,green clean,süpermarket,0.8659565,0.85595703,0.16129032258064513,0.0,0.0
+green clean,baby bitkisel emzik biberon temizleyici 500 ml,green clean,süpermarket,0.9002991,0.96240234,0.1754385964912281,0.0,0.0
+green clean,hassas ve alerjik ciltlere özel parfümsüz & boyasız likit sabun sensitive 500 ml  2'li set,green clean,kozmetik & kişisel bakım,0.9030541,0.7841797,0.16,0.0,0.0
+green clean,"organik lavanta yağlı baby bitkisel sıvı çamaşır deterjanı 2,75l 2'li",green clean,süpermarket,0.9204632,0.9711914,0.175,0.0,0.0
+green clean,baby bitkisel çamaşır yumuşatıcı lavanta yağlı 5 lt,green clean,süpermarket,0.97430146,0.9902344,0.16129032258064513,0.0,0.0
+green clean,7 al 6 öde baby yumuşatıcı 1000 ml ve rosie hediye,green clean,süpermarket,0.97000736,0.99365234,0.1967213114754098,0.0,0.0
+green clean,"organik lavanta yağlı baby bitkisel sıvı çamaşır deterjanı 2,75l",green clean,süpermarket,0.93494606,0.9423828,0.1866666666666667,0.0,0.0
+green clean,u baby çamaşır yumuşatıcı 1 l x 3,green clean,süpermarket,0.99168754,0.99609375,0.18181818181818188,0.0,0.0
+green clean,3 adet green clean bitkisel sıvı çamaşır deterjanı 1000 ml,green clean,süpermarket,0.96471995,0.97216797,1.0,1.0,1.0
+green clean,organik portakal yağlı baby biberon emzik temizleyici 500 ml - 3'lü set,green clean,süpermarket,0.96402776,0.98876953,0.19512195121951223,0.0,0.0
+green clean,baby bitkisel çamaşır deterjanı lavanta yağlı 5 lt,green clean,süpermarket,0.9613351,0.9921875,0.1967213114754098,0.0,0.0
+green clean,u green clean baby çamaşır deterjanı 1 l,green clean,süpermarket,0.99346465,0.9941406,1.0,1.0,1.0
+green clean,organik portakal yağlı tuvalet temizleyici 750 ml 2'li set,green clean,süpermarket,0.92797315,0.9770508,0.20289855072463767,0.0,0.0
+green clean,organik lavanta yağlı baby çamaşır yumuşatıcısı 1000 ml 2'li set,green clean,süpermarket,0.93421733,0.9819336,0.16,0.0,0.0
+green clean,baby çamaşır yumuşatıcısı 2750 ml yıkama,green clean,süpermarket,0.98009807,0.9951172,0.1568627450980392,0.0,0.0
+green clean,u baby bitkisel biberon emzik temizleyici 500 ml ve köpük sabun portakal 450 ml,green clean,süpermarket,0.86181426,0.77978516,0.16091954022988503,0.0,0.0
+green clean,baby organik şampuan 275ml,green clean,süpermarket,0.98738855,0.99560547,0.27027027027027034,0.0,0.0
+green clean,"çok amaçlı yüzey temizleyici 2,75 lt tek ebat no color",green clean,süpermarket,0.9862161,0.99560547,0.24615384615384614,0.0,0.0
+green clean,bitkisel meyve sebze temizleyici 1000 ml,green clean,süpermarket,0.97744685,0.9951172,0.19607843137254904,0.0,0.0
+bijuteri küpe,925 ayar gümüş gold kaplama taşsız u şeklinde küpe,nereze,aksesuar,0.9689001,0.9951172,0.4705882352941177,1.0,0.5
+bijuteri küpe,taşlı ve incili sallantılı uzun düğün abiye şık küpe,aksesuar,aksesuar,0.9919678,0.99560547,0.4705882352941177,1.0,0.5
+bijuteri küpe,14 ayar altın düz tekli halka küpe gizli kilitli 1.3 cm,altınkesesi,aksesuar,0.9872578,0.9926758,0.4705882352941177,1.0,0.5
+bijuteri küpe,çelik çanta görünümlü küpe,butik,aksesuar,0.9739128,0.9951172,0.4705882352941177,1.0,0.5
+bijuteri küpe,gold flower papatya küpe,aurrari,aksesuar,0.8154306,0.94970703,0.4705882352941177,1.0,0.5
+bijuteri küpe,"çelik kadın küpe, halka, gold renk, no:54",foursolos,aksesuar,0.9752478,0.99072266,0.1851851851851852,0.0,0.0
+bijuteri küpe,moments charm halka küpe,pandora,aksesuar,0.9538233,0.99560547,0.4705882352941177,1.0,0.5
+bijuteri küpe,lila taşlı kare küpe,pelin aksesuar,aksesuar,0.9937652,0.99560547,0.4705882352941177,1.0,0.5
+bijuteri küpe,925 ayar gümüş minik beyaz incili tektaş küpe,nereze,aksesuar,0.94503534,0.9941406,0.4705882352941177,1.0,0.5
+bijuteri küpe,925 ayar gümüş yaprak figürlü zincirli kıkırdak küpe - k033901,argentum concept,aksesuar,0.94500595,0.99316406,0.4705882352941177,1.0,0.5
+bijuteri küpe,papatya kare epoksi küpe,elektrik doktoru,aksesuar,0.9230116,0.92089844,0.4705882352941177,1.0,0.5
+bijuteri küpe,"incili fiyonk küpe 3,50 cm",monalisatoka,aksesuar,0.9178554,0.9941406,0.4705882352941177,1.0,0.5
+bijuteri küpe,halkalı küpe,home,aksesuar,0.99405086,0.9941406,0.5,1.0,0.5
+bijuteri küpe,3 adet yonca zirkon taşlı küpe,elektrik doktoru,aksesuar,0.9277422,0.9838867,0.4705882352941177,1.0,0.5
+bijuteri küpe,yıldızlı halka küpe çap 1.1 cm,tufanlar kuyumculuk,aksesuar,0.93456775,0.9941406,0.4705882352941177,1.0,0.5
+bijuteri küpe,kadın küpe 3birleşik kesik küçük halka küpe kararmaz,demokan,aksesuar,0.86487556,0.95458984,0.4705882352941177,1.0,0.5
+bijuteri küpe,çiçek desenli emaye yuvarlak küpe,nilsu jewellery accessory,aksesuar,0.99017704,0.99560547,0.4705882352941177,1.0,0.5
+bijuteri küpe,925 ayar gümüş zirkon taşlı yuvarlak küpe,elika silver,aksesuar,0.93676466,0.9946289,0.4705882352941177,1.0,0.5
+bijuteri küpe,kadın kristal taşlı gümüş  küpe,monalisatoka,aksesuar,0.96169,0.99609375,0.4705882352941177,1.0,0.5
+bijuteri küpe,"prinç meteryal deniz kabuğu tasarım inci detay sevgiliye,anneye,arkadaşa hediye küpe",vogutima,aksesuar,0.8840748,0.18286133,0.4705882352941177,1.0,0.5
+bijuteri küpe,taşlı halka tragus piercing helix kıkırdak küpesi mini küpe,sacce scarves&accessories,aksesuar,0.91389334,0.99072266,0.4705882352941177,1.0,0.5
+bijuteri küpe,altın rengi çelik halka küpe mini boy,sacce scarves&accessories,aksesuar,0.9924734,0.99658203,0.4705882352941177,1.0,0.5
+bijuteri küpe,gold renk zirkon taşlı kadın küpe,hana moda,aksesuar,0.9817166,0.99658203,0.4705882352941177,1.0,0.5
+koltuk şalı,otantik hakiki koyun postu bej siyah leopar çizgi baskılı asimetrik yumuşak tüylü koltuk yer dekoru,butik tülin,ev & mobilya,0.9684127,0.9863281,0.7058823529411765,0.0,0.5
+kokusuz küllük,kokusuz küllük çakmaklık bölmeli kül tablası (3lü 3 adet farkli renk) kaliteli plastik,kemboss,ev & mobilya,0.9987486,0.9980469,1.0,1.0,1.0
+kokusuz küllük,susam sokağı elmo seramik küllük,kumbara hediyelik,otomobil & motosiklet,0.9240528,0.9897461,0.6,1.0,0.5
+kadife kırlent kılıfı,home 4lü kombin 3d baskılı dekoratif kırlent kılıfı,sakallı,ev & mobilya,0.82807577,0.00067710876,0.8,1.0,0.6666666666666666
+çocuk montu,kapüşonlu oversize şişme mont,eybetsa,giyim,0.80020314,0.8876953,0.3,0.8,1.0
+çocuk montu,spor kız spor çocuk içi polarlı kapüşonlu girls yazılı kelebek desenli   mont & kaban & parka,freemen,giyim,0.983296,0.9863281,0.625,0.8,1.0
+çocuk montu,içi kürklü ve kürk detaylı deri mont,eskişehir yumurcak,giyim,0.93394655,0.32910156,0.21276595744680848,0.8,1.0
+çocuk montu,erkek çocuk lacivert kapüşonlu içi kürklü elyaflı su ve rüzgar geçirmez kışlık mont&kaban&parka,qawwa,giyim,0.97385395,0.99316406,0.625,0.0,0.0
+çocuk montu,rüzgar geçirmez kapüşonlu şişme kahverengi kız bebek mont c5312a5/bn564,defacto,giyim,0.8500795,0.94873047,0.1463414634146342,0.8,1.0
+benzinli motosiklet,turtle 50 torpido ön panel sol dekoratif turuncu,falcon,otomobil & motosiklet,0.9696206,0.9946289,0.3582089552238806,0.0,0.0
+benzinli motosiklet,turtle 50 gidon grenajı siyah,falcon,otomobil & motosiklet,0.9635026,0.98876953,0.29166666666666674,0.0,0.0
+tecno akıllı saat,spark 30c 4/128 gb büyülü yeşil,tecno,elektronik,0.91469914,0.99560547,0.25,0.0,0.0
+duvar askı,çiftli ayarlı boyalı stant askılık,acar raf,ev & mobilya,0.92513776,0.99121094,0.3181818181818181,0.0,0.0
+erkek cüzdan kemer,isme özel otomatik hakiki deri deliksiz erkek kemer,hky,aksesuar,0.990498,0.99658203,0.7586206896551724,1.0,0.5
+ferrucci kadın saat,s8plus ultra long standby smart watch akıllı kol saati fc-smart-s8 plus.104,ferrucci,elektronik,0.9771563,0.984375,0.2340425531914893,0.8,1.0
+ferrucci kadın saat,"gümüş renk, çelik kordon sevgili çift kol saatleri+bileklik",ferrucci,aksesuar,0.93228966,0.9638672,0.2307692307692308,0.0,0.0
+ferrucci kadın saat,s8plus ultra long standby smart watch akıllı kol saati fc-smart-s8 plus.14,ferrucci,elektronik,0.97424436,0.9814453,0.23655913978494625,0.8,1.0
+nilem,sihirli muhteşem sıvı sprey 1 lt + 4 yedek 1 lt,nilem,süpermarket,0.9804903,0.9951172,0.12765957446808515,0.0,0.0
+puf koltuk,icon berjer ve puf bukle 30,eriza home,ev & mobilya,0.99938035,0.9980469,0.4615384615384615,0.0,0.5
+nobbystar,yuvarlak led işıklı sihirli ayna dekoratif fotoğraf çerçevesi,nobbystar,ev & mobilya,0.8810722,0.81396484,0.1428571428571429,0.0,0.0
+nobbystar,kalemlikli kalpli sihirli ayna,nobbystar,ev & mobilya,0.8817245,0.8129883,0.15384615384615385,0.0,0.0
+nobbystar,sök tak kare çerçeve beyaz (3 adet) fotoğrafsız,nobbystar,ev & mobilya,0.9386111,0.9423828,0.2142857142857143,0.0,0.0
+nobbystar,96 fotoğraf kapasiteli instax polakart siyah fotoğraf albümü,nobbystar,kırtasiye & ofis malzemeleri,0.97742563,0.99560547,0.1666666666666667,0.0,0.0
+nobbystar,dönen hareketli abajur mavi boncuklu fotoğraf takılabilen gece lambası abajur,nobbystar,ev & mobilya,0.88318205,0.81103516,0.15189873417721514,0.0,0.0
+nobbystar,100'lük 15x21cm. eyfel kulesi desenli fotoğraf albümü,nobbystar,kırtasiye & ofis malzemeleri,0.8777756,0.6220703,0.12903225806451615,0.0,0.0
+nobbystar,beyaz kalemli siyah kendin tasarla anı defteri ve fotoğraf albümü,nobbystar,kırtasiye & ofis malzemeleri,0.9138032,0.75097656,0.1891891891891892,0.0,0.0
+nobbystar,kadın sweatshirt boxy fit bol beyaz şardonlu,nobbystar,giyim,0.96211,0.95751953,0.2641509433962264,0.0,0.0
+nobbystar,200 'lük 10x15cm. mavi pencereli deri fotoğraf albümü,nobbystar,kırtasiye & ofis malzemeleri,0.84207535,0.37109375,0.12903225806451615,0.0,0.0
+nobbystar,200'lük 10x15 kutulu ayı figürlü mavi fotoğraf albümü,nobbystar,kırtasiye & ofis malzemeleri,0.9328338,0.90625,0.12903225806451615,0.0,0.0
+nobbystar,kadın sweatshirt boxy fit bol beyaz şardonlu,nobbystar,giyim,0.96211,0.95751953,0.2641509433962264,0.0,0.0
+kadın şişme yelek,yeni sezon büyük beden örme kisa yelek,elma abone,giyim,0.80642754,0.87841797,0.4727272727272727,1.0,0.5
+kadın şişme yelek,kadin şişme yelek,aksis,giyim,0.9991607,0.9951172,0.9411764705882354,1.0,1.0
+plastik kase,5x6 cm küçükkkkkkkkkkkk boyuna dikkat edin prizma mika plastik sunum kabı kübik kase 120 cc **25**,sofora,hobi & eğlence,0.9847919,0.9873047,1.0,1.0,1.0
+banyo duvar rafı,banyo düzenleyici şampuanlık 2li set duş jeli organizer yapışkanlı paslanmaz metal raf siyah,bino,ev & mobilya,0.9818169,0.99121094,0.4761904761904762,0.8,0.6666666666666666
+banyo duvar rafı,"banyor köşe yapışkanlı banyo rafı, köşe banyo düzenleyici, duş rafı organizer şampuanlık, plastik",ata home,ev & mobilya,0.9842598,0.9770508,0.7692307692307692,1.0,0.6666666666666666
+banyo duvar rafı,10 adet süper güçlü çerçeve askısı lekesiz duvar yapıskanı mutfak banyo rafı tutucu aksesuarı,ege home store,banyo yapı & hırdavat,0.83532137,0.03918457,1.0,1.0,1.0
+banyo duvar rafı,"siyah metal duvara monte duvar rafı, uçan duvar rafı ve kitaplık rafı (2 adet) mt118s",risingmaber,ev & mobilya,0.81663895,0.05014038,0.7692307692307692,1.0,0.6666666666666666
+şarjlı ilaçlama makinesi,pa05 ilaçlama makinesi pilli,palmera,bahçe & elektrikli el aletleri,0.99624604,0.99560547,0.8292682926829268,1.0,0.6666666666666666
+macbook çanta,"laptop evrak çantası a4 12.5 inç su geçirmez, darbe korumalı, vegan deri sonbahar şal desen taba",worken,aksesuar,0.94251347,0.9663086,0.1834862385321101,0.0,0.0
+iş ayakkabıları,iş ayakkabisi,mekap,ayakkabı,0.81629956,0.78125,0.7142857142857143,0.4,1.0
+kaymaz koltuk örtüsü,kadife 3 kişilik koltuk örtüsü leke tutmaz esnek solma yapmaz parlak kadife koltuk kılıfı,madame bella,ev & mobilya,0.9942336,0.9926758,0.7878787878787878,1.0,0.6666666666666666
+kaz tüyü mont,walker mill heat seal erkek siyah kaztüyü mont xo1434-010,columbia,giyim,0.9982451,0.99609375,0.4705882352941177,1.0,0.3333333333333333
+kaz tüyü mont,kaz tüyü dolgulu uzun mont krem,kayra,giyim,0.9996159,0.9975586,1.0,1.0,1.0
+skechers outdoor ayakkabı,flex advantage 4.0 coated unisex gri spor ayakkabı,skechers,ayakkabı,0.8449766,0.98535156,0.48484848484848486,1.0,0.5
+karaca kupa bardak,talya mug 400 ml,karaca,ev & mobilya,0.9961349,0.9970703,0.23529411764705885,0.0,0.0
+yatak örtüsü set,tek kişilik desenli kapitone çift taraflı renkli pike yatak örtüsü takımı 160x230 cm (çarşafsız),formeya,ev & mobilya,0.9978677,0.9970703,0.8571428571428571,0.0,0.6666666666666666
+yatak örtüsü set,perla baskılı kapitoneli çift kişilik yatak örtüsü,çeyiz diyarı,ev & mobilya,0.9962093,0.99609375,0.8571428571428571,0.0,0.6666666666666666
+versace jeans couture,normal bel normal paça slim fit siyah erkek denim pantolon 75gab5d0cdw81909,versace jeans couture,giyim,0.9600083,0.94873047,0.22471910112359553,0.0,0.0
+versace jeans couture,couture slim fit normal bel normal paça indigo erkek denim pantolon 75gab5s0dw022l5b904,versace jeans couture,giyim,0.97899383,0.96728516,0.5,1.0,0.3333333333333333
+versace jeans couture,erkek kapüşonlu sweatshirt74gaif01cf01f,versace jeans couture,giyim,0.8312796,0.9423828,0.33333333333333326,0.0,0.0
+versace jeans couture,barocco outline - print t-shirt (vei22o0cz-q12),versace jeans couture,giyim,0.92498523,0.9716797,0.2647058823529412,0.0,0.0
+ahşap sehpa,- gusto siyah sehpa 2li set / füme aynalı,neostill,ev & mobilya,0.99796975,0.99658203,0.625,1.0,1.0
+saat kordonu,huawei watch gt gt2 gt3 gt4 gt5 pro 46mm-redmi watch 5 active 22mm nato kumaş saat kordonu kayışı,trendburada,elektronik,0.99457675,0.96728516,1.0,1.0,1.0
+saat kordonu,huawei watch gt2 42mm uyumlu spor kumaş desenli cırt cırtlı kordon kayış,kreton,elektronik,0.9966334,0.9951172,0.2619047619047619,0.8,0.5
+saat kordonu,huawei watch gt gt2 gt3 gt4 pro 46mm samsung gear s3 22mm silikon saat kordonu 22s26b,cobra,elektronik,0.99835104,0.99316406,1.0,1.0,1.0
+saat kordonu,retro minimal metal kordon vintage kadın kol saati minik model,rubsey,aksesuar,0.97528595,0.99365234,0.29729729729729726,0.8,1.0
+saat kordonu,huawei watch gt gt2 gt3 42mm kasa model uyumlu 20mm silikon saat kordonu kayışı 20s26b,cobra,elektronik,0.99153626,0.96435547,1.0,1.0,1.0
+saat kordonu,kadın hasır kordon kol saati,q&q,aksesuar,0.8059953,0.89160156,0.55,0.8,1.0
+saat kordonu,xiaomi redmi watch 5 active - xiaomi redmi watch 5 lite uyumlu 22mm silikon saat kordonu a7222mm,cobra,elektronik,0.9974432,0.99316406,1.0,1.0,1.0
+saat kordonu,marka model oval çelik gold kasa su yeşili kordon kadın kol saati bb0057,ricardo,aksesuar,0.98215437,0.99072266,0.2619047619047619,0.8,1.0
+saat kordonu,xiaomi mi watch s1-s2 yuvarlak kasa uyumlu 22mm silikon saat kordonu kayışı 22s26b,cobra,elektronik,0.996313,0.98583984,1.0,1.0,1.0
+saat kordonu,movetime mt42x mt43 mt46 family-slazenger uyumlu akıllı çocuk saati kordonu,trendburada,elektronik,0.9878424,0.9814453,0.736842105263158,1.0,1.0
+tuval boyama seti,sayılarla boyama 40x50 cm tuval seti fırça boya dahil çıtaya gerili - yakamoz,palmiye hobi sanat kırtasiye,kırtasiye & ofis malzemeleri,0.99551475,0.9951172,1.0,1.0,1.0
+tuval boyama seti,"yağlı boya resim seti - tuval resim başlangıç seti, tüval ressam seti",o&s oyun ve sanat eğlen-üret,kırtasiye & ofis malzemeleri,0.98186904,0.9951172,0.7407407407407408,1.0,0.6666666666666666
+tuval boyama seti,sayılarla boyama seti çerçeveli kasnaklı kovalamaca  40 x 50 cm,kendinyaphobi,kırtasiye & ofis malzemeleri,0.8205106,0.03942871,0.7857142857142857,1.0,0.6666666666666666
+tuval boyama seti,30x20cmtüm boyama türlerine uygun boyanabilir tuval mandala tablo çocuklar için eğitici tuval boyama,pastelya,kırtasiye & ofis malzemeleri,0.9950972,0.9916992,0.8275862068965517,0.0,0.6666666666666666
+tuval boyama seti,penceredeki gelincikler sayılarla boyama seti 50x65 cm çerçeveli (kasnağa ) gerili,wombhobby,kırtasiye & ofis malzemeleri,0.8374458,0.22692871,0.7857142857142857,1.0,0.6666666666666666
+baglovis,lacivert kadın baget el çantası,ymzbag,aksesuar,0.94610643,0.99316406,0.3076923076923077,0.0,0.0
+jbl kablolu kulaklık,"wave beam2, kablosuz kulakiçi kulaklık, ie, beyaz",jbl,elektronik,0.99200815,0.99072266,0.49275362318840576,0.4,1.0
+jbl kablolu kulaklık,wave beam tws kulakiçi kulaklik,jbl,elektronik,0.9327304,0.9448242,0.4705882352941177,0.8,0.5
+armatür,mutfak tezgah aydınlatması-raf aydınlatması armatür 90cm led anahtarlı set- gün işığı,cata,ev & mobilya,0.98196113,0.9902344,1.0,1.0,1.0
+armatür,7 w çim kazık bahçe aydınlatma armatürü - gün işığı (3000k) - siyah - ip65 - ct-7300g,cata,bahçe & elektrikli el aletleri,0.960169,0.9316406,0.16279069767441853,0.8,1.0
+armatür,- tavan lambası glop armatür. 4lü avantaj paket. wc tuvalet banyo balkon merdiven teras,korçam,bahçe & elektrikli el aletleri,0.98506635,0.9916992,0.14893617021276598,0.4,1.0
+armatür,roma bahçe armatürü (40 cm)(e27),cata,bahçe & elektrikli el aletleri,0.9948848,0.99560547,0.358974358974359,0.8,1.0
+armatür,kayı rad q100 yuvarlak kanal tipi radyal aspiratör ve havalandırma fanı 290m³/h,kayites,banyo yapı & hırdavat,0.83264834,0.98583984,0.1395348837209302,0.0,0.0
+armatür,tf std 1.10 kapı üstü sundurma 100 x 100 bronz,transpaforza,banyo yapı & hırdavat,0.85546005,0.9946289,0.2448979591836735,0.0,0.0
+niloya,tek kişilik nevresim takımı,niloya,ev & mobilya,0.9775327,0.9946289,0.18181818181818188,0.0,0.0
+boboli,kız bebek külotlu çorap,boboli,giyim,0.9901345,0.9975586,0.2758620689655173,0.0,0.0
+boboli,erkek bebek çizgili hırka,boboli,giyim,0.98649275,0.99658203,0.2580645161290323,0.0,0.0
+boboli,kız çocuk çiçek desenli mont,boboli,giyim,0.9931491,0.9970703,0.11764705882352942,0.0,0.0
+kadın büyük beden kazak,kadın siyah oversize polo yaka çizgili uzun kollu triko kazak,devinka,giyim,0.91133213,0.98876953,0.6470588235294117,1.0,0.3333333333333333
+kadın büyük beden kazak,kadın taş oversize salaş v yaka triko kazak,devinka,giyim,0.99887156,0.9736328,0.6470588235294117,1.0,0.3333333333333333
+simli eşarp,carmen eşarp,piramit,giyim,0.86177576,0.9243164,0.625,1.0,0.5
+çocuk oyuncak,türk zeka ve strateji oyunu 1 adet,mangala,anne & bebek & çocuk,0.8942477,0.00014090538,0.3404255319148936,0.0,0.0
+çocuk oyuncak,erkek çocuk oyuncak oydaş küvette duş yapan bebek 02605 - 1adet stokta olan gönderilir kız çocuk eği,çeşit sepetim,anne & bebek & çocuk,0.9783498,0.12408447,1.0,1.0,1.0
+çocuk oyuncak,architecture 21044 paris,lego,anne & bebek & çocuk,0.9766433,0.0041999817,0.16216216216216212,0.0,0.0
+çocuk oyuncak,çocuk birlik gırgır hayvanlar leopar,basic fun,anne & bebek & çocuk,0.9956747,0.98095703,0.5555555555555556,0.0,0.0
+çocuk oyuncak,new toys trigon oyunu akıl zeka oyun gelişmiş tangram 3 kitapçıklı,newtoys,anne & bebek & çocuk,0.97226405,0.89746094,0.2025316455696202,0.0,0.0
+çocuk oyuncak,1123 duba 4'lü -playtoys kız erkek çocuk oyuncak eğitici oyuncaklar,amalfi,anne & bebek & çocuk,0.8191189,0.0009813309,1.0,1.0,1.0
+çocuk oyuncak,platin üçlü oyun seti (tavla-dama-satranç) büyük boy,star,anne & bebek & çocuk,0.99340254,0.99121094,0.21538461538461534,0.0,0.0
+çocuk oyuncak,galatasaray salaş aslan anahtarlık u231378,gsstore,anne & bebek & çocuk,0.9334352,0.00020992756,0.18181818181818188,0.0,0.0
+çocuk oyuncak,montessori eğitici ahşap oyuncak – ahşap gökkuşağı ve renkli keçe topları,zoziva,anne & bebek & çocuk,0.9948144,0.93652344,0.7,1.0,1.0
+çocuk oyuncak,hello kitty 35 cm ithal peluş oyuncak hello kıtty büyük boy 2 li,ailenizin oyuncakçısı,anne & bebek & çocuk,0.9972193,0.98583984,0.7,1.0,1.0
+çocuk oyuncak,3'ü 1 arada ahşap alfabe & rakamlar(sayılar) & geometri - bultak eğitici oyuncak 3 boyutlu,bundera,anne & bebek & çocuk,0.9953825,0.97021484,0.7,1.0,1.0
+çocuk oyuncak,sukuşi kapta unicorn pembe kokulu yavaş yükselen squishy 15 cm.,brother toys,anne & bebek & çocuk,0.98997074,0.9892578,0.2105263157894737,0.0,0.0
+çocuk oyuncak,sevgiliye hediye büyük boy harika peluş çilek tavşan havuç,happy toys,anne & bebek & çocuk,0.99358606,0.9868164,0.22535211267605632,0.0,0.0
+çocuk oyuncak,metropol,ks games,anne & bebek & çocuk,0.99802476,0.9941406,0.19047619047619052,0.0,0.0
+çocuk oyuncak,oyuncak masal anlatan kostümlü bebeğim 662188,erpa,anne & bebek & çocuk,0.92319894,0.0070648193,0.7,1.0,1.0
+çocuk oyuncak,"sevimli peluş maymun oyuncak , elleri yapışabilen 70 cm",sole,anne & bebek & çocuk,0.9879809,0.21936035,0.7,1.0,1.0
+çocuk oyuncak,dedektif oyunu firavun suikast cinayet çözme oyunu katili bulma oyunu dedektiflik oyunu dava dosyası,çözülmemiş davalar,anne & bebek & çocuk,0.82065886,0.00013136864,0.1894736842105263,0.0,0.0
+çocuk oyuncak,2 adet ks games reversi kutu oyunu,pariles,anne & bebek & çocuk,0.9573936,0.0016288757,0.21276595744680848,0.0,0.0
+çocuk oyuncak,tüm bebeklere uygun cırt cırt vakti baby girl ve baby boy 9-16 ay,çocuk akademi,kitap,0.95717776,0.9892578,0.23529411764705885,0.0,0.0
+çocuk oyuncak,patlayan kafalar kart oyunu kutu oyunu arkadaş aile oyunu,kuzgun games,anne & bebek & çocuk,0.94682354,0.012870789,0.17241379310344826,0.0,0.0
+çocuk oyuncak,ahşap oyuncak waldorf fotoğraf makinesi eğitici bebek kamera montessori 1 adet,baykuş craft mimarlık,anne & bebek & çocuk,0.899276,0.00022697449,0.7,1.0,1.0
+çocuk oyuncak,pratik zeka 2 akıl oyunları,redka,anne & bebek & çocuk,0.9683649,0.009300232,0.4,0.0,0.0
+çocuk oyuncak,buzlar ülkesi mutfak seti,uçar oyuncak,anne & bebek & çocuk,0.99394137,0.99072266,0.26315789473684204,0.0,0.0
+çocuk oyuncak,plastik mangala mancala stratejik akil ve zeka oyunu ibis plastik,hobi eğitim,anne & bebek & çocuk,0.9477567,0.00017130375,0.22857142857142862,0.0,0.0
+çocuk oyuncak,47908 hareketli sesli sevimli köpek terrier fabbatoys,sunman,anne & bebek & çocuk,0.9703441,0.00042891502,0.18181818181818188,0.0,0.0
+çocuk oyuncak,"fisher-price eğlen & öğren yaşa göre gelişim eğitici köpekçik (türkçe) sesli, işıklı oyun arkadaşı",fisher price,anne & bebek & çocuk,0.993303,0.98583984,0.1261261261261261,0.0,0.0
+çocuk oyuncak,dedektif oyunu 4 farklı dava dosyası tek paket cinayet çözme katil kim suçlu bulma oyunu,mus kutu oyunları,anne & bebek & çocuk,0.8805481,0.00011867285,0.2105263157894737,0.0,0.0
+çocuk oyuncak,"uyku arkadaşım yumuşak yastık peluş ayıcık 65 cm,",pufu toys,anne & bebek & çocuk,0.9709853,0.038970947,0.2258064516129032,0.0,0.0
+çocuk oyuncak,efsane ikili dedektif oyunu cinayet oyunu dedektiflik oyunu katil kim dava çözme oyunu,çözülmemiş davalar,anne & bebek & çocuk,0.91162694,0.000111460686,0.1728395061728395,0.0,0.0
+çocuk oyuncak,captan america 24 cm figüre5556-e5579 u3553,marvel,anne & bebek & çocuk,0.91005147,0.015541077,0.1785714285714286,0.0,0.0
+çocuk oyuncak,avokado peluş oyuncak (30cm),miniso,anne & bebek & çocuk,0.99288064,0.9589844,0.7,1.0,1.0
+çocuk oyuncak,panda peluş oyuncak - maşa ile koca ayı,the land of legends,anne & bebek & çocuk,0.9976417,0.9550781,0.7,1.0,1.0
+çocuk oyuncak,mitu işıklı scooter,xiaomi,anne & bebek & çocuk,0.9775387,0.00011962652,0.1875,0.0,0.0
+çocuk oyuncak,catnap peluş oyuncak büyük boy üretici firma 🧸,greenfor evlife,anne & bebek & çocuk,0.9973119,0.98095703,0.7,1.0,1.0
+çocuk oyuncak,adl sluban girl's dream yemek aracı 78 parça,hdkitap,anne & bebek & çocuk,0.8588706,0.037109375,0.2105263157894737,0.0,0.0
+çocuk oyuncak,uzaktan kumandalı çok fonksiyonlı akllı aktivite & eğlence robot köpek,seher,anne & bebek & çocuk,0.9528789,0.88671875,0.24096385542168675,0.0,0.0
+çocuk oyuncak,oyuncak 100 cm papyonlu ayıcık sevgiliye özel,pandamkee,anne & bebek & çocuk,0.9831144,0.0001282692,0.7,1.0,1.0
+çocuk oyuncak,çocuk cepli emzirme önlüğü 323 yeşil halka,basic fun,anne & bebek & çocuk,0.9903362,0.000108897686,0.5555555555555556,0.0,0.0
+çocuk oyuncak,minecraft 26 cm peluş black enderman,minecraft,anne & bebek & çocuk,0.9958626,0.9902344,0.20408163265306128,0.0,0.0
+çocuk oyuncak,akülü araba bmw 12v gri,aliş toys,anne & bebek & çocuk,0.95511323,0.0012893677,0.1666666666666667,0.0,0.0
+çocuk oyuncak,speed ferrafi 512 m,lego,anne & bebek & çocuk,0.9988647,0.9921875,0.125,0.0,0.0
+çocuk oyuncak,tarihi türk strateji oyunu mangala,four kids,anne & bebek & çocuk,0.96848124,0.00012528896,0.29787234042553196,0.0,0.0
+çocuk oyuncak,kıvırcık baby,mistik butik,anne & bebek & çocuk,0.9880764,0.0018825531,0.3076923076923077,0.0,0.0
+çocuk oyuncak,"suçluyu bulma dedektiflik oyunu, dedektif oyunu, cinayet çözme, katil kim kutu oyunları, cinayet çöz",gizli tanık,anne & bebek & çocuk,0.91513354,0.00047659874,0.16326530612244894,0.0,0.0
+çocuk oyuncak,premium 2x2x2 rubik küp zeka küpü akıl küpü,moyu,anne & bebek & çocuk,0.9418884,0.007843018,0.19607843137254904,0.0,0.0
+çocuk oyuncak,mahzen cinayet dedektif oyunu dedektiflik oyunu katil kim dava çözme oyunu dedektif oyunu kutu oyunu,çözülmemiş davalar,anne & bebek & çocuk,0.8858892,0.000115036964,0.15,0.0,0.0
+çocuk oyuncak,90 cm peluş ayı büyük boy - sevgili hediye- doğum günü hediyesi,heribom,anne & bebek & çocuk,0.9506095,0.00014770031,0.1578947368421052,0.0,0.0
+çocuk oyuncak,cry babies ağlayan bebekler sesli emzikli oyuncak et bebek,cango,anne & bebek & çocuk,0.79344386,0.00016093254,0.7,1.0,1.0
+çocuk oyuncak,sevimli canavarlar e harfi çocuklara özel peluş köpek,procity,anne & bebek & çocuk,0.952513,0.076293945,0.27272727272727265,0.0,0.0
+puma eşofman,m studio texture pant erkek eşofman altı 525733-01 siyah,puma,giyim,0.98316145,0.80566406,0.736842105263158,1.0,1.0
+puma eşofman,erkek evostrıpe eşofman altı,puma,giyim,0.9744127,0.88134766,0.736842105263158,1.0,1.0
+puma eşofman,65738603 teamfinal casuals pants erkek eşofman altı siyah,puma,giyim,0.995803,0.953125,0.736842105263158,1.0,1.0
+puma eşofman,puma fit taped pwrfleece hoodie lacivert erkek eşofman üstü,puma,giyim,0.89626116,0.16845703,1.0,1.0,1.0
+puma eşofman,team rise poly erkek eşofman alt 657390-03 sıyah,puma,giyim,0.9986182,0.98828125,0.736842105263158,1.0,1.0
+sunum kasesi,sert plastik tatlı kasesi magnolya kabı,sofora,ev & mobilya,0.9930589,0.9975586,0.6666666666666665,1.0,0.5
+sunum kasesi,mor salata kasesi 3 adet,keramika,ev & mobilya,0.9892816,0.9921875,0.6666666666666665,1.0,0.5
+ikili kahve fincanı,90cc iki kisilik xana fincan takimi,kosova,ev & mobilya,0.9962579,0.99560547,0.5555555555555556,0.8,0.6666666666666666
+puma eşofman takımı,kadın siyah eşofman takımı (685077-01),puma,giyim,0.99576956,0.99365234,0.8484848484848484,1.0,1.0
+çocuk odası dekorasyonu,beyaz dekoratif uçan komodin,tasarım,ev & mobilya,0.8447634,0.00055265427,0.43137254901960786,0.4,0.5
+çocuk odası dekorasyonu,bebek ve çocuk odasi balerin kız ve kedi desenli motifli 2 kanat fon perde,masal odam,ev & mobilya,0.9716238,0.42895508,0.3571428571428571,0.0,0.5
+isimlik,fotoğraf bölümlü isimli anı sehpası! özel gün çiçekleriniz için yan sehpa! gül sehpası!çiçek sehpası,verda çerçeve,ev & mobilya,0.9861952,0.9926758,0.13084112149532715,0.8,1.0
+isimlik,kaplama kişiye özel isimli bebek çocuk çelik künye tybezyı1635,sahi aksesuar,aksesuar,0.98357016,0.9941406,0.20289855072463767,0.8,1.0
+isimlik,isimli damaklı bebek emzik zinciri ve bebek silikon emzik seti (0-6 ay) bezyi1646,sahi aksesuar,anne & bebek & çocuk,0.9847217,0.99365234,0.18421052631578946,0.8,1.0
+setay mobilya,eymen çocuk odası takımı uyumlu dijital baskılı nevresim takımı,setay,ev & mobilya,0.9673264,0.9428711,0.26086956521739124,0.0,0.0
+termoslar,the iceflow flip straw pipetli 0.89 lt unisex pembe termos,stanley,spor & outdoor,0.94896966,0.9604492,0.17910447761194034,0.8,1.0
+termoslar,"1 litre çift katlı çelik termos-24 saat sıcak, 48 saat soğuk,(kamp, piknik, ofis, seyahat)",cooker,spor & outdoor,0.9881815,0.9946289,0.14893617021276598,0.4,1.0
+banyo yapı malzemeleri,(sert plastik) mantar düğme ceviz yuvarlak mobilya mutfak çekmece dolap dolabı kulpu kulbu kulpları,badem10,banyo yapı & hırdavat,0.8874289,0.009162903,0.1983471074380165,0.0,0.0
+banyo yapı malzemeleri,ampül,fy,banyo yapı & hırdavat,0.97459507,0.040252686,0.2222222222222223,0.0,0.0
+banyo yapı malzemeleri,"50 adet - silikajel, nem alıcı, 10 gr, silika jel rutubet önleyici küf giderici gel",hobialem,banyo yapı & hırdavat,0.9766588,0.98876953,0.22857142857142862,0.0,0.0
+banyo yapı malzemeleri,h50.02 manyetik kilit wc mat siyah 50/18 mm,hafele,banyo yapı & hırdavat,0.90313643,0.01411438,0.3076923076923077,0.0,0.0
+banyo yapı malzemeleri,346-0035 meşe ahşap desen yapışkanlı folyo,d-c-fix,banyo yapı & hırdavat,0.849299,0.8232422,0.40625,0.0,0.0
+banyo yapı malzemeleri,dynamic s banyo bataryası + itimat 400d robot duş seti,artema,banyo yapı & hırdavat,0.99917215,0.9951172,0.3703703703703704,0.0,0.3333333333333333
+banyo yapı malzemeleri,veravit classic taharet musluğu blister,tema,banyo yapı & hırdavat,0.9992866,0.9819336,0.2950819672131148,0.0,0.0
+banyo yapı malzemeleri,ahşap metal katlanır duş oturağı kapı önü balkon dar mekanlar için duvara monte,rafadi,banyo yapı & hırdavat,0.99957997,0.99121094,0.2772277227722772,0.0,0.0
+banyo yapı malzemeleri,mobilya çekmece mutfak dolabı dolap kulpları kulbu kulpu beyaz metal kulp 224 mm - 22.4 cm,nzb,banyo yapı & hırdavat,0.9348549,0.017181396,0.2142857142857143,0.0,0.0
+banyo yapı malzemeleri,lastik çizme giyiniz uyarı levhası 25x35 kod:16,belle fusion,banyo yapı & hırdavat,0.95165336,0.013900757,0.2898550724637681,0.0,0.0
+banyo yapı malzemeleri,20li orta boy (2 cm-3cm ) keçeli silikon masa sandalye pabuç sandalye kaydırmaz zemin koruyucu,kelira,banyo yapı & hırdavat,0.84843856,0.0104904175,0.2616822429906541,0.0,0.0
+banyo yapı malzemeleri,50w led ampul günışığı (hs 2031),helios,banyo yapı & hırdavat,0.91442275,0.00018382072,0.2222222222222223,0.0,0.0
+banyo yapı malzemeleri,şık tasarımlı metal wi-fi modem ve router kablo düzenleyici – estetik ve düzenli görünüm - wifi kutu,3art metal,banyo yapı & hırdavat,0.8711463,0.00074100494,0.2521008403361344,0.0,0.0
+banyo yapı malzemeleri,beyaz çimento -beyaz -toz -çimento (pk./kg.: 1kg),eldenhırdavat,banyo yapı & hırdavat,0.9735333,0.030441284,0.2535211267605634,0.0,0.0
+mercedes,sıfır yaka erkek tişört mercedes benz servis logolu %100 pamuk siyah,uniprom,giyim,0.99151003,0.9951172,1.0,1.0,1.0
+mercedes,-benz b 150(2005-2011 w245)uyumlu bej 3d paspas havuzlu,mercedes,otomobil & motosiklet,0.80915886,0.06585693,0.12698412698412695,0.0,0.0
+mercedes,benz s680 maybach 1-24 die cast metal araba işıklı sesli kapılar kaput bagaj açılır,mercedes,anne & bebek & çocuk,0.9465332,0.89501953,0.13186813186813182,0.0,0.0
+mercedes,v8 12 v akülü araba,mercedes,anne & bebek & çocuk,0.94267726,0.8798828,0.07407407407407404,0.0,0.0
+araç aksesuarları,araç içi kaydırmaz torpido organizeri sihirli ped torpido kaydırmaz ped numaramatik mavi mıknatıslı,otodemir,elektronik,0.97043175,0.06427002,0.38095238095238093,0.0,0.5
+araç aksesuarları,mondial drift mh 125 - 150 2021 öncesi gidon yükseltme aparatı / direksiyon yükseltme,motogoril,otomobil & motosiklet,0.79240626,0.060760498,0.17391304347826092,0.0,0.0
+araç aksesuarları,klipsli araç telefon tutacağı klima peteği araba telefon tutacağı metal klipsli düşmeme garantili,mimtec,elektronik,0.990242,0.9711914,0.38095238095238093,0.0,0.5
+araç aksesuarları,1. kalite araç torpido ve göğüs havlusu,ib global,otomobil & motosiklet,0.9096429,0.99072266,0.39285714285714285,0.0,0.5
+araç aksesuarları,suhvee 30x60cm mikrofiber araç iç dış yıkama temizleme kurulama cam bezi araba yıkama havlusu,numunemarket,otomobil & motosiklet,0.797073,0.15039062,0.38095238095238093,0.0,0.5
+araç aksesuarları,siyah sevimli ayıcık dikiz aynası süsü - araç aksesuar - oto aksesuar,esdekorium,otomobil & motosiklet,0.8388535,0.8051758,0.4,0.8,1.0
+araç aksesuarları,telefon tutucu araç telefonluk jel kaydırmaz telefonluk ped,frt ottoman,elektronik,0.9629268,0.031311035,0.38095238095238093,0.0,0.5
+araç aksesuarları,"motorsiklet 3d masa üstü motorsiklet dekor – motorsiklet temalı kaideli biblo (17x11 cm, 3mm pla)",hediyehanem,otomobil & motosiklet,0.89521044,0.95214844,0.2,0.0,0.0
+araç aksesuarları,siyah-gri-siyah [seat ibiza 5-kapılı 2017 - 2021] uyumlu neon fitilli araba brandası,cemku fast,otomobil & motosiklet,0.81947637,0.21008301,0.2376237623762377,0.0,0.0
+2 li fincan,iki şehirde sevgili baskılı kupa bardak,sıradışıhediyem,ev & mobilya,0.8164384,0.9902344,0.24,0.0,0.0
+yemek tabağı,adalee 12 kişilik 46 parça porselen yemek takımı,acar,ev & mobilya,0.9904379,0.9941406,0.5882352941176471,0.0,0.5
+multimetre,ut33d+ 600v ut33+ serisi 10a dijital multimetre ut-33d+ ut 33d+ ut33d+,unit,otomobil & motosiklet,0.99417627,0.99609375,1.0,1.0,1.0
+köpük sprey,köpük temizleyici 500 ml,würth,banyo yapı & hırdavat,0.98142374,0.99560547,0.625,0.0,0.5
+musluk bataryası,pınar kısa musluk süzgeçli 102109274,eca,banyo yapı & hırdavat,0.9571121,0.00039362907,0.5454545454545454,0.0,0.5
+musluk bataryası,antik işlemeli çanak lavabo bataryası,mym mermer yapı market tasarım,banyo yapı & hırdavat,0.9327982,0.9868164,0.72,1.0,0.5
+kahverengi ayakkabı,taba süet kadın loafer ayakkabı 20572,soho,ayakkabı,0.9939768,0.9941406,0.5925925925925926,1.0,1.0
+kahverengi ayakkabı,bağcıklı deri dağ ayakkabısı,pull & bear,ayakkabı,0.99959713,0.99658203,0.5957446808510638,0.4,1.0
+kahverengi ayakkabı,covela kahve cilt kadın çizme,luvishoes,ayakkabı,0.7946302,0.035003662,0.45833333333333337,0.0,0.0
+kahverengi ayakkabı,pc-30484 sneaker ayakkabı siyah,pierre cardin,ayakkabı,0.9961068,0.99609375,0.5925925925925926,1.0,1.0
+kahverengi ayakkabı,vizon süet kadın loafer ayakkabı 21049,soho,ayakkabı,0.9935976,0.9946289,0.5925925925925926,1.0,1.0
+kahverengi ayakkabı,hakiki deri bağcıklı kadın oxford ayakkabı,bulls & gulls,ayakkabı,0.9942609,0.99121094,0.5925925925925926,1.0,1.0
+kahverengi ayakkabı,street ace waterproof motosiklet botu,tcx,otomobil & motosiklet,0.7927103,0.006904602,0.25,0.0,0.0
+kahverengi ayakkabı,osca taba hasır tokalı sivri burun kadın topuklu ayakkabı,luvishoes,ayakkabı,0.9187854,0.7402344,0.5925925925925926,1.0,1.0
+ceyo kadın,kadın hafif rahat ortopedik ev terliği palermo-9,ceyo,ayakkabı,0.8787836,0.8779297,0.6666666666666665,1.0,0.5
+ceyo kadın,bahama-10 anatomik unisex terlik lacivert,ceyo,ayakkabı,0.9261239,0.9741211,0.19607843137254904,0.0,0.0
+ceyo kadın,kadın terlik 9969-1 (35-42),ceyo,ayakkabı,0.9868889,0.9951172,0.6666666666666665,1.0,0.5
+ceyo kadın,ramona-22 tam ortopedik kadın terlik,ceyo,ayakkabı,0.90476316,0.92871094,0.6666666666666665,1.0,0.5
+ceyo kadın,kadın terlik sabo 9844-flex zenne (35-41),ceyo,ayakkabı,0.829711,0.78808594,0.6666666666666665,1.0,0.5
+ceyo kadın,palermo kadın çok rahat tam ortopedik günlük terlik,ceyo,ayakkabı,0.91894925,0.95214844,0.6666666666666665,1.0,0.5
+ceyo kadın,bahama-10 anatomik unisex terlik haki,ceyo,ayakkabı,0.95321244,0.9902344,0.1702127659574468,0.0,0.0
+ceyo kadın,tam ortopedik taban kemik çıkıntısı ve topuk dikenine özel jelli terlik 9200/12,ceyo,ayakkabı,0.84181255,0.9194336,0.1348314606741573,0.0,0.0
+ceyo kadın,9827-27 kadın memory foam taban rahat ortopedik terlik,ceyo,ayakkabı,0.959955,0.93408203,0.6666666666666665,1.0,0.5
+kırlent içi,handy 6'lı roll pack yastık seti 50x70 cm,yataş,ev & mobilya,0.8293173,0.9863281,0.2307692307692308,0.0,0.0
+lancome cilt bakım seti,mini makyaj avantajlı tanışma seti 8690595214665,lancome,kozmetik & kişisel bakım,0.99874973,0.99121094,0.39436619718309857,1.0,0.3333333333333333
+demlik çaydanlık,kamp çaydanlığı 1.4 litre out-1100,orcamp,ev & mobilya,0.8633867,0.9238281,0.48,0.4,0.5
+harika kanatlar,buz kırma oyunu seri 2,harika kanatlar,anne & bebek & çocuk,0.9856643,0.9970703,0.27027027027027034,0.0,0.0
+erkek baba gömlek,klasik fit uzun kollu pamuklu düz erkek siyah gömlek,tudors,giyim,0.9287574,0.68896484,0.8275862068965517,1.0,0.5
+notebook çantası,8.7/9/10.2/10.9/11/11.5/12/12.9 inç tüm markalarla ve modellerle uyumlu tablet kılıfı çantası,d'vers,elektronik,0.9179296,0.99072266,0.6086956521739131,1.0,0.5
+notebook çantası,kahverengi erkek el portföy çantası,morca,aksesuar,0.7957733,0.9614258,0.6086956521739131,1.0,0.5
+notebook çantası,unisex koyu vizon su geçirmez kumaş laptop okul çantası seyahat sırt çantası 14 inç 18 lt 40x30cm,morca,aksesuar,0.9727005,0.99365234,0.6086956521739131,1.0,0.5
+notebook çantası,"macbook organizer laptop evrak çantası 13"" & 14"" inç siyah",morca,elektronik,0.9993649,0.99658203,0.6086956521739131,1.0,0.5
+notebook çantası,ns macbook air/pro 13-15.6 inç uyumlu darbeye karşı korumalı laptop çantası-suya dayanıklı-40x30x6cm,ns reliable,aksesuar,0.9725543,0.99658203,0.2586206896551724,0.4,0.5
+saç bigudisi,isısız saç şekillendirme seti saten saç sosisi saç bigudisi seti saç şekillendirici,croc,kozmetik & kişisel bakım,0.9763573,0.9042969,1.0,1.0,1.0
+salomon spor ayakkabı,474455 xt-6 gtx erkek  spor ayakkabi,salomon,ayakkabı,0.9887851,0.9946289,0.4642857142857143,0.8,1.0
+salomon spor ayakkabı,x ultra 360 leather mid gore-tex,salomon,ayakkabı,0.93561655,0.9892578,0.18867924528301885,0.0,0.0
+salomon spor ayakkabı,gore-tex su geçirmez ve soğuğa dayanıklı sağlam taban erkek outdoor ayakkabı,salomon,ayakkabı,0.9919648,0.14831543,0.5517241379310345,1.0,0.5
+salomon spor ayakkabı,474459 xt-6 expanse kadin spor ayakkabi,salomon,ayakkabı,0.9716201,0.99365234,0.5333333333333333,0.8,1.0
+salomon spor ayakkabı,speedcross 3 unisex sneaker vanilla ice l47723400,salomon,ayakkabı,0.9827375,0.016525269,0.2,0.0,0.0
+salomon spor ayakkabı,snowclog unisex sneaker vanilla ice l47578900,salomon,ayakkabı,0.9383861,0.005470276,0.2424242424242425,0.0,0.0
+timberland bot,greenstride motion 6 mid lace up waterpr kadın outdoor botu tb1a67qc0151 siyah,timberland,ayakkabı,0.8602183,0.96875,0.23913043478260876,0.8,1.0
+timberland bot,siyah erkek outdoor bot tb0a67km0151_euro trekker low lace,timberland,ayakkabı,0.93101615,0.9458008,0.35294117647058826,1.0,1.0
+taktik pantolon,taktical taktikal cargocep kargocep ithal yazlık 6 cepli outdoor a a kalite pantolon,taktik,giyim,0.9977466,0.99560547,0.6956521739130435,1.0,1.0
+taktik pantolon,erkek haki kamuflaj orjinal nano askeri pantolon,kordak,giyim,0.88827366,0.98339844,0.6956521739130435,1.0,0.5
+taktik pantolon,güven tactical outdoor pantolon,taktik,giyim,0.9969524,0.9946289,0.6956521739130435,1.0,1.0
+araba koltuk kılıfı,fiat egea sedan uyumlu lüx deri süet oto koltuk kılıfı ön arka takım premium siyah,autogoodstore,otomobil & motosiklet,0.98689514,0.99560547,0.8125,1.0,0.6666666666666666
+araba koltuk kılıfı,kia sportage 2 je 2004-2010 uyumlu 1+1 bordo koltuk kılıfı,oto pandami,otomobil & motosiklet,0.9950016,0.99609375,0.8125,1.0,0.6666666666666666
+civil baby kız bebek takım,yaka fırfırlı bel fiyonklu 6-18 ay elbise - pembe 9-12 ay,civil baby,giyim,0.8369668,0.99316406,0.375,0.0,0.0
+eda taşpınar bronzlaştırıcı,new year parfum mist - 100 ml (egy0081),eda taşpınar,kozmetik & kişisel bakım,0.9764476,0.9970703,0.21212121212121218,0.0,0.0
+arnica elektrikli süpürge,et14232 terra premium toz torbalı elektrikli süpürge yeşil,arnica,elektronik,0.99910545,0.9975586,0.8372093023255814,1.0,1.0
+motosiklet aksesuarları,701 deri kaplı yarı camlı elektrikli bisiklet motosiklet scooter kaskı l beden kahve,sway,otomobil & motosiklet,0.973394,0.9868164,0.6060606060606061,0.0,0.5
+motosiklet aksesuarları,renault clio 2 twingo koltuk ayar kolu 2 adet takım 770120965,autoall,otomobil & motosiklet,0.9177247,0.0047721863,0.2926829268292683,0.0,0.0
+motosiklet aksesuarları,göstergeli  72v/20ah şarj aleti 6 akülü,monero,otomobil & motosiklet,0.9120319,0.01525116,0.26229508196721313,0.0,0.0
+motosiklet aksesuarları,jiekai lb-001 motorcu bacak çantasi * kirmizi karbon kumaş * siyah nakiş * ( anahtarlik hediye ),jiekai,otomobil & motosiklet,0.99785906,0.0030879974,0.24347826086956517,0.0,0.0
+motosiklet aksesuarları,salcano tiger speed 125 eco miflonlu motosiklet brandası - 4 mevsim koruma,autodesign,otomobil & motosiklet,0.99945366,0.9838867,0.6060606060606061,0.0,0.5
+motosiklet aksesuarları,arabadan kaçmaya çalışan adam temalı oto özel yeni kaliteli kaliteli stickeri 20*14 cm,habune,otomobil & motosiklet,0.9305935,0.0021572113,0.28,0.0,0.0
+motosiklet aksesuarları,cg joker motosiklet far filmi 5'li paket a kalite++ 031,rebon motodesign,otomobil & motosiklet,0.91956687,0.91748047,0.6060606060606061,0.0,0.5
+motosiklet aksesuarları,çok güzelsin güneşlik makyaj aynası yazısı 70x20mm araba motosiklet cam etiket sticker beyaz,oktem nameplate,otomobil & motosiklet,0.79576725,0.017715454,0.6060606060606061,0.0,0.5
+motosiklet aksesuarları,araba güneş gölge koruyucu şemsiye oto ön cam güneşlik araç şemsiyesi bütün araçlara uyumlu,mycl,otomobil & motosiklet,0.87616915,0.024383545,0.2456140350877193,0.0,0.0
+motosiklet aksesuarları,araç içi vizör araba güneşlik oto güneşlik güneş işığı önleyici koruma,batcell,otomobil & motosiklet,0.90996116,0.8486328,0.3095238095238095,0.0,0.0
+motosiklet aksesuarları,honda dio amortisör çorabi reflektörlü,rellax,otomobil & motosiklet,0.9677976,0.43139648,0.2950819672131148,0.0,0.0
+yaya by hotiç erkek,kahve erkek bot 02boy296130a480,yaya by hotiç,ayakkabı,0.80402863,0.92333984,0.52,1.0,0.25
+schneider,gv2le16,schneider,banyo yapı & hırdavat,0.8523379,0.3071289,0.125,0.0,0.0
+schneider,"2420107 thorsman izole bant kahverengi 0,13mmx19mmx 20mt",schneider,banyo yapı & hırdavat,0.89758,0.671875,0.12307692307692307,0.0,0.0
+schneider,gv2le10,schneider,banyo yapı & hırdavat,0.84742063,0.24487305,0.125,0.0,0.0
+bebek düzenleyici,"bebek çanta alt açma minderi, alt değiştirme pedi, taşınabilir bakım örtüsü,morremix seri,kahverengi",mordesign,süpermarket,0.9601564,0.9946289,0.45454545454545453,0.0,0.0
+bebek düzenleyici,3'lü bavul valiz içi düzenleyici set - fermuarlı şeffaf pencereli seyahat hastane çantası organizeri,meleni baby,ev & mobilya,0.9486416,0.95458984,0.7857142857142857,1.0,1.0
+bebek düzenleyici,6 parça bebek bakim çantası,she berrak,anne & bebek & çocuk,0.8351343,0.9916992,0.45454545454545453,0.0,0.0
+bebek düzenleyici,6 parça hastane çıkış doğum çantası çok kullanışlı düzenleyici,esti,anne & bebek & çocuk,0.88977754,0.8510742,0.7857142857142857,1.0,1.0
+gold topuklu,babet kadın günlük rahat sivri burun gold deri detaylı 3 cm topuklu,vip smr moda,ayakkabı,0.79919636,0.8935547,1.0,1.0,1.0
+gold topuklu,kısa topuklu ayakkabı ten,sovrana,ayakkabı,0.99156016,0.99072266,0.736842105263158,1.0,1.0
+espresso makinası,vertuo pop pantone kapsüllü kahve makinesi,nespresso,elektronik,0.8583917,0.9946289,0.33898305084745756,0.4,0.5
+newera watch,2'li retro dijital kol saati ( su geçirmez ) fırsat ürünü,newera watch,aksesuar,0.9953358,0.9970703,0.17391304347826092,0.0,0.0
+newera watch,2'li retro dijital kol saati ( su geçirmez ) fırsat ürünü,newera watch,aksesuar,0.9953358,0.9970703,0.17391304347826092,0.0,0.0
+sınav hazırlık kitabı,2026 kpss hakan bileyen ile coğrafya tamamı çözümlü 20 deneme,yediiklim yayınları,kitap,0.97744584,0.98779297,0.21951219512195125,0.0,0.0
+sınav hazırlık kitabı,metin ayt matematik soru bankası,metin yayınları,kitap,0.98910445,0.88427734,0.2641509433962264,0.0,0.0
+sınav hazırlık kitabı,kpss ales dgs dizayn yeni nesil sorularla paragraf soru bankası,data yayınları,kitap,0.99322504,0.9824219,0.2380952380952381,0.0,0.0
+sınav hazırlık kitabı,ayt öğreten matematik fasikülleri trigonometri konu anlatımlı,gür yayınları,kitap,0.9841296,0.013168335,0.2682926829268293,0.0,0.0
+sınav hazırlık kitabı,bilgi sarmal tyt fizik deneme ve akm dil bilgisi soru bankası seti 2 kitap,indeks akademi yayıncılık,kitap,0.9943337,0.9609375,0.27368421052631575,0.0,0.0
+sınav hazırlık kitabı,"tyt konu anlatım seti el yazısı, dijital platform desteği, rehberlik desteği, video anlatım desteği",vin kampüs,kitap,0.94024193,0.0059814453,0.2330097087378641,0.0,0.0
+sınav hazırlık kitabı,8. sınıf fen bilimleri plus lgs soru bankası,maraton yayınları,kitap,0.9838706,0.072753906,0.27692307692307694,0.0,0.0
+sınav hazırlık kitabı,yargı ders arkadaşım 8.sınıf türkçe 32+4 haftalık ödev föyleri,yargı yayınları,kitap,0.95545626,0.0031108856,0.28915662650602414,0.0,0.0
+sınav hazırlık kitabı,2026 indeks akademi kpss aydın yüce tarih soru bankası+kpss tarih ders notları aydın yüce+hediye,indeks akademi,kitap,0.95185375,0.006668091,0.22857142857142862,0.0,0.0
+sınav hazırlık kitabı,345 - ayt kimya soru bankası - güncel baski yeni nesil tamamı video çözümlü,üç dört beş yayıncılık,kitap,0.991209,0.98779297,0.2340425531914893,0.0,0.0
+sınav hazırlık kitabı,kota yayınları son 5 yıl çıkmış geometri soruları,kota yayinlari,kitap,0.9705827,0.0418396,0.2857142857142857,0.0,0.0
+sınav hazırlık kitabı,2026 kpss ortaöğretim ön lisans genel kültür tarih 14 deneme + optimum 5 deneme,yediiklim yayınları,kitap,0.9911727,0.9785156,0.19354838709677424,0.0,0.0
+sınav hazırlık kitabı,köşebilgi ayt fizik 15 branş denemesi güncel,a kitap,kitap,0.8548509,0.9892578,0.18461538461538468,0.0,0.0
+sınav hazırlık kitabı,fenomen 8. sınıf lgs matematik 1.2.3.4.5.6 fasikül 2026,fenomen yayıncılık,kitap,0.85533756,0.00010806322,0.23684210526315794,0.0,0.0
+sınav hazırlık kitabı,murat 2026 kpss lisans genel yetenek genel kültür soru bankası tek kitap çözümlü tek kitap murat yay,murat yayınları,kitap,0.9587999,0.90966797,0.2424242424242425,0.0,0.0
+sınav hazırlık kitabı,yeni müfredat karekök yayınları güncel ayt felsefe grubu denemeleri (30 çözümlü deneme),karekök yayınları,kitap,0.9874874,0.89697266,0.1851851851851852,0.0,0.0
+sınav hazırlık kitabı,bilgisarmal 9.sinif tarih soru bankasi-zihindeneme-bs109,bilgi sarmal yayınları,kitap,0.9775199,0.019165039,0.20779220779220778,0.0,0.0
+sınav hazırlık kitabı,2025 3d ayt fizik branş deneme ve ayt fen 7 yıl çıkmış soru,aydın yayınları,kitap,0.9724777,0.038604736,0.18421052631578946,0.0,0.0
+sınav hazırlık kitabı,2026 ayt felsefe ders notları - soru bankası,benim hocam yayınları,kitap,0.91885465,0.0074310303,0.3076923076923077,0.0,0.0
+sınav hazırlık kitabı,2025 dgs sayısal-sözel yetenek çek kopart yaprak test,yediiklim yayınları,kitap,0.9711153,0.20788574,0.21621621621621628,0.0,0.0
+sınav hazırlık kitabı,aydın yayınları 11. sınıf biyoloji soru bankası,aydın yayınları,kitap,0.9877034,0.10522461,0.32352941176470595,0.0,0.0
+sınav hazırlık kitabı,yargı 2026 kpss coğrafya video ders notları - engin eraydın yargı yayınları,yargı yayınları,kitap,0.97164226,0.030441284,0.2666666666666667,0.0,0.0
+sınav hazırlık kitabı,9. sınıf biyoloji biyotik soru bankası 2026,biyotik yayınları,kitap,0.98584193,0.89160156,0.3125,0.0,0.0
+sınav hazırlık kitabı,bilgi sarmal tyt fen bilimleri tyt sosyal bilimler branş denemeleri 2026,bilgi sarmal yayınları,kitap,0.9781927,0.86621094,0.17977528089887643,0.0,0.0
+sınav hazırlık kitabı,gizli yayinlari 8.sinif aliştirmali matematik sb+zihindeneme(sevilenkitapci)a3,gizli yayınları,kitap,0.9860141,0.04525757,0.2424242424242425,0.0,0.0
+sınav hazırlık kitabı,çap 11. sınıf fen lisesi matematik fasikül konu anlatım seti,çap yayınları,kitap,0.94201535,0.0053863525,0.345679012345679,0.0,0.0
+sınav hazırlık kitabı,2026 meb - ags - kpss haritalarla atak coğrafya soru bankası mehmet eğit / eğit akademi,eğit akademi,kitap,0.9904104,0.9916992,0.19801980198019806,0.0,0.0
+sınav hazırlık kitabı,2026 yks-tyt türkçenin kara kutusu paragraf 2 karma çıkmış soru bankası k. özetli dijital çözümlü,informal yayınları,kitap,0.9668408,0.02456665,0.18644067796610173,0.0,0.0
+sınav hazırlık kitabı,süper fiyat - 2026 meb-ags eğitimin temelleri ve türk milli eğitim sistemi video ders,indeks akademi,kitap,0.99355,0.9736328,0.16981132075471692,0.0,0.0
+sınav hazırlık kitabı,2025 kpss genel kültür lisans coğrafya konularına göre tamamı çözümlü son 11 yıl çıkmış sorular,yediiklim yayınları,kitap,0.9686602,0.80810547,0.2241379310344827,0.0,0.0
+sınav hazırlık kitabı,aöf tarım teknolojisi 1. sınıf 1. yarıyıl güz dönemi 2025-2026 son baskı,ilkumut yayınları,kitap,0.81070906,8.547306e-05,0.24444444444444444,0.0,0.0
+sınav hazırlık kitabı,tyt dgs kpss ales geometri sıfır lise temellendirme konu anlatımlı,karekök yayınları,kitap,0.99343866,0.9682617,0.2758620689655173,0.0,0.0
+sınav hazırlık kitabı,tyt ayt kimya yaprak test,başat yayınları,kitap,0.961791,0.005344391,0.34782608695652173,0.0,0.0
+sınav hazırlık kitabı,altuğ güneş tyt fizik tarz kampım,kr akademi yayınları,kitap,0.9960253,0.9916992,0.33333333333333326,0.0,0.0
+sınav hazırlık kitabı,kpss / ags 2026 genel kültür pratik konu anlatım ve genel yetenek pratik konu anlatım kpssnoktasi,hmc yayinlari,kitap,0.9478066,0.040374756,0.23913043478260876,0.0,0.0
+sınav hazırlık kitabı,2024 kpss lisans gy-gk ösym tıpkı basım çıkmış soru deneme kitapçığı (video/pdf çözümlü türkiye g),karakutu yayınları,kitap,0.9403448,0.041137695,0.20168067226890757,0.0,0.0
+sınav hazırlık kitabı,orijinal tyt matematik 12 li deneme sınavı fenomen önerili ayraç hediyeli,orjinal,kitap,0.9761481,0.0132751465,0.27659574468085113,0.0,0.3333333333333333
+ses bombası,enchant 900 dolby atmos soundbar siyah,harman kardon,elektronik,0.971227,0.9926758,0.2448979591836735,0.0,0.0
+ses bombası,md-220kp siyah usb+fm+tf kart+bt destekli kablosuz mikrofonlu toplantı anfisi,mikado,elektronik,0.9696561,0.99316406,0.15909090909090906,0.0,0.0
+pırlanta yüzük,5 taş ve tek taş yüzük set,vip-aksesuar,aksesuar,0.88823605,0.98779297,0.5263157894736842,1.0,0.5
+kedili,cat dream kedi altın dore ipli parlak kız çocuk elbise,mshb&g,giyim,0.94987285,0.9868164,0.1666666666666667,0.0,0.0
+alçı saksı,kabak,elyessa,ev & mobilya,0.898249,0.97265625,0.4,0.0,0.0
+isimli emzik askısı,kişiye özel isimli-emzik-2 adet emzik askisi-isimli künye-hediyelik-yeni doğan,lifii,anne & bebek & çocuk,0.92746943,0.97216797,0.41666666666666663,0.0,0.3333333333333333
+yabancı roman,ingilizce okuma kitabı the call of the wild - stage 3,mk publications,kitap,0.9608172,0.99316406,0.19354838709677424,0.0,0.0
+yabancı roman,wuthering heights / emily bronte / / 9786258098273,paper books,kitap,0.89189845,0.9248047,0.2033898305084746,0.0,0.0
+tırnak makası,nail art çizim ve jel fırçası 3'lü tırnak çizim fırçası,anıl gel polish,kozmetik & kişisel bakım,0.9072869,0.9794922,0.631578947368421,0.0,0.5
+zemzem,lüks peluş seccade mor 01,zemzemhac,ev & mobilya,0.90126085,0.96240234,0.12903225806451615,0.0,0.0
+beyaz krampon,krampon futbol ayakkabısı,runstep,ayakkabı,0.93517053,0.99072266,0.7,1.0,1.0
+takviye,swiss bork çörek otu yağı 60 softjel kapsül – bitkisel takviye ile kalp ve enerji desteği,bork swiss natural,süpermarket,0.95608276,0.9628906,1.0,1.0,1.0
+takviye,easyvit easyfishoil beta glukan 30 jel form,easy fishoil,süpermarket,0.9547682,0.9873047,0.2,0.0,0.0
+takviye,atrofit tip ii kolajen 60 tablet 2 adet,artrofit,süpermarket,0.97011507,0.9916992,0.17391304347826092,0.0,0.0
+nişan hediyelik anahtarlık,ü harf anahtarlık epoksi gold zincirli gold varaklı yonca deniz temalı hediyelik kişiye özel,gelinrehberi,aksesuar,0.9614312,0.99072266,0.8695652173913043,1.0,0.6666666666666666
+nişan hediyelik anahtarlık,"24 adet kartlı epoksi anahtarlık hediyelik kalpli nişan, kına, söz, nikah, anahtarlık hediyeliği",gelinrehberi,hobi & eğlence,0.9926643,0.9790039,0.8695652173913043,1.0,1.0
+duru granül,doğal kaynaklı granül sabun klasik 1 kg,duru,süpermarket,0.9980482,0.9980469,0.7058823529411765,1.0,1.0
+balo elbise,"lacivert saten,kolları bağcıklı,belde büzgülü,tesettür mezuniyet,söz nişan elbisesi",makbuleofficial,giyim,0.9066669,0.97314453,0.21276595744680848,0.4,0.5
+balo elbise,pudra pileli abiye 4418,yonca moda evi,giyim,0.946706,0.99316406,0.2941176470588235,0.0,0.0
+balo elbise,straples deniz yıldızı aksesuarlı elbise,esrahelvaci,giyim,0.9904549,0.9897461,0.7058823529411765,1.0,0.5
+balo elbise,siyah şifon kollu tüvit elbise,serica moda,giyim,0.9685049,0.9526367,0.7058823529411765,1.0,0.5
+balo elbise,"tek omuz şal yaka pelerin kol detaylı inci işlemeli saten abiye elbise bordo, beyaz, lacivert,siyah",the zks,giyim,0.8997635,0.9682617,0.7058823529411765,1.0,0.5
+balo elbise,scuba esnek kumaş taş işlemeli fular detaylı balık kesim abiye elbise 583340 mor,modafeminen,giyim,0.9082019,0.8911133,0.7058823529411765,1.0,0.5
+ziya kadın ayakkabı,", kadın hakiki deri topuklu ayakkabı 1431030z324 taba",ziya,ayakkabı,0.8141556,0.64208984,0.8484848484848484,1.0,1.0
+ziya kadın ayakkabı,", kadın hakiki deri bot 153359z6212 kahve",ziya,ayakkabı,0.85695237,0.65966797,0.41666666666666663,0.0,0.0
+ziya kadın ayakkabı,", kadın hakiki deri topuklu sandalet 1411020z1708 bej",ziya,ayakkabı,0.9173147,0.71972656,0.41666666666666663,0.0,0.0
+ziya kadın ayakkabı,", kadın hakiki deri ayakkabı 1531050z26104802k siyah",ziya,ayakkabı,0.9054583,0.80615234,0.8484848484848484,1.0,1.0
+ziya kadın ayakkabı,", kadın kovboy bot 1531044z4005 taba",ziya,ayakkabı,0.90651166,0.9057617,0.41666666666666663,0.0,0.0
+ziya kadın ayakkabı,", kadın hakiki deri ayakkabı 1531030z2549 bej",ziya,ayakkabı,0.90692127,0.84521484,0.8484848484848484,1.0,1.0
+ziya kadın ayakkabı,", kadın hakiki deri topuklu ayakkabı 1431030z25020 taş",ziya,ayakkabı,0.79505134,0.6074219,0.8484848484848484,1.0,1.0
+ziya kadın ayakkabı,", kadın hakiki deri bot 1531020z9804 kahve",ziya,ayakkabı,0.86919564,0.65478516,0.41666666666666663,0.0,0.0
+ziya kadın ayakkabı,", hakiki deri kadın babet 1511033z2145 gold",ziya,ayakkabı,0.9461421,0.6791992,0.41666666666666663,0.0,0.0
+ziya kadın ayakkabı,", kadın hakiki deri topuklu sandalet 151992z8004 buz",ziya,ayakkabı,0.9332684,0.8276367,0.41666666666666663,0.0,0.0
+jack & jones erkek sweatshirt,jorinwood bomber jacket 12282951,jack & jones,giyim,0.8924153,0.58740234,0.42622950819672134,0.0,0.0
+jack & jones erkek sweatshirt,norrebro erkek bej sweatshirt (12282893-mme),jack & jones,giyim,0.99296594,0.9921875,0.7111111111111111,1.0,1.0
+bulaşık,3'lü kabak lifi,mumo,süpermarket,0.9117563,7.843971e-05,0.27272727272727265,0.0,0.0
+dremel,"dia keçe çapı 13,0 mm",dremel,elektronik,0.9375993,0.98339844,0.2222222222222223,0.0,0.0
+dremel,3200-1/90 eu torna aleti,dremel,bahçe & elektrikli el aletleri,0.9726449,0.99316406,0.13333333333333328,0.0,0.0
+vintage halı,kare desenli gri teras halısı balkon halısı bahçe halısı hava koşullarına uygun jut halı,anaska home,ev & mobilya,0.94604737,0.9716797,0.5,1.0,0.5
+vintage halı,tierra 12892 polyester bakır modern salon halısı,gümüşsuyu,ev & mobilya,0.92551565,0.8701172,0.3,0.0,0.0
+vintage halı,"maldiv yıkanabilir yolluk kaydırmaz,pamuk dokuma,premium kalite salon&mutfak&yemek odası kilimi",rozen home,ev & mobilya,0.9858255,0.9897461,0.16822429906542055,0.0,0.0
+banyo organizeri,2 katlı mutfak rafı banyo dolabı çok amaçlı düzenleyici masa üstü tezgah raf organizer 35x15,zabata,ev & mobilya,0.8922091,0.67285156,0.4761904761904762,0.8,1.0
+dove,cream bar 90gr original x4 adet,dove,kozmetik & kişisel bakım,0.9460334,0.9448242,0.11428571428571431,0.0,0.0
+dove,dökülmeye karşı bakım şampuan 400 ml,dove,kozmetik & kişisel bakım,0.8218383,0.30981445,0.1,0.0,0.0
+dove,yoğun bakım şampuan 400 ml + saç kremi 200 ml,dove,kozmetik & kişisel bakım,0.89094216,0.37109375,0.04347826086956516,0.0,0.0
+dove,bond intense repair saç bakım seti 5'li,dove,kozmetik & kişisel bakım,0.93400866,0.9453125,0.09302325581395351,0.0,0.0
+dove,hair therapy sülfatsız saç bakım şampuanı hydration spa nemlendirici 350 ml,dove,kozmetik & kişisel bakım,0.874817,0.8466797,0.07594936708860757,0.0,0.0
+dove,bond intense repair saç bakım maskesi 265 ml,dove,kozmetik & kişisel bakım,0.8934079,0.77490234,0.08333333333333329,0.0,0.0
+dove,nemlendirici sıvı sabun caring 1/4 nemlendirici krem etkili 450 ml x3 adet,dove,kozmetik & kişisel bakım,0.9165114,0.74560547,0.061538461538461604,0.0,0.0
+dove,şampuan 400 ml,dove,kozmetik & kişisel bakım,0.8945209,0.19189453,0.0,0.0,0.0
+dove,ultra care 1 minute serum saç bakım kremi dökülme karşıtı bakım 170 ml x2,dove,kozmetik & kişisel bakım,0.8650884,0.94677734,0.05633802816901408,0.0,0.0
+dove,bond intense repair şampuan 400 ml,dove,kozmetik & kişisel bakım,0.90289724,0.7397461,0.10526315789473685,0.0,0.0
+dove,çift fazlı saç serumu bond intense repair + peptid kompleksi 80 ml x2,dove,kozmetik & kişisel bakım,0.94163835,0.94189453,0.08219178082191775,0.0,0.0
+dove,10'u 1 arada saç bakım maskesi bond intense repair + peptid kompleksi 265 ml,dove,kozmetik & kişisel bakım,0.8882806,0.92285156,0.075,0.0,0.0
+dove,yoğun onarıcı şampuan 350 ml 3adet dove yogun onarıcı 350×3,dove,kozmetik & kişisel bakım,0.9584587,0.9916992,1.0,1.0,1.0
+dove,nemlendirici duş jeli mango yağı & badem özü 450ml x2,dove,kozmetik & kişisel bakım,0.7947435,0.11779785,0.10526315789473685,0.0,0.0
+dove,cream bar pink 90gr x 8 adet,dove,kozmetik & kişisel bakım,0.968068,0.9873047,0.125,0.0,0.0
+dove,sabun 90gr gentle exfoliating yumuşak peeling güzellik sabunu,dove,kozmetik & kişisel bakım,0.91872567,0.93115234,0.061538461538461604,0.0,0.0
+dove,şampuan yoğun onarıcı bakım büyük boy 600 ml delist,dove,kozmetik & kişisel bakım,0.9004143,0.8754883,0.07272727272727267,0.0,0.0
+yapı kredi yayınları,bil bakalım nasıl? (ciltli),yapı kredi yayınları,kitap,0.9114952,0.9614258,0.3404255319148936,0.0,0.0
+yapı kredi yayınları,ortaçağda islam ve seyahat : bir alim uğraşının tarihi ve antropolojisi,yapı kredi yayınları,kitap,0.86708933,0.40844727,0.22727272727272735,0.0,0.0
+yapı kredi yayınları,harry potter 4 5 6 7 8 harry potter set,yapı kredi yayınları,kitap,0.9294949,0.9399414,0.21739130434782608,0.0,0.0
+yapı kredi yayınları,büyük renkler + büyük sorular + büyük sorular hayvanlar kitabım 3'lü set,yapı kredi yayınları,kitap,0.8749756,0.92285156,0.3142857142857143,0.0,0.0
+yapı kredi yayınları,beyoğlu rapsodisi,yapı kredi yayınları,kitap,0.90707004,0.1616211,0.21621621621621628,0.0,0.0
+yapı kredi yayınları,bil bakalım serisi 6 kitap (hidden pictures puzzles hediyeli),yapı kredi yayınları,kitap,0.92870367,0.96435547,0.24691358024691354,0.0,0.0
+yapı kredi yayınları,içimizdeki şeytan - sabahattin ali - göğe bakma durağı - turgut uyar,yapı kredi yayınları,kitap,0.91821694,0.9091797,0.2857142857142857,0.0,0.0
+yapı kredi yayınları,uğurböceği sevecen ile salyangoz yavru kanaryalar + 4 kitap & erika bartos,yapı kredi yayınları,kitap,0.84343994,0.54589844,0.27659574468085113,0.0,0.0
+yapı kredi yayınları,sevdalı bulut,yapı kredi yayınları,kitap,0.9657458,0.9951172,0.303030303030303,0.0,0.0
+yapı kredi yayınları,büyük sorular kitabım ve büyük sorular kitabım – hayvanlar ikili set,yapı kredi yayınları,kitap,0.9802064,0.9946289,0.303030303030303,0.0,0.0
+yapı kredi yayınları,neden nasıl? – 4 yaş + telefon standı,yapı kredi yayınları,kitap,0.9363401,0.83984375,0.28070175438596495,0.0,0.0
+yapı kredi yayınları,red kit mezartaşı kasabası,yapı kredi yayınları,kitap,0.9745798,0.9824219,0.30434782608695654,0.0,0.0
+yapı kredi yayınları,masal masal içinde,yapı kredi yayınları,kitap,0.82262284,0.9482422,0.3125,0.0,0.0
+yapı kredi yayınları,orhan veli'nin ankara'daki izleri,yapı kredi yayınları,kitap,0.91245335,0.87890625,0.339622641509434,0.0,0.0
+yapı kredi yayınları,büyük defter - kanıt - üçüncü yalan / agota kristof / / 9789750817984,yapı kredi yayınları,kitap,0.91827726,0.8803711,0.24096385542168675,0.0,0.0
+yapı kredi yayınları,büyük sorular renkler hayvanlar kitabım 0-3 yaş),yapı kredi yayınları,kitap,0.9391354,0.9404297,0.32352941176470595,0.0,0.0
+yapı kredi yayınları,göğe bakma durağı ve sis ve gece + hediyeli,yapı kredi yayınları,kitap,0.93499136,0.9638672,0.23333333333333328,0.0,0.0
+yapı kredi yayınları,dokuza kadar on,yapı kredi yayınları,kitap,0.97309613,0.99316406,0.3428571428571429,0.0,0.0
+yapı kredi yayınları,ahmet ümit masal masal içinde halk edebiyatı seçkisi,yapı kredi yayınları,kitap,0.87662315,0.54052734,0.303030303030303,0.0,0.0
+yapı kredi yayınları,harry potter 5 6 7 harry potter set,yapı kredi yayınları,kitap,0.93952256,0.9682617,0.2380952380952381,0.0,0.0
+yapı kredi yayınları,masumiyet müzesi orhan pamuk - göğe bakma durağı turgut uyar,yapı kredi yayınları,kitap,0.9768254,0.9921875,0.275,0.0,0.0
+yapı kredi yayınları,uğurböceği sevecen ile salyangoz tomurcuk yıldız evi - balon macerası - futbol maçı +4 kitap,yapı kredi yayınları,kitap,0.873433,0.9423828,0.23636363636363641,0.0,0.0
+yapı kredi yayınları,kırmızı kanatlı baykuş (karton kapak),yapı kredi yayınları,kitap,0.8805799,0.63378906,0.3859649122807018,0.0,0.0
+yapı kredi yayınları,uğurböceği sevecen ile salyangoz kirpinin doğumgünü + 4 kitap & erika bartos,yapı kredi yayınları,kitap,0.9076167,0.9589844,0.2291666666666667,0.0,0.0
+yapı kredi yayınları,kış masalları,yapı kredi yayınları,kitap,0.9017469,0.9321289,0.48484848484848486,0.0,0.0
+yapı kredi yayınları,sara şahinkanat set 3 kitap ciltli - babamın battaniyesi üç kedi bir dilek,yapı kredi yayınları,kitap,0.80022115,0.3154297,0.2340425531914893,0.0,0.0
+yapı kredi yayınları,büyük dünya araştırması,yapı kredi yayınları,kitap,0.81873125,0.5546875,0.32558139534883723,0.0,0.0
+yapı kredi yayınları,adasız deniz / faruk duman / yapı kredi yayınları / 9789750865558,yapı kredi yayınları,kitap,0.91495186,0.8256836,1.0,1.0,1.0
+yapı kredi yayınları,gençler için nutuk,yapı kredi yayınları,kitap,0.9024617,0.86816406,0.2105263157894737,0.0,0.0
+yapı kredi yayınları,bir aşk masalı - ahmet ümit,yapı kredi yayınları,kitap,0.9260853,0.94970703,0.29787234042553196,0.0,0.0
+yapı kredi yayınları,misafir odası + yapışkanlı not kağıdı,yapı kredi yayınları,kitap,0.89696395,0.9589844,0.456140350877193,0.0,0.0
+yapı kredi yayınları,bir yeryüzü tanığı / ilhan berk / / 9789750815713,yapı kredi yayınları,kitap,0.87827325,0.76123047,0.27692307692307694,0.0,0.0
+iş güvenliği maske,qzer siyah 5 katlı ventilli ffp2 nr n95 maske 10 adet,medizer,süpermarket,0.92672783,0.99121094,0.43478260869565216,1.0,0.3333333333333333
+frank müller,| ql33w | klasik seri | tımer versiyon taş fırın seti | kırmızı,frank & müller germany,elektronik,0.97880286,0.9941406,0.26086956521739124,0.0,0.0
+su geçirmez bot,101 20117-f tomas gri outdoor bot,hammer jack,ayakkabı,0.939885,0.9692383,0.375,1.0,0.3333333333333333
+su geçirmez bot,2015 su geçirmez siyah erkek outdoor ayakkabı,scooter,ayakkabı,0.9176298,0.98291016,0.8461538461538461,0.0,0.6666666666666666
+su geçirmez bot,solognac erkek su geçirmez avcı botu - kahverengi - avcılık ve doğa gözlemi-crosshunt 140,decathlon,ayakkabı,0.8551697,0.88623047,0.8461538461538461,0.8,1.0
+su geçirmez bot,çocuk unisex camel kalın termo taban sıcak astarlı çift cırtlı bot,tonny black,ayakkabı,0.9513489,0.9819336,0.33333333333333326,1.0,0.3333333333333333
+su geçirmez bot,deri bej erkek su geçirmez tactical bot p1492nbj,scooter,ayakkabı,0.97658515,0.9921875,1.0,1.0,1.0
+su geçirmez bot,erkek watertight su geçirmez soğuğa dayanıklı outdoor ayakkabı bot,scooter,ayakkabı,0.9801675,0.9921875,1.0,1.0,1.0
+su geçirmez bot,tmk cırtlı füme pembe kız çocuk bot ayakkabı,celira,ayakkabı,0.79866475,0.8354492,0.33898305084745756,1.0,0.3333333333333333
+manyetik mıknatıslı oyuncak,manyetik miknatisli yariş araba-uçak garajli yapi blok oyuncaklari 72 parça büyük boy,shop,anne & bebek & çocuk,0.9767708,0.9848633,0.45714285714285713,0.4,0.6666666666666666
+oturma odası avizesi,2078-30 kr led krom avize,eray aydınlatma,ev & mobilya,0.9608348,0.99365234,0.4,0.4,0.3333333333333333
+erkek çocuk çizme,mini can erkek çocuk botu deri ve ortapedik,minican,ayakkabı,0.9727893,0.9892578,0.7857142857142857,0.0,0.0
+grimelange erkek,arnaldo erkek regular beyaz t-shirt,grimelange,giyim,0.9484747,0.87353516,0.4761904761904762,1.0,0.5
+grimelange erkek,adens erkek regular yumuşacık premium kumaş 3 iplik içi şardonlu lastikli paça lacivert eşofman altı,grimelange,giyim,0.87124044,0.42626953,0.4761904761904762,1.0,0.5
+grimelange erkek,gauci erkek beli lastikli yan ve arka cepli relaxed ekru şort,grimelange,giyim,0.911041,0.8125,0.4761904761904762,1.0,0.5
+grimelange erkek,vintage erkek kısa kollu yuvarlak yaka dokulu gofre kumaş regular fit pembe t-shirt,grimelange,giyim,0.8831548,0.85595703,0.4761904761904762,1.0,0.5
+grimelange erkek,internal erkek yumuşacık içi şardonlu rahat lastikli paçalı comfort şardonlu haki eşofman altı,grimelange,giyim,0.81213987,0.3869629,0.4761904761904762,1.0,0.5
+grimelange erkek,catwalk erkek %100 pamuk regular fit gri t-shirt,grimelange,giyim,0.9030716,0.8334961,0.4761904761904762,1.0,0.5
+grimelange erkek,abismo erkek kapüşonlu kanguru cepli kolları ve sırtı baskılı relaxed fit beyaz sweatshirt,grimelange,giyim,0.98181725,0.9658203,0.4761904761904762,1.0,0.5
+grimelange erkek,ramadanp004 erkek bej şort,grimelange,giyim,0.8923043,0.7451172,0.4761904761904762,1.0,0.5
+grimelange erkek,youri erkek beli lastikli arka tek cepli relaxed fit gri şort,grimelange,giyim,0.9453968,0.8857422,0.4761904761904762,1.0,0.5
+grimelange erkek,nael erkek bej t-shirt,grimelange,giyim,0.9146772,0.78222656,0.4761904761904762,1.0,0.5
+grimelange erkek,gilmar erkek şardonlu 3 iplik kapüşonlu kanguru cepli ekru sweatshirt,grimelange,giyim,0.99134773,0.9926758,0.4761904761904762,1.0,0.5
+grimelange erkek,jander erkek regular yumuşacık vanilya eşofman altı,grimelange,giyim,0.8270058,0.62646484,0.4761904761904762,1.0,0.5
+grimelange erkek,balfour erkek gri t-shirt,grimelange,giyim,0.93765944,0.96435547,0.4761904761904762,1.0,0.5
+grimelange erkek,lionel erkek kargo cepli beli lastikli comfort fit siyah şort,grimelange,giyim,0.9048196,0.76171875,0.4761904761904762,1.0,0.5
+grimelange erkek,travis erkek organik kumaşlı yumuşacık regular fit yuvarlak yakalı koyu yeşil sweatshirt,grimelange,giyim,0.9842267,0.98291016,0.4761904761904762,1.0,0.5
+grimelange erkek,divof erkek lastikli paça regular cepli haki eşofman altı,grimelange,giyim,0.79421926,0.2602539,0.4761904761904762,1.0,0.5
+grimelange erkek,dotti erkek beli lastikli kordonlu yanları cepli relaxed fit siyah eşofman altı,grimelange,giyim,0.8244697,0.13537598,0.4761904761904762,1.0,0.5
+grimelange erkek,patrick erkekm triko yakalı waffle özel dokulu kalın kumaşlı uzun kol bej t-shirt,grimelange,giyim,0.9593148,0.9404297,0.22680412371134026,0.4,0.0
+grimelange erkek,ramadanp008 erkek %100 pamuk baskılı ekru t-shirt,grimelange,giyim,0.83141893,0.56152344,0.4761904761904762,1.0,0.5
+grimelange erkek,edison erkek yarım fermuarlı kolu baskılı dik yaka koyu gri sweatshirt,grimelange,giyim,0.98588765,0.98535156,0.4761904761904762,1.0,0.5
+grimelange erkek,natas erkek regular fit 3 iplik şardonlu yuvarlak yakalı etiket detaylı siyah sweatshirt,grimelange,giyim,0.9878727,0.98876953,0.4761904761904762,1.0,0.5
+grimelange erkek,youri erkek beli lastikli arka tek cepli relaxed fit lila şort,grimelange,giyim,0.9159204,0.7714844,0.4761904761904762,1.0,0.5
+grimelange erkek,bernon erkek yumuşacık lastikli dar paça üç cepli organik pamuklu mavi eşofman altı,grimelange,giyim,0.8397004,0.31982422,0.4761904761904762,1.0,0.5
+grimelange erkek,zest erkek %100 pamuk oversize fit baskılı kısa kollu yuvarlak yakalı beyaz t-shirt,grimelange,giyim,0.9331796,0.8588867,0.4761904761904762,1.0,0.5
+grimelange erkek,gauci erkek beli lastikli yan ve arka cepli relaxed siyah şort,grimelange,giyim,0.9198748,0.83984375,0.4761904761904762,1.0,0.5

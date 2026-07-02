@@ -1,0 +1,81 @@
+=================================================================
+[A] VERİ + NEGATİFLER (v23 ile aynı, rng=42)...
+  962,873 ürün | 3,359,679 test çifti
+  ✓ train/test term_id disjoint (17,968 train, 32,185 test)
+  Train: 1,499,998 | pos=250,000
+  Neg kaynak: {'same_brand_diff_sub': 227144, 'same_main_category': 249998, 'diff_main_category': 607177, 'same_brand_diff_main': 114992, 'gender_conflict': 36733, 'age_conflict': 13954}
+  Süre: 85s
+
+[B] BERT SCORES (v23 cache)...
+  ✗ BERT train boyutu uyuşmuyor: 1499999 vs 1499998
+  Train BERT: 1,499,998 ✓ | Test BERT: 3,359,679 ✓
+
+[C] BERT GROUP FEATURES...
+  bert_grp_pct train mean: 0.506 | test mean: 0.505
+  → 1s
+
+[D] TY-ECOMM-EMBED FEATURES...
+  Embedding cache yükleniyor...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,499,998 (3%)
+    1,050,000/1,499,998 (70%)
+    1,499,998/1,499,998 (100%)
+  train_cos: min=0.185 max=0.997 mean=0.883
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos:  min=0.059 max=0.998 mean=0.887
+  tyembed_cos pozitifler için mean: 0.900 (negatifler: 0.880)
+  → TY-ecomm-embed features hazır | 0.4 dk
+
+[E] FEATURE ENGINEERING (44 feature)...
+  Train features: (1499998, 44) | 420s
+
+[F] BINARY LGBM 5-FOLD (iter=8000, early_stop=200)...
+  Fold 1 | iter=4940 | val F1≈0.9569
+  Fold 2 | iter=5599 | val F1≈0.9583
+  Fold 3 | iter=5817 | val F1≈0.9610
+  Fold 4 | iter=5712 | val F1≈0.9604
+  Fold 5 | iter=6351 | val F1≈0.9618
+
+  OOF F1=0.95961 | OOF thr=0.6950
+
+  Feature Önemleri (top 20):
+    bert_grp_pct             :  47032 ← YENİ
+    bert_grp_zscore          :  46763 ← YENİ
+    tyembed_rel_max          :  38466 ← YENİ
+    fuzz_basic               :  38281
+    tyembed_grp_max          :  37898 ← YENİ
+    tyembed_grp_zscore       :  37586 ← YENİ
+    fuzz_partial             :  37307
+    tyembed_grp_pct          :  37069 ← YENİ
+    tyembed_cos              :  36792 ← YENİ
+    fuzz_sort                :  35115
+    bert_rel_max             :  31690 ← YENİ
+    bert_score               :  27680
+    fuzz_set                 :  26922
+    tfidf_cos                :  26479
+    ana_kategori             :  24481
+    t_len                    :  22650
+    bert_grp_max             :  21657 ← YENİ
+    cat_overlap              :  13809
+    stem_cat_jac             :  13167
+    brand_weight             :  12316
+
+[G] TEST INFERENCE + SUBMISSION...
+  Direct thr=0.6950 → Pozitif=681,343 (20.3%)
+
+=================================================================
+TAMAMLANDI — v26 TY-ecomm-embed Features
+  OOF F1        : 0.95961
+  OOF threshold : 0.6950
+  Pozitif       : 681,343 (20.3%)
+  Train çifti   : 1,499,998
+  Feature sayısı: 44 (35 v23 + 4 bert_grp + 5 tyembed)
+  Toplam süre   : 40.3 dk
+  Dosya         : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v26_tyembed.csv
+=================================================================

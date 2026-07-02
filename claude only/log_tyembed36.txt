@@ -1,0 +1,34 @@
+CUDA available: True
+Torch device: cpu (forced)
+
+[A] Veri yükleniyor...
+  962,873 item | 17,968 train query | 32,185 test query
+[B] Metinler hazırlanıyor...
+  item örnekleri: ['erkek kumaş usb kulaklık çıkışlı bodybag göğüs ve omuz çantası - siyah - beyaz newish polo aksesuar', 'orijinal italyan charm bileklik kişiselleştirilebilir siyah-gümüş kalp charm hediyeli made in italy nomination aksesuar', 'kupa bardak alchemist high qivi ev & mobilya']
+  query örnekleri: ['reyyan eşarp', 'converse chuck taylor all star', 'tuvalet kapağı']
+
+[C] Model yükleniyor (sentence-transformers, CPU)...
+  BUG FIX uygulandı: position_ids[0:5]=[0, 1, 2, 3, 4]
+  ✓ sentence-transformers yüklendi (12.2s)
+  Model device: cpu
+  Max seq length: 384
+  Test encode...
+  ✓ Test encode OK: shape=(2, 768), dtype=float32 (0.14s)
+  Örnek norm: 1.0000 (1.0 olmalı)
+
+[D] ITEM EMBEDDİNGLERİ (962,873 item)...
+  items: 962,873 → speed=106 item/s
+  → (962873, 768) | 151.6 dk
+  Kaydedildi: C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache\item_embs_tyembed.npy
+
+[E] TRAIN QUERY EMBEDDİNGLERİ (17,968)...
+  train_q: 17,968 → speed=349 item/s
+  → (17968, 768) | 0.9 dk
+  Kaydedildi: C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache\train_q_embs_tyembed.npy
+
+[F] TEST QUERY EMBEDDİNGLERİ (32,185)...
+  test_q: 32,185 → speed=354 item/s
+  → (32185, 768) | 1.5 dk
+  Kaydedildi: C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache\test_q_embs_tyembed.npy
+
+[G] KALİTE KONTROLÜ...

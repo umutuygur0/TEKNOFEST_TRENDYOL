@@ -1,0 +1,77 @@
+=================================================================
+[A] VERİ + NEGATİFLER (v23 ile aynı, rng=42)...
+  962,873 ürün | 3,359,679 test çifti
+  ✓ train/test term_id disjoint (17,968 train, 32,185 test)
+  Train: 1,499,998 | pos=250,000
+  Neg kaynak: {'same_brand_diff_sub': 227144, 'same_main_category': 249998, 'diff_main_category': 607177, 'same_brand_diff_main': 114992, 'gender_conflict': 36733, 'age_conflict': 13954}
+  Süre: 86s
+
+[B] BERT SCORES (v23 cache)...
+  ✗ BERT train boyutu uyuşmuyor: 1499999 vs 1499998
+  Train BERT: 1,499,998 ✓ | Test BERT: 3,359,679 ✓
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan)...
+  Embedding cache yükleniyor...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,499,998 (3%)
+    1,050,000/1,499,998 (70%)
+    1,499,998/1,499,998 (100%)
+  train_cos: min=0.185 max=0.997 mean=0.883
+  tyembed_cos pos mean: 0.900 (neg: 0.880)
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos:  min=0.059 max=0.998 mean=0.887
+  → TY-ecomm-embed cosine hazır | 0.4 dk
+
+[D] FEATURE ENGINEERING (36 feature: 35 v23 + tyembed_cos)...
+  Train features: (1499998, 36) | 415s
+
+[E] BINARY LGBM 5-FOLD (iter=8000, early_stop=200)...
+  Fold 1 | iter=6504 | val F1≈0.9526
+  Fold 2 | iter=6641 | val F1≈0.9525
+  Fold 3 | iter=6794 | val F1≈0.9564
+  Fold 4 | iter=6871 | val F1≈0.9543
+  Fold 5 | iter=6696 | val F1≈0.9569
+
+  OOF F1=0.95446 | OOF thr=0.7300
+
+  Feature Önemleri (top 20):
+    tyembed_cos              : 100682 ← YENİ
+    bert_score               :  95242
+    fuzz_basic               :  73646
+    fuzz_partial             :  69336
+    fuzz_sort                :  66349
+    fuzz_set                 :  52277
+    tfidf_cos                :  52133
+    t_len                    :  41853
+    ana_kategori             :  35520
+    cat_overlap              :  26192
+    stem_cat_jac             :  25382
+    brand_weight             :  25014
+    attr_jac_fixed           :  22448
+    stem_jaccard             :  17369
+    jaccard                  :  14106
+    t_cov_query              :  13948
+    q_len                    :  12471
+    weighted_q_cov           :  10984
+    head_in_cat              :   8676
+    brand_tok_ovlp           :   8582
+
+[F] TEST INFERENCE + SUBMISSION...
+  Direct thr=0.7300 → Pozitif=934,208 (27.8%)
+
+=================================================================
+TAMAMLANDI — v27 TY-ecomm-embed Raw Cosine
+  OOF F1        : 0.95446
+  OOF threshold : 0.7300
+  Pozitif       : 934,208 (27.8%)
+  Train çifti   : 1,499,998
+  Feature sayısı: 36 (35 v23 + tyembed_cos)
+  Toplam süre   : 42.9 dk
+  Dosya         : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v27_tyembed_rawcos.csv
+=================================================================

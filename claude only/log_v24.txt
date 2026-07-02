@@ -1,0 +1,53 @@
+Device: cuda
+=================================================================
+[A] VERİ + NEGATİFLER (v23 ile aynı, rng=42)...
+  962,873 ürün | 3,359,679 test
+  ✓ train/test term_id disjoint (17,968 train, 32,185 test)
+  Train (v23 neg): 1,499,999 | pos=250,000
+  Süre: 134s
+
+[B] TFIDF HARD NEGATIVES (scipy sparse)...
+  Cache'den yükleniyor...
+  Hard neg: 179,680
+  ✓ Hard neg leak kontrolü: 0 pozitif sızıntı
+
+[C] BERT INFERENCE (BM25 hard neg + v23 cache)...
+  v23 train BERT: 1,499,999 ✓
+  v23 test BERT : 3,359,679 ✓
+  BERT inference: 179,680 BM25 hard neg çifti...
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|##########| 201/201 [00:00<00:00, 7365.37it/s]
+    bm25neg 51,200/179,680
+    bm25neg 102,400/179,680
+    bm25neg 153,600/179,680
+  → bert_scores_v24_bm25neg.npy kaydedildi | 2.0 dk
+  BM25 neg BERT: 179,680 ✓
+
+[E] EĞİTİM VERİSİ BİRLEŞTİRME...
+  Toplam train: 1,679,679 | pos=250,000
+  Hard neg eklendi: +179,680
+
+[F] FEATURE ENGINEERING (36 özellik)...
+  Train features: (1679679, 35) | 466s
+
+[G] BINARY LGBM 5-FOLD...
+  Fold 1 | iter=2000 | val F1≈0.9180
+  Fold 2 | iter=2000 | val F1≈0.9208
+  Fold 3 | iter=2000 | val F1≈0.9230
+  Fold 4 | iter=2000 | val F1≈0.9231
+  Fold 5 | iter=2000 | val F1≈0.9204
+
+  OOF F1=0.92100 | OOF thr=0.7950
+  Süre: 3.6 dk
+
+[H] TEST INFERENCE + SUBMISSION...
+  Direct thr=0.7950 → Pozitif=820,391 (24.4%)
+
+=================================================================
+TAMAMLANDI — v24 BM25 Hard Negatives
+  OOF F1        : 0.92100
+  OOF threshold : 0.7950 (doğrudan test'e uygulandı)
+  Pozitif       : 820,391 (24.4%)
+  Train çifti   : 1,679,679 (+179,680 TF-IDF hard neg)
+  Toplam süre   : 32.5 dk
+  Dosya         : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v24_bm25neg.csv
+=================================================================

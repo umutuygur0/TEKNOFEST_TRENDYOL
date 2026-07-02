@@ -1,0 +1,178 @@
+======================================================================
+DERİN VERİ ANALİZİ — Trendyol 2026
+======================================================================
+
+[1] VERİ YÜKLENİYOR...
+  items.csv       : 962,873 ürün
+  terms.csv       : 50,153 sorgu
+  training_pairs  : 250,000 çift (hepsi pozitif)
+  submission_pairs: 3,359,679 çift
+  Train term_id   : 17,968
+  Test term_id    : 32,185
+  Train-test OVERLAP: 0 ← ✓ sıfır (iyi)
+
+[2] QUERY YAPISI ANALİZİ
+  [Train queries]
+    Ortalama uzunluk: 2.60 token
+    Medyan          : 2 token
+    1-kelime        : 1723 (9.6%)
+    2-kelime        : 7504 (41.8%)
+    3-kelime        : 5899 (32.8%)
+    4+kelime        : 2842 (15.8%)
+  [Test queries]
+    Ortalama uzunluk: 2.63 token
+    1-kelime        : 3128 (9.7%)
+    2-kelime        : 13064 (40.6%)
+
+[3] LABEL DENSITY (train pozitif başına)
+  Train: term başına ortalama pozitif: 13.91
+  Train: term başına medyan pozitif  : 7.0
+  Train: tek pozitifli term          : 2067 (11.5%)
+  Train: 5+ pozitifli term           : 11420 (63.6%)
+  Train: 10+ pozitifli term          : 7173
+
+  Test: term başına ortalama aday    : 104.4
+  Test: term başına medyan aday      : 100
+  Test: min aday                     : 100
+  Test: max aday                     : 3680
+  Test: 10+ aday olan term           : 32185 (100.0%)
+  Test: 100+ aday olan term          : 32185
+
+[4] UNLABELED POSITIVE RİSKİ (v24 hard neg sorusu)
+  v24 hard neg pairs: 179,680
+  Hard neg (sample=20,000) token örtüşme:
+    Ortalama      : 0.644
+    Medyan        : 0.667
+    >0.5 (riskli) : 10723 (53.6%)
+    >0.8 (çok riskli): 5865 (29.3%)
+    == 1.0 (tam eşleşme): 5837 (29.2%)
+
+  TAHMİN: Hard neg içinde unlabeled positive oranı
+    Token örtüşme>0.8 çiftlerin %'si yüksek riskli
+    Riskli çift sayısı: ~96,335
+    Eğer %5'i gerçek pozitif olsa: 8,984 gürültü
+    Bu durum OOF'u ~0.048 düşürebilir (gözlemlenen: 0.9685→0.9210)
+
+[5] TEST PROBA DAĞILIMI (v23 vs v24)
+  v23 test proba (n=3,359,679):
+    Ortalama         : 0.3116
+    Medyan           : 0.0026
+    >0.775 (thr=v23) : 937,617 (27.9%)
+    0-0.2 band       : 2,188,576 (65.1%)
+    0.2-0.8 belirsiz : 246,673 (7.3%)
+    0.8-1.0 band     : 924,430 (27.5%)
+    Percentiles: {0: '0.000', 1: '0.000', 5: '0.000', 10: '0.000', 25: '0.000', 50: '0.003', 75: '0.909', 90: '0.998', 95: '0.999', 99: '1.000', 100: '1.000'}
+
+  v24 test proba (n=3,359,679):
+    Ortalama         : 0.2918
+    Medyan           : 0.0034
+    >0.795 (thr=v24) : 820,391 (24.4%)
+    0-0.2 band       : 2,213,231 (65.9%)
+    0.2-0.8 belirsiz : 330,756 (9.8%)
+    0.8-1.0 band     : 815,692 (24.3%)
+
+  v23 vs v24 KARŞILAŞTIRMA:
+    v23 pozitif (thr=0.775): 937,617 (27.9%)
+    v24 pozitif (thr=0.795): 820,391 (24.4%)
+    v23=0 → v24=1 flip: 14,216
+    v23=1 → v24=0 flip: 131,442
+    Net flip: -117,226
+
+[6] ITEM METADATA KALİTESİ
+  Toplam ürün           : 962,873
+  brand='unknown'       : 3 (0.0%)
+  brand dolu            : 962,870
+  gender='unknown'      : 590,714 (61.3%)
+  age_group='unknown'   : 572,028 (59.4%)
+  attributes dolu       : 943,848 (98.0%)
+  category derinlik (/) : 2.80 ortalama seviye
+
+  Gender dağılımı:
+    unknown        : 590,714 (61.3%)
+    kadın          : 192,045 (19.9%)
+    erkek          : 99,433 (10.3%)
+    unisex         : 80,681 (8.4%)
+
+  Age group dağılımı:
+    unknown             : 572,028 (59.4%)
+    yetişkin            : 280,876 (29.2%)
+    çocuk               : 52,876 (5.5%)
+    genç                : 31,246 (3.2%)
+    bebek               : 18,426 (1.9%)
+    bebek & çocuk       : 7,421 (0.8%)
+
+  Ana kategori (L1) dağılımı (top 10):
+    ev & mobilya                       : 251,121
+    giyim                              : 169,064
+    aksesuar                           : 98,686
+    ayakkabı                           : 85,418
+    elektronik                         : 80,181
+    kozmetik & kişisel bakım           : 51,633
+    süpermarket                        : 47,551
+    otomobil & motosiklet              : 35,915
+    anne & bebek & çocuk               : 23,745
+    banyo yapı & hırdavat              : 23,595
+
+[7] POZİTİF ÇİFT ÖRTÜŞME ANALİZİ
+  Pozitif örneklem (n=5,000):
+    Token overlap=0  : 1118 (22.4%) ← sıfır örtüşme pozitif!
+    Token overlap=1  : 1785 (35.7%)
+    Token overlap>=2 : 2097 (41.9%)
+    Query coverage   : ortalama 0.542, medyan 0.500
+    qcov < 0.5       : 1722 (34.4%) ← zor vakalar
+    qcov = 0         : 1118 (22.4%) ← semantik gap
+
+  Sıfır overlap pozitif örnekler (top 10):
+    Q: soundbar                                 | T: hw-q990f 11.1.4 kanal soundbar
+    Q: led spot                                 | T: wall led - 18 w slim led panel 1 adet wll-2018.
+    Q: 10x15 fotoğraf albümü                    | T: 10x15 fotoğraf albümü tüm renkler
+    Q: rani mobilya çalışma masası              | T: rani ha115 çekmeceli kitaplıklı çalışma ofis bilgi
+    Q: askılık                                  | T: ayaklı askılık konfeksiyon askısı metal konfeksiyo
+    Q: derz temizleyici                         | T: basınçlı buharlı temizleyici mutfak fayans ocak de
+    Q: bayan ayakkabısı                         | T: unisex kışlık mevsimlik sneaker rahat taban günlük
+    Q: timberland sneaker                       | T: 2 eye boat erkek spor ayakkabı
+    Q: çiçeklik                                 | T: sepetten sarkan sevimli tavşanlar dekoratif saksı
+    Q: duvar askı                               | T: duvar kancası 10 adet 25 cm duvar ve suntaya monte
+
+[8] OOF-TEST GAP ÖZET TABLOSU
+  ------------------------------------------------------------
+  Versiyon   OOF F1     Test F1    Gap        Not
+  ------------------------------------------------------------
+  v22            0.9704       0.83     0.1404  same_brand_diff_main + head features
+  v23            0.9686       0.84     0.1286  bert_v23 retrain + 5 neg/pos + direct thr
+  v24            0.9210       0.79     0.1310  TF-IDF hard neg 180K — REGRESSION
+  ------------------------------------------------------------
+
+  Gap v22→v23: 0.140 → 0.129 (kapandı +0.011)
+  Gap v23→v24: 0.129 → 0.131 (AÇILDI -0.002) — hard neg işe yaramadı
+
+[9] V24 BAŞARISIZLIK KÖK NEDENİ
+
+  v24 yaklaşımı: TF-IDF cosine ile text-benzer ama label=0 item seç → hard neg
+
+  NEDEN BAŞARISIZ OLDU:
+
+  A) Gürültülü hard negatives
+     - TF-IDF text-benzer ama label=0 → bu çiftlerin bir kısmı GERÇEKTE POZİTİF
+     - training_pairs.csv seyrek etiketlidir (250K çift / 17,968 query = ~14 pos/query)
+     - Katalogda çok daha fazla unlabeled positive var
+     - Model yanlış etiket öğrendi → konfüzyon → OOF 0.048 düştü
+
+  B) Underfitting
+     - 1.5M → 1.68M çift (+12%) ama iter=2000 SABİT kaldı
+     - 5 foldun 5'i de iter=2000'e erişti (early stopping HİÇ tetiklenmedi)
+     - Model yeterince öğrenemedi → test performansı düştü
+
+  C) Gap kapanmadı
+     - Gap: 0.129 → 0.131 (kötüleşti)
+     - Hard negatives test dağılımını yansıtmıyor
+     - Test'teki gerçek hard negatives: brand-specific, semantic-shift, synonym
+     - TF-IDF bunları tam yakalayamıyor
+
+  D) Pozitif oranı düştü: %16.7 → %14.9
+     - Model az pozitifle öğreniyor → recall azalıyor
+     - Macro F1'de her iki sınıf eşit önem → recall düşmesi ağır bedel
+
+
+[Toplam süre: 0.7 dk]
+======================================================================

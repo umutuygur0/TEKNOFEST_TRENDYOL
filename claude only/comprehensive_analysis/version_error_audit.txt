@@ -1,0 +1,97 @@
+======================================================================
+VERSİYON HATA DENETİMİ
+======================================================================
+
+[1] VERİ YÜKLENİYOR...
+  962,873 ürün | 3,359,679 test çifti yüklendi
+
+[2] PROBA DOSYALARI...
+  v23: 937,617 pozitif (27.9%)
+  v24: 820,391 pozitif (24.4%)
+
+[3] FLIP ANALİZİ (v23→v24 değişen tahminler)
+  v23=0→v24=1 (yeni pozitif)  : 14,216
+  v23=1→v24=0 (kaybedilen pos): 131,442
+  Her ikisi de pozitif        : 806,175
+  Her ikisi de negatif        : 2,407,846
+  Net değişim: -117,226 (azaldı)
+
+[4] KATEGORİ BAZLI DEĞİŞİM
+  [Kaybedilen pozitifler v23→v24 (flip 1→0)]
+    ev & mobilya                       : 31,895 (24.3%)
+    elektronik                         : 21,992 (16.7%)
+    giyim                              : 11,936 (9.1%)
+    süpermarket                        : 10,354 (7.9%)
+    kozmetik & kişisel bakım           : 10,311 (7.8%)
+    aksesuar                           : 9,776 (7.4%)
+    otomobil & motosiklet              : 5,884 (4.5%)
+    ayakkabı                           : 5,288 (4.0%)
+    anne & bebek & çocuk               : 4,928 (3.7%)
+    kitap                              : 3,645 (2.8%)
+
+  [Yeni pozitifler v23→v24 (flip 0→1)]
+    ev & mobilya                       : 3,207 (22.6%)
+    giyim                              : 2,521 (17.7%)
+    aksesuar                           : 1,347 (9.5%)
+    ayakkabı                           : 1,259 (8.9%)
+    elektronik                         : 1,151 (8.1%)
+    kozmetik & kişisel bakım           : 930 (6.5%)
+    süpermarket                        : 725 (5.1%)
+    otomobil & motosiklet              : 597 (4.2%)
+    hobi & eğlence                     : 395 (2.8%)
+    bahçe & elektrikli el aletleri     : 379 (2.7%)
+
+[5] PROBA DAĞILIM KARŞILAŞTIRMASI
+  Percentile tablosu (v23 vs v24):
+  Pct   v23      v24      fark    
+  ------------------------------
+      1   0.0000   0.0000  +0.0000
+      5   0.0000   0.0001  +0.0000
+     10   0.0001   0.0001  +0.0001
+     25   0.0002   0.0003  +0.0001
+     50   0.0026   0.0034  +0.0008
+     75   0.9087   0.7735  -0.1352
+     90   0.9977   0.9877  -0.0100
+     95   0.9992   0.9965  -0.0026
+     99   0.9998   0.9993  -0.0005
+
+  Belirsiz band (0.3-0.7):
+    v23: 149,043 (4.4%)
+    v24: 195,634 (5.8%)
+  → v24 daha az kesin değil (+46,591 fark)
+
+[6] BERT SCORE COVERAGE ANALİZİ
+  Test BERT scores (n=3,359,679):
+    <0.1 (çok düşük): 2,441,593 (72.7%) ← model kaçırdı
+    0.1-0.5 (orta)  : 29,720 (0.9%)
+    0.5-0.9 (yüksek): 47,010 (1.4%)
+    >0.9 (çok yüksek): 841,356 (25.0%)
+
+  BERT>0.7 ama v23=0 (potansiyel FP, eşik geçemedi): 27,044
+  BERT>0.7 ve v23=1 (tahmin edilen pozitif): 851,379
+  BERT<0.3 ama v23=1 (diğer sinyallerle pozitif): 74,547
+
+  ÖNEMLİ: BERT<0.1 olan 2,441,593 çiftte model gerçekten kör
+    Bu çiftler: semantik alias, synonym, brand-product-type gap
+    TY-ecomm-embed bunları kısmen çözebilir (domain fine-tuned)
+
+[7] TÜM VERSİYONLAR ÖZET TABLO
+
+  ┌────────┬────────────┬────────────────────────────┬────────┬────────┐
+  │Versiyon│ Yaklaşım   │ Ana Fark                   │ OOF    │ Kaggle │
+  ├────────┼────────────┼────────────────────────────┼────────┼────────┤
+  │ v1     │ BM25 top-K │ Retrieval (yanlış çerçeve) │  N/A   │  0.48  │
+  │ v2     │ LightGBM   │ 16 feature, threshold opt  │  0.964 │  0.48  │
+  │ v3     │ MiniLM     │ Zero-shot embedding        │  N/A   │  0.45  │
+  │ v5     │ E5 finetune│ Embedding collapse          │  N/A   │  0.43  │
+  │ v6     │ Cat KNN    │ Category + overlap         │  N/A   │  0.47  │
+  │ v8     │ Brand+BM25 │ Structured signals         │  N/A   │  0.47  │
+  │ v9     │ XLM-R      │ Cross-query negatives      │  N/A   │  0.49  │
+  │ v21    │ LambdaRank │ Leak-free + dense embed    │  ~0.87 │  ~0.71 │
+  │ v22    │ LGBMClass  │ BERT feat + head features  │  0.9704│  0.83  │
+  │ v23    │ LGBMClass  │ bert_v23 + direct thr      │  0.9686│  0.84  │
+  │ v24    │ LGBMClass  │ TF-IDF hard neg 180K       │  0.9210│  0.79  │
+  └────────┴────────────┴────────────────────────────┴────────┴────────┘
+
+[Toplam süre: 1.0 dk]
+======================================================================

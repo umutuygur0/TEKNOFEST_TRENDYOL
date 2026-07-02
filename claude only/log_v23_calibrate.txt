@@ -1,0 +1,35 @@
+=================================================================
+[A] VERİ + NEGATİFLER (v23 ile aynı, rng=42)...
+  962,873 ürün | 3,359,679 test
+  Train: 1,499,999 | pos=250,000
+
+[B] BERT SCORES (cache)...
+  Train BERT: 1,499,999 ✓
+  Test BERT : 3,359,679 ✓
+
+[C] FEATURE ENGINEERING...
+  Train features: (1499999, 35) | 421.4s
+
+[D] BINARY LGBM 5-FOLD...
+  Fold 1 | iter=1974 | val F1≈0.9639
+  Fold 2 | iter=1998 | val F1≈0.9675
+  Fold 3 | iter=1998 | val F1≈0.9710
+  Fold 4 | iter=2000 | val F1≈0.9706
+  Fold 5 | iter=1979 | val F1≈0.9700
+
+  OOF F1=0.96857 | OOF thr=0.7750
+
+[E] TEST INFERENCE + DIRECT THRESHOLD...
+  Raw test proba kaydedildi: v23_test_proba.npy
+
+  Direct thr=0.7750 → Pozitif=937,617 (27.9%)
+  Quantile thr=0.9892 → Pozitif=578,275 (17.2%) [referans: eski yöntem]
+
+=================================================================
+TAMAMLANDI — v23 Calibrated (Direct Threshold)
+  OOF F1        : 0.96857
+  OOF threshold : 0.7750 (doğrudan test'e uygulandı)
+  Pozitif       : 937,617 (27.9%)
+  Toplam süre   : 28.8 dk
+  Dosya         : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v23_calibrated.csv
+=================================================================

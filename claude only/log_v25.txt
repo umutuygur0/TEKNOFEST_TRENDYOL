@@ -1,0 +1,66 @@
+=================================================================
+[A] VERİ + NEGATİFLER (v23 ile aynı, rng=42)...
+  962,873 ürün | 3,359,679 test çifti
+  ✓ train/test term_id disjoint (17,968 train, 32,185 test)
+  Train: 1,499,998 | pos=250,000
+  Neg kaynak: {'same_brand_diff_sub': 227144, 'same_main_category': 249998, 'diff_main_category': 607177, 'same_brand_diff_main': 114992, 'gender_conflict': 36733, 'age_conflict': 13954}
+  Süre: 98s
+
+[B] BERT SCORES (v23 cache)...
+  ✗ BERT train boyutu uyuşmuyor: 1499999 vs 1499998
+  → Negatif boyutu farklı olabilir. Devam ediliyor...
+  Train BERT: 1,499,998 ✓
+  Test BERT : 3,359,679 ✓
+
+[C] BERT GROUP FEATURES...
+  Train bert_grp_pct: mean=0.506
+  Test  bert_grp_pct: mean=0.505
+  → BERT group features hazır | 2s
+
+[E] FEATURE ENGINEERING (39 feature)...
+  Train features: (1499998, 39) | 413s
+
+[F] BINARY LGBM 5-FOLD (iter=8000, early_stop=200)...
+  Fold 1 | iter=5582 | val F1≈0.9572
+  Fold 2 | iter=5856 | val F1≈0.9580
+  Fold 3 | iter=6190 | val F1≈0.9609
+  Fold 4 | iter=6126 | val F1≈0.9597
+  Fold 5 | iter=6113 | val F1≈0.9617
+
+  OOF F1=0.95950 | OOF thr=0.7300
+
+  Feature Önemleri (top 20):
+    bert_grp_zscore          :  66265 ← YENİ
+    bert_grp_pct             :  66225 ← YENİ
+    fuzz_basic               :  58718
+    fuzz_partial             :  53981
+    fuzz_sort                :  52240
+    bert_rel_max             :  44778 ← YENİ
+    fuzz_set                 :  40062
+    tfidf_cos                :  39481
+    bert_score               :  37655
+    t_len                    :  33265
+    bert_grp_max             :  32240 ← YENİ
+    ana_kategori             :  28015
+    cat_overlap              :  19596
+    stem_cat_jac             :  18550
+    brand_weight             :  17978
+    attr_jac_fixed           :  17198
+    stem_jaccard             :  13498
+    jaccard                  :  11050
+    t_cov_query              :  10881
+    q_len                    :   8977
+
+[G] TEST INFERENCE + SUBMISSION...
+  Direct thr=0.7300 → Pozitif=652,437 (19.4%)
+
+=================================================================
+TAMAMLANDI — v25 BERT Group Features (iter=8000)
+  OOF F1        : 0.95950
+  OOF threshold : 0.7300
+  Pozitif       : 652,437 (19.4%)
+  Train çifti   : 1,499,998
+  Feature sayısı: 39 (35 v23 + 4 BERT group)
+  Toplam süre   : 40.7 dk
+  Dosya         : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v25_bertgrp_iter8k.csv
+=================================================================
