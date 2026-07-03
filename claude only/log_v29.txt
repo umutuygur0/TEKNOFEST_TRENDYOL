@@ -1,0 +1,59 @@
+=================================================================
+[A] VERİ + NEGATİFLER (NEG_PER_POS=10, rng=42)...
+  962,873 urun | 3,359,679 test cifti | LEAK YOK
+  Train: 2,749,994 | pos=250,000
+  Neg kaynak: {'same_brand_diff_sub': 227158, 'same_main_category': 249999, 'diff_main_category': 1857174, 'same_brand_diff_main': 114976, 'gender_conflict': 36733, 'age_conflict': 13954}
+  Süre: 85s
+
+[B] BERT SCORES (v23 cache)...
+  Train BERT: 2,749,994 | Test BERT: 3,359,679
+
+[C] TY-ECOMM-EMBED COSINE...
+  Train cosine...
+    50,000/2,749,994 (2%)
+    1,050,000/2,749,994 (38%)
+    2,050,000/2,749,994 (75%)
+    2,749,994/2,749,994 (100%)
+  Test cosine...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  → 0.4 dk
+
+[D] FEATURE ENGINEERING (36 feature)...
+  Train features: (2749994, 36) | 745s
+
+[E] BINARY LGBM 5-FOLD (iter=8000, early_stop=200)...
+  Fold 1 | iter=8000 | val F1≈0.8599
+  Fold 2 | iter=8000 | val F1≈0.8648
+  Fold 3 | iter=8000 | val F1≈0.8673
+  Fold 4 | iter=8000 | val F1≈0.8704
+  Fold 5 | iter=8000 | val F1≈0.8703
+
+  OOF F1=0.86643 | OOF thr=0.7200
+
+  Feature Önemleri (top 10):
+    tyembed_cos              : 125618
+    fuzz_basic               :  90000
+    fuzz_partial             :  86844
+    fuzz_sort                :  78455
+    bert_score               :  76722
+    fuzz_set                 :  69427
+    tfidf_cos                :  60037
+    t_len                    :  49634
+    ana_kategori             :  49370
+    cat_overlap              :  33633
+
+[F] TEST INFERENCE + SUBMISSION...
+  thr=0.7200 → Pozitif=896,554 (26.7%)
+
+=================================================================
+TAMAMLANDI — v29 NEG_PER_POS=10
+  OOF F1        : 0.86643
+  OOF threshold : 0.7200
+  Pozitif       : 896,554 (26.7%)
+  Toplam süre   : 60.3 dk
+  Dosya         : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v29_moreneg10.csv
+=================================================================

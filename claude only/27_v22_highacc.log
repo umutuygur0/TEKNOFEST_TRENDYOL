@@ -1,0 +1,54 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | 44.1s
+
+[A2] Enhanced negatives üretiliyor (same_brand_diff_main dahil)...
+  Negatif kaynak: {'same_main_category': 248460, 'different_main_category': 335433, 'same_brand_diff_main': 115420, 'gender_conflict': 36733, 'age_conflict': 13954}
+  Train: 1,000,000 | pos=250,000 neg=750,000
+
+[B] BERT SCORES...
+  Device: cuda
+  bert_v21 model yükleniyor: C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\models\bert_v21
+  Train BERT inference (1,000,000 çift)...
+  → bert_scores_v22_train.npy | 11.6 dk
+  Test BERT cache'den: 3,359,679
+
+[C] FEATURE ENGINEERING...
+  Train features: (1000000, 32) | 286.0s
+
+[D] BINARY LGBM 5-FOLD...
+  Fold 1 | iter=956 | val F1≈0.9674
+  Fold 2 | iter=837 | val F1≈0.9687
+  Fold 3 | iter=904 | val F1≈0.9723
+  Fold 4 | iter=1011 | val F1≈0.9724
+  Fold 5 | iter=1391 | val F1≈0.9714
+
+  OOF F1=0.97039 | thr=0.6650
+
+  Feature Önemleri (top 15):
+    bert_score               :  14231
+    fuzz_partial             :  10467
+    fuzz_basic               :  10335
+    fuzz_sort                :   8839
+    fuzz_set                 :   8521
+    tfidf_cos                :   7048
+    ana_kategori             :   6783
+    t_len                    :   6615
+    cat_overlap              :   5578
+    stem_cat_jac             :   5356
+    q_len                    :   4218
+    attr_jac_fixed           :   3940
+    attr_q_cov               :   2548
+    weighted_q_cov           :   2456
+    stem_jaccard             :   2368
+
+[E] TEST INFERENCE + SUBMISSION...
+  Pozitif=878,288 (26.1%) | thr=0.8619
+
+=================================================================
+TAMAMLANDI — v22 High Accuracy
+  OOF F1      : 0.97039
+  Pozitif     : 878,288 (26.1%)
+  Toplam süre : 34.2 dk
+  Dosya       : C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v22_highacc.csv
+=================================================================

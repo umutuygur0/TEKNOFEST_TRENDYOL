@@ -1,0 +1,64 @@
+=================================================================
+[A0] TY-ECOMM EMBEDDINGS YUKLE + FAISS INDEX...
+  item_embs: (962873, 768) | train_q: (17968, 768)
+  FAISS IndexFlatIP: 962,873 items, dim=768
+  17,968 train sorgu icin top-60 NN arama...
+  FAISS arama tamamlandi: 28.7s
+
+[A] VERİ + NEGATİFLER (FAISS NN hard neg, rng=42)...
+  962,873 urun | 3,359,679 test cifti
+  train/test term_id disjoint: 17,968 train, 32,185 test
+  NN hard neg pool: 17,968 sorgu, ortalama pool=49.8 item
+  Train: 1,387,090 | pos=250,000
+  Neg kaynak: {'nn_hard_neg': 351183, 'same_brand_diff_sub': 227051, 'same_main_category': 233303, 'diff_main_category': 160984, 'same_brand_diff_main': 114853, 'gender_conflict': 36732, 'age_conflict': 12984}
+  NN hard neg orani: 30.9%
+  Süre: 112s
+
+[B] BERT SCORES (v23 cache)...
+  Train BERT: 1,387,090 | Test BERT: 3,359,679
+
+[C] TY-ECOMM-EMBED COSINE...
+  Train cosine...
+    50,000/1,387,090 (4%)
+    1,050,000/1,387,090 (76%)
+    1,387,090/1,387,090 (100%)
+  train_cos: pos mean=0.900 neg=0.902
+  Test cosine...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.887
+  → 0.3 dk
+
+[D] FEATURE ENGINEERING (36 feature)...
+  Train features: (1387090, 36) | 378s
+
+[E] BINARY LGBM 5-FOLD (iter=8000, early_stop=200)...
+  Fold 1 | iter=10922 | val F1≈0.8307
+  Fold 2 | iter=10753 | val F1≈0.8342
+  Fold 3 | iter=11691 | val F1≈0.8308
+  Fold 4 | iter=10959 | val F1≈0.8276
+  Fold 5 | iter=12214 | val F1≈0.8294
+
+  OOF F1=0.83054 | OOF thr=0.5850
+
+  Feature Önemleri (top 15):
+    tyembed_cos              : 180468
+    bert_score               : 137546
+    fuzz_basic               : 122572
+    fuzz_partial             : 112052
+    fuzz_sort                : 110795
+    tfidf_cos                :  93101
+    fuzz_set                 :  89953
+    t_len                    :  62345
+    ana_kategori             :  61509
+    cat_overlap              :  48653
+    brand_weight             :  44250
+    stem_cat_jac             :  43985
+    attr_jac_fixed           :  39433
+    stem_jaccard             :  28699
+    jaccard                  :  22652
+
+[F] TEST INFERENCE + SUBMISSION...

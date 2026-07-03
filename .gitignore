@@ -1,3 +1,6 @@
+# ============================================================
+# KAGGLE VERISI — re-download from Kaggle on new machine
+# ============================================================
 trendyol-e-ticaret-yarismasi-2026-kaggle.zip
 trendyol-e-ticaret-yarismasi-2026-kaggle/items.csv
 trendyol-e-ticaret-yarismasi-2026-kaggle/sample_submission.csv
@@ -5,46 +8,73 @@ trendyol-e-ticaret-yarismasi-2026-kaggle/submission_pairs.csv
 trendyol-e-ticaret-yarismasi-2026-kaggle/terms.csv
 trendyol-e-ticaret-yarismasi-2026-kaggle/training_pairs.csv
 
-# Local editor/assistant state
-.claude/
-.vscode/
-**/.vscode/
-
-# Python environments and caches
-.venv/
-**/.venv/
-__pycache__/
-**/__pycache__/
-*.py[cod]
-
-# Competition submissions and submit scripts
-**/submissions/
-**/submission*.csv
-**/*submission*.csv
-**/*submission*.py
-**/*submission*.ipynb
-
-# Generated model/cache artifacts
-checkpoints/
-**/models/
+# ============================================================
+# BUYUK DOSYALAR — yeni cihazda yeniden olustur
+# emb_cache: 16GB  → 36_tyembed_cpuonly.py ile
+# models:     6GB  → 28_v23_combined.py + 43_v30_bert_hardneg.py ile
+# ============================================================
 **/emb_cache/
 **/emb_cache_*/
-*.npy
-*.npz
-*.pkl
-*.joblib
+**/models/
 *.safetensors
 *.pt
 *.pth
 *.bin
 *.onnx
+checkpoints/
 
-# Archives and run logs
+# ============================================================
+# SUBMISSION CSV — 73MB/adet, git icin buyuk
+# AYRI TRANSFER ET: zip "claude only/submissions/*.csv"
+# ============================================================
+**/submission*.csv
+**/*submission*.csv
+**/*submission*.py
+**/*submission*.ipynb
+
+# ============================================================
+# KUCUK .npy — git'e aliniyor (proba + bert_scores, 6-15MB)
+# Yeni cihazda ensemble icin gerekli
+# ============================================================
+# Buyuk npy'ler hala exclude:
+**/emb_cache/*.npy
+**/bert_scores_v*_train.npy
+# Kucuk proba + test scores: INCLUDE (asagida !ile izin veriliyor)
+*.npz
+*.pkl
+*.joblib
+
+# ============================================================
+# PYTHON / EDITOR
+# ============================================================
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.claude/
+.vscode/
+**/.vscode/
+
+# ============================================================
+# ARSIVLER
+# ============================================================
 *.zip
-*.log
-*.err
 
-# Keep this submitted result package complete in git.
+# ============================================================
+# LOG DOSYALARI — include (yeni cihazda referans icin)
+# ============================================================
+# *.log ve *.err artik gitignored degil, git'e giriyor
+
+# ============================================================
+# ISTISNALAR — bu dosyalar her zaman git'e girer
+# ============================================================
+# Eski onemli submission paketi
 !0.68submission+0.71leakfree/
 !0.68submission+0.71leakfree/**/
 !0.68submission+0.71leakfree/**
+
+# Submission klasorundeki kucuk .npy proba dosyalari (13MB her biri)
+# ensemble icin gerekli, yeni cihazda rebuild etmek zor
+!"claude only/submissions/"
+!"claude only/submissions/*.npy"
