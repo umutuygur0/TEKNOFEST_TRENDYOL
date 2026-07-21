@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4900,1,brand query tp-link - router matches brand
+4901,1,brand query tp-link - extender matches brand
+4902,1,brand query tp-link - adapter matches brand
+4903,1,brand query tp-link - access point matches brand
+4904,1,brand query tp-link - mesh extender matches brand
+4905,1,brand query faberlic - perfume matches brand
+4906,1,brand query faberlic - edp matches brand
+4907,1,brand query faberlic - eye cream matches brand
+4908,1,brand query faberlic - night cream matches brand
+4909,1,brand query faberlic - perfume matches brand
+4910,1,query standley = stanley brand match - mug
+4911,1,query standley = stanley brand match - mug
+4912,1,query standley = stanley brand match - thermos
+4913,1,query standley = stanley brand match - thermos
+4914,1,query standley = stanley brand match - bottle
+4915,0,query karca brand - product brand storemax not karca
+4916,0,query karca brand - product brand zdrave not karca
+4917,0,query karca brand - product brand storemax not karca
+4918,0,query karca brand - product brand next oto not karca
+4919,0,query karca brand - product brand mena rise not karca
+4920,1,generic hırdavat query - tool bag matches
+4921,1,generic hırdavat query - socket screwdriver set matches
+4922,1,generic hırdavat query - tool set matches
+4923,1,generic hırdavat query - tool box matches
+4924,1,generic hırdavat query - plier set matches
+4925,0,query mclub brand - product brand md moda unrelated
+4926,0,query mclub brand - product brand microsoft xbox unrelated
+4927,0,query mclub brand - product brand gümrük bey ev charger unrelated
+4928,0,query mclub brand - product brand dyg home sofa cover unrelated
+4929,0,query mclub brand - product brand volta scooter unrelated
+4930,1,brand query gaggia - espresso machine matches
+4931,1,brand query gaggia - manual espresso machine matches
+4932,1,brand query gaggia - manual espresso machine matches
+4933,1,brand query gaggia - coffee machine matches
+4934,1,brand query gaggia - coffee machine matches
+4935,1,brand query photoderm - sunscreen line matches
+4936,1,brand query photoderm - sunscreen line matches
+4937,1,brand query photoderm - sunscreen line matches
+4938,1,brand query photoderm - sunscreen line matches
+4939,1,brand query photoderm - sunscreen line matches
+4940,1,query legı = lego brand match - building set
+4941,1,query legı = lego brand match - minifigures
+4942,0,query legı = lego but product is phone case brand canpay
+4943,0,query legı = lego but product is phone case brand canpay
+4944,0,query legı = lego but product is phone case brand canpay
+4945,1,generic kedi query - cat toy matches
+4946,1,generic kedi query - cat toy set matches
+4947,1,generic kedi query - plush cat toy matches
+4948,1,generic kedi query - cat toy ball matches
+4949,1,generic kedi query - cat fishing toy matches
+4950,1,merserize fabric query - tunic matches material
+4951,1,merserize fabric query - tunic matches material
+4952,1,merserize fabric query - tunic matches material
+4953,1,merserize fabric query - tunic matches material
+4954,1,merserize fabric query - shirt matches material
+4955,0,query yumurta - product is toy egg not real egg
+4956,1,yumurta query - quail egg matches
+4957,1,yumurta query - hatching quail egg matches
+4958,1,yumurta query - village egg matches
+4959,1,yumurta query - organic egg matches
+4960,1,brand query haktaş - nail gun matches
+4961,1,brand query haktaş - cordless nail gun matches
+4962,1,brand query haktaş - power tool matches
+4963,1,brand query haktaş - drill bit set matches
+4964,1,brand query haktaş - pruning shears matches
+4965,1,ballık(honey dish) query - honey/jam dish matches
+4966,1,ballık query - honey/jam dish matches
+4967,1,ballık query - honey/jam storage matches
+4968,0,ballık query but product is generic sugar bowl not honey dish
+4969,0,ballık query but product is generic sugar bowl not honey dish
+4970,1,kasak(kazak/sweater) query - sweater matches
+4971,1,kasak query - sweater matches
+4972,1,kasak query - sweater matches
+4973,1,kasak query - sweater matches
+4974,1,kasak query - sweater matches
+4975,1,brand query izocam - insulation matches
+4976,1,brand query izocam - pipe insulation matches
+4977,1,brand query izocam - glass wool matches
+4978,1,brand query izocam - roof insulation matches
+4979,1,brand query izocam - xps board matches
+4980,1,krapon(crepe paper) query - crepe paper matches
+4981,1,krapon query - crepe paper matches
+4982,1,krapon query - crepe paper matches
+4983,1,krapon query - crepe paper matches
+4984,1,krapon query - crepe paper matches
+4985,1,çekim(shooting) query - selfie/recording kit matches
+4986,1,çekim query - ring light for shooting matches
+4987,1,çekim query - product photo tent matches
+4988,1,çekim query - phone holder for video recording matches
+4989,1,çekim query - tripod for shooting matches
+4990,1,query 324 matches product number 324 perfume
+4991,1,query 324 matches product no.324 body mist
+4992,0,query 324 but product is perfume number 272
+4993,0,query 324 but product is perfume number 228
+4994,0,query 324 but product is perfume number 254
+4995,1,brand query clio - product brand clio car accessory
+4996,1,brand query clio - product brand clio clothing
+4997,1,brand query clio - product brand clio car accessory
+4998,1,brand query clio - product brand clio cosmetics
+4999,1,brand query clio - product brand clio cosmetics
+5000,1,künefe query - künefe dessert matches
+5001,1,künefe query - künefe dessert matches
+5002,1,künefe query - künefe dessert matches
+5003,1,künefe query - künefe dessert matches
+5004,1,künefe query - künefe dessert matches
+5005,1,komitatör(switch) query - light switch matches
+5006,1,komitatör query - light switch matches
+5007,1,komitatör query - light switch matches
+5008,1,komitatör query - switch/socket matches
+5009,1,komitatör query - lamp switch matches
+5010,1,brand query frigg - pacifier matches
+5011,1,brand query frigg - pacifier matches
+5012,1,brand query frigg - pacifier matches
+5013,1,brand query frigg - pacifier matches
+5014,1,brand query frigg - pacifier matches
+5015,1,brand query twingo - boots match
+5016,1,brand query twingo - boots match
+5017,1,brand query twingo - shoe matches
+5018,1,brand query twingo - slippers match
+5019,1,brand query twingo - slippers match
+5020,1,flamingo query - flamingo themed bedding matches
+5021,1,flamingo query - flamingo themed led string matches
+5022,1,flamingo query - flamingo figurine set matches
+5023,1,flamingo query - flamingo pattern socks matches
+5024,1,flamingo query - product brand is flamingo
+5025,1,brand query lattafa - perfume matches
+5026,1,brand query lattafa - perfume matches
+5027,1,brand query lattafa - perfume matches
+5028,1,brand query lattafa - perfume matches
+5029,1,brand query lattafa - perfume matches
+5030,1,consealer(concealer) query - concealer matches
+5031,1,consealer query - concealer matches
+5032,1,consealer query - concealer matches
+5033,1,consealer query - concealer matches
+5034,1,consealer query - concealer matches
+5035,1,brand query jejudo - sunscreen matches
+5036,1,brand query jejudo - collagen mask matches
+5037,1,brand query jejudo - tea tree gel matches
+5038,1,brand query jejudo - cream matches
+5039,0,brand query jejudo but product brand is sidra cosmetic
+5040,1,ruh(soul) query - book about spiritism/soul matches
+5041,0,ruh query but book is general religious text not soul topic
+5042,0,ruh query - unrelated foreign music album
+5043,0,ruh query - unrelated religious prayer book
+5044,0,ruh query - unrelated theology book
+5045,0,agata query - unrelated wax strips low relevance
+5046,0,agata query - unrelated wall poster
+5047,0,agata query - unrelated anime poster
+5048,0,agata query - unrelated coconut oil
+5049,0,agata query - unrelated gold necklace
+5050,1,güneşlik(sun curtain) query - sun curtain matches
+5051,1,güneşlik query - sun curtain matches
+5052,1,güneşlik query - sun curtain matches
+5053,1,güneşlik query - sun curtain matches
+5054,1,güneşlik query - sun curtain matches
+5055,0,karma(combination skin) query - unrelated microphone
+5056,0,karma skin query but product is for all skin types not karma
+5057,1,karma skin query - cleanser explicitly for karma cilt tipi
+5058,0,karma skin query but product is for all skin types not karma
+5059,0,karma skin query but product is for all skin types not karma
+5060,1,kamış(fishing rod) query - fishing rod matches
+5061,1,kamış query - fishing rod matches
+5062,1,kamış query - fishing rod matches
+5063,1,kamış query - fishing rod matches
+5064,1,kamış query - spin rod matches
+5065,1,450nk wiper size query - 450mm wiper set matches
+5066,0,450nk query but product is unrelated laptop keyboard
+5067,1,450nk wiper size query - 450mm wiper set matches
+5068,1,450nk wiper size query - 450mm wiper set matches
+5069,1,450nk wiper size query - 450mm wiper set matches
+5070,1,ivroşe(yves rocher) query - brand matches
+5071,1,ivroşe query - brand matches
+5072,1,ivroşe query - brand matches
+5073,1,ivroşe query - brand matches
+5074,1,ivroşe query - brand matches
+5075,1,brand query 3w(3w clinic) - sun cream matches
+5076,0,3w query but product is unrelated power inverter
+5077,1,brand query 3w clinic - sun cream matches
+5078,0,3w query but product brand is dalba not 3w clinic
+5079,1,brand query 3w clinic - sun cream matches
+5080,1,tandır(clay oven) query - bread maker matches
+5081,1,tandır query - electric tandır matches
+5082,1,tandır query - electric tandır matches
+5083,1,tandır query - electric tandır matches
+5084,1,tandır query - electric tandır matches
+5085,1,leydi(lady) query - brand lady saraylı drying rack matches
+5086,0,leydi query but product brand doğrular-perilla not lady
+5087,0,leydi query but product brand alya homes not lady
+5088,0,leydi query but product brand vileda not lady
+5089,0,leydi query but product brand lorenzo not lady
+5090,1,aronya query - aronia product matches
+5091,1,aronya query - aronia berry matches
+5092,1,aronya query - aronia paste matches
+5093,1,aronya query - dried aronia matches
+5094,1,aronya query - dried aronia matches
+5095,1,brand query berghoff - pot matches
+5096,1,brand query berghoff - pot matches
+5097,1,brand query berghoff - pot set matches
+5098,1,brand query berghoff - pot matches
+5099,1,brand query berghoff - pan matches
+5100,1,vino(caudalie vino line) query - vinoclean matches
+5101,1,vino query - vinosculpt matches
+5102,1,vino query - vinocrush matches
+5103,1,vino query - vinopure matches
+5104,1,vino query - vinohydra matches
+5105,0,okyanus(ocean) query - unrelated scissors
+5106,1,okyanus query - ocean algae bath set matches
+5107,0,okyanus query - unrelated olive liquid soap
+5108,0,okyanus query - unrelated olive flower soap
+5109,0,okyanus query - unrelated skincare kit
+5110,1,brand query squishmallows - plush figure matches
+5111,1,brand query squishmallows - plush figure set matches
+5112,1,brand query squishmallows - plush matches
+5113,1,brand query squishmallows - plush matches
+5114,1,brand query squishmallows - plush matches
+5115,1,breaknet query exact model match adidas breaknet 2.0
+5116,0,breaknet query but product is different adidas model grand court
+5117,0,breaknet query but product is different adidas model vl court
+5118,0,breaknet query but product is different adidas model grand court
+5119,0,breaknet query but product is different adidas model tensaur
+5120,1,manula(manuka) query - brand manuka pants matches
+5121,1,manula query - brand manuka pants matches
+5122,0,manula query but product is unrelated garden tools
+5123,0,manula query but product is unrelated cleaning cream
+5124,0,manula query but product is unrelated tongue cleaner
+5125,1,ps4 query - playstation 4 matches
+5126,1,ps4 query - playstation 4 matches
+5127,1,ps4 query - playstation 4 matches
+5128,1,ps4 query - playstation 4 matches
+5129,1,ps4 query - playstation 4 matches
+5130,1,bisküvi query - biscuit matches
+5131,1,bisküvi query - biscuit matches
+5132,1,bisküvi query - biscuit matches
+5133,1,bisküvi query - biscuit matches
+5134,1,bisküvi query - biscuit matches
+5135,1,kağıt(paper) query - printer paper matches
+5136,1,kağıt query - quilling paper matches
+5137,1,kağıt query - photocopy paper matches
+5138,1,kağıt query - photocopy paper matches
+5139,1,kağıt query - photocopy paper matches
+5140,1,iksir(elixir) query - collectible elixir set matches
+5141,1,iksir query - herbal elixir syrup matches
+5142,1,iksir query - herbal elixir syrup matches
+5143,1,iksir query - magic elixir lab toy matches
+5144,1,iksir query - product literally named iksir
+5145,0,perling query - no clear match to serum product
+5146,0,perling query - no clear match to serum product
+5147,0,perling query - no clear match to serum product
+5148,0,perling query - no clear match to serum product
+5149,0,perling query - no clear match to serum product
+5150,1,brand query marc - kitchen spray matches
+5151,1,brand query marc - washing machine cleaner matches
+5152,1,brand query marc - machine cleaner matches
+5153,0,marc query but product brand is scotch-brite not marc
+5154,1,brand query marc - bathroom spray matches
+5155,1,bijuteri(costume jewelry) query - necklace matches
+5156,1,bijuteri query - necklace matches
+5157,1,bijuteri query - bracelet matches
+5158,1,bijuteri query - necklace matches
+5159,1,bijuteri query - necklace matches
+5160,1,çaydanlık(teapot) query - teapot matches
+5161,1,çaydanlık query - teapot matches
+5162,1,çaydanlık query - teapot matches
+5163,1,çaydanlık query - teapot matches
+5164,1,çaydanlık query - teapot matches
+5165,1,küoe(küpe/earring) query - earring set matches
+5166,1,küoe query - earring matches
+5167,1,küoe query - earring set matches
+5168,1,küoe query - earring matches
+5169,1,küoe query - earring set matches
+5170,1,maytap query - book title contains maytap
+5171,0,maytap query - carbide product ambiguous not clear firecracker match
+5172,0,maytap query - unrelated children's book
+5173,0,maytap query - unrelated cinnamon powder
+5174,0,maytap query - unrelated chickpea chips
+5175,1,9070xt query exact gpu model match sapphire rx 9070 xt
+5176,0,9070xt query but product is different gpu rtx 4070 ti
+5177,0,9070xt query but product is different gpu rx580
+5178,0,9070xt query but product is different gpu rtx 5060 ti
+5179,0,9070xt query but product is different gpu rtx 5060 ti
+5180,1,brand query hais - pressure washer matches
+5181,1,brand query hais - pressure washer matches
+5182,1,brand query hais - pressure washer matches
+5183,1,brand query hais - power tool set matches
+5184,1,brand query hais - pressure washer matches
+5185,1,perwol(perwoll) query - detergent matches
+5186,1,perwol query - detergent set matches
+5187,1,perwol query - detergent matches
+5188,1,perwol query - detergent matches
+5189,1,perwol query - detergent matches
+5190,1,pkxd query - pk xd themed mug matches
+5191,0,pkxd query - unrelated usb drive
+5192,0,pkxd query - unrelated motorcycle knee cover
+5193,0,pkxd query - unrelated hygiene wipes
+5194,1,pkxd query - pk xd themed t-shirt matches
+5195,1,brand query jwin - organ matches
+5196,1,brand query jwin - organ matches
+5197,1,brand query jwin - organ matches
+5198,1,brand query jwin - digital piano matches
+5199,1,brand query jwin - digital piano matches
+5200,0,zıala query - unclear match to zimbabwe banknote
+5201,0,zıala query - unclear match to zimbabwe banknote
+5202,0,zıala query - unclear match to zimbabwe mug
+5203,0,zıala query - unclear match to stapled vest
+5204,0,zıala query - unclear match to stapler
+5205,1,süsleme(decoration) query - decoration accessory matches
+5206,1,süsleme query - decoration petals matches
+5207,1,süsleme query - balloon garland decoration matches
+5208,1,süsleme query - cake decoration matches
+5209,1,süsleme query - balloon garland decoration matches
+5210,1,brand query free-m - helmet matches
+5211,1,brand query free-m - helmet matches
+5212,1,brand query free-m - helmet matches
+5213,1,brand query free-m - helmet visor spare part matches
+5214,1,brand query free-m - helmet matches
+5215,1,brand query arora - scooter matches
+5216,1,brand query arora - moped matches
+5217,1,brand query arora - motorcycle matches
+5218,1,brand query arora - scooter matches
+5219,1,brand query arora - motorcycle matches
+5220,1,brand query yaparlar - shovel matches
+5221,1,brand query yaparlar - shovel matches
+5222,1,brand query yaparlar - axe matches
+5223,1,brand query yaparlar - axe matches
+5224,1,brand query yaparlar - shovel matches
+5225,1,ps5 query - playstation 5 matches
+5226,1,ps5 query - playstation 5 matches
+5227,1,ps5 query - playstation 5 matches
+5228,1,ps5 query - playstation 5 matches
+5229,1,ps5 query - playstation 5 matches
+5230,1,tinsel(hair tinsel) query - hair tinsel matches
+5231,1,tinsel query - hair tinsel matches
+5232,1,tinsel query - hair tinsel matches
+5233,1,tinsel query - hair tinsel matches
+5234,1,tinsel query - hair tinsel matches
+5235,1,brand query sambucol - supplement matches
+5236,1,brand query sambucol - supplement matches
+5237,1,brand query sambucol - syrup matches
+5238,1,brand query sambucol - tablet matches
+5239,1,brand query sambucol - tablet matches
+5240,1,brand query lamer - la mer cream matches
+5241,1,brand query lamer - la mer peel matches
+5242,1,brand query lamer - la mer lotion matches
+5243,1,brand query lamer - la mer lotion matches
+5244,1,brand query lamer - la mer sunscreen matches
+5245,0,egea(fiat egea) query but product is for renault megane
+5246,0,egea query but product is for ford fiesta
+5247,0,egea query but product is for opel corsa
+5248,0,egea query but product is for fiat linea not egea
+5249,0,egea query but product is for kia opirus

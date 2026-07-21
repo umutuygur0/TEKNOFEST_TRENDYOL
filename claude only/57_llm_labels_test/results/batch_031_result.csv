@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10850,1,matches kızartma tenceresi
+10851,1,fritöz kızartma tenceresi match
+10852,1,fritöz kızartma tenceresi match
+10853,1,fritöz emaye kızartma tenceresi
+10854,0,generic derin tencere not fritöz
+10855,1,bebek mama tabağı match
+10856,1,bebek tabak match
+10857,1,çocuk mama tabağı match
+10858,1,bebek tabak wee baby
+10859,1,bebek mama tabağı match
+10860,0,tv konsol no şömine
+10861,0,tv konsol no şömine
+10862,0,tv konsol no şömine
+10863,0,tv konsol no şömine
+10864,0,tv konsol no şömine
+10865,1,araç kamerası match
+10866,1,araç kamerası match
+10867,0,category is oto paspas not camera
+10868,1,araç içi kamera match
+10869,1,araç içi kamera match
+10870,1,duvar paneli match
+10871,1,duvar paneli match
+10872,1,duvar paneli match
+10873,1,duvar paneli match
+10874,1,duvar paneli match
+10875,1,calvin klein sweatshirt match
+10876,1,calvin klein sweatshirt match
+10877,1,calvin klein sweatshirt match
+10878,1,calvin klein sweatshirt match
+10879,1,calvin klein hoodie match
+10880,1,kol/omuz çantası match
+10881,1,omuz çantası close match
+10882,1,kol ve omuz çantası match
+10883,1,kol ve omuz çantası match
+10884,1,kol ve omuz çantası match
+10885,1,bağlama saz match
+10886,1,bağlama saz match
+10887,1,bağlama saz match
+10888,1,bağlama saz match
+10889,1,bağlama saz match
+10890,1,colin's yelek brand match
+10891,0,wrong brand calvin klein
+10892,0,wrong brand lumberjack
+10893,0,wrong brand lacoste
+10894,0,wrong brand chuba
+10895,1,şarjlı hava kompresörü match
+10896,1,şarjlı hava kompresörü match
+10897,1,şarjlı hava kompresörü match
+10898,1,şarjlı hava kompresörü match
+10899,1,şarjlı hava kompresörü match
+10900,1,gold sunum tepsisi match
+10901,1,gold sunum tepsisi match
+10902,1,gold sunum tepsisi match
+10903,1,gold sunum tepsisi match
+10904,1,gold sunum tepsisi match
+10905,1,hava üfleme makinesi match
+10906,1,hava üfleme makinesi match
+10907,1,hava üfleme makinesi match
+10908,1,akülü üfleme match
+10909,1,turbo üfleyici match
+10910,1,kapüşonlu sweatshirt match
+10911,0,bisiklet yaka not kapüşonlu
+10912,1,kapüşonlu sweatshirt match
+10913,0,bisiklet yaka not kapüşonlu
+10914,0,no kapüşon mentioned
+10915,0,wall clock not jersey
+10916,0,mug not jersey
+10917,0,wall clock not jersey
+10918,0,led lamp not jersey
+10919,0,wooden wall art not jersey
+10920,0,earrings not hat
+10921,0,coat not hat
+10922,0,shawl not hat
+10923,0,jacket not hat wrong brand
+10924,0,skirt/shorts not hat
+10925,1,macbook air m4 match
+10926,1,macbook air m4 match
+10927,1,macbook air m4 match
+10928,1,macbook air m4 match
+10929,1,macbook air m4 match
+10930,1,ordoveni tütsü match
+10931,1,ordoveni tütsü match
+10932,1,ordoveni tütsü match
+10933,1,ordoveni tütsü match
+10934,0,wrong brand not ordoveni
+10935,1,geçici dövme match
+10936,1,geçici dövme match
+10937,1,geçici dövme match
+10938,1,geçici dövme match
+10939,1,geçici dövme match
+10940,1,bisse gömlek match
+10941,1,bisse gömlek match
+10942,1,bisse gömlek match
+10943,1,bisse gömlek match
+10944,1,bisse gömlek match
+10945,1,prozinc şampuan match
+10946,1,prozinc şampuan match
+10947,1,prozinc şampuan match
+10948,0,wrong brand embeauty
+10949,0,wrong brand revox
+10950,1,dekoratif tabak match
+10951,1,dekoratif tabak match
+10952,1,dekoratif tabak match
+10953,1,dekoratif tabak match
+10954,1,dekoratif tabak match
+10955,1,lykd dudak parlatıcısı match
+10956,1,lykd dudak parlatıcısı match
+10957,1,lykd dudak parlatıcısı match
+10958,1,lykd dudak parlatıcısı match
+10959,1,lykd dudak parlatıcısı match
+10960,1,la roche posay brand match
+10961,1,la roche posay brand match
+10962,1,la roche posay brand match
+10963,1,la roche posay brand match
+10964,1,la roche posay brand match
+10965,1,elbise askılığı match
+10966,1,elbise askılığı match
+10967,1,elbise askılığı match
+10968,1,elbise askılığı match
+10969,1,elbise askılığı match
+10970,1,acı kahve topuklu bot match
+10971,1,acı kahve topuklu bot match
+10972,1,acı kahve topuklu bot match
+10973,1,acı kahve topuklu bot match
+10974,1,acı kahve topuklu bot match
+10975,1,lg tv match
+10976,1,lg tv match
+10977,0,phone screen part not tv
+10978,1,lg tv match
+10979,0,tv remote not tv itself
+10980,1,bebek mama masası match
+10981,1,bebek mama masası match
+10982,1,bebek mama masası match
+10983,1,bebek mama masası match
+10984,1,bebek mama masası match
+10985,0,unrelated egg timer
+10986,0,unrelated flour
+10987,0,unrelated lotion
+10988,0,unrelated coffee
+10989,0,unrelated t-shirt
+10990,1,kadın multivitamin match
+10991,1,kadın multivitamin match
+10992,1,kadın multivitamin match
+10993,1,kadın multivitamin match
+10994,1,kadın vitamin match
+10995,1,navimarine erkek saat match
+10996,1,navimarine erkek saat match
+10997,1,navimarine erkek saat match
+10998,1,navimarine erkek saat match
+10999,1,navimarine erkek saat match
+11000,1,salata maşası match
+11001,1,salata maşası match
+11002,1,salata maşası match
+11003,1,salata maşası match
+11004,1,salata maşası match
+11005,1,plazzo pantolon match
+11006,1,palazzo pantolon match
+11007,1,palazzo pantolon match
+11008,1,plazzo pantolon match
+11009,1,palazzo pantolon match
+11010,0,koltuk örtüsü not yatak örtüsü
+11011,0,koltuk örtüsü not yatak örtüsü
+11012,0,koltuk örtüsü not yatak örtüsü
+11013,0,koltuk örtüsü not yatak örtüsü
+11014,0,koltuk örtüsü not yatak örtüsü
+11015,1,aktif karbon kedi kumu match
+11016,1,aktif karbon kedi kumu match
+11017,1,aktif karbon kedi kumu match
+11018,1,aktif karbon kedi kumu match
+11019,1,aktif karbon kedi kumu match
+11020,1,macbook pro 14 inç kılıf match
+11021,1,macbook pro 14 inç kılıf match
+11022,1,macbook pro 14 inç kılıf match
+11023,1,macbook pro 14 inç kılıf match
+11024,1,macbook pro 14 inç kılıf match
+11025,1,whiskas kedi maması match
+11026,1,whiskas kedi maması match
+11027,1,whiskas kedi maması match
+11028,1,whiskas kedi maması match
+11029,1,whiskas kedi maması match
+11030,1,neutrogena yüz temizleme jeli match
+11031,1,neutrogena yüz temizleme jeli match
+11032,1,neutrogena yüz temizleme jeli match
+11033,1,neutrogena yüz temizleme jeli match
+11034,1,neutrogena yüz temizleme jeli match
+11035,1,çamaşır makinesi üstü düzenleyici match
+11036,1,çamaşır makinesi üstü düzenleyici match
+11037,1,çamaşır makinesi üstü düzenleyici match
+11038,1,çamaşır makinesi üstü düzenleyici match
+11039,1,çamaşır makinesi üstü düzenleyici match
+11040,0,finished cushion not fiber fabric
+11041,0,finished bedspread not fabric
+11042,0,dog toy not fabric
+11043,0,finished pillow not fabric
+11044,0,finished cushion not fabric
+11045,1,porland kahve fincanı match
+11046,1,porland kahve fincanı match
+11047,1,porland kahve fincanı match
+11048,1,porland kahve fincanı match
+11049,1,porland kahve fincanı match
+11050,1,ocaklı fırın match
+11051,1,ocaklı fırın match
+11052,1,ocaklı fırın match
+11053,0,built-in oven no stovetop
+11054,0,toy set not real appliance
+11055,1,bath water toy close match
+11056,0,soap dish not toy
+11057,0,sink strainer not toy
+11058,0,sink strainer not toy
+11059,0,drain stopper not toy
+11060,1,güç kaynağı psu match
+11061,1,ups güç kaynağı match
+11062,1,portable güç kaynağı match
+11063,1,güç kaynağı psu match
+11064,1,güç kaynağı psu match
+11065,1,bant makinesi match
+11066,1,bant makinesi match
+11067,1,bant kesme makinesi match
+11068,1,koli bantlama makinesi match
+11069,1,bant kesme makinesi match
+11070,1,milano x change saat match
+11071,1,milano x change saat match
+11072,1,milano x change saat match
+11073,1,milano x change saat match
+11074,1,milano x change saat match
+11075,1,360 derece döner berjer match
+11076,1,360 derece döner berjer match
+11077,1,swivel office chair match
+11078,1,swivel office chair match
+11079,0,fixed lounge chair not döner
+11080,1,oyuncak laptop match
+11081,1,oyuncak laptop match
+11082,1,oyuncak laptop match
+11083,1,eğitici laptop oyuncak match
+11084,1,eğitici laptop oyuncak match
+11085,0,wrong author not özcan aykın
+11086,0,wrong author not özcan aykın
+11087,0,wrong author not özcan aykın
+11088,0,wrong author not özcan aykın
+11089,0,wrong subject kimya not fizik
+11090,1,kore tarzı okul çantası match
+11091,1,kore tarzı okul çantası match
+11092,1,kore tarzı okul çantası match
+11093,1,kore tarzı okul çantası match
+11094,1,kore tarzı okul çantası match
+11095,1,defacto parka match
+11096,1,defacto parka match
+11097,1,defacto parka match
+11098,1,defacto parka match
+11099,1,defacto parka match
+11100,1,motorsiklet kışlık eldiven match
+11101,1,motorsiklet kışlık eldiven match
+11102,1,motorsiklet kışlık eldiven match
+11103,0,yazlık eldiven not kışlık
+11104,0,yazlık eldiven not kışlık
+11105,1,ilk okuma hikaye kitabı match
+11106,1,ilk okuma hikaye kitabı match
+11107,0,adult roman not first reading book
+11108,0,4th grade too advanced
+11109,1,2nd grade early reader
+11110,1,bosch beyaz eşya match
+11111,1,bosch beyaz eşya match
+11112,1,bosch beyaz eşya match
+11113,1,bosch beyaz eşya match
+11114,1,bosch beyaz eşya match
+11115,1,masa folyo sticker match
+11116,1,masa folyo sticker match
+11117,0,warning sign sticker not table
+11118,0,car sticker not table
+11119,0,wall/motorcycle sticker not table
+11120,1,sofra mutfak tableware match
+11121,1,sofra mutfak tableware match
+11122,1,sofra mutfak tableware match
+11123,1,sofra mutfak tableware match
+11124,1,sofra mutfak tableware match
+11125,1,çocuk takımı match
+11126,1,çocuk takımı match
+11127,1,çocuk takımı match
+11128,1,çocuk takımı match
+11129,1,çocuk takımı match
+11130,1,kadın motorcu deri ceket match
+11131,1,kadın motorcu deri ceket match
+11132,0,bomber style mont not motorcu ceket
+11133,0,bomber style mont not motorcu ceket
+11134,0,bomber style mont not motorcu ceket
+11135,1,kırmızı bebek elbisesi match
+11136,1,kırmızı bebek elbisesi match
+11137,0,no red color specified
+11138,0,no red color specified
+11139,0,no red color specified
+11140,1,kına el mumu match
+11141,1,kına el mumu match
+11142,1,kına el mumu match
+11143,1,kına el mumu match
+11144,1,kına el mumu match
+11145,1,metal kitaplık match
+11146,1,metal kitaplık match
+11147,1,metal kitaplık match
+11148,1,metal kitaplık match
+11149,1,metal kitaplık match
+11150,0,puzzle not actual bird product
+11151,1,generic bird feeder relevant
+11152,0,decorative poster not product
+11153,0,unrelated rooster decor
+11154,0,unrelated cat litter box
+11155,1,bigdart takım match
+11156,1,bigdart takım match
+11157,1,bigdart takım match
+11158,1,bigdart takım match
+11159,1,bigdart takım match
+11160,1,caqqa brand match
+11161,1,caqqa brand match
+11162,1,caqqa brand match
+11163,1,caqqa brand match
+11164,1,caqqa brand match
+11165,1,pencere perdesi match
+11166,1,pencere perdesi match
+11167,1,pencere perdesi match
+11168,1,pencere perdesi match
+11169,1,pencere perdesi match
+11170,1,fiat branded item match
+11171,1,fiat egea item match
+11172,1,fiat linea item match
+11173,1,fiat compatible item match
+11174,0,ford compatible not fiat
+11175,1,çocuk zıbın match
+11176,1,çocuk zıbın match
+11177,1,çocuk zıbın match
+11178,1,çocuk zıbın match
+11179,1,çocuk zıbın match
+11180,1,so chic kadın yüzük match
+11181,1,so chic kadın yüzük match
+11182,1,so chic kadın yüzük match
+11183,1,so chic kadın yüzük match
+11184,1,so chic kadın yüzük match
+11185,1,dagk brand match
+11186,1,dagk brand match
+11187,1,dagk brand match
+11188,1,dagk brand match
+11189,1,dagk brand match
+11190,1,çerçeve match
+11191,1,çerçeve match
+11192,1,çerçeve match
+11193,1,çerçeve match
+11194,1,çerçeve match
+11195,1,mackenzie kavanoz match
+11196,0,wrong line lucy not mackenzie
+11197,0,wrong brand madame coco
+11198,0,wrong brand paşabahçe
+11199,0,wrong brand paşabahçe

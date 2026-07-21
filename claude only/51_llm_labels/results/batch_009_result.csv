@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3150,1,lambader match
+3151,1,lambader match
+3152,1,lambader match
+3153,1,lambader match
+3154,1,lambader match
+3155,1,stantli baharatlik match
+3156,1,stantli baharatlik match
+3157,1,stantli baharatlik match
+3158,1,stantli baharatlik match
+3159,1,stantli baharatlik match
+3160,0,vacuum accessory not the vacuum
+3161,0,wrong model v10 not v12
+3162,0,wrong model v10 not v12
+3163,0,accessory pipe not vacuum
+3164,0,wrong model v8 not v12
+3165,1,merinos hali match
+3166,1,merinos hali match
+3167,1,merinos hali match
+3168,1,merinos hali match
+3169,1,merinos hali match
+3170,1,pardesu match
+3171,1,pardesu match
+3172,1,pardesu match
+3173,1,pardesu match
+3174,1,pardesu match
+3175,1,dusakabin temizleyici match
+3176,1,dusakabin temizleyici match
+3177,1,dusakabin fayans temizleyici match
+3178,1,dusakabin fayans temizleyici match
+3179,1,dusakabin fayans temizleyici match
+3180,1,puma graviton match
+3181,1,puma graviton match
+3182,1,puma graviton match
+3183,1,puma graviton match
+3184,1,puma graviton variant match
+3185,1,radix brand match
+3186,1,radix brand match
+3187,1,radix brand match
+3188,1,radix brand match
+3189,1,radix brand match
+3190,1,bosch dik supurge match
+3191,1,bosch dikey supurge synonym match
+3192,1,bosch dik supurge match
+3193,1,bosch dik supurge match
+3194,1,bosch dikey sarjli supurge match
+3195,1,rossev kavanoz match
+3196,1,rossev kavanoz match
+3197,1,rossev kavanoz match
+3198,1,rossev kavanoz match
+3199,1,rossev kavanoz match
+3200,1,philips 5000 serisi match
+3201,1,philips 5000 serisi match
+3202,1,philips 5000 serisi match
+3203,1,philips 5000 serisi match
+3204,1,philips 5000 serisi match
+3205,1,fiat linea compatible cover
+3206,1,fiat linea specific cover
+3207,0,seat cushion not seat cover
+3208,1,linea compatible cover
+3209,0,for albea not linea
+3210,1,fotografli kupa bardak match
+3211,1,fotografli kupa bardak match
+3212,1,fotografli kupa bardak match
+3213,1,fotografli kupa bardak match
+3214,1,fotografli kupa bardak match
+3215,1,sword brand tactical boot
+3216,1,sword brand tactical boot
+3217,0,wrong brand lumberjack not sword
+3218,1,sword brand product
+3219,1,sword brand tactical boot
+3220,1,adl hirka match
+3221,1,adl hirka match
+3222,1,adl hirka match
+3223,1,adl hirka match
+3224,1,adl hirka match
+3225,1,ferrucci kadin saat match
+3226,1,ferrucci kadin saat match
+3227,1,ferrucci kadin saat match
+3228,1,ferrucci kadin saati title match
+3229,1,ferrucci kadin saat match
+3230,1,mango erkek t-shirt match
+3231,1,mango man t-shirt match
+3232,1,mango erkek t-shirt match
+3233,0,shirt not t-shirt
+3234,1,mango erkek t-shirt match
+3235,1,bardak boyama kit match
+3236,0,coaster diamond painting not cup painting
+3237,0,coaster diamond painting not cup painting
+3238,0,coaster diamond painting not cup painting
+3239,0,coaster diamond painting not cup painting
+3240,0,mens not womens cortez
+3241,1,cortez kadin match
+3242,1,unisex cortez includes women
+3243,1,unisex cortez includes women
+3244,1,unisex cortez includes women
+3245,1,skechers walking shoe match
+3246,1,skechers walking shoe match
+3247,1,skechers go walk line match
+3248,1,skechers walker shoe match
+3249,1,skechers walker shoe match
+3250,1,udi hindi yagi exact match
+3251,1,udi hindi yagi match
+3252,1,udi hindi yagi match
+3253,1,udi hindi yagi match
+3254,0,different product kostus yagi
+3255,1,h&m tayt match
+3256,1,h&m tayt match
+3257,1,h&m tayt match
+3258,0,shorts not leggings
+3259,1,h&m tayt match
+3260,0,sunglasses not camera
+3261,0,sunglasses not camera
+3262,1,polaroid camera match
+3263,1,polaroid camera match
+3264,0,sunglasses not camera
+3265,1,under armour esofman alti match
+3266,1,under armour esofman alti match
+3267,1,under armour esofman alti match
+3268,1,under armour esofman alti match
+3269,1,under armour esofman alti match
+3270,0,t-shirt not toy
+3271,1,paw patrol toy set
+3272,1,paw patrol toy set
+3273,0,t-shirt not toy
+3274,1,paw patrol toy figures
+3275,1,madame coco storage container
+3276,1,madame coco storage container
+3277,1,madame coco storage container
+3278,1,madame coco storage container
+3279,1,madame coco storage container
+3280,0,antenna accessory not remote
+3281,0,key card not remote
+3282,0,whole ride-on car not remote
+3283,0,whole ride-on car not remote
+3284,0,whole ride-on car not remote
+3285,1,kadin ceket match
+3286,1,kadin ceket match
+3287,1,unisex ceket includes women
+3288,1,kadin ceket match
+3289,1,kadin ceket match
+3290,1,sivi camasir deterjani match
+3291,1,sivi camasir deterjani match
+3292,1,sivi camasir deterjani match
+3293,1,sivi camasir deterjani match
+3294,1,sivi camasir deterjani match
+3295,1,suet loafer match
+3296,1,suet loafer match
+3297,1,suet loafer match
+3298,1,suet loafer match
+3299,1,suet loafer match
+3300,1,kalici makyaj boyasi match
+3301,1,kalici makyaj boyasi match
+3302,1,kalici makyaj boyasi match
+3303,1,kalici makyaj supplies match
+3304,0,long-lasting foundation not permanent makeup
+3305,0,wrong book jane austen
+3306,0,unrelated audio book
+3307,0,unrelated novel camus
+3308,0,unrelated novel gabaldon
+3309,0,unrelated english novel
+3310,1,loreal nemlendirici match
+3311,1,loreal nemlendirici match
+3312,1,loreal nemlendirici match
+3313,1,loreal nemlendirici match
+3314,1,loreal nemlendirici match
+3315,1,kivircik sac sekillendirici krem match
+3316,1,kivircik sac sekillendirici krem match
+3317,1,kivircik sac sekillendirici krem match
+3318,1,curl styling cream match
+3319,1,kivircik sac sekillendirici krem match
+3320,1,kek kalibi match
+3321,1,kek kalibi match
+3322,1,kek kalibi match
+3323,1,kek kalibi match
+3324,1,kek kalibi match
+3325,1,haki sapka match
+3326,1,haki sapka match
+3327,1,haki sapka match
+3328,1,haki sapka match
+3329,1,haki sapka match
+3330,1,new balance 574 match
+3331,1,new balance 574 match
+3332,1,new balance 574 match
+3333,1,new balance 574 match
+3334,1,new balance 574 match
+3335,1,dokunmatik abajur category match
+3336,1,dokunmatik masa lambasi match
+3337,1,dokunmatik abajur match
+3338,1,dokunmatik masa lambasi match
+3339,1,dokunmatik abajur match
+3340,1,egg white pore mask match
+3341,1,egg white pore mask match
+3342,1,egg white pore mask match
+3343,1,egg white pore mask match
+3344,1,egg white pore mask match
+3345,1,skip hop bag match
+3346,1,skip hop bag match
+3347,1,skip hop bag match
+3348,1,skip hop bag match
+3349,1,skip hop bag match
+3350,1,sleepy brand match
+3351,0,wrong brand baby turco
+3352,0,wrong brand baby turco
+3353,0,wrong brand uni baby
+3354,0,wrong brand selpak
+3355,1,girls sport shoe match
+3356,1,girls sport shoe match
+3357,1,girls sport shoe match
+3358,1,girls sport shoe match
+3359,1,girls sport shoe match
+3360,1,hedef bijuteri bileklik match
+3361,1,hedef bijuteri bileklik match
+3362,1,hedef bijuteri bileklik match
+3363,1,hedef bijuteri bileklik match
+3364,1,hedef bijuteri bileklik match
+3365,0,regular sd not micro sd
+3366,1,micro sd card match
+3367,0,regular sd not micro sd
+3368,0,regular sd not micro sd
+3369,0,regular sd not micro sd
+3370,1,minecraft figure toy match
+3371,1,minecraft figure toy match
+3372,1,minecraft figure toy match
+3373,1,minecraft figure toy match
+3374,1,minecraft figure toy match
+3375,1,hugo brand bag match
+3376,0,wrong brand george hogg
+3377,0,wrong brand george hogg
+3378,0,wrong brand hbs
+3379,0,wrong brand dogo
+3380,1,grimelange pantolon match
+3381,1,grimelange pantolon match
+3382,1,grimelange pantolon match
+3383,1,grimelange pantolon match
+3384,1,grimelange pantolon match
+3385,1,cocuk ayakkabisi match
+3386,1,cocuk ayakkabisi match
+3387,1,cocuk ayakkabisi match
+3388,1,cocuk ayakkabisi match
+3389,1,cocuk ayakkabisi match
+3390,1,mango kupe match
+3391,1,mango kupe title match
+3392,1,mango kupe title match
+3393,0,necklace not earring
+3394,0,necklace not earring
+3395,1,kiz bebek kulotlu corap match
+3396,1,kiz bebek kulotlu corap match
+3397,1,kiz bebek kulotlu corap match
+3398,1,kiz bebek kulotlu corap match
+3399,1,kiz bebek kulotlu corap match
+3400,1,kalemkutu match
+3401,1,kalemkutu match
+3402,1,kalemkutu match
+3403,1,kalemkutu match
+3404,1,kalemkutu match
+3405,1,rabbit plush toy match
+3406,1,rabbit character figure match
+3407,0,yarn brand not rabbit item
+3408,1,rabbit themed plush rug
+3409,1,rabbit themed plush rug
+3410,1,kestane sekeri exact match
+3411,0,raw chestnut not candy
+3412,0,chestnut honey not candy
+3413,0,chestnut sapling not candy
+3414,0,chestnut honey not candy
+3415,1,bahce balkon takimi match
+3416,1,bahce balkon takimi match
+3417,1,bahce balkon takimi match
+3418,1,bahce balkon takimi match
+3419,1,bahce balkon takimi match
+3420,1,ataturk tablosu match
+3421,1,ataturk tablosu match
+3422,1,ataturk tablosu match
+3423,1,ataturk tablosu match
+3424,1,ataturk tablosu match
+3425,1,yuvarlak kasik match
+3426,1,yuvarlak kasik match
+3427,1,yuvarlak kasik match
+3428,1,yuvarlak kasik match
+3429,1,yuvarlak kasik match
+3430,1,kurani kerim tefsiri match
+3431,1,kurani kerim tefsiri match
+3432,1,kurani kerim tefsiri match
+3433,1,kurani kerim tefsiri match
+3434,1,kurani kerim tefsiri match
+3435,1,sinoz brand match
+3436,1,sinoz brand match
+3437,1,sinoz brand match
+3438,1,sinoz brand match
+3439,1,sinoz brand match
+3440,1,sabun seti match
+3441,1,sabun seti match
+3442,0,single-use travel soap not set
+3443,0,soap holder not soap set
+3444,1,sabun seti match
+3445,1,parlak disco tayt match
+3446,1,parlak tayt match
+3447,1,parlak tayt match
+3448,1,parlak metalik tayt match
+3449,1,sim detayli shiny tayt match
+3450,1,ricco lifes carsaf takimi match
+3451,1,ricco lifes carsaf takimi match
+3452,1,ricco lifes carsaf takimi match
+3453,1,ricco lifes carsaf takimi match
+3454,1,ricco lifes carsaf takimi match
+3455,1,spectrum brand watch match
+3456,1,spectrum brand watch match
+3457,1,spectrum brand watch match
+3458,1,spectrum brand watch match
+3459,1,spectrum brand watch match
+3460,1,kadin deri canta match
+3461,1,kadin deri canta match
+3462,1,kadin deri canta match
+3463,1,kadin deri canta match
+3464,1,kadin deri canta match
+3465,1,kahve surubu match
+3466,1,kahve surubu match
+3467,1,kahve surubu match
+3468,1,kahve surubu match
+3469,1,kahve surubu match
+3470,1,banyo sabunluk set match
+3471,1,banyo sabunluk match
+3472,1,banyo sabunluk set match
+3473,1,banyo sabunluk match
+3474,1,banyo sabunluk match
+3475,0,wrong brand karen aksesuar
+3476,0,wrong brand tiyen
+3477,0,wrong brand htstore
+3478,0,wrong brand eyl techno
+3479,0,wrong brand teknova
+3480,0,wrong model i10 not i20
+3481,1,hyundai i20 specific match
+3482,0,wrong model i10 not i20
+3483,1,i20 compatible cover
+3484,0,wrong model i10 not i20
+3485,1,monster truck toy match
+3486,1,monster truck toy match
+3487,1,monster truck toy match
+3488,1,monster truck toy match
+3489,1,monster truck toy match
+3490,1,nike air series match
+3491,1,nike air series match
+3492,1,nike air force match
+3493,1,nike air force match
+3494,1,nike air force match
+3495,1,mercedes paspas match
+3496,1,mercedes paspas match
+3497,1,mercedes paspas match
+3498,1,mercedes paspas match
+3499,1,mercedes paspas match

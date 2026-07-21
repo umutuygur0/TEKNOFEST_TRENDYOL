@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+700,1,exact geometry book match
+701,0,soru bankası different book not geometry
+702,0,different subject 8th grade math book
+703,0,history study material not geometry
+704,0,math book different brand not geometry specific
+705,1,yatas triola sleep set match
+706,1,yatas triola sleep set match
+707,1,yatas triola sleep set match
+708,1,yatas triola sleep set match
+709,1,yatas triola sleep set match
+710,1,men's digital watch match
+711,1,men's digital watch match
+712,1,men's digital watch match
+713,1,men's digital watch match
+714,1,digital watch unisex includes men
+715,1,toy car wall rack match
+716,1,toy car wall rack match
+717,1,toy car wall rack match
+718,1,toy car wall rack match
+719,1,toy car wall rack match
+720,1,ugg women's boot match
+721,1,ugg women's boot match
+722,1,ugg women's boot match
+723,1,ugg women's boot match
+724,1,ugg women's boot match
+725,1,limoya brand boot match
+726,1,limoya brand boot match
+727,1,limoya brand boot match
+728,1,limoya brand boot match
+729,1,limoya brand boot match
+730,1,potato/onion storage basket match
+731,1,potato/onion storage basket match
+732,1,potato/onion storage basket match
+733,1,potato/onion storage basket match
+734,1,potato/onion storage basket match
+735,1,ufo brand heater match
+736,1,ufo brand heater match
+737,1,ufo brand heater match
+738,1,ufo brand heater match
+739,1,ufo brand heater match
+740,1,home decor wall item match
+741,1,home decor wall item match
+742,1,home decor wall item match
+743,1,home decor wall item match
+744,1,home decor wall item match
+745,1,luminarc brand storage box match
+746,1,luminarc brand plate match
+747,1,luminarc brand dinner set match
+748,1,luminarc brand bowl set match
+749,1,luminarc brand bowl set match
+750,1,lint remover machine match
+751,1,lint remover machine match
+752,1,lint remover machine match
+753,1,lint remover machine match
+754,1,lint remover machine match
+755,1,happy birthday banner match
+756,1,happy birthday banner match
+757,1,happy birthday banner match
+758,1,happy birthday banner match
+759,1,happy birthday banner match
+760,1,isana brand hand cream match
+761,1,isana brand hand cream match
+762,1,isana brand hand cream match
+763,1,isana brand hand cream match
+764,1,isana brand hand cream match
+765,1,compressed cartilage earring match
+766,1,compressed cartilage earring match
+767,1,compressed cartilage earring match
+768,1,compressed cartilage earring match
+769,1,compressed cartilage earring match
+770,1,underarm deodorant match
+771,1,underarm deodorant match
+772,1,underarm deodorant match
+773,1,underarm deodorant match
+774,1,underarm deodorant match
+775,1,skagen brand watch match
+776,1,skagen brand watch match
+777,1,skagen brand watch match
+778,1,skagen brand watch match
+779,1,skagen brand watch match
+780,1,vileda brand mop head match
+781,0,different brand not vileda
+782,0,vileda cleaning tablet set not mop head
+783,1,vileda-compatible mop head explicitly stated
+784,0,different brand no vileda mention
+785,1,puma women's leggings match
+786,1,puma women's leggings match
+787,1,puma women's leggings match
+788,1,puma women's leggings match
+789,1,puma women's leggings match
+790,1,marvis brand toothpaste match
+791,1,marvis brand toothpaste match
+792,1,marvis brand toothpaste match
+793,1,marvis brand toothpaste match
+794,1,marvis brand toothpaste match
+795,1,oms brand pot match
+796,1,oms brand pot match
+797,1,oms brand pot match
+798,1,oms brand pot match
+799,1,oms brand pot match
+800,1,kitchen shelved cabinet match
+801,1,kitchen shelved cabinet match
+802,1,kitchen shelved cabinet match
+803,1,kitchen shelved cabinet match
+804,1,kitchen shelved cabinet match
+805,1,kids goalkeeper jersey set match
+806,1,kids goalkeeper jersey match
+807,1,kids goalkeeper jersey match
+808,1,kids goalkeeper jersey match
+809,1,kids goalkeeper jersey match
+810,1,plastic cake dome match
+811,1,plastic cake dome match
+812,1,plastic cake dome match
+813,1,plastic cake dome match
+814,1,plastic cake dome match
+815,1,automatic movement men's watch match
+816,1,automatic movement men's watch match
+817,1,automatic movement men's watch match
+818,1,automatic movement men's watch match
+819,1,automatic movement men's watch match
+820,1,bosch wiper product match
+821,1,bosch wiper product match
+822,1,bosch wiper product match
+823,1,bosch wiper product match
+824,1,bosch wiper product match
+825,1,desktop trash can match
+826,1,desktop trash can match
+827,1,desktop trash can match
+828,1,desktop trash can match
+829,1,desktop trash can match
+830,1,oily skin face cleansing gel match
+831,1,oily/acne skin face cleansing gel match
+832,1,oily skin face cleansing gel match
+833,1,oily skin face cleansing gel match
+834,1,oily skin face cleansing gel match
+835,1,beyzana brand laundry basket match
+836,1,beyzana brand laundry basket match
+837,0,different brand not beyzana
+838,0,different brand not beyzana
+839,0,different brand not beyzana
+840,1,dried dolma stuffing pepper match
+841,1,dried dolma stuffing eggplant match
+842,1,dried dolma stuffing pepper match
+843,1,dried dolma stuffing pepper match
+844,1,dried dolma vegetable mix match
+845,1,motorcycle handlebar grip match
+846,1,motorcycle handlebar grip match
+847,1,motorcycle handlebar grip match
+848,1,motorcycle handlebar grip match
+849,1,motorcycle handlebar grip match
+850,1,rainbird brand irrigation product match
+851,1,rainbird brand irrigation product match
+852,1,rainbird brand irrigation product match
+853,1,rainbird brand irrigation product match
+854,1,rainbird brand irrigation product match
+855,1,enchen brand hair clipper match
+856,1,enchen brand hair clipper match
+857,1,enchen model hair clipper match
+858,1,enchen brand hair clipper match
+859,1,enchen brand shaver match
+860,1,kids appetite/weight gain paste exact match
+861,1,kids vitamin nutrition paste similar intent
+862,1,kids vitamin nutrition paste similar intent
+863,0,generic supplement not child-specific appetite product
+864,0,generic gum syrup unrelated to appetite/weight gain
+865,1,laura ashley brand shoulder bag match
+866,1,laura ashley brand shoulder bag match
+867,1,laura ashley brand shoulder bag match
+868,1,laura ashley brand shoulder bag match
+869,1,laura ashley brand shoulder bag match
+870,1,kids sweatshirt match
+871,1,kids sweatshirt match
+872,1,kids sweatshirt match
+873,1,kids sweatshirt match
+874,1,kids sweatshirt match
+875,1,erzincan tulum cheese match
+876,1,erzincan tulum cheese match
+877,1,erzincan tulum cheese match
+878,1,erzincan tulum cheese match
+879,1,erzincan tulum cheese match
+880,1,wondersand brand cat litter match
+881,1,wondersand brand cat litter match
+882,1,wondersand brand cat litter match
+883,1,wondersand brand cat litter match
+884,1,wondersand brand cat litter match
+885,1,britax romer brand car seat match
+886,1,britax romer brand car seat match
+887,0,different brand not britax romer
+888,0,different brand not britax romer
+889,0,different brand not britax romer
+890,1,ozdilek brand hamam set match
+891,1,ozdilek brand hamam set match
+892,1,ozdilek brand hamam set match
+893,1,ozdilek brand hamam set match
+894,1,ozdilek brand hamam set match
+895,1,dough kneader with meat grinder match
+896,1,dough kneader with meat grinder match
+897,1,stand mixer with meat grinding attachment match
+898,1,multi-purpose dough/meat grinder match
+899,0,dough kneader only no meat grinding function
+900,1,large ceramic pot match
+901,0,clay material vase category not pot
+902,1,large ceramic pot match
+903,0,chipboard material tiny volume not large ceramic
+904,1,large ceramic pot 50l match
+905,1,carmen soft brand coffee cup match
+906,1,carmen soft brand coffee cup match
+907,0,different brand not carmen soft
+908,0,different brand not carmen soft
+909,0,different brand not carmen soft
+910,0,mango brand but women's sweater not men's
+911,0,mango brand but women's sweater not men's
+912,0,mango brand but women's sweater not men's
+913,0,correct gender but not mango brand
+914,0,correct gender but not mango brand
+915,0,plastic keychain novelty not windows software
+916,0,affinity software not windows 10
+917,0,affinity software not windows 10
+918,0,laptop with windows 11 not windows 10
+919,1,laptop explicitly with windows 10 installed
+920,1,boys college jacket match
+921,1,boys college jacket match
+922,1,boys college jacket match
+923,1,boys college jacket match
+924,1,boys college jacket match
+925,1,tile-look wall covering match
+926,1,tile-look wall covering match
+927,1,tile-look wall covering match
+928,1,tile-look wall covering match
+929,1,tile-look wall covering match
+930,1,hooded plush baby jacket match
+931,1,hooded plush baby winter garment match
+932,1,plush hooded baby jacket exact match
+933,1,hooded plush baby cardigan close match
+934,1,hooded plush baby jacket set match
+935,1,w collection brand jacket match
+936,1,w collection brand jacket match
+937,1,w collection brand jacket match
+938,1,w collection brand jacket match
+939,1,w collection brand jacket match
+940,1,decorative embroidered-style napkin match
+941,1,decorative embroidered-style napkin match
+942,1,explicitly embroidered napkin match
+943,1,explicitly embroidered napkin match
+944,0,blank embroiderable canvas not finished embroidered napkin
+945,1,motorcycle bag match
+946,1,motorcycle bag match
+947,1,motorcycle bag match
+948,1,motorcycle bag match
+949,1,motorcycle bag match
+950,1,iphone 17 pro max exact match
+951,1,iphone 17 pro max exact match
+952,0,case for iphone 16 pro max not actual phone
+953,0,case for iphone 15 pro not actual phone
+954,0,case for iphone 14 pro max not actual phone
+955,1,kids suitcase match
+956,1,kids suitcase match
+957,1,kids suitcase match
+958,1,kids suitcase match
+959,1,kids suitcase match
+960,1,minik terzi brand kids dress match
+961,1,minik terzi brand kids dress match
+962,1,minik terzi brand kids dress match
+963,1,minik terzi brand kids dress match
+964,1,minik terzi brand kids dress match
+965,1,chiffon tunic match
+966,1,chiffon detail tunic match
+967,1,chiffon-style tunic match
+968,1,chiffon detail tunic match
+969,1,chiffon detail tunic match
+970,1,smurfs themed hat match
+971,1,smurfs house play set match
+972,1,smurfs themed book match
+973,1,smurfs themed night lamp match
+974,0,cute cat piggy bank unrelated to smurfs theme
+975,1,water purifier tank match
+976,1,water purifier tank match
+977,1,water purifier tank match
+978,1,water purifier tank match
+979,1,water purifier tank match
+980,1,dog training collar match
+981,1,dog training collar match
+982,1,dog training collar match
+983,1,dog training collar match
+984,1,dog training collar match
+985,1,arzum brand toaster match
+986,1,arzum brand toaster match
+987,1,arzum brand toaster match
+988,0,different brand not arzum
+989,0,different brand not arzum
+990,1,closet hanging rod match
+991,1,closet hanging rod match
+992,1,closet hanging rod match
+993,1,closet hanging rod match
+994,1,closet hanging rod match
+995,1,dewalt brand power tool match
+996,1,dewalt brand power tool match
+997,1,dewalt brand power tool match
+998,1,dewalt brand power tool match
+999,1,dewalt brand power tool match
+1000,1,men's casual boot explicitly stated
+1001,0,sneaker not boot
+1002,0,low shoe not boot
+1003,0,outdoor shoe not explicitly a boot
+1004,1,men's boot explicitly stated
+1005,1,presentation napkin match
+1006,1,presentation napkin match
+1007,1,presentation napkin match
+1008,1,presentation napkin match
+1009,1,presentation napkin match
+1010,1,room air humidifier steam match
+1011,1,room air humidifier steam match
+1012,1,room air humidifier steam match
+1013,1,room air humidifier steam match
+1014,1,room air humidifier steam match
+1015,1,astragalus herb product match
+1016,1,astragalus supplement match
+1017,1,astragalus supplement match
+1018,1,astragalus herb product match
+1019,1,astragalus herb product match
+1020,1,padisah brand carpet match
+1021,1,padisah brand carpet match
+1022,1,padisah brand carpet match
+1023,1,padisah brand carpet match
+1024,1,padisah brand carpet match
+1025,1,men's sport shoe match
+1026,1,men's sport shoe match
+1027,1,men's sport shoe match
+1028,1,men's sport shoe match
+1029,1,men's sport shoe match
+1030,1,lacoste brand backpack match
+1031,1,lacoste brand backpack match
+1032,1,lacoste brand backpack match
+1033,1,lacoste brand backpack match
+1034,1,lacoste brand backpack match
+1035,1,religious educational toy match
+1036,1,religious educational toy match
+1037,1,religious educational toy match
+1038,1,religious educational book match
+1039,1,religious educational toy match
+1040,1,imextech brand product match
+1041,1,imextech brand product match
+1042,1,imextech brand product match
+1043,1,imextech brand product match
+1044,1,imextech brand product match
+1045,1,pancake/egg mold shaper match
+1046,0,pancake pan not mold
+1047,0,pancake pan not mold
+1048,0,cake mold not pancake mold
+1049,0,cake mold not pancake mold

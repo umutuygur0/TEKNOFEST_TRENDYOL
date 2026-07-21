@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11550,1,balkon perdesi ürünü eşleşiyor
+11551,1,küçük ahşap mandal eşleşiyor
+11552,1,küçük kumaş mandal eşleşiyor
+11553,0,saç tokası; çamaşır mandalı değil
+11554,0,saç tokası; çamaşır mandalı değil
+11555,0,saç tokası; çamaşır mandalı değil
+11556,1,ahşap bebek beşiği eşleşiyor
+11557,1,bebek beşiği eşleşiyor
+11558,0,ahşap oyuncak beşik; gerçek beşik değil
+11559,1,sallanır bebek beşiği eşleşiyor
+11560,1,hamak tipi bebek beşiği eşleşiyor
+11561,1,sallantılı italyan charm eşleşiyor
+11562,1,sallantılı charm eşleşiyor
+11563,1,sallantılı çelik charm eşleşiyor
+11564,1,sallantılı italyan charm eşleşiyor
+11565,1,sallantılı charm eşleşiyor
+11566,1,parex marka temizlik bezi
+11567,1,parex marka cam bezi
+11568,1,parex marka bulaşık bezi
+11569,0,mop sistemi; temizlik bezi değil
+11570,1,parex marka bulaşık bezi
+11571,1,mad b103 kadın parfüm tam eşleşme
+11572,1,mad b103 kadın parfüm tam eşleşme
+11573,1,mad b103 erkek parfüm aynı model
+11574,0,mad b105 farklı model
+11575,0,mad j103 farklı model
+11576,1,kadın polar atkı şal eşleşiyor
+11577,1,kadın atkı şal eşleşiyor
+11578,1,kadın somon atkı şal eşleşiyor
+11579,1,kadın triko şal atkı eşleşiyor
+11580,1,kadın pamuklu şal atkı eşleşiyor
+11581,0,marka filiz; ankara markası değil
+11582,0,marka filiz; ankara markası değil
+11583,0,marka filiz; ankara markası değil
+11584,0,marka filiz; ankara markası değil
+11585,0,marka metro chef; ankara markası değil
+11586,1,büyük boy ayna eşleşiyor
+11587,1,büyük boy duvar aynası eşleşiyor
+11588,1,büyük boy dekoratif ayna eşleşiyor
+11589,1,büyük boy dekoratif ayna eşleşiyor
+11590,1,büyük boy konsol aynası eşleşiyor
+11591,1,yulaf saklama kabı eşleşiyor
+11592,1,yulaf müsli saklama kabı eşleşiyor
+11593,1,yulaf müsli saklama kabı eşleşiyor
+11594,1,yulaf müsli saklama kabı eşleşiyor
+11595,1,yulaf müsli saklama kabı eşleşiyor
+11596,1,raylı ray spot lamba eşleşiyor
+11597,1,raylı ray spot armatür eşleşiyor
+11598,1,raylı led ray spot armatür eşleşiyor
+11599,1,raylı led ray spot eşleşiyor
+11600,1,raylı ray spot armatür eşleşiyor
+11601,1,guess marka kadın çantası
+11602,1,guess marka kadın çantası
+11603,1,guess marka kadın çantası
+11604,1,guess marka kadın çantası
+11605,1,guess marka kadın çantası
+11606,1,mutfak duvar dekoratif aksesuar eşleşiyor
+11607,1,mutfak duvar dekoratif aksesuar eşleşiyor
+11608,1,mutfak duvar dekoru eşleşiyor
+11609,1,mutfak duvar organizer aksesuar eşleşiyor
+11610,1,mutfak temalı duvar süsü eşleşiyor
+11611,1,erkek bebek pantolon eşleşiyor
+11612,1,erkek bebek pantolon eşleşiyor
+11613,1,erkek bebek pantolon eşleşiyor
+11614,1,erkek bebek pantolon eşleşiyor
+11615,1,erkek bebek pantolon eşleşiyor
+11616,1,kamiz marka runner eşleşiyor
+11617,1,kamiz marka runner eşleşiyor
+11618,1,kamiz marka runner eşleşiyor
+11619,1,kamiz marka amerikan servis eşleşiyor
+11620,1,kamiz marka amerikan servis eşleşiyor
+11621,1,karl lagerfeld marka ürün eşleşiyor
+11622,1,karl lagerfeld marka ürün eşleşiyor
+11623,1,karl lagerfeld marka ürün eşleşiyor
+11624,1,karl lagerfeld marka ürün eşleşiyor
+11625,1,karl lagerfeld marka ürün eşleşiyor
+11626,1,hot wheels araç seti eşleşiyor
+11627,1,hot wheels araç seti eşleşiyor
+11628,1,hot wheels marka araba seti
+11629,1,hot wheels marka araba seti
+11630,1,hot wheels marka araba seti
+11631,1,kadın çok gözlü çanta eşleşiyor
+11632,1,kadın çok gözlü çanta eşleşiyor
+11633,1,kadın çok gözlü çapraz çanta eşleşiyor
+11634,1,kadın çok gözlü çanta eşleşiyor
+11635,1,kadın çok gözlü çanta eşleşiyor
+11636,1,huawei freebuds uyumlu kılıf
+11637,1,huawei freebuds uyumlu kılıf
+11638,1,huawei freebuds uyumlu kılıf
+11639,1,huawei freebuds uyumlu kılıf
+11640,1,huawei freebuds uyumlu kılıf
+11641,1,şekersiz fıstık ezmesi eşleşiyor
+11642,1,şekersiz fıstık ezmesi eşleşiyor
+11643,1,şekersiz fıstık ezmesi eşleşiyor
+11644,1,şekersiz fıstık ezmesi eşleşiyor
+11645,1,şeker ilavesiz fıstık ezmesi eşleşiyor
+11646,1,new balance 327 modeli eşleşiyor
+11647,1,new balance 327 modeli eşleşiyor
+11648,1,new balance 327 modeli eşleşiyor
+11649,1,new balance 327 modeli eşleşiyor
+11650,1,new balance 327 modeli eşleşiyor
+11651,1,ncr marka kask eşleşiyor
+11652,1,ncr marka kask eşleşiyor
+11653,1,ncr marka kask eşleşiyor
+11654,1,ncr marka kask eşleşiyor
+11655,1,ncr marka kask eşleşiyor
+11656,1,emsan marka fincan takımı
+11657,1,emsan marka fincan takımı
+11658,1,emsan marka fincan takımı
+11659,1,emsan marka fincan takımı
+11660,1,emsan marka fincan takımı
+11661,1,siyah yapraklı defter eşleşiyor
+11662,1,siyah yapraklı defter eşleşiyor
+11663,1,siyah yapraklı defter eşleşiyor
+11664,1,siyah anı defteri benzer ürün
+11665,0,fotoğraf albümü; defter değil
+11666,1,strafor pasta köpüğü eşleşiyor
+11667,1,strafor pasta köpüğü eşleşiyor
+11668,1,strafor pasta köpüğü eşleşiyor
+11669,1,strafor pasta köpüğü eşleşiyor
+11670,1,strafor pasta köpüğü eşleşiyor
+11671,1,barrel fit pantolon eşleşiyor
+11672,1,barrel fit pantolon eşleşiyor
+11673,1,barrel model pantolon eşleşiyor
+11674,1,barrel fit pantolon eşleşiyor
+11675,1,barrel fit pantolon eşleşiyor
+11676,0,küpe ürünü; kolye değil
+11677,1,lale desenli kolye eşleşiyor
+11678,1,lale kolye ucu eşleşiyor
+11679,0,lal taşı kolyesi; lale değil
+11680,1,laleli desenli kolye eşleşiyor
+11681,1,goldmaster marka bakım seti
+11682,1,goldmaster marka tıraş makinesi
+11683,1,goldmaster marka bakım seti
+11684,1,goldmaster marka bakım seti
+11685,1,goldmaster marka bakım seti
+11686,1,new era marka şapka eşleşiyor
+11687,1,new era marka şapka eşleşiyor
+11688,1,new era marka şapka eşleşiyor
+11689,1,new era marka şapka eşleşiyor
+11690,1,new era marka şapka eşleşiyor
+11691,1,oto kolçak eşleşiyor
+11692,1,oto kolçak kol dayama eşleşiyor
+11693,1,oto kolçak eşleşiyor
+11694,1,oto kolçak eşleşiyor
+11695,1,oto kolçak sürgülü eşleşiyor
+11696,1,the last of us tişört eşleşiyor
+11697,1,the last of us ps5 oyunu eşleşiyor
+11698,1,the last of us tişört eşleşiyor
+11699,1,the last of us bez çanta eşleşiyor
+11700,1,the last of us ps4 oyunu eşleşiyor
+11701,1,fil deri marka cüzdan eşleşiyor
+11702,1,fil deri marka cüzdan eşleşiyor
+11703,1,fil deri marka cüzdan eşleşiyor
+11704,1,fil deri marka cüzdan eşleşiyor
+11705,1,fil deri marka cüzdan eşleşiyor
+11706,1,taşlı topuklu ayakkabı eşleşiyor
+11707,1,taşlı topuklu ayakkabı eşleşiyor
+11708,1,taşlı topuklu stiletto eşleşiyor
+11709,1,taşlı topuklu ayakkabı eşleşiyor
+11710,1,taşlı topuklu ayakkabı eşleşiyor
+11711,1,kepçe kulak bandı eşleşiyor
+11712,1,kepçe kulak bandı eşleşiyor
+11713,1,kepçe kulak düzeltici bant eşleşiyor
+11714,1,kepçe kulak bandı eşleşiyor
+11715,1,kepçe kulak bandı eşleşiyor
+11716,0,galaxy tab s10 fe; s9 fe değil
+11717,0,galaxy tab s9 fe plus; farklı model
+11718,0,galaxy tab s10 fe; s9 fe değil
+11719,1,galaxy tab s9 fe tam model eşleşiyor
+11720,0,galaxy tab s9 fe plus; farklı model
+11721,1,yataş visco therapy yastık eşleşiyor
+11722,1,yataş visco therapy yastık eşleşiyor
+11723,1,yataş visco therapy yastık eşleşiyor
+11724,1,yataş visco therapy yastık eşleşiyor
+11725,0,marka yatsan; yataş değil
+11726,1,yataş marka uyku seti eşleşiyor
+11727,1,yataş marka uyku seti eşleşiyor
+11728,1,yataş marka uyku seti eşleşiyor
+11729,1,yataş marka uyku seti eşleşiyor
+11730,1,yataş marka uyku seti eşleşiyor
+11731,1,banyo köşeliği eşleşiyor
+11732,1,banyo köşeliği eşleşiyor
+11733,1,banyo köşeliği köşe rafı eşleşiyor
+11734,1,2 katlı banyo köşeliği eşleşiyor
+11735,1,banyo köşeliği duş rafı eşleşiyor
+11736,1,olalook marka pantolon eşleşiyor
+11737,1,olalook marka pantolon eşleşiyor
+11738,1,olalook marka pantolon eşleşiyor
+11739,1,olalook marka pantolon eşleşiyor
+11740,1,olalook marka pantolon eşleşiyor
+11741,1,yer silme mop eşleşiyor
+11742,1,yer silme mop eşleşiyor
+11743,1,yer silme mop eşleşiyor
+11744,1,yer silme mop eşleşiyor
+11745,1,yer silme mop eşleşiyor
+11746,1,altus marka derin dondurucu
+11747,1,altus marka derin dondurucu
+11748,1,altus marka derin dondurucu
+11749,1,altus marka derin dondurucu
+11750,1,altus marka derin dondurucu
+11751,1,hotiç marka erkek ayakkabı
+11752,1,hotiç marka erkek ayakkabı
+11753,1,hotiç marka erkek ayakkabı
+11754,1,hotiç marka erkek ayakkabı
+11755,1,hotiç marka erkek ayakkabı
+11756,0,sebzelik meyvelik; mezelik değil
+11757,0,sebzelik meyvelik; mezelik değil
+11758,0,sebzelik meyvelik; mezelik değil
+11759,0,sebzelik meyvelik; mezelik değil
+11760,0,sebzelik meyvelik; mezelik değil
+11761,1,kadın deodorant eşleşiyor
+11762,1,kadın deodorant eşleşiyor
+11763,1,kadın deodorant roll on eşleşiyor
+11764,1,women deo stick eşleşiyor
+11765,1,women deo stick eşleşiyor
+11766,1,çift taraflı uyku seti eşleşiyor
+11767,1,çift taraflı uyku seti eşleşiyor
+11768,1,çift taraflı uyku seti eşleşiyor
+11769,1,çift taraflı uyku seti eşleşiyor
+11770,1,çift taraflı uyku seti eşleşiyor
+11771,1,elektrikli kahve cezvesi eşleşiyor
+11772,1,elektrikli kahve cezvesi eşleşiyor
+11773,1,elektrikli kahve cezvesi eşleşiyor
+11774,1,elektrikli kahve cezvesi eşleşiyor
+11775,1,elektrikli kahve cezvesi eşleşiyor
+11776,1,ahşap açık gardrop eşleşiyor
+11777,1,ahşap açık dolap askılık eşleşiyor
+11778,1,ahşap açık gardrop eşleşiyor
+11779,1,ahşap açık gardırop eşleşiyor
+11780,1,ahşap açık gardırop eşleşiyor
+11781,0,arma sticker; hoparlör değil
+11782,1,harman kardon bluetooth hoparlör
+11783,1,harman kardon bluetooth hoparlör
+11784,1,harman kardon bluetooth hoparlör
+11785,1,harman kardon oto hoparlör
+11786,1,araba stickeri eşleşiyor
+11787,1,araba stickeri eşleşiyor
+11788,1,araba stickeri eşleşiyor
+11789,1,araba stickeri eşleşiyor
+11790,1,araba stickeri eşleşiyor
+11791,1,dama desenli runner eşleşiyor
+11792,1,damalı runner eşleşiyor
+11793,1,dama desenli runner eşleşiyor
+11794,0,damask desen; dama değil
+11795,1,dama desenli runner eşleşiyor
+11796,1,apple iphone eşleşiyor
+11797,1,apple iphone eşleşiyor
+11798,1,apple iphone eşleşiyor
+11799,1,apple iphone eşleşiyor
+11800,1,apple iphone eşleşiyor
+11801,1,apple ipad tablet eşleşiyor
+11802,1,apple ipad tablet eşleşiyor
+11803,1,apple ipad tablet eşleşiyor
+11804,1,apple ipad tablet eşleşiyor
+11805,1,apple ipad tablet eşleşiyor
+11806,1,kovalı mop seti eşleşiyor
+11807,1,kovalı mop seti eşleşiyor
+11808,1,kovalı mop seti eşleşiyor
+11809,1,kovalı mop seti eşleşiyor
+11810,1,kovalı mop seti eşleşiyor
+11811,1,now foods marka supplement
+11812,1,now foods marka omega3
+11813,1,now foods marka ürün
+11814,1,now foods marka vitamin
+11815,1,now foods marka vitamin k2
+11816,1,meguiars marka cila
+11817,1,meguiars marka çizik çıkarıcı pasta
+11818,1,meguiars marka cila
+11819,1,meguiars marka cila
+11820,1,meguiars marka şampuan
+11821,1,loreal metal detox ürünü
+11822,1,loreal metal detox ürünü
+11823,1,loreal metal detox set
+11824,1,loreal metal detox maske
+11825,1,loreal metal detox yağ
+11826,1,brut erkek parfüm eşleşiyor
+11827,0,deodorant; parfüm değil
+11828,0,tıraş sonrası ürün; parfüm değil
+11829,0,marka burberry; brut değil
+11830,0,marka shaik; brut değil
+11831,1,jbl bluetooth hoparlör eşleşiyor
+11832,1,jbl bluetooth hoparlör eşleşiyor
+11833,1,jbl bluetooth hoparlör eşleşiyor
+11834,1,jbl bluetooth hoparlör eşleşiyor
+11835,1,jbl bluetooth hoparlör eşleşiyor
+11836,1,fiat linea jant kapağı eşleşiyor
+11837,1,fiat linea jant kapağı eşleşiyor
+11838,1,fiat linea uyumlu jant kapağı eşleşiyor
+11839,1,fiat linea jant kapağı eşleşiyor
+11840,1,fiat linea jant kapağı eşleşiyor
+11841,1,silbak marka silecek ürünü
+11842,1,silbak marka silecek süpürgesi
+11843,1,silbak marka silecek kolu
+11844,1,silbak model silecek süpürgesi
+11845,1,silbak marka silecek takımı
+11846,1,sis farı eşleşiyor
+11847,1,sis farı lambası eşleşiyor
+11848,0,sadece çerçeve; farın kendisi değil
+11849,1,sis farı çalışma lambası eşleşiyor
+11850,0,kategori uyumsuz belirsiz eşleşme
+11851,1,xiaomi hava temizleyici eşleşiyor
+11852,1,akıllı hava temizleyici eşleşiyor
+11853,1,philips hava temizleyici eşleşiyor
+11854,1,philips hava temizleyici eşleşiyor
+11855,1,xiaomi hava temizleyici eşleşiyor
+11856,1,güneş enerjili solar bahçe lambası
+11857,1,güneş enerjili solar sokak lambası
+11858,0,ürün aslında saç düzleştirici
+11859,0,ürün aslında saç düzleştirici
+11860,1,güneş enerjili solar led bahçe lambası
+11861,1,ahşap saplı çekiç eşleşiyor
+11862,1,aluminyum çekiç eşleşiyor
+11863,1,ahşap saplı çekiç eşleşiyor
+11864,0,ürün aslında led aydınlatma
+11865,0,ürün aslında led aydınlatma
+11866,1,davines saç maskesi eşleşiyor
+11867,1,davines saç maskesi eşleşiyor
+11868,1,davines saç maskesi eşleşiyor
+11869,1,davines saç maskesi eşleşiyor
+11870,0,saç boyası; maske değil
+11871,1,bershka şişme mont eşleşiyor
+11872,1,bershka şişme mont eşleşiyor
+11873,1,bershka şişme mont eşleşiyor
+11874,1,bershka şişme mont eşleşiyor
+11875,1,bershka şişme kapüşonlu ceket eşleşiyor
+11876,1,brillant zebra stor perde eşleşiyor
+11877,1,brillant zebra perde eşleşiyor
+11878,1,brilliant zebra stor perde eşleşiyor
+11879,1,brilliant zebra stor perde eşleşiyor
+11880,1,brillant stor perde eşleşiyor
+11881,1,acı kahve renkli eşarp eşleşiyor
+11882,1,acı kahve renkli eşarp eşleşiyor
+11883,1,kahverengi eşarp benzer renk
+11884,1,acı kahve renkli eşarp eşleşiyor
+11885,1,acı kahve renkli eşarp eşleşiyor
+11886,1,birkenstock kadın terlik eşleşiyor
+11887,1,birkenstock kadın terlik eşleşiyor
+11888,1,birkenstock kadın terlik eşleşiyor
+11889,1,birkenstock kadın terlik eşleşiyor
+11890,1,birkenstock kadın terlik eşleşiyor
+11891,1,hediyelik tülbent yazma eşleşiyor
+11892,1,hediyelik tülbent seti eşleşiyor
+11893,1,hediyelik tülbent yazma eşleşiyor
+11894,1,hediyelik tülbent yazma eşleşiyor
+11895,1,hediyelik yazma eşarp eşleşiyor
+11896,1,nike marka spor ayakkabı
+11897,1,nike marka kadın spor ayakkabı
+11898,1,nike marka sneaker eşleşiyor
+11899,1,nike marka sneaker eşleşiyor

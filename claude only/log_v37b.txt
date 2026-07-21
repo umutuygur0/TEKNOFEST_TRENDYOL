@@ -1,0 +1,370 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | renkli ürün: 748,419 (77.7%) | 32.9s
+  Train-test term_id örtüşmesi: 0 (0 olmalı)
+
+[A2] Enhanced negatives (NEG_PER_POS=5, + YENİ color_conflict)...
+  Negatif kaynak: {'same_brand_diff_sub': 116061, 'same_main_category': 249993, 'different_main_category': 705311, 'same_brand_diff_main': 115108, 'gender_conflict': 36733, 'color_conflict': 12838, 'age_conflict': 13954}
+  (v23/v31/v32'nin diğer 6 kaynağıyla karşılaştır — yakın olmalı; color_conflict eklendiği için same_main/diff_main biraz azalmış olabilir, bu BEKLENEN ve ZARARSIZ)
+  Train: 1,499,998 | pos=250,000 neg=1,249,998
+
+[A2] v37a: v36b tabanı yeniden kuruluyor (v35 train-side + v36 test-side)...
+  v36b tabanı yeniden kuruldu: 1,525,776 satır (bert_scores_v36_train.npy ile eşleşmeli)
+
+[A3] v37a: HEDEFLİ (stratified) yeni LLM satırları ekleniyor (v37 train-side + test-side)...
+  63_llm_labels_v37_train/merged_v37_train_labels.csv: 5,558 yeni satır (pos=4,635, neg=923)
+  64_llm_labels_v37_test/merged_v37_test_labels.csv: 6,445 yeni satır (pos=5,173, neg=1,272)
+  Toplam YENİ (v37) LLM etiketli satır: 12,003
+    Toplam pozitif: 9,808 | Toplam negatif: 2,195
+  Train (v37a genişletilmiş): 1,537,779 (v36b tabanı 1,525,776 + YENİ v37 12,003)
+
+[B] BERT v37 (bert_v36'dan warm-start, YENİ v37 hedefli veriyle 2. tur)...
+  Device: cuda
+  BERT v37 warm-start fine-tune başlıyor (bert_v36'dan devam)...
+  BERT_SAMPLE stratified: 500,000 (rare-conflict+v37 tam dahil: 75,528, rastgele tamamlama: 424,472)
+  BERT sample kaynak dağılımı: {'different_main_category': np.int64(204706), 'positive': np.int64(72731), 'same_main_category': np.int64(72602), 'gender_conflict': np.int64(36733), 'same_brand_diff_sub': np.int64(33637), 'same_brand_diff_main': np.int64(33220), 'age_conflict': np.int64(13954), 'color_conflict': np.int64(12838), 'llm_recovered_positive_v37_test': np.int64(5173), 'llm_recovered_positive_v37_train': np.int64(4635), 'llm_recovered_positive_test': np.int64(3231), 'llm_recovered_positive': np.int64(3132), 'llm_verified_negative_v37_test': np.int64(1272), 'llm_verified_negative_v37_train': np.int64(923), 'llm_verified_negative_test': np.int64(840), 'llm_verified_negative': np.int64(373)}
+  BERT train sample: 500,000 | pos~88,902
+  Toplu tokenize ediliyor (fast tokenizer, tek seferde)...
+  → tokenize 500,000 örnek | 52.5s
+  Epoch 1 step 0/15625 loss=0.0038
+  Epoch 1 step 300/15625 loss=0.0739
+  Epoch 1 step 600/15625 loss=0.0672
+  Epoch 1 step 900/15625 loss=0.0629
+  Epoch 1 step 1200/15625 loss=0.0604
+  Epoch 1 step 1500/15625 loss=0.0590
+  Epoch 1 step 1800/15625 loss=0.0579
+  Epoch 1 step 2100/15625 loss=0.0575
+  Epoch 1 step 2400/15625 loss=0.0572
+  Epoch 1 step 2700/15625 loss=0.0573
+  Epoch 1 step 3000/15625 loss=0.0561
+  Epoch 1 step 3300/15625 loss=0.0566
+  Epoch 1 step 3600/15625 loss=0.0562
+  Epoch 1 step 3900/15625 loss=0.0559
+  Epoch 1 step 4200/15625 loss=0.0561
+  Epoch 1 step 4500/15625 loss=0.0564
+  Epoch 1 step 4800/15625 loss=0.0564
+  Epoch 1 step 5100/15625 loss=0.0564
+  Epoch 1 step 5400/15625 loss=0.0563
+  Epoch 1 step 5700/15625 loss=0.0567
+  Epoch 1 step 6000/15625 loss=0.0565
+  Epoch 1 step 6300/15625 loss=0.0564
+  Epoch 1 step 6600/15625 loss=0.0564
+  Epoch 1 step 6900/15625 loss=0.0564
+  Epoch 1 step 7200/15625 loss=0.0564
+  Epoch 1 step 7500/15625 loss=0.0564
+  Epoch 1 step 7800/15625 loss=0.0564
+  Epoch 1 step 8100/15625 loss=0.0562
+  Epoch 1 step 8400/15625 loss=0.0563
+  Epoch 1 step 8700/15625 loss=0.0563
+  Epoch 1 step 9000/15625 loss=0.0564
+  Epoch 1 step 9300/15625 loss=0.0562
+  Epoch 1 step 9600/15625 loss=0.0562
+  Epoch 1 step 9900/15625 loss=0.0562
+  Epoch 1 step 10200/15625 loss=0.0563
+  Epoch 1 step 10500/15625 loss=0.0563
+  Epoch 1 step 10800/15625 loss=0.0564
+  Epoch 1 step 11100/15625 loss=0.0564
+  Epoch 1 step 11400/15625 loss=0.0565
+  Epoch 1 step 11700/15625 loss=0.0564
+  Epoch 1 step 12000/15625 loss=0.0562
+  Epoch 1 step 12300/15625 loss=0.0561
+  Epoch 1 step 12600/15625 loss=0.0561
+  Epoch 1 step 12900/15625 loss=0.0561
+  Epoch 1 step 13200/15625 loss=0.0561
+  Epoch 1 step 13500/15625 loss=0.0562
+  Epoch 1 step 13800/15625 loss=0.0563
+  Epoch 1 step 14100/15625 loss=0.0563
+  Epoch 1 step 14400/15625 loss=0.0562
+  Epoch 1 step 14700/15625 loss=0.0562
+  Epoch 1 step 15000/15625 loss=0.0561
+  Epoch 1 step 15300/15625 loss=0.0560
+  Epoch 1 step 15600/15625 loss=0.0560
+  Epoch 2 step 0/15625 loss=0.0050
+  Epoch 2 step 300/15625 loss=0.0432
+  Epoch 2 step 600/15625 loss=0.0444
+  Epoch 2 step 900/15625 loss=0.0435
+  Epoch 2 step 1200/15625 loss=0.0440
+  Epoch 2 step 1500/15625 loss=0.0438
+  Epoch 2 step 1800/15625 loss=0.0437
+  Epoch 2 step 2100/15625 loss=0.0433
+  Epoch 2 step 2400/15625 loss=0.0430
+  Epoch 2 step 2700/15625 loss=0.0432
+  Epoch 2 step 3000/15625 loss=0.0428
+  Epoch 2 step 3300/15625 loss=0.0435
+  Epoch 2 step 3600/15625 loss=0.0434
+  Epoch 2 step 3900/15625 loss=0.0434
+  Epoch 2 step 4200/15625 loss=0.0435
+  Epoch 2 step 4500/15625 loss=0.0435
+  Epoch 2 step 4800/15625 loss=0.0439
+  Epoch 2 step 5100/15625 loss=0.0442
+  Epoch 2 step 5400/15625 loss=0.0440
+  Epoch 2 step 5700/15625 loss=0.0439
+  Epoch 2 step 6000/15625 loss=0.0443
+  Epoch 2 step 6300/15625 loss=0.0444
+  Epoch 2 step 6600/15625 loss=0.0444
+  Epoch 2 step 6900/15625 loss=0.0445
+  Epoch 2 step 7200/15625 loss=0.0443
+  Epoch 2 step 7500/15625 loss=0.0441
+  Epoch 2 step 7800/15625 loss=0.0438
+  Epoch 2 step 8100/15625 loss=0.0435
+  Epoch 2 step 8400/15625 loss=0.0437
+  Epoch 2 step 8700/15625 loss=0.0435
+  Epoch 2 step 9000/15625 loss=0.0435
+  Epoch 2 step 9300/15625 loss=0.0435
+  Epoch 2 step 9600/15625 loss=0.0434
+  Epoch 2 step 9900/15625 loss=0.0433
+  Epoch 2 step 10200/15625 loss=0.0434
+  Epoch 2 step 10500/15625 loss=0.0435
+  Epoch 2 step 10800/15625 loss=0.0436
+  Epoch 2 step 11100/15625 loss=0.0435
+  Epoch 2 step 11400/15625 loss=0.0437
+  Epoch 2 step 11700/15625 loss=0.0436
+  Epoch 2 step 12000/15625 loss=0.0435
+  Epoch 2 step 12300/15625 loss=0.0435
+  Epoch 2 step 12600/15625 loss=0.0434
+  Epoch 2 step 12900/15625 loss=0.0435
+  Epoch 2 step 13200/15625 loss=0.0435
+  Epoch 2 step 13500/15625 loss=0.0435
+  Epoch 2 step 13800/15625 loss=0.0435
+  Epoch 2 step 14100/15625 loss=0.0435
+  Epoch 2 step 14400/15625 loss=0.0435
+  Epoch 2 step 14700/15625 loss=0.0435
+  Epoch 2 step 15000/15625 loss=0.0436
+  Epoch 2 step 15300/15625 loss=0.0436
+  Epoch 2 step 15600/15625 loss=0.0436
+  Epoch 3 step 0/15625 loss=0.0072
+  Epoch 3 step 300/15625 loss=0.0323
+  Epoch 3 step 600/15625 loss=0.0316
+  Epoch 3 step 900/15625 loss=0.0300
+  Epoch 3 step 1200/15625 loss=0.0304
+  Epoch 3 step 1500/15625 loss=0.0309
+  Epoch 3 step 1800/15625 loss=0.0312
+  Epoch 3 step 2100/15625 loss=0.0321
+  Epoch 3 step 2400/15625 loss=0.0328
+  Epoch 3 step 2700/15625 loss=0.0331
+  Epoch 3 step 3000/15625 loss=0.0331
+  Epoch 3 step 3300/15625 loss=0.0334
+  Epoch 3 step 3600/15625 loss=0.0334
+  Epoch 3 step 3900/15625 loss=0.0336
+  Epoch 3 step 4200/15625 loss=0.0334
+  Epoch 3 step 4500/15625 loss=0.0330
+  Epoch 3 step 4800/15625 loss=0.0334
+  Epoch 3 step 5100/15625 loss=0.0336
+  Epoch 3 step 5400/15625 loss=0.0338
+  Epoch 3 step 5700/15625 loss=0.0336
+  Epoch 3 step 6000/15625 loss=0.0335
+  Epoch 3 step 6300/15625 loss=0.0335
+  Epoch 3 step 6600/15625 loss=0.0336
+  Epoch 3 step 6900/15625 loss=0.0336
+  Epoch 3 step 7200/15625 loss=0.0334
+  Epoch 3 step 7500/15625 loss=0.0335
+  Epoch 3 step 7800/15625 loss=0.0333
+  Epoch 3 step 8100/15625 loss=0.0333
+  Epoch 3 step 8400/15625 loss=0.0336
+  Epoch 3 step 8700/15625 loss=0.0333
+  Epoch 3 step 9000/15625 loss=0.0335
+  Epoch 3 step 9300/15625 loss=0.0334
+  Epoch 3 step 9600/15625 loss=0.0335
+  Epoch 3 step 9900/15625 loss=0.0334
+  Epoch 3 step 10200/15625 loss=0.0334
+  Epoch 3 step 10500/15625 loss=0.0334
+  Epoch 3 step 10800/15625 loss=0.0335
+  Epoch 3 step 11100/15625 loss=0.0335
+  Epoch 3 step 11400/15625 loss=0.0335
+  Epoch 3 step 11700/15625 loss=0.0334
+  Epoch 3 step 12000/15625 loss=0.0333
+  Epoch 3 step 12300/15625 loss=0.0333
+  Epoch 3 step 12600/15625 loss=0.0333
+  Epoch 3 step 12900/15625 loss=0.0333
+  Epoch 3 step 13200/15625 loss=0.0333
+  Epoch 3 step 13500/15625 loss=0.0333
+  Epoch 3 step 13800/15625 loss=0.0332
+  Epoch 3 step 14100/15625 loss=0.0332
+  Epoch 3 step 14400/15625 loss=0.0331
+  Epoch 3 step 14700/15625 loss=0.0330
+  Epoch 3 step 15000/15625 loss=0.0331
+  Epoch 3 step 15300/15625 loss=0.0332
+  Epoch 3 step 15600/15625 loss=0.0333
+  BERT v37 saved → C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\models\bert_v37
+  Train BERT inference (1,537,779 çift, YENİ v37 modeliyle)...
+    train 50,000/1,537,779
+    train 100,000/1,537,779
+    train 150,000/1,537,779
+    train 200,000/1,537,779
+    train 250,000/1,537,779
+    train 300,000/1,537,779
+    train 350,000/1,537,779
+    train 400,000/1,537,779
+    train 450,000/1,537,779
+    train 500,000/1,537,779
+    train 550,000/1,537,779
+    train 600,000/1,537,779
+    train 650,000/1,537,779
+    train 700,000/1,537,779
+    train 750,000/1,537,779
+    train 800,000/1,537,779
+    train 850,000/1,537,779
+    train 900,000/1,537,779
+    train 950,000/1,537,779
+    train 1,000,000/1,537,779
+    train 1,050,000/1,537,779
+    train 1,100,000/1,537,779
+    train 1,150,000/1,537,779
+    train 1,200,000/1,537,779
+    train 1,250,000/1,537,779
+    train 1,300,000/1,537,779
+    train 1,350,000/1,537,779
+    train 1,400,000/1,537,779
+    train 1,450,000/1,537,779
+    train 1,500,000/1,537,779
+    train 1,537,779/1,537,779
+  → bert_scores_v37_train.npy | 73.4 dk
+  Test BERT inference (3,359,679 çift, YENİ v37 modeliyle)...
+    test 50,000/3,359,679
+    test 100,000/3,359,679
+    test 150,000/3,359,679
+    test 200,000/3,359,679
+    test 250,000/3,359,679
+    test 300,000/3,359,679
+    test 350,000/3,359,679
+    test 400,000/3,359,679
+    test 450,000/3,359,679
+    test 500,000/3,359,679
+    test 550,000/3,359,679
+    test 600,000/3,359,679
+    test 650,000/3,359,679
+    test 700,000/3,359,679
+    test 750,000/3,359,679
+    test 800,000/3,359,679
+    test 850,000/3,359,679
+    test 900,000/3,359,679
+    test 950,000/3,359,679
+    test 1,000,000/3,359,679
+    test 1,050,000/3,359,679
+    test 1,100,000/3,359,679
+    test 1,150,000/3,359,679
+    test 1,200,000/3,359,679
+    test 1,250,000/3,359,679
+    test 1,300,000/3,359,679
+    test 1,350,000/3,359,679
+    test 1,400,000/3,359,679
+    test 1,450,000/3,359,679
+    test 1,500,000/3,359,679
+    test 1,550,000/3,359,679
+    test 1,600,000/3,359,679
+    test 1,650,000/3,359,679
+    test 1,700,000/3,359,679
+    test 1,750,000/3,359,679
+    test 1,800,000/3,359,679
+    test 1,850,000/3,359,679
+    test 1,900,000/3,359,679
+    test 1,950,000/3,359,679
+    test 2,000,000/3,359,679
+    test 2,050,000/3,359,679
+    test 2,100,000/3,359,679
+    test 2,150,000/3,359,679
+    test 2,200,000/3,359,679
+    test 2,250,000/3,359,679
+    test 2,300,000/3,359,679
+    test 2,350,000/3,359,679
+    test 2,400,000/3,359,679
+    test 2,450,000/3,359,679
+    test 2,500,000/3,359,679
+    test 2,550,000/3,359,679
+    test 2,600,000/3,359,679
+    test 2,650,000/3,359,679
+    test 2,700,000/3,359,679
+    test 2,750,000/3,359,679
+    test 2,800,000/3,359,679
+    test 2,850,000/3,359,679
+    test 2,900,000/3,359,679
+    test 2,950,000/3,359,679
+    test 3,000,000/3,359,679
+    test 3,050,000/3,359,679
+    test 3,100,000/3,359,679
+    test 3,150,000/3,359,679
+    test 3,200,000/3,359,679
+    test 3,250,000/3,359,679
+    test 3,300,000/3,359,679
+    test 3,350,000/3,359,679
+    test 3,359,679/3,359,679
+  → bert_scores_v37_test.npy | 157.6 dk
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan)...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,537,779 (3%)
+    1,050,000/1,537,779 (68%)
+    1,537,779/1,537,779 (100%)
+  train_cos: pos mean=0.652 neg mean=0.137
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.317
+  → 0.5 dk
+
+[C2] Trusted brand + category phrase sözlükleri kuruluyor...
+  Trusted brand sayısı: 55,580 (toplam benzersiz brand: 79,790)
+  Category phrase sayısı: 3,421
+
+[D] FEATURE ENGINEERING...
+  Train features: (1537779, 42) | 542.3s
+
+[E] BINARY LGBM 5-FOLD (n_estimators=4000, early_stop=150)...
+  Fold 1 | iter=2033 | val F1≈0.9723
+  Fold 2 | iter=2069 | val F1≈0.9771
+  Fold 3 | iter=2368 | val F1≈0.9765
+  Fold 4 | iter=2539 | val F1≈0.9758
+  Fold 5 | iter=2287 | val F1≈0.9764
+
+  OOF F1=0.97558 | thr=0.7700
+
+  Feature Önemleri (top 20):
+    bert_score               :  33206
+    tyembed_cos              :  31146
+    fuzz_basic               :  21575
+    fuzz_partial             :  20986
+    fuzz_sort                :  19595
+    fuzz_set                 :  16523
+    tfidf_cos                :  14108
+    t_len                    :  13997
+    ana_kategori             :   9685
+    cat_overlap              :   9032
+    stem_cat_jac             :   8529
+    attr_jac_fixed           :   7543
+    stem_jaccard             :   4783
+    category_phrase_match    :   4684
+    q_len                    :   4566
+    weighted_q_cov           :   3752
+    t_cov_query              :   3747
+    jaccard                  :   3602
+    attr_q_cov               :   3546
+    brand_weight             :   3509
+
+=================================================================
+SAĞLIK KONTROLÜ
+=================================================================
+  ✓ OOF F1 (0.9756) v36b'ye (0.97304) yakın/altında — makul bir sinyal.
+
+  LLM veri kaynak dağılımı (toplam): pozitif=9,808 | negatif=2,195
+  Kaynak bazında: {'llm_recovered_positive_v37_test': np.int64(5173), 'llm_recovered_positive_v37_train': np.int64(4635), 'llm_verified_negative_v37_test': np.int64(1272), 'llm_verified_negative_v37_train': np.int64(923)}
+  ✓ En baskın feature 'bert_score' importance'ın sadece %13'ini oluşturuyor.
+=================================================================
+
+[F] TEST INFERENCE + SUBMISSION (doğrudan threshold, quantile mapping YOK)...
+  thr=0.7700 (OOF'tan doğrudan) → Pozitif=869,235 (25.9%)
+
+=================================================================
+TAMAMLANDI — v37b ELECTRA warm-start turu 2 (bert_v36'dan devam, hedefli v37 veri)
+  OOF F1        : 0.97558 (v36b: 0.97304, v37a: 0.97263)
+  OOF threshold : 0.7700
+  Pozitif       : 869,235 (25.9%)
+  Train çifti   : 1,537,779 (v36b tabanı 1,525,776 + YENİ v37 12,003)
+  Feature sayısı: 42 (v36 ile aynı 41 + spec_code_match)
+  BERT modeli   : bert_v37 (bert_v36'dan warm-start, 3 epoch, lr=1e-5)
+  Toplam süre   : 655.6 dk
+  Dosya         : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v37b_warmstart2.csv
+=================================================================

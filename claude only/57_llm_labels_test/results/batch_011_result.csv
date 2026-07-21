@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3850,1,sünger yatak matches
+3851,1,sünger yatak matches
+3852,1,sünger yatak matches
+3853,1,ortopedik sünger yatak matches
+3854,1,ortopedik sünger yatak matches
+3855,1,buğu giderici car spray matches
+3856,1,buğu giderici spray matches
+3857,1,buğu giderici spray matches
+3858,1,buğu giderici spray matches
+3859,1,buğu giderici spray matches
+3860,1,eğitim kitabı - school book matches
+3861,1,eğitim kitabı matches
+3862,1,eğitim kitabı - sınav hazırlık matches
+3863,1,eğitim kitabı matches
+3864,1,eğitim kitabı matches
+3865,1,fiat doblo paspas exact match
+3866,1,fiat doblo compatible paspas
+3867,1,fiat doblo paspas match
+3868,1,fiat doblo paspas match
+3869,1,fiat doblo paspas match
+3870,1,erkek bebek takım match
+3871,1,erkek bebek takım match
+3872,1,erkek bebek takım match
+3873,1,erkek bebek takım match
+3874,1,erkek bebek takım match
+3875,0,akıllı saat not earbuds
+3876,0,akıllı saat not earbuds
+3877,0,akıllı saat not earbuds
+3878,0,akıllı saat not earbuds
+3879,0,akıllı saat not earbuds
+3880,1,vitra klozet match
+3881,1,vitra klozet match
+3882,1,vitra klozet match
+3883,1,vitra klozet match
+3884,1,vitra klozet match
+3885,1,1 yaş doğum günü seti match
+3886,1,1 yaş doğum günü seti match
+3887,1,1 yaş doğum günü seti match
+3888,1,1 yaş doğum günü seti match
+3889,1,1 yaş doğum günü seti match
+3890,1,siemens bulaşık makinesi match
+3891,1,siemens bulaşık makinesi match
+3892,1,siemens bulaşık makinesi match
+3893,1,siemens bulaşık makinesi match
+3894,1,siemens bulaşık makinesi match
+3895,1,contains wish of love product
+3896,1,contains wish of line product
+3897,1,contains wish of love product
+3898,0,perceive line - not wish product
+3899,0,eve truth line - not wish product
+3900,0,pantolon not kazak; not lcw brand
+3901,0,pantolon not kazak; not lcw brand
+3902,0,pantolon not kazak; not lcw brand
+3903,0,pantolon not kazak; not lcw brand
+3904,0,pantolon not kazak; not lcw brand
+3905,1,kelepçeli kek kalıbı match
+3906,1,kelepçeli kek kalıbı match
+3907,1,kelepçeli kek kalıbı match
+3908,0,standart kek kalıbı - no kelepçe
+3909,0,standart kek kalıbı - no kelepçe
+3910,1,kahramanlar çelik tencere seti match
+3911,1,kahramanlar çelik tencere seti match
+3912,1,kahramanlar çelik tencere seti match
+3913,1,kahramanlar çelik tencere seti match
+3914,1,kahramanlar çelik tencere seti match
+3915,1,dvd animasyon çizgi film match
+3916,0,defter (notebook) not çizgi film
+3917,1,dvd animasyon çizgi film match
+3918,0,defter (notebook) not çizgi film
+3919,0,defter (notebook) not çizgi film
+3920,1,nora brand çanta match
+3921,1,nora brand çanta match
+3922,1,nora brand çanta match
+3923,0,alia brand - not nora
+3924,0,manuka brand - not nora
+3925,0,halı yolluk not perde
+3926,0,halı yolluk not perde
+3927,0,halı yolluk not perde
+3928,0,halı yolluk not perde
+3929,0,halı yolluk not perde
+3930,1,efor brand ceket match
+3931,1,efor brand ceket match
+3932,1,efor brand ceket match
+3933,1,efor brand ceket match
+3934,1,efor brand ceket match
+3935,0,tuvalet kapağı not dolap
+3936,0,lavabo süzgeci not dolap
+3937,0,rezervuar blok not dolap
+3938,0,rezervuar blok not dolap
+3939,0,tuvalet küpü not dolap
+3940,1,kırmızı biber kolye match
+3941,1,kırmızı biber kolye match
+3942,1,kırmızı biber kolye match
+3943,1,kırmızı biber kolye match
+3944,1,kırmızı biber kolye match
+3945,1,büyük boy kedi tuvaleti match
+3946,1,büyük boy kedi tuvaleti match
+3947,1,büyük boy kedi tuvaleti match
+3948,1,büyük boy kedi tuvaleti match
+3949,1,büyük boy kedi tuvaleti match
+3950,1,ls2 kask match
+3951,1,ls2 kask match
+3952,1,ls2 kask match
+3953,1,ls2 kask match
+3954,1,ls2 kask match
+3955,1,volta vsm ön far match
+3956,1,volta vsm far paneli match
+3957,0,generic led ampul not vsm specific
+3958,0,fren balata - wrong part type
+3959,0,mondial dişli - wrong part and brand
+3960,1,blender seti match
+3961,1,blender seti match
+3962,1,blender seti match
+3963,1,el blender seti match
+3964,1,blender seti match
+3965,1,bebek çamaşır yumuşatıcı match
+3966,1,bebek çamaşır yumuşatıcı match
+3967,1,bebek çamaşır yumuşatıcı match
+3968,1,bebek çamaşır yumuşatıcı match
+3969,1,bebek çamaşır yumuşatıcı match
+3970,1,kuromi toka match
+3971,1,kuromi toka match
+3972,1,kuromi toka match
+3973,1,kuromi toka match
+3974,1,kuromi toka match
+3975,0,lightning connector - iphone15 uses usb-c port
+3976,1,usb type-c cable compatible with iphone15 port
+3977,0,type-c/iphone lightning combo - not usb-c only
+3978,0,apple usb-c to lightning - iphone15 has usb-c port
+3979,1,usb typec cable compatible with iphone15 port
+3980,1,plastik çok amaçlı dolap match
+3981,1,plastik çok amaçlı dolap match
+3982,1,plastik çok amaçlı dolap match
+3983,1,plastik çok amaçlı dolap match
+3984,1,plastik çok amaçlı dolap match
+3985,1,balonevi brand match
+3986,1,balonevi brand match
+3987,1,balonevi brand match
+3988,1,balonevi brand match
+3989,1,balonevi brand match
+3990,1,şarjlı dik süpürge match
+3991,1,şarjlı dik süpürge match
+3992,1,şarjlı dik süpürge match
+3993,1,şarjlı dik süpürge match
+3994,1,şarjlı dik süpürge match
+3995,1,olta zili match
+3996,1,olta zili match
+3997,1,olta zili match
+3998,1,olta zili match
+3999,1,olta zili match
+4000,1,armine brand çanta match
+4001,1,armine brand çanta match
+4002,1,armine brand çanta match
+4003,1,armine brand çanta match
+4004,1,armine brand çanta match
+4005,1,beyaz yapay çiçek match
+4006,1,beyaz yapay çiçek match
+4007,1,beyaz yapay çiçek match
+4008,1,beyaz yapay çiçek match
+4009,1,beyaz yapay çiçek match
+4010,1,araç çakmaklık şarjı match
+4011,1,araç çakmaklık şarjı match
+4012,1,araç çakmaklık şarjı match
+4013,1,araç çakmaklık şarjı match
+4014,1,araç çakmaklık şarjı match
+4015,1,yüz serumu match
+4016,1,yüz serumu match
+4017,1,yüz serumu match
+4018,1,yüz serumu match
+4019,1,yüz serumu match
+4020,1,yui dik süpürge match
+4021,1,yui robot süpürge match
+4022,0,yui buharlı temizleyici - not süpürge
+4023,0,yui buharlı temizleyici - not süpürge
+4024,0,philips brand - not yui
+4025,1,yer fıstığı ezmesi match
+4026,1,yer fıstığı ezmesi match
+4027,1,yer fıstığı ezmesi match
+4028,1,yer fıstığı ezmesi match
+4029,1,yer fıstığı ezmesi match
+4030,1,altus kurutma makinesi match
+4031,1,altus kurutma makinesi match
+4032,1,altus kurutma makinesi match
+4033,1,altus kurutma makinesi match
+4034,1,altus kurutma makinesi match
+4035,1,ipekyol elbise match
+4036,1,ipekyol elbise match
+4037,1,ipekyol elbise match
+4038,1,ipekyol elbise match
+4039,1,ipekyol elbise match
+4040,1,kız bebek ikili takım match
+4041,1,kız bebek ikili takım match
+4042,1,kız bebek ikili takım match
+4043,1,kız bebek ikili takım match
+4044,1,kız bebek ikili takım match
+4045,0,elbise - not üst (top) category
+4046,0,elbise - not üst (top) category
+4047,0,elbise - not üst (top) category
+4048,0,elbise - not üst (top) category
+4049,0,elbise - not üst (top) category
+4050,1,hamile abiye match
+4051,1,hamile abiye match
+4052,1,hamile abiye match
+4053,1,hamile abiye match
+4054,1,hamile abiye match
+4055,1,contigo suluk match
+4056,1,contigo matara match
+4057,1,contigo suluk match
+4058,1,contigo suluk match
+4059,1,contigo suluk match
+4060,1,küçük bebek battaniyesi match
+4061,1,küçük bebek battaniyesi match
+4062,0,el havlusu - not battaniye
+4063,0,çarşaf - not battaniye
+4064,0,puzzle oyuncak - not battaniye
+4065,1,spot avize match
+4066,1,spot avize match
+4067,1,spot avize match
+4068,1,spot avize match
+4069,1,spot avize match
+4070,1,dağcılık malzemesi sırt çantası match
+4071,1,dağcılık malzemesi match
+4072,1,dağcılık malzemesi match
+4073,1,dağcılık malzemesi match
+4074,1,dağcılık malzemesi match
+4075,1,pelin aksesuar broş match
+4076,1,pelin aksesuar broş match
+4077,1,pelin aksesuar broş match
+4078,1,pelin aksesuar broş match
+4079,1,pelin aksesuar broş match
+4080,1,özdilek unisex bornoz match
+4081,1,özdilek unisex bornoz match
+4082,1,özdilek unisex bornoz match
+4083,1,özdilek unisex bornoz match
+4084,1,özdilek unisex bornoz match
+4085,0,ahşap banyo seti - not bambu sepet
+4086,0,plastik banyo seti - no laundry basket
+4087,0,plastik banyo seti - no laundry basket
+4088,0,plastik banyo seti - no laundry basket
+4089,0,plastik banyo seti - no laundry basket
+4090,1,bosch davlumbaz match
+4091,1,bosch davlumbaz match
+4092,1,bosch davlumbaz match
+4093,1,bosch davlumbaz match
+4094,1,bosch davlumbaz match
+4095,0,3.sınıf kitap for age 6-9 - not 3 yaş
+4096,0,3.sınıf kitap for age 6-9 - not 3 yaş
+4097,0,2.sınıf kitap for age 6-9 - not 3 yaş
+4098,0,3.sınıf kitap for age 6-9 - not 3 yaş
+4099,0,3-4.sınıf kitap for age 9+ - not 3 yaş
+4100,1,elle terlik match
+4101,1,elle terlik match
+4102,1,elle terlik match
+4103,1,elle terlik match
+4104,1,elle terlik match
+4105,1,çay tabağı match
+4106,1,çay tabağı match
+4107,1,çay bardak altı tabak match
+4108,1,çay tabağı match
+4109,1,çay tabağı match
+4110,1,mutfak eviyesi/lavabosu match
+4111,1,mutfak evyesi match
+4112,1,mutfak lavabosu match
+4113,1,mutfak eviyesi match
+4114,1,mutfak eviyesi match
+4115,1,show by pastel allık match
+4116,1,show by pastel allık match
+4117,1,show by pastel allık match
+4118,1,show by pastel allık match
+4119,1,show by pastel allık match
+4120,1,kahverengi kalıcı oje match
+4121,1,kahve serisi kalıcı oje match
+4122,0,renk bordo - not kahverengi
+4123,1,kahve serisi kalıcı oje match
+4124,1,kahve serisi kalıcı oje match
+4125,1,akrilik marker kalem match
+4126,1,akrilik marker kalem match
+4127,1,akrilik marker kalem match
+4128,1,akrilik marker kalem match
+4129,0,akrilik boya - not kalem
+4130,1,bebek patik çorap match
+4131,1,bebek patik çorap match
+4132,1,bebek patik çorap match
+4133,1,bebek patik çorap match
+4134,1,bebek patik çorap match
+4135,1,afralyahome brand match
+4136,1,afralyahome brand match
+4137,1,afralyahome brand match
+4138,1,afralyahome brand match
+4139,1,afralyahome brand match
+4140,1,arçelik küçük ev aletleri match
+4141,1,arçelik küçük ev aletleri match
+4142,1,arçelik küçük ev aletleri match
+4143,1,arçelik küçük ev aletleri match
+4144,1,arçelik blender set match
+4145,1,taylor swift merch match
+4146,1,taylor swift merch match
+4147,1,taylor swift merch match
+4148,1,taylor swift merch match
+4149,1,taylor swift merch match
+4150,1,otomobil aksesuarı match
+4151,1,otomobil aksesuarı match
+4152,1,otomobil aksesuarı match
+4153,1,otomobil aksesuarı match
+4154,1,otomobil aksesuarı match
+4155,1,araba güneşlik match
+4156,1,araba güneşlik match
+4157,1,araba güneşlik match
+4158,1,araba güneşlik match
+4159,1,araba güneşlik match
+4160,0,20gr - wrong size not 100gr
+4161,1,malt soft extra 100gr match
+4162,0,20gr x2 - wrong size not 100gr
+4163,1,malt soft extra 100gr match
+4164,0,multivitamin macun - not malt soft extra
+4165,0,masa figürü - not mini masa
+4166,0,masa figürü - not mini masa
+4167,0,masa figürü - not mini masa
+4168,0,telefon tutacağı - not mini masa
+4169,0,masa figürü - not mini masa
+4170,1,skechers kadın sneaker match
+4171,1,skechers kadın sneaker match
+4172,1,skechers kadın sneaker match
+4173,1,skechers kadın sneaker match
+4174,1,skechers kadın sneaker match
+4175,1,tavan boyası match
+4176,1,tavan boyası match
+4177,1,tavan boyası match
+4178,1,tavan armatür match
+4179,1,tavan boyası match
+4180,1,yosun maskesi match
+4181,1,yosun maskesi match
+4182,1,yosun maskesi match
+4183,1,yosun peeling maskesi match
+4184,1,yosun maskesi match
+4185,1,mini komodin match
+4186,1,mini komodin match
+4187,1,mini komodin match
+4188,1,mini komodin match
+4189,1,mini komodin match
+4190,1,garnier brand match
+4191,1,garnier brand match
+4192,1,garnier brand match
+4193,1,garnier brand match
+4194,1,garnier brand match
+4195,1,altınyıldız classics erkek pantolon match
+4196,1,altınyıldız classics erkek pantolon match
+4197,1,altınyıldız classics erkek pantolon match
+4198,1,altınyıldız classics erkek pantolon match
+4199,1,altınyıldız classics erkek pantolon match

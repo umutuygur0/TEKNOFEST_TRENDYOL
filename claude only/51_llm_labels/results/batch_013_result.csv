@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4550,1,sulfate-free shampoo matches
+4551,1,sulfate-free shampoo matches
+4552,1,sulfate-free shampoo matches
+4553,0,balcony tarp/curtain not tent
+4554,1,balcony tent-category tarp cover
+4555,1,balcony tent-category tarp cover
+4556,1,balcony tent-category tarp cover
+4557,0,balcony tarp curtain category not tent
+4558,1,redist hair spray match
+4559,1,redist hair spray set match
+4560,0,fon suyu not spray wrong form
+4561,1,redist hair spray match
+4562,0,makeup setting spray not hair spray
+4563,1,lettered keychain match
+4564,1,lettered keychain match
+4565,1,lettered keychain match
+4566,1,lettered keychain match
+4567,1,lettered keychain match
+4568,1,columbia women's shoe match
+4569,1,columbia women's shoe match
+4570,1,columbia women's shoe match
+4571,1,columbia women's outdoor shoe match
+4572,1,columbia women's outdoor shoe match
+4573,1,tamer tanca shoulder bag match
+4574,1,tamer tanca shoulder bag match
+4575,1,tamer tanca shoulder bag match
+4576,0,hand bag category not shoulder bag
+4577,1,category confirms shoulder bag
+4578,1,silver men's ID bracelet match
+4579,1,silver men's ID bracelet match
+4580,1,silver men's ID bracelet match
+4581,1,silver men's ID bracelet match
+4582,1,silver men's ID bracelet match
+4583,1,braun personal care epilator
+4584,1,braun personal care epilator
+4585,1,braun epilator facespa product
+4586,1,braun epilator product
+4587,1,braun facial hair removal device
+4588,0,tagged men's not women's
+4589,1,unisex baggy sweatpants match
+4590,1,unisex baggy sweatpants match
+4591,1,unisex baggy sweatpants match
+4592,1,unisex baggy sweatpants match
+4593,1,pantene conditioner match
+4594,1,pantene conditioner match
+4595,1,pantene conditioner match
+4596,1,pantene conditioner match
+4597,1,pantene conditioner match
+4598,1,marks & spencer coat match
+4599,1,marks & spencer coat match
+4600,1,marks & spencer coat match
+4601,1,marks & spencer coat match
+4602,1,marks & spencer coat match
+4603,1,hallway rug match
+4604,1,hallway rug match
+4605,1,hallway rug match
+4606,1,hallway rug match
+4607,1,hallway rug match
+4608,1,premiata brand shoe
+4609,0,slipper not shoe
+4610,1,premiata brand shoe
+4611,1,premiata brand shoe
+4612,1,premiata brand shoe
+4613,1,ekol dress match
+4614,1,ekol dress match
+4615,1,ekol dress match
+4616,1,ekol dress match
+4617,1,ekol dress match
+4618,1,glittery boot match
+4619,1,glittery boot match
+4620,1,sequin/glitter boot match
+4621,1,glittery boot match
+4622,1,glittery boot match
+4623,1,nyx lipstick match
+4624,1,nyx lipstick match
+4625,1,nyx lipstick match
+4626,1,nyx liquid lipstick match
+4627,1,nyx lipstick match
+4628,1,4th grade practice exam match
+4629,1,4th grade practice exam match
+4630,1,4th grade practice exam match
+4631,1,4th grade practice exam match
+4632,1,4th grade practice exam match
+4633,1,chalk match
+4634,1,chalk match
+4635,1,chalk match
+4636,1,chalk match
+4637,1,chalk match
+4638,1,a4 frame match
+4639,1,a4 frame match
+4640,0,a5 size not a4
+4641,1,a4 frame match
+4642,0,a5 size not a4
+4643,1,globber scooter match
+4644,1,globber scooter match
+4645,1,globber scooter match
+4646,1,globber scooter match
+4647,1,globber scooter match
+4648,1,electric tea maker match
+4649,1,electric tea maker match
+4650,1,electric tea maker match
+4651,1,electric tea maker match
+4652,1,electric tea maker match
+4653,1,backpack match
+4654,1,backpack match
+4655,1,backpack match
+4656,1,backpack match
+4657,1,backpack match
+4658,1,women's evening blouse match
+4659,1,women's evening blouse match
+4660,1,women's evening blouse match
+4661,1,sequin detailed dressy blouse
+4662,1,women's evening blouse match
+4663,1,molfix size 3 diaper match
+4664,1,molfix size 3 diaper match
+4665,1,molfix size 3 diaper match
+4666,1,molfix size 3 diaper match
+4667,1,molfix size 3 diaper match
+4668,1,nike blazer model match
+4669,0,wrong brand not nike blazer
+4670,1,nike blazer model match
+4671,1,nike blazer model match
+4672,1,nike blazer model match
+4673,1,white hair clip match
+4674,1,white hair clip match
+4675,1,white hair clip match
+4676,1,white hair clip match
+4677,1,white hair clip match
+4678,1,robx ipl device match
+4679,1,robx ipl device attachment match
+4680,1,robx ipl device match
+4681,1,robx ipl device match
+4682,1,robx ipl device match
+4683,1,beyond babet match
+4684,1,beyond babet match
+4685,1,beyond babet match
+4686,1,beyond babet match
+4687,0,home slipper not babet
+4688,1,madame coco bath set match
+4689,1,madame coco bath set match
+4690,0,wrong brand english home
+4691,0,wrong brand english home
+4692,0,wrong brand minihol
+4693,1,stress wheel toy match
+4694,1,stress wheel toy match
+4695,1,stress wheel toy match
+4696,1,stress wheel toy match
+4697,1,stress wheel toy match
+4698,1,twigy home slipper match
+4699,1,twigy home slipper match
+4700,1,twigy home slipper match
+4701,1,twigy home slipper match
+4702,1,twigy home slipper match
+4703,0,radiator cover cabinet not radiator
+4704,0,radiator cover cabinet not radiator
+4705,0,radiator cover cabinet not radiator
+4706,0,radiator cover cabinet not radiator
+4707,1,actual radiator panel match
+4708,1,facial moisturizer match
+4709,1,facial moisturizer match
+4710,1,face and body moisturizer match
+4711,1,facial sun moisturizer cream
+4712,1,facial moisturizer match
+4713,1,peach blush match
+4714,1,peach blush match
+4715,1,peach blush match
+4716,1,peach blush match
+4717,1,peach blush match
+4718,1,tupperware container match
+4719,1,tupperware container match
+4720,1,tupperware container match
+4721,0,wrong brand not tupperware
+4722,1,tupperware container match
+4723,1,arcelik cezve match
+4724,0,cezve not included in listing
+4725,0,wrong brand beko
+4726,1,arcelik telve machine match
+4727,1,arcelik brewing pot match
+4728,1,modest wear 2-piece set match
+4729,1,modest wear 2-piece set match
+4730,1,modest wear 2-piece set match
+4731,1,modest wear 2-piece set match
+4732,1,modest wear 2-piece set match
+4733,1,girl's babet shoe match
+4734,1,girl's babet shoe match
+4735,1,girl's babet shoe match
+4736,1,girl's babet shoe match
+4737,1,girl's babet shoe match
+4738,1,sweatshirt match
+4739,1,sweatshirt match
+4740,1,sweatshirt match
+4741,1,sweatshirt match
+4742,1,sweatshirt match
+4743,1,shoulder bag match
+4744,1,shoulder bag match
+4745,1,shoulder bag match
+4746,1,shoulder strap tote bag match
+4747,1,shoulder bag match
+4748,1,white women's sport shoe match
+4749,1,white women's sport shoe match
+4750,1,white women's sport shoe match
+4751,1,white women's sport shoe match
+4752,1,white women's sport shoe match
+4753,0,vague query no clear match
+4754,0,vague query no clear match
+4755,0,vague query no clear match
+4756,0,vague query no clear match
+4757,0,vague query no clear match
+4758,0,wrong battery type not 18650
+4759,0,wrong battery type not 18650
+4760,0,wrong battery type not 18650
+4761,0,wrong battery type not 18650
+4762,0,wrong battery type not 18650
+4763,1,sonic birthday decoration match
+4764,1,sonic birthday decoration match
+4765,1,sonic birthday decoration match
+4766,1,sonic birthday decoration match
+4767,1,sonic birthday decoration match
+4768,1,blue denim jacket match
+4769,1,blue denim jacket match
+4770,1,blue denim jacket match
+4771,1,blue denim jacket match
+4772,1,blue denim jacket match
+4773,1,huhuli wall art match
+4774,1,huhuli wall art match
+4775,1,huhuli wall art match
+4776,1,huhuli wall art match
+4777,1,huhuli wall art match
+4778,1,xiaomi smart watch match
+4779,1,xiaomi smart watch match
+4780,1,xiaomi smart watch match
+4781,1,xiaomi smart watch match
+4782,1,xiaomi smart watch match
+4783,1,cadran wall art match
+4784,1,cadran wall art match
+4785,1,cadran wall art match
+4786,1,cadran wall art match
+4787,1,cadran wall art match
+4788,1,coffee corner wall shelf match
+4789,1,coffee corner wall shelf match
+4790,1,coffee corner wall shelf match
+4791,1,coffee corner wall shelf match
+4792,1,coffee corner wall shelf match
+4793,1,stove grate match
+4794,1,stove grate match
+4795,1,stove grate match
+4796,1,stove grate match
+4797,1,stove grate match
+4798,1,loris men's perfume match
+4799,1,loris men's perfume match
+4800,1,loris men's perfume match
+4801,1,loris men's perfume match
+4802,1,loris men's perfume match
+4803,1,women's sweater match
+4804,1,women's sweater match
+4805,1,women's sweater match
+4806,1,women's sweater match
+4807,1,women's sweater match
+4808,1,baby weaning food match
+4809,1,baby weaning food match
+4810,1,baby weaning food match
+4811,1,baby weaning food match
+4812,1,baby weaning food match
+4813,1,elidor hair conditioner match
+4814,1,elidor hair conditioner match
+4815,1,elidor hair conditioner match
+4816,1,elidor hair conditioner match
+4817,1,elidor hair conditioner match
+4818,1,agate ring match
+4819,1,agate ring match
+4820,1,agate ring match
+4821,1,agate ring match
+4822,1,agate ring match
+4823,1,addax t-shirt match
+4824,1,addax t-shirt match
+4825,1,addax t-shirt match
+4826,1,addax t-shirt match
+4827,1,addax t-shirt match
+4828,1,checkered pants match
+4829,1,checkered pants match
+4830,1,checkered pants match
+4831,1,checkered pants match
+4832,1,checkered pants match
+4833,0,plane set not helicopter
+4834,1,lego helicopter match
+4835,1,lego helicopter match
+4836,1,lego set includes helicopter
+4837,0,plane set not helicopter
+4838,1,honey match
+4839,1,honey match
+4840,1,honey match
+4841,1,honey match
+4842,1,honey match
+4843,1,artificial tabletop flower match
+4844,1,artificial tabletop flower match
+4845,1,artificial tabletop flower match
+4846,1,artificial tabletop flower match
+4847,1,artificial tabletop flower match
+4848,1,cleaning supply match
+4849,1,cleaning supply match
+4850,1,cleaning supply match
+4851,1,cleaning supply match
+4852,1,cleaning supply match
+4853,1,motorcycle helmet match
+4854,1,motorcycle helmet match
+4855,1,motorcycle helmet match
+4856,1,motorcycle helmet match
+4857,1,motorcycle helmet match
+4858,1,corner sofa match
+4859,1,corner sofa match
+4860,1,corner sofa match
+4861,1,corner sofa match
+4862,1,corner sofa match
+4863,1,folding bicycle match
+4864,1,folding bicycle match
+4865,1,folding bicycle match
+4866,1,folding bicycle match
+4867,1,folding bicycle match
+4868,1,karniyarik pot match
+4869,1,karniyarik pot match
+4870,1,karniyarik pot match
+4871,1,karniyarik pot match
+4872,1,karniyarik pot match
+4873,0,no dexart brand match found
+4874,0,no dexart brand match found
+4875,0,no dexart brand match found
+4876,0,no dexart brand match found
+4877,0,no dexart brand match found
+4878,1,guess men's shoe match
+4879,1,guess men's shoe match
+4880,1,guess men's shoe match
+4881,1,guess men's shoe match
+4882,1,guess men's shoe match
+4883,1,single-person swing match
+4884,1,single-person swing match
+4885,1,single-person swing match
+4886,1,single-person swing match
+4887,1,single-person swing match
+4888,1,addax shoulder bag match
+4889,1,addax shoulder bag match
+4890,1,addax shoulder bag match
+4891,1,addax shoulder bag match
+4892,1,addax shoulder bag match
+4893,1,32 inch smart tv match
+4894,0,no smart os stated
+4895,0,no smart os stated
+4896,1,32 inch smart tv match
+4897,1,32 inch smart tv match
+4898,1,antioch trench coat match
+4899,1,antioch trench coat match

@@ -1,0 +1,67 @@
+CUDA available: True
+Torch device: cuda
+
+[A] Veri yükleniyor...
+  962,873 item | 17,968 train query | 32,185 test query
+[B] Metinler hazırlanıyor...
+  item örnekleri: ['erkek kumaş usb kulaklık çıkışlı bodybag göğüs ve omuz çantası - siyah - beyaz newish polo aksesuar', 'orijinal italyan charm bileklik kişiselleştirilebilir siyah-gümüş kalp charm hediyeli made in italy nomination aksesuar', 'kupa bardak alchemist high qivi ev & mobilya']
+  query örnekleri: ['reyyan eşarp', 'converse chuck taylor all star', 'tuvalet kapağı']
+
+[C] Model yükleniyor (sentence-transformers, CPU)...
+  BUG FIX uygulandı: position_ids[0:5]=[0, 1, 2, 3, 4]
+  ✓ sentence-transformers yüklendi (9.9s)
+  Model device: cuda:0
+  Max seq length: 384
+  Test encode...
+  ✓ Test encode OK: shape=(2, 768), dtype=float32 (0.27s)
+  Örnek norm: 1.0000 (1.0 olmalı)
+
+[D] ITEM EMBEDDİNGLERİ (962,873 item)...
+  items: 962,873 → speed=285 item/s
+  → (962873, 768) | 56.3 dk
+  Kaydedildi: C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache\item_embs_tyembed.npy
+
+[E] TRAIN QUERY EMBEDDİNGLERİ (17,968)...
+  train_q: 17,968 → speed=599 item/s
+  → (17968, 768) | 0.5 dk
+  Kaydedildi: C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache\train_q_embs_tyembed.npy
+
+[F] TEST QUERY EMBEDDİNGLERİ (32,185)...
+  test_q: 32,185 → speed=636 item/s
+  → (32185, 768) | 0.8 dk
+  Kaydedildi: C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache\test_q_embs_tyembed.npy
+
+[G] KALİTE KONTROLÜ...
+
+  Cosine sim örnekleri (5 test query, top-3 item):
+  Q: 'reyyan eşarp'
+    #1 cos=0.837 | yazma
+    #2 cos=0.832 | ipek yazma
+    #3 cos=0.814 | ipek düz yazma (siyah) rd-070
+  Q: 'converse chuck taylor all star'
+    #1 cos=0.976 | chuck taylor all star
+    #2 cos=0.976 | chuck taylor all star
+    #3 cos=0.976 | chuck taylor all star
+  Q: 'tuvalet kapağı'
+    #1 cos=0.780 | alaturka metal tuvalet kapağı
+    #2 cos=0.768 | wcmatik tuvalet kapağı
+    #3 cos=0.759 | alaturka tuvalet kapağı koku önleyici ve basmalı pedallı
+  Q: 'kadın shopper çanta'
+    #1 cos=0.782 | kadın siyah shopper çanta 217
+    #2 cos=0.770 | orta boy shopper çanta
+    #3 cos=0.758 | deri saplı shopper çanta
+  Q: 'kotex ped'
+    #1 cos=0.888 | ( 2 adet ) kotex ultra süper ekonomik paket hijyenik ped gec
+    #2 cos=0.879 | ultra dev ekonomik normal 30'lu
+    #3 cos=0.879 | hijyenik ped ultra gece 16'lı
+
+============================================================
+TY-ECOMM-EMBED CACHE TAMAMLANDI
+  Item embs     : (962873, 768)
+  Train q embs  : (17968, 768)
+  Test q embs   : (32185, 768)
+  Pooling       : CLS token (normalize=True)
+  Similarity    : cosine
+  Cache dizin   : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\emb_cache
+
+✓ v26'da bu cache'i kullanmaya hazır.

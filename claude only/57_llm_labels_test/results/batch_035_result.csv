@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+12250,1,word making board game match
+12251,1,word making board game match
+12252,1,word hunter board game match
+12253,1,word guessing plush game match
+12254,1,wooden word game match
+12255,1,pet water fountain match
+12256,1,petkit pet water fountain despite category tag
+12257,1,ceramic pet water fountain match
+12258,1,ceramic pet water fountain match
+12259,1,eversweet pet water fountain match
+12260,1,blackout curtain match
+12261,1,blackout curtain match
+12262,1,blackout curtain match
+12263,1,blackout curtain match
+12264,1,blackout curtain match
+12265,1,women's motorcycle glove match
+12266,1,women's motorcycle glove match
+12267,1,women's motorcycle glove match
+12268,1,women's motorcycle glove match
+12269,1,women's motorcycle glove match
+12270,1,pantene hair serum match
+12271,1,pantene hair serum match
+12272,1,pantene hair oil - serum category match
+12273,1,pantene hair serum match
+12274,1,pantene hair serum match
+12275,1,gear shift knob and boot set match
+12276,1,gear shift knob and boot set match
+12277,1,gear shift knob set match
+12278,1,gear shift knob and boot set match
+12279,1,gear shift rod set match
+12280,1,helix piercing match
+12281,1,helix piercing match
+12282,1,helix piercing match
+12283,1,helix piercing match
+12284,1,helix piercing match
+12285,1,iphone 11 compatible charger match
+12286,1,iphone 11 compatible charger match
+12287,1,iphone 11 compatible charger match
+12288,1,iphone 11 compatible charger match
+12289,1,iphone 11 compatible charger match
+12290,1,exact mad p107 perfume match
+12291,1,mad p107 perfume set match
+12292,0,different product code h105 not p107
+12293,0,different product code and wrong gender
+12294,0,different brand not mad parfum
+12295,0,decorative lamp not a game
+12296,0,decorative lamp not a game
+12297,0,decorative lamp not a game
+12298,0,decorative lamp not a game
+12299,0,decorative lamp not a game
+12300,1,yves rocher shower gel match
+12301,1,yves rocher shower gel match
+12302,1,yves rocher shower gel match
+12303,1,yves rocher shower gel match
+12304,1,yves rocher shower gel match
+12305,1,tac single pique set match
+12306,1,tac single pique set match
+12307,1,tac single pique set match
+12308,1,tac single pique set match
+12309,1,tac single pique set match
+12310,1,baby sleep sack match
+12311,1,child sleep sack match
+12312,0,pet costume not sleep sack
+12313,0,pet pajama not sleep sack
+12314,0,pet romper not sleep sack
+12315,1,basak ev tekstili tablecloth match
+12316,1,basak ev tekstili tablecloth match
+12317,1,basak ev tekstili tablecloth match
+12318,1,basak ev tekstili tablecloth match
+12319,1,basak ev tekstili tablecloth match
+12320,1,emsan teapot match
+12321,1,emsan teapot match
+12322,1,emsan teapot match
+12323,1,emsan teapot match
+12324,1,emsan teapot match
+12325,1,philips steam vertical iron match
+12326,1,philips steam vertical iron match
+12327,1,philips steam vertical iron match
+12328,1,philips steam vertical iron match
+12329,1,philips steam vertical iron match
+12330,1,nike tech fleece men match
+12331,1,nike tech fleece men match
+12332,1,nike tech fleece men match
+12333,1,nike tech fleece men match
+12334,1,nike tech fleece men match
+12335,1,tv blanket match
+12336,1,tv blanket match
+12337,1,tv blanket match
+12338,1,tv blanket match
+12339,1,tv blanket match
+12340,1,y2k bracelet match
+12341,1,y2k bracelet match
+12342,1,y2k bracelet match
+12343,1,y2k bracelet match
+12344,1,y2k bracelet match
+12345,1,citicoline cognizin exact match
+12346,1,citicoline cognizin variant match
+12347,1,citicoline cognizin other brand match
+12348,1,contains sitikolin ingredient
+12349,1,contains sitikolin ingredient
+12350,0,car brake pipe not printer cable
+12351,0,headphone stand not printer cable
+12352,0,wireless headset not printer cable
+12353,0,personal blender not printer cable
+12354,0,first aid kit not printer cable
+12355,1,sofa cover match
+12356,1,sofa cover match
+12357,1,sofa cover match
+12358,1,sofa cover match
+12359,1,sofa cover match
+12360,1,hooded zip sweatshirt match
+12361,0,stand collar half zip no hood
+12362,0,hooded but no zipper mentioned
+12363,0,hooded but no zipper mentioned
+12364,0,crew neck hoodie no zipper
+12365,1,decorative table sphere ornament
+12366,1,decorative table lamp
+12367,1,home decor set for table
+12368,1,decorative desk nameplate item
+12369,1,decorative tabletop ornament
+12370,1,women's long blazer jacket match
+12371,1,women's long blazer jacket match
+12372,1,women's blazer jacket match
+12373,1,women's blazer jacket match
+12374,0,length listed as regular not long
+12375,1,flag match
+12376,1,flag match
+12377,1,flag match
+12378,1,flag match
+12379,1,flag match
+12380,1,red hair dye match
+12381,1,dark red hair dye match
+12382,1,dark red - auburn hair dye match
+12383,1,red hair dye match
+12384,1,red hair dye match
+12385,1,philips coffee machine match
+12386,1,philips coffee machine match
+12387,1,philips coffee machine match
+12388,1,philips coffee machine match
+12389,1,philips coffee machine match
+12390,1,cat blanket match
+12391,1,cat and dog blanket match
+12392,1,cat and dog blanket match
+12393,1,cat and dog blanket match
+12394,1,cat and dog blanket match
+12395,1,wheeled storage box match
+12396,1,wheeled storage box match
+12397,1,wheeled storage box match
+12398,1,wheeled storage box match
+12399,1,wheeled storage box match
+12400,1,single size baby duvet set match
+12401,0,crib size set not single bed size
+12402,0,double size duvet not single
+12403,0,double size duvet not single
+12404,1,single size montessori duvet set
+12405,0,wrong brand not miyavita
+12406,0,wrong brand not miyavita
+12407,0,unrelated baby chair cushion product
+12408,0,unrelated musical instrument product
+12409,0,unrelated food jam product
+12410,1,women's heeled shoes match
+12411,1,women's heeled shoes match
+12412,1,women's heeled shoes match
+12413,1,women's heeled shoes match
+12414,1,women's heeled shoes match
+12415,1,coffee maker match
+12416,1,coffee maker match
+12417,1,coffee maker match
+12418,1,coffee maker match
+12419,1,coffee maker match
+12420,1,women's bag match
+12421,1,women's bag match
+12422,1,women's bag match
+12423,1,women's bag match
+12424,1,women's bag match
+12425,1,cat treat reward match
+12426,1,cat treat reward match
+12427,1,cat treat reward match
+12428,1,cat treat reward match
+12429,1,cat treat reward match
+12430,1,demcay brand tea match
+12431,1,demcay brand tea match
+12432,1,demcay brand tea match
+12433,1,demcay brand tea match
+12434,0,wrong brand lipton not demcay
+12435,1,unlined notebook match
+12436,1,unlined notebook match
+12437,1,unlined notebook match
+12438,1,unlined notebook match
+12439,1,unlined notebook match
+12440,1,ocean brand collagen match
+12441,0,wrong brand naturagen not ocean
+12442,0,wrong brand vital proteins not ocean
+12443,0,wrong brand anti not ocean
+12444,0,wrong brand suda collagen not ocean
+12445,1,actual handheld gaming console
+12446,0,decorative poster not a console
+12447,0,decorative poster not a console
+12448,0,wall sticker not a console
+12449,0,decorative metal art not a console
+12450,1,sterilizer device match
+12451,1,steam sterilizer match
+12452,1,uv sterilizer match
+12453,1,uv sterilizer match
+12454,1,nail tool sterilizer match
+12455,1,face cleansing brush match
+12456,1,face cleansing brush match
+12457,1,face cleansing brush match
+12458,1,face cleansing brush match
+12459,1,face cleansing brush match
+12460,1,car seat match
+12461,1,car seat match
+12462,1,car seat match
+12463,1,car seat match
+12464,1,car seat match
+12465,1,b12 vitamin match
+12466,1,b12 vitamin match
+12467,1,b12 vitamin match
+12468,1,b12 vitamin match
+12469,1,b12 vitamin match
+12470,1,vertical stick vacuum match
+12471,1,vertical stick vacuum match
+12472,1,vertical stick vacuum match
+12473,1,vertical stick vacuum match
+12474,1,vertical stick vacuum match
+12475,0,necklace with painting motif not earring
+12476,0,phone case not earring
+12477,0,phone case not earring
+12478,0,phone case not earring
+12479,0,phone case not earring
+12480,1,boy's glove match
+12481,1,boy's glove match
+12482,1,boy's ski glove match
+12483,1,baby boy glove match
+12484,0,beanie hat not glove
+12485,1,women's brown shirt match
+12486,1,women's brown shirt match
+12487,1,women's brown shirt match
+12488,1,women's brown shirt match
+12489,0,men's shirt not women's
+12490,1,hobonichi brand match
+12491,0,wrong brand concord not hobonichi
+12492,1,hobonichi brand match
+12493,0,wrong brand gift moda not hobonichi
+12494,0,wrong brand concord not hobonichi
+12495,1,teapot match
+12496,1,teapot match
+12497,1,teapot match
+12498,1,teapot match
+12499,1,teapot match
+12500,1,yves saint laurent sunglasses match
+12501,1,yves saint laurent sunglasses match
+12502,1,yves saint laurent sunglasses match
+12503,1,yves saint laurent sunglasses match
+12504,1,yves saint laurent sunglasses match
+12505,1,3 piece steel cutting board set match
+12506,0,single piece not a 3 piece set
+12507,0,single piece not a 3 piece set
+12508,0,bamboo single piece not matching set
+12509,0,single piece not a 3 piece set
+12510,1,sensibio ar plus product match
+12511,1,sensibio ar plus product match
+12512,0,different bioderma line atoderm
+12513,0,generic foaming cream not ar line
+12514,0,different brand elizabeth arden
+12515,1,emsan tea set match
+12516,1,emsan teapot set match
+12517,0,wrong brand storemax not emsan
+12518,1,emsan teapot set match
+12519,0,wrong brand karaca not emsan
+12520,1,avmpark cabinet match
+12521,1,avmpark cabinet match
+12522,0,wrong brand awox not avmpark
+12523,0,wrong brand rafineritasarim not avmpark
+12524,0,wrong brand anzera not avmpark
+12525,1,hot wheels brand match
+12526,1,hot wheels brand match
+12527,1,hot wheels brand match
+12528,1,hot wheels brand match
+12529,1,hot wheels brand match
+12530,1,chicco training cup match
+12531,1,chicco training cup match
+12532,1,chicco training cup match
+12533,1,chicco training cup match
+12534,1,chicco training cup match
+12535,1,aryildiz pan match
+12536,1,aryildiz pan match
+12537,1,aryildiz pan match
+12538,1,aryildiz pan match
+12539,1,aryildiz pan match
+12540,0,different brand boot not pumps up
+12541,0,different brand boot not pumps up
+12542,0,different brand boot not pumps up
+12543,0,different brand boot not pumps up
+12544,0,different brand boot not pumps up
+12545,1,tray match
+12546,1,tray match
+12547,1,tray match
+12548,1,tray match
+12549,1,tray match
+12550,1,chevalier ring match
+12551,1,chevalier ring match
+12552,1,chevalier ring match
+12553,1,chevalier ring match
+12554,1,chevalier ring match
+12555,1,makeup mirror match
+12556,1,makeup mirror match
+12557,1,makeup mirror match
+12558,1,makeup mirror match
+12559,1,makeup mirror match
+12560,1,loft t-shirt match
+12561,1,loft t-shirt match
+12562,1,loft t-shirt match
+12563,1,loft t-shirt match
+12564,1,loft t-shirt match
+12565,1,aryildiz storage container match
+12566,1,aryildiz storage container match
+12567,1,aryildiz storage container match
+12568,1,aryildiz storage container match
+12569,0,wrong brand dmr life not aryildiz
+12570,1,daikin brand match
+12571,1,daikin brand match
+12572,1,daikin brand match
+12573,1,daikin brand match
+12574,1,daikin brand match
+12575,0,decorative poster not a book
+12576,0,puzzle not a book
+12577,0,unrelated ali baba story book
+12578,0,unrelated book no father theme
+12579,0,unrelated book no father theme
+12580,1,cadillac pole light match
+12581,1,cadillac pole light match
+12582,1,cadillac pole light match
+12583,1,cadillac pole light match
+12584,1,cadillac pole light match
+12585,1,bepanthol face cream match
+12586,1,bepanthol face cream match
+12587,1,bepanthol face cream match
+12588,1,bepanthol face cream match
+12589,1,bepanthol face cream match
+12590,1,levis men's pants match
+12591,1,levis men's pants match
+12592,1,levis men's pants match
+12593,1,levis men's pants match
+12594,1,levis men's pants match
+12595,0,unisex adult not teen girl
+12596,0,child age group not teen
+12597,0,child age group not teen
+12598,0,child age group not teen
+12599,0,unisex adult not teen girl

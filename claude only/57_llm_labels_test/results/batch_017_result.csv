@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+5950,1,linktech tws kulaklık - brand and category match
+5951,1,linktech tws kulaklık - brand and category match
+5952,1,linktech tws kulaklık - brand and category match
+5953,1,linktech tws kulaklık - brand and category match
+5954,1,linktech tws kulaklık - brand and category match
+5955,1,explicitly aqua trio model
+5956,1,explicitly aquatrio model
+5957,0,philips vacuum but 8000 aqua series not aqua trio
+5958,0,philips vacuum but aqua plus series not aqua trio
+5959,0,philips vacuum but aqua plus series not aqua trio
+5960,1,kadın siyah bantlı topuklu ayakkabı exact match
+5961,1,siyah bantlı topuklu kadın ayakkabı match
+5962,1,siyah bantlı topuklu kadın ayakkabı match
+5963,1,siyah bantlı topuklu ayakkabı match
+5964,1,siyah bant topuklu ayakkabı match
+5965,1,fake septum piercing match
+5966,1,fake septum piercing match
+5967,1,fake septum piercing match
+5968,1,fake septum piercing match
+5969,1,fake septum piercing match
+5970,1,acar brand kahvaltılık category match
+5971,1,acar brand kahvaltılık themed item
+5972,1,acar brand kahvaltılık category match
+5973,1,acar brand kahvaltılık category match
+5974,1,acar brand kahvaltılık category match
+5975,1,bargello no 324 product line match
+5976,1,bargello 324 product line match
+5977,1,bargello no.324 product line match
+5978,0,bargello product code 154 not 324
+5979,0,bargello product code 120b not 324
+5980,1,explicitly vücuda oturan fitted jacket
+5981,0,no fitted/body-hugging attribute mentioned
+5982,0,relaxed fit jacket - opposite of body-hugging
+5983,0,relaxed fit jacket - opposite of body-hugging
+5984,0,rahat kesim relaxed jacket - not body-hugging
+5985,1,süet ayakkabı silgisi match
+5986,1,süet ayakkabı bakım silgisi match
+5987,0,phone case not suede eraser
+5988,0,phone case not suede eraser
+5989,0,phone case not suede eraser
+5990,1,devecioğlu ütü masası brand and category match
+5991,1,devecioğlu ütü masası brand and category match
+5992,1,devecioğlu ütü masası brand and category match
+5993,1,devecioğlu ütü masası brand and category match
+5994,1,devecioğlu ütü masası aksesuarı match
+5995,1,mobilya boyası category match
+5996,1,mobilya boyası category match
+5997,1,vernikli mobilya boyası match
+5998,1,multi-surface paint usable on furniture/cabinet
+5999,1,mobilya boyası category match
+6000,1,lazika brand tea product
+6001,1,lazika brand tea product
+6002,1,lazika brand tea product
+6003,1,lazika brand tea product
+6004,1,lazika brand tea product
+6005,0,wrong brand not flo - unisex sneaker not heeled
+6006,0,wrong brand not flo - boot not heeled shoe
+6007,0,wrong brand not flo - sneaker not heeled shoe
+6008,0,wrong brand not flo - sneaker not heeled shoe
+6009,0,wrong brand not flo - walking shoe not heeled
+6010,1,jo malone london parfüm match
+6011,1,jo malone london parfüm match
+6012,1,jo malone london parfüm match
+6013,1,jo malone london parfüm match
+6014,1,jo malone london parfüm match
+6015,1,colorful coffee cup set match
+6016,1,colorful coffee cup set match
+6017,1,colorful coffee cup set match
+6018,1,colorful coffee cup set match
+6019,1,colorful coffee cup set match
+6020,0,koton coat but adult male not kız çocuk
+6021,1,koton kız çocuk mont match
+6022,0,koton coat but bebek age not çocuk
+6023,1,koton kız çocuk mont match
+6024,0,wrong brand mayoral not koton
+6025,1,kristal brand match generic query
+6026,1,kristal brand match generic query
+6027,1,kristal brand match generic query
+6028,1,kristal brand match generic query
+6029,1,kristal brand match generic query
+6030,1,ginger shot bottle match
+6031,0,ginger paste not shot bottle
+6032,0,menthol crystal unrelated to ginger
+6033,0,pinecone syrup unrelated to ginger
+6034,0,pineapple vinegar unrelated to ginger
+6035,1,swim hand paddle match
+6036,1,swim hand paddle match
+6037,1,swim hand paddle match
+6038,1,swim hand paddle match
+6039,1,swim hand paddle match
+6040,1,electrical conduit pipe match
+6041,1,electrical conduit pipe match
+6042,1,electrical conduit pipe match
+6043,1,electrical conduit pipe match
+6044,0,heat-shrink tubing not conduit pipe
+6045,1,emsan pressure cooker brand match
+6046,1,emsan pressure cooker brand match
+6047,1,emsan pressure cooker brand match
+6048,1,emsan pressure cooker brand match
+6049,1,emsan pressure cooker brand match
+6050,1,mini teapot match
+6051,1,mini teapot match
+6052,1,mini teapot match
+6053,1,mini teapot match
+6054,1,mini teapot match
+6055,1,engagement decoration item match
+6056,1,engagement decoration item match
+6057,1,engagement decoration item match
+6058,1,engagement decoration item match
+6059,1,engagement decoration item match
+6060,1,mentions yatak odası hanger stand
+6061,1,freestanding coat rack usable in bedroom
+6062,1,freestanding coat rack usable in bedroom
+6063,0,open wardrobe closet not hanger stand
+6064,1,freestanding coat rack usable in bedroom
+6065,1,doqu home yatak örtüsü match
+6066,1,doqu home yatak örtüsü match
+6067,1,doqu home yatak örtüsü titled product
+6068,1,doqu home yatak örtüsü match
+6069,1,doqu home yatak örtüsü match
+6070,1,3lü sarkıt avize match
+6071,1,3lü sarkıt avize match
+6072,1,3lü sarkıt avize match
+6073,1,3lü sarkıt avize title match
+6074,1,3lü sarkıt avize match
+6075,0,yorgan quilt not çarşaf sheet
+6076,0,kadife velvet fabric not peluş
+6077,0,koltuk örtüsü couch cover not çarşaf
+6078,0,battaniye blanket not çarşaf
+6079,0,cotton yatak örtüsü not peluş çarşaf
+6080,1,siyah sunum dosyası match
+6081,1,siyah sunum dosyası match
+6082,1,siyah klasör close to dosya match
+6083,0,book title not office file product
+6084,1,siyah klasör evrak dosyası match
+6085,1,taç bornoz seti brand match
+6086,1,taç bornoz seti brand match
+6087,1,taç bornoz seti brand match
+6088,1,taç bornoz seti brand match
+6089,1,taç bornoz seti brand match
+6090,1,puma roma sneaker model match
+6091,1,puma roma feminine kadın sneaker match
+6092,1,puma roma feminine kadın sneaker match
+6093,1,puma roma basic sneaker model match
+6094,1,puma roma basic sneaker model match
+6095,1,bebek küvet filesi match
+6096,1,bebek küvet filesi match
+6097,1,bebek küvet filesi match
+6098,1,bebek küvet filesi match
+6099,1,bebek küvet filesi match
+6100,1,siyah beyaz kartal eagle theme matches beşiktaş
+6101,0,lion aslan symbol is galatasaray not beşiktaş
+6102,0,no beşiktaş theme just heart pattern
+6103,0,no beşiktaş theme cat design
+6104,0,no beşiktaş theme personalized floral
+6105,1,phone case code 408 match
+6106,1,phone case code 408 match
+6107,1,phone case code 408 match
+6108,1,phone case code 408 match
+6109,1,phone case code 408 match
+6110,1,fluffy brand bag match
+6111,1,fluffy brand bag match
+6112,1,fluffy brand bag match
+6113,1,fluffy brand bag match
+6114,1,fluffy brand bag match
+6115,1,rexona shower fresh line match
+6116,1,rexona shower fresh line match
+6117,0,rexona invisible black white not shower fresh
+6118,0,rexona cotton dry not shower fresh
+6119,0,wrong brand deotak not rexona
+6120,1,purple brand mat wax match
+6121,0,wrong brand prodan not purple
+6122,1,purple brand mat wax match
+6123,0,wrong brand morfose not purple
+6124,0,wrong brand morfose not purple
+6125,1,dove bond intense repair line match
+6126,1,dove bond intense repair line match
+6127,1,dove bond intense repair line match
+6128,1,dove bond intense repair line match
+6129,0,dove avocado shampoo not bond repair line
+6130,1,eyeliner product generic match
+6131,1,eyeliner product generic match
+6132,1,eyeliner product generic match
+6133,1,eyeliner product generic match
+6134,1,eyeliner product generic match
+6135,0,belted kaşe coat no zipper mentioned
+6136,0,wrap closure kaşe coat no zipper
+6137,0,zippered coat but buklet fabric not kaşe
+6138,0,kaşe coat but buttoned not zippered
+6139,0,kaşe coat but belted/wrap not zippered
+6140,1,gazzella ütü masası brand match
+6141,1,gazzella ütü masası brand match
+6142,1,gazzella ütü masası brand match
+6143,1,gazzella ütü masası brand match
+6144,1,gazzella ütü masası brand match
+6145,1,özdilek el yüz havlusu match
+6146,1,özdilek el yüz havlusu match
+6147,1,özdilek el yüz havlusu match
+6148,1,özdilek el yüz havlusu match
+6149,1,özdilek el yüz havlusu match
+6150,1,omega 3 supplement match
+6151,1,omega 3 balık yağı match
+6152,1,omega 3 supplement match
+6153,1,omega 3 balık yağı match
+6154,1,omega 3 balık yağı match
+6155,1,kısa trençkot match
+6156,1,kısa trençkot match
+6157,1,kısa trençkot match
+6158,1,kısa siyah trençkot match
+6159,1,kısa trençkot titled product
+6160,1,antrasit color explicitly mentioned runner rug
+6161,0,grey runner but not specifically antrasit
+6162,0,white rug wrong color
+6163,0,beige rug wrong color
+6164,0,white/blue rug wrong color
+6165,1,old spice brand match
+6166,1,old spice brand match
+6167,0,wrong brand sa goldensa not oldspice
+6168,0,wrong brand watsons not oldspice
+6169,0,wrong brand nivea not oldspice
+6170,1,photo frame generic match
+6171,1,photo frame generic match
+6172,1,photo frame generic match
+6173,1,photo frame generic match
+6174,1,photo frame generic match
+6175,1,punch embroidery pillow cover match
+6176,1,punch panç pillow cover match
+6177,1,punch brand pillow cover match
+6178,1,punch pillow cover match
+6179,1,punch pillow cover match
+6180,1,galaxy a17 exact model match
+6181,1,galaxy a17 exact model match
+6182,0,wrong model galaxy a16 not a17
+6183,0,wrong model galaxy a36 not a17
+6184,0,wrong model galaxy a35 not a17
+6185,1,nasadan brand match
+6186,1,nasadan brand match
+6187,1,nasadan brand match
+6188,1,nasadan brand match
+6189,1,nasadan brand match
+6190,1,simple brand yüz temizleme jeli match
+6191,1,simple brand yüz temizleme jeli match
+6192,0,wrong brand luv it not simple
+6193,0,wrong brand bioderma not simple
+6194,0,wrong brand bioderma not simple
+6195,1,dedektiflik oyunu match
+6196,1,dedektiflik oyunu match
+6197,1,dedektiflik oyunu match
+6198,1,dedektiflik oyunu match
+6199,1,dedektiflik oyunu match
+6200,1,made in italy brand match
+6201,1,made in italy brand match
+6202,1,made in italy brand match
+6203,1,made in italy brand match
+6204,1,made in italy brand match
+6205,1,siyah takım elbise match
+6206,1,siyah takım elbise match
+6207,1,siyah takım elbise match
+6208,1,siyah takım elbise match
+6209,1,siyah takım elbise match
+6210,1,instax mini 12 exact model match
+6211,1,instax mini 12 exact model match
+6212,1,instax mini 12 exact model match
+6213,0,wrong model instax mini 11 not 12
+6214,0,wrong model instax mini 11 not 12
+6215,0,baby boy cardigan not tesettür
+6216,0,baby girl romper not tesettür
+6217,0,wrong brand and not tesettür
+6218,0,men's sweatshirt not tesettür
+6219,0,wrong brand bianco lucci not lc waikiki
+6220,1,elart yatak örtüsü brand match
+6221,1,elart yatak örtüsü brand match
+6222,1,elart yatak örtüsü brand match
+6223,1,elart yatak örtüsü brand match
+6224,1,elart yatak örtüsü brand match
+6225,0,just pants no winter combo aspect
+6226,0,just pants no winter combo aspect
+6227,0,just pants no winter combo aspect
+6228,0,just pants no winter combo aspect
+6229,0,just pants no winter combo aspect
+6230,1,non-slip cabinet liner match
+6231,1,non-slip cabinet liner match
+6232,1,non-slip cabinet liner match
+6233,1,non-slip cabinet liner match
+6234,1,non-slip cabinet liner match
+6235,1,lc waikiki gömlek match
+6236,1,lc waikiki gömlek match
+6237,1,lc waikiki gömlek match
+6238,1,lc waikiki gömlek match
+6239,1,lc waikiki gömlek match
+6240,0,engine tensioner part not grenaj set
+6241,0,transmission part not grenaj set
+6242,0,brake pad part not grenaj set
+6243,0,brake pad part not grenaj set
+6244,0,valve set part not grenaj set
+6245,1,lcw eşofman altı match
+6246,1,lcw eşofman altı match
+6247,1,lcw eşofman altı match
+6248,1,lcw eşofman altı match
+6249,1,lcw eşofman altı match
+6250,1,h&m mama maternity pants line match
+6251,1,h&m mama maternity pants line match
+6252,1,h&m mama maternity pants line match
+6253,1,h&m mama maternity pants line match
+6254,0,wrong brand busa not h&m
+6255,1,genç kız elbise match
+6256,1,genç kız elbise match
+6257,1,genç kız elbise match
+6258,1,title mentions genç kız explicitly
+6259,1,genç kız kolej elbise match
+6260,1,sma brand baby formula match
+6261,1,sma brand baby formula match
+6262,1,sma brand baby formula match
+6263,1,sma brand baby formula match
+6264,1,sma brand baby formula match
+6265,1,huawei akıllı saat match
+6266,1,huawei akıllı saat match
+6267,1,huawei akıllı saat match
+6268,1,huawei akıllı saat match
+6269,1,huawei akıllı saat match
+6270,1,müslüm gürses named album vinyl
+6271,1,müslüm gürses named vinyl
+6272,1,müslüm gürses themed poster
+6273,1,müslüm gürses themed poster set
+6274,1,müslüm gürses named cd album
+6275,1,basic sweatshirt generic match
+6276,1,basic sweatshirt generic match
+6277,1,basic sweatshirt generic match
+6278,1,basic sweatshirt generic match
+6279,1,basic sweatshirt generic match
+6280,1,solante tele rubor product line match
+6281,1,solante tele rubor product line match
+6282,1,solante tele-rubor product line match
+6283,1,solante tele-rubor product line match
+6284,1,solante tele rubor tinted match
+6285,1,koton çocuk jean match
+6286,1,koton çocuk jean match
+6287,1,koton çocuk jean match
+6288,1,koton kids çocuk jean match
+6289,1,koton çocuk jean match
+6290,1,granite coated cookware match
+6291,1,granite coated cookware match
+6292,1,granite coated cookware match
+6293,1,granite coated cookware match
+6294,1,granite coated cookware match
+6295,1,title matches pamuk ipek eşarp
+6296,1,pamuk ipek eşarp match
+6297,1,pamuk ipek eşarp match
+6298,1,title matches pamuk ipek eşarp
+6299,1,pamuk ipek eşarp match

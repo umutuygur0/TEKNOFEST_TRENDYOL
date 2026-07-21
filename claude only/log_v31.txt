@@ -1,0 +1,391 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | 27.0s
+  Train-test term_id örtüşmesi: 0 (0 olmalı)
+
+[A2] Enhanced negatives (NEG_PER_POS=5, v23 ile birebir aynı)...
+  Negatif kaynak: {'same_brand_diff_sub': 116056, 'same_main_category': 249999, 'different_main_category': 717995, 'same_brand_diff_main': 115262, 'gender_conflict': 36733, 'age_conflict': 13954}
+  (v23 ile karşılaştır — birebir aynı olmalı: kesin fark yoksa negatif üretimi bozulmamış demektir)
+  Train: 1,499,999 | pos=250,000 neg=1,249,999
+
+[B] BERT (v23 negatifleriyle fine-tune veya cache)...
+  Device: cuda
+  BERT fine-tune başlıyor (v23'ün güvenli negatifleriyle)...
+  BERT train sample: 500,000 | pos~83,273
+  Toplu tokenize ediliyor (fast tokenizer, tek seferde)...
+  → tokenize 500,000 örnek | 32.6s
+  Epoch 1 step 0/15625 loss=0.8926
+  Epoch 1 step 300/15625 loss=0.6958
+  Epoch 1 step 600/15625 loss=0.4738
+  Epoch 1 step 900/15625 loss=0.3745
+  Epoch 1 step 1200/15625 loss=0.3201
+  Epoch 1 step 1500/15625 loss=0.2858
+  Epoch 1 step 1800/15625 loss=0.2619
+  Epoch 1 step 2100/15625 loss=0.2434
+  Epoch 1 step 2400/15625 loss=0.2291
+  Epoch 1 step 2700/15625 loss=0.2175
+  Epoch 1 step 3000/15625 loss=0.2081
+  Epoch 1 step 3300/15625 loss=0.2002
+  Epoch 1 step 3600/15625 loss=0.1938
+  Epoch 1 step 3900/15625 loss=0.1882
+  Epoch 1 step 4200/15625 loss=0.1833
+  Epoch 1 step 4500/15625 loss=0.1783
+  Epoch 1 step 4800/15625 loss=0.1739
+  Epoch 1 step 5100/15625 loss=0.1700
+  Epoch 1 step 5400/15625 loss=0.1672
+  Epoch 1 step 5700/15625 loss=0.1638
+  Epoch 1 step 6000/15625 loss=0.1610
+  Epoch 1 step 6300/15625 loss=0.1583
+  Epoch 1 step 6600/15625 loss=0.1559
+  Epoch 1 step 6900/15625 loss=0.1537
+  Epoch 1 step 7200/15625 loss=0.1517
+  Epoch 1 step 7500/15625 loss=0.1498
+  Epoch 1 step 7800/15625 loss=0.1479
+  Epoch 1 step 8100/15625 loss=0.1466
+  Epoch 1 step 8400/15625 loss=0.1449
+  Epoch 1 step 8700/15625 loss=0.1435
+  Epoch 1 step 9000/15625 loss=0.1421
+  Epoch 1 step 9300/15625 loss=0.1408
+  Epoch 1 step 9600/15625 loss=0.1397
+  Epoch 1 step 9900/15625 loss=0.1385
+  Epoch 1 step 10200/15625 loss=0.1374
+  Epoch 1 step 10500/15625 loss=0.1364
+  Epoch 1 step 10800/15625 loss=0.1354
+  Epoch 1 step 11100/15625 loss=0.1344
+  Epoch 1 step 11400/15625 loss=0.1334
+  Epoch 1 step 11700/15625 loss=0.1325
+  Epoch 1 step 12000/15625 loss=0.1315
+  Epoch 1 step 12300/15625 loss=0.1307
+  Epoch 1 step 12600/15625 loss=0.1299
+  Epoch 1 step 12900/15625 loss=0.1290
+  Epoch 1 step 13200/15625 loss=0.1283
+  Epoch 1 step 13500/15625 loss=0.1276
+  Epoch 1 step 13800/15625 loss=0.1269
+  Epoch 1 step 14100/15625 loss=0.1261
+  Epoch 1 step 14400/15625 loss=0.1256
+  Epoch 1 step 14700/15625 loss=0.1250
+  Epoch 1 step 15000/15625 loss=0.1245
+  Epoch 1 step 15300/15625 loss=0.1238
+  Epoch 1 step 15600/15625 loss=0.1234
+  Epoch 2 step 0/15625 loss=0.1886
+  Epoch 2 step 300/15625 loss=0.0805
+  Epoch 2 step 600/15625 loss=0.0813
+  Epoch 2 step 900/15625 loss=0.0831
+  Epoch 2 step 1200/15625 loss=0.0823
+  Epoch 2 step 1500/15625 loss=0.0825
+  Epoch 2 step 1800/15625 loss=0.0826
+  Epoch 2 step 2100/15625 loss=0.0810
+  Epoch 2 step 2400/15625 loss=0.0812
+  Epoch 2 step 2700/15625 loss=0.0818
+  Epoch 2 step 3000/15625 loss=0.0815
+  Epoch 2 step 3300/15625 loss=0.0823
+  Epoch 2 step 3600/15625 loss=0.0819
+  Epoch 2 step 3900/15625 loss=0.0823
+  Epoch 2 step 4200/15625 loss=0.0826
+  Epoch 2 step 4500/15625 loss=0.0826
+  Epoch 2 step 4800/15625 loss=0.0825
+  Epoch 2 step 5100/15625 loss=0.0820
+  Epoch 2 step 5400/15625 loss=0.0820
+  Epoch 2 step 5700/15625 loss=0.0819
+  Epoch 2 step 6000/15625 loss=0.0820
+  Epoch 2 step 6300/15625 loss=0.0817
+  Epoch 2 step 6600/15625 loss=0.0814
+  Epoch 2 step 6900/15625 loss=0.0810
+  Epoch 2 step 7200/15625 loss=0.0810
+  Epoch 2 step 7500/15625 loss=0.0810
+  Epoch 2 step 7800/15625 loss=0.0812
+  Epoch 2 step 8100/15625 loss=0.0812
+  Epoch 2 step 8400/15625 loss=0.0811
+  Epoch 2 step 8700/15625 loss=0.0810
+  Epoch 2 step 9000/15625 loss=0.0810
+  Epoch 2 step 9300/15625 loss=0.0809
+  Epoch 2 step 9600/15625 loss=0.0809
+  Epoch 2 step 9900/15625 loss=0.0809
+  Epoch 2 step 10200/15625 loss=0.0807
+  Epoch 2 step 10500/15625 loss=0.0805
+  Epoch 2 step 10800/15625 loss=0.0804
+  Epoch 2 step 11100/15625 loss=0.0802
+  Epoch 2 step 11400/15625 loss=0.0801
+  Epoch 2 step 11700/15625 loss=0.0800
+  Epoch 2 step 12000/15625 loss=0.0799
+  Epoch 2 step 12300/15625 loss=0.0798
+  Epoch 2 step 12600/15625 loss=0.0799
+  Epoch 2 step 12900/15625 loss=0.0798
+  Epoch 2 step 13200/15625 loss=0.0798
+  Epoch 2 step 13500/15625 loss=0.0797
+  Epoch 2 step 13800/15625 loss=0.0795
+  Epoch 2 step 14100/15625 loss=0.0795
+  Epoch 2 step 14400/15625 loss=0.0794
+  Epoch 2 step 14700/15625 loss=0.0793
+  Epoch 2 step 15000/15625 loss=0.0793
+  Epoch 2 step 15300/15625 loss=0.0791
+  Epoch 2 step 15600/15625 loss=0.0790
+  Epoch 3 step 0/15625 loss=0.1389
+  Epoch 3 step 300/15625 loss=0.0597
+  Epoch 3 step 600/15625 loss=0.0607
+  Epoch 3 step 900/15625 loss=0.0602
+  Epoch 3 step 1200/15625 loss=0.0607
+  Epoch 3 step 1500/15625 loss=0.0618
+  Epoch 3 step 1800/15625 loss=0.0619
+  Epoch 3 step 2100/15625 loss=0.0616
+  Epoch 3 step 2400/15625 loss=0.0616
+  Epoch 3 step 2700/15625 loss=0.0617
+  Epoch 3 step 3000/15625 loss=0.0619
+  Epoch 3 step 3300/15625 loss=0.0620
+  Epoch 3 step 3600/15625 loss=0.0627
+  Epoch 3 step 3900/15625 loss=0.0627
+  Epoch 3 step 4200/15625 loss=0.0627
+  Epoch 3 step 4500/15625 loss=0.0631
+  Epoch 3 step 4800/15625 loss=0.0630
+  Epoch 3 step 5100/15625 loss=0.0630
+  Epoch 3 step 5400/15625 loss=0.0631
+  Epoch 3 step 5700/15625 loss=0.0633
+  Epoch 3 step 6000/15625 loss=0.0634
+  Epoch 3 step 6300/15625 loss=0.0632
+  Epoch 3 step 6600/15625 loss=0.0634
+  Epoch 3 step 6900/15625 loss=0.0634
+  Epoch 3 step 7200/15625 loss=0.0633
+  Epoch 3 step 7500/15625 loss=0.0631
+  Epoch 3 step 7800/15625 loss=0.0628
+  Epoch 3 step 8100/15625 loss=0.0628
+  Epoch 3 step 8400/15625 loss=0.0628
+  Epoch 3 step 8700/15625 loss=0.0627
+  Epoch 3 step 9000/15625 loss=0.0627
+  Epoch 3 step 9300/15625 loss=0.0628
+  Epoch 3 step 9600/15625 loss=0.0627
+  Epoch 3 step 9900/15625 loss=0.0625
+  Epoch 3 step 10200/15625 loss=0.0627
+  Epoch 3 step 10500/15625 loss=0.0628
+  Epoch 3 step 10800/15625 loss=0.0627
+  Epoch 3 step 11100/15625 loss=0.0627
+  Epoch 3 step 11400/15625 loss=0.0627
+  Epoch 3 step 11700/15625 loss=0.0627
+  Epoch 3 step 12000/15625 loss=0.0624
+  Epoch 3 step 12300/15625 loss=0.0624
+  Epoch 3 step 12600/15625 loss=0.0623
+  Epoch 3 step 12900/15625 loss=0.0622
+  Epoch 3 step 13200/15625 loss=0.0622
+  Epoch 3 step 13500/15625 loss=0.0621
+  Epoch 3 step 13800/15625 loss=0.0620
+  Epoch 3 step 14100/15625 loss=0.0619
+  Epoch 3 step 14400/15625 loss=0.0619
+  Epoch 3 step 14700/15625 loss=0.0618
+  Epoch 3 step 15000/15625 loss=0.0618
+  Epoch 3 step 15300/15625 loss=0.0618
+  Epoch 3 step 15600/15625 loss=0.0618
+  Epoch 4 step 0/15625 loss=0.0020
+  Epoch 4 step 300/15625 loss=0.0421
+  Epoch 4 step 600/15625 loss=0.0478
+  Epoch 4 step 900/15625 loss=0.0465
+  Epoch 4 step 1200/15625 loss=0.0473
+  Epoch 4 step 1500/15625 loss=0.0477
+  Epoch 4 step 1800/15625 loss=0.0475
+  Epoch 4 step 2100/15625 loss=0.0470
+  Epoch 4 step 2400/15625 loss=0.0475
+  Epoch 4 step 2700/15625 loss=0.0475
+  Epoch 4 step 3000/15625 loss=0.0478
+  Epoch 4 step 3300/15625 loss=0.0480
+  Epoch 4 step 3600/15625 loss=0.0478
+  Epoch 4 step 3900/15625 loss=0.0475
+  Epoch 4 step 4200/15625 loss=0.0477
+  Epoch 4 step 4500/15625 loss=0.0480
+  Epoch 4 step 4800/15625 loss=0.0479
+  Epoch 4 step 5100/15625 loss=0.0478
+  Epoch 4 step 5400/15625 loss=0.0481
+  Epoch 4 step 5700/15625 loss=0.0480
+  Epoch 4 step 6000/15625 loss=0.0480
+  Epoch 4 step 6300/15625 loss=0.0481
+  Epoch 4 step 6600/15625 loss=0.0483
+  Epoch 4 step 6900/15625 loss=0.0481
+  Epoch 4 step 7200/15625 loss=0.0481
+  Epoch 4 step 7500/15625 loss=0.0483
+  Epoch 4 step 7800/15625 loss=0.0482
+  Epoch 4 step 8100/15625 loss=0.0482
+  Epoch 4 step 8400/15625 loss=0.0483
+  Epoch 4 step 8700/15625 loss=0.0483
+  Epoch 4 step 9000/15625 loss=0.0483
+  Epoch 4 step 9300/15625 loss=0.0483
+  Epoch 4 step 9600/15625 loss=0.0482
+  Epoch 4 step 9900/15625 loss=0.0482
+  Epoch 4 step 10200/15625 loss=0.0482
+  Epoch 4 step 10500/15625 loss=0.0482
+  Epoch 4 step 10800/15625 loss=0.0482
+  Epoch 4 step 11100/15625 loss=0.0483
+  Epoch 4 step 11400/15625 loss=0.0482
+  Epoch 4 step 11700/15625 loss=0.0483
+  Epoch 4 step 12000/15625 loss=0.0481
+  Epoch 4 step 12300/15625 loss=0.0482
+  Epoch 4 step 12600/15625 loss=0.0482
+  Epoch 4 step 12900/15625 loss=0.0482
+  Epoch 4 step 13200/15625 loss=0.0481
+  Epoch 4 step 13500/15625 loss=0.0481
+  Epoch 4 step 13800/15625 loss=0.0480
+  Epoch 4 step 14100/15625 loss=0.0480
+  Epoch 4 step 14400/15625 loss=0.0480
+  Epoch 4 step 14700/15625 loss=0.0481
+  Epoch 4 step 15000/15625 loss=0.0481
+  Epoch 4 step 15300/15625 loss=0.0481
+  Epoch 4 step 15600/15625 loss=0.0481
+  Epoch 5 step 0/15625 loss=0.0078
+  Epoch 5 step 300/15625 loss=0.0323
+  Epoch 5 step 600/15625 loss=0.0362
+  Epoch 5 step 900/15625 loss=0.0355
+  Epoch 5 step 1200/15625 loss=0.0357
+  Epoch 5 step 1500/15625 loss=0.0364
+  Epoch 5 step 1800/15625 loss=0.0370
+  Epoch 5 step 2100/15625 loss=0.0365
+  Epoch 5 step 2400/15625 loss=0.0356
+  Epoch 5 step 2700/15625 loss=0.0359
+  Epoch 5 step 3000/15625 loss=0.0362
+  Epoch 5 step 3300/15625 loss=0.0367
+  Epoch 5 step 3600/15625 loss=0.0370
+  Epoch 5 step 3900/15625 loss=0.0372
+  Epoch 5 step 4200/15625 loss=0.0375
+  Epoch 5 step 4500/15625 loss=0.0374
+  Epoch 5 step 4800/15625 loss=0.0376
+  Epoch 5 step 5100/15625 loss=0.0376
+  Epoch 5 step 5400/15625 loss=0.0375
+  Epoch 5 step 5700/15625 loss=0.0373
+  Epoch 5 step 6000/15625 loss=0.0374
+  Epoch 5 step 6300/15625 loss=0.0374
+  Epoch 5 step 6600/15625 loss=0.0374
+  Epoch 5 step 6900/15625 loss=0.0376
+  Epoch 5 step 7200/15625 loss=0.0376
+  Epoch 5 step 7500/15625 loss=0.0374
+  Epoch 5 step 7800/15625 loss=0.0373
+  Epoch 5 step 8100/15625 loss=0.0375
+  Epoch 5 step 8400/15625 loss=0.0375
+  Epoch 5 step 8700/15625 loss=0.0376
+  Epoch 5 step 9000/15625 loss=0.0375
+  Epoch 5 step 9300/15625 loss=0.0375
+  Epoch 5 step 9600/15625 loss=0.0377
+  Epoch 5 step 9900/15625 loss=0.0375
+  Epoch 5 step 10200/15625 loss=0.0374
+  Epoch 5 step 10500/15625 loss=0.0374
+  Epoch 5 step 10800/15625 loss=0.0374
+  Epoch 5 step 11100/15625 loss=0.0375
+  Epoch 5 step 11400/15625 loss=0.0376
+  Epoch 5 step 11700/15625 loss=0.0376
+  Epoch 5 step 12000/15625 loss=0.0375
+  Epoch 5 step 12300/15625 loss=0.0377
+  Epoch 5 step 12600/15625 loss=0.0376
+  Epoch 5 step 12900/15625 loss=0.0376
+  Epoch 5 step 13200/15625 loss=0.0376
+  Epoch 5 step 13500/15625 loss=0.0374
+  Epoch 5 step 13800/15625 loss=0.0375
+  Epoch 5 step 14100/15625 loss=0.0375
+  Epoch 5 step 14400/15625 loss=0.0374
+  Epoch 5 step 14700/15625 loss=0.0375
+  Epoch 5 step 15000/15625 loss=0.0374
+  Epoch 5 step 15300/15625 loss=0.0375
+  Epoch 5 step 15600/15625 loss=0.0375
+  BERT v23 saved → C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\models\bert_v23
+  Train BERT inference (1,499,999 çift)...
+    train 50,000/1,499,999
+    train 100,000/1,499,999
+    train 150,000/1,499,999
+    train 200,000/1,499,999
+    train 250,000/1,499,999
+    train 300,000/1,499,999
+    train 350,000/1,499,999
+    train 400,000/1,499,999
+    train 450,000/1,499,999
+    train 500,000/1,499,999
+    train 550,000/1,499,999
+    train 600,000/1,499,999
+    train 650,000/1,499,999
+    train 700,000/1,499,999
+    train 750,000/1,499,999
+    train 800,000/1,499,999
+    train 850,000/1,499,999
+    train 900,000/1,499,999
+    train 950,000/1,499,999
+    train 1,000,000/1,499,999
+    train 1,050,000/1,499,999
+    train 1,100,000/1,499,999
+    train 1,150,000/1,499,999
+    train 1,200,000/1,499,999
+    train 1,250,000/1,499,999
+    train 1,300,000/1,499,999
+    train 1,350,000/1,499,999
+    train 1,400,000/1,499,999
+    train 1,450,000/1,499,999
+    train 1,499,999/1,499,999
+  → bert_scores_v23_train.npy | 60.3 dk
+  Test BERT cache'den: 3,359,679
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan, v27 yöntemi)...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,499,999 (3%)
+    1,050,000/1,499,999 (70%)
+    1,499,999/1,499,999 (100%)
+  train_cos: pos mean=0.684 neg mean=0.135
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.317
+  → 0.5 dk
+
+[C2] Trusted brand + category phrase sözlükleri kuruluyor...
+  Trusted brand sayısı: 55,580 (toplam benzersiz brand: 79,790)
+  Category phrase sayısı: 3,421
+  Örnek trusted brand: ['sole rosa', 'tuğra hidrolik pnömatik hortum rekor', 'artin reklam', 'febros', 'ar&ma wood', 'iç mekan bitkicisi', 'masso moda', 'in3dex', 'arıcı shoes', 'shibella']
+
+[D] FEATURE ENGINEERING...
+  Train features: (1499999, 38) | 510.3s
+
+[E] BINARY LGBM 5-FOLD (n_estimators=4000, early_stop=150)...
+  Fold 1 | iter=2862 | val F1≈0.9657
+  Fold 2 | iter=2558 | val F1≈0.9706
+  Fold 3 | iter=2326 | val F1≈0.9707
+  Fold 4 | iter=2631 | val F1≈0.9736
+  Fold 5 | iter=2351 | val F1≈0.9722
+
+  OOF F1=0.97050 | thr=0.7700
+
+  Feature Önemleri (top 20):
+    bert_score               :  37841
+    tyembed_cos              :  34334
+    fuzz_basic               :  26158
+    fuzz_partial             :  24349
+    fuzz_sort                :  22536
+    fuzz_set                 :  19201
+    tfidf_cos                :  15984
+    t_len                    :  15588
+    ana_kategori             :  11235
+    cat_overlap              :  10194
+    stem_cat_jac             :   9377
+    attr_jac_fixed           :   8307
+    category_phrase_match    :   5495
+    q_len                    :   5383
+    stem_jaccard             :   5331
+    jaccard                  :   4239
+    t_cov_query              :   4167
+    brand_weight             :   4017
+    weighted_q_cov           :   3944
+    attr_q_cov               :   3641
+
+=================================================================
+SAĞLIK KONTROLÜ
+=================================================================
+  ✓ OOF F1 (0.9705) v23'e (0.9686) yakın/altında — makul bir sinyal.
+  ✓ En baskın feature 'bert_score' importance'ın sadece %13'ini oluşturuyor.
+=================================================================
+
+[F] TEST INFERENCE + SUBMISSION (doğrudan threshold, quantile mapping YOK)...
+  thr=0.7700 (OOF'tan doğrudan) → Pozitif=909,753 (27.1%)
+
+=================================================================
+TAMAMLANDI — v31 tyembed + parser features
+  OOF F1        : 0.97050
+  OOF threshold : 0.7700
+  Pozitif       : 909,753 (27.1%)
+  Train çifti   : 1,499,999
+  Feature sayısı: 38 (35 v23 + 3 yeni)
+  Toplam süre   : 646.3 dk
+  Dosya         : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v31_tyembed_parser.csv
+=================================================================

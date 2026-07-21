@@ -1,0 +1,36 @@
+=================================================================
+[A] Veri + embedding cache yükleniyor...
+  item_embs: (962873, 768) | train_q_embs: (17968, 768) | 21.3s
+  17,968 benzersiz training sorgusu | 962,873 ürün
+  Örneklenen sorgu sayısı: 2,500
+
+[B] Aday üretimi (embedding top-K)...
+    50/2,500 sorgu işlendi | 250 aday | 1s
+    550/2,500 sorgu işlendi | 2,750 aday | 5s
+    1,050/2,500 sorgu işlendi | 5,248 aday | 10s
+    1,550/2,500 sorgu işlendi | 7,744 aday | 14s
+    2,050/2,500 sorgu işlendi | 10,244 aday | 18s
+  Toplam aday: 12,494 | 0.4 dk
+
+[C] Metadata ekleniyor + CSV yazılıyor...
+
+=================================================================
+TAMAMLANDI — 12,494 aday çift üretildi
+  Sorgu sayısı        : 2,500
+  Ortalama cosine     : 0.802
+  Dosya               : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\51_llm_labels\candidates.csv
+  Toplam süre         : 0.8 dk
+=================================================================
+
+Örnek adaylar:
+   pair_id        term_id            item_id                       query                                                             title                   brand                                                                     category   gender age_group                                                                                                   attributes_short  cosine
+0        0  TERM_96a1d801  ITEM_147557626031    poco x6 pro cep telefonu  x6 pro 5g 512gb 12gb ram siyah cep telefonu ( türkiye garantili)                    poco                  elektronik/telefon/akıllı cep telefonu/android cep telefonu  unknown   unknown                        yüz tanıma:var; ana kamera flaş:var; kulaklık girişi:usb type-c; suya/toza dayanıklılık:yok  0.8261
+1        1  TERM_96a1d801  ITEM_1c0a69aec38b    poco x6 pro cep telefonu                                        x7 pro 12gb / 512gb  yeşil                    poco                  elektronik/telefon/akıllı cep telefonu/android cep telefonu  unknown   unknown          batarya kapasitesi aralığı:6000-7000 mah; yüz tanıma:var; ana kamera flaş:var; suya/toza dayanıklılık:var  0.7412
+2        2  TERM_96a1d801  ITEM_a951df44bc62    poco x6 pro cep telefonu  f4 128 gb 6 gb ram yeşil cep telefonu (xiaomi türkiye garantili)                    poco                  elektronik/telefon/akıllı cep telefonu/android cep telefonu  unknown   unknown  ana kamera flaş:var; kulaklık girişi:usb type-c; ekran teknolojisi:fhd+; batarya kapasitesi aralığı:4500-5000 mah  0.6878
+3        3  TERM_96a1d801  ITEM_5c749536e795    poco x6 pro cep telefonu               f7 pro 12 gb/ 512 gb gümüş (poco türkiye garantili)                    poco                  elektronik/telefon/akıllı cep telefonu/android cep telefonu  unknown   unknown       yüz tanıma:var; ekran teknolojisi:fhd+; suya/toza dayanıklılık:var; batarya kapasitesi aralığı:4000-4500 mah  0.6718
+4        4  TERM_96a1d801  ITEM_26ae1fa53dba    poco x6 pro cep telefonu                  xiaomi poco x6 pro kılıf nano içi kadife silikon               joy tekno    elektronik/elektronik aksesuarlar/cep telefonu aksesuarları/kapak & kılıf  unknown   unknown                     materyal:silikon; cep telefonu modeli:poco x6 pro; renk:çok renkli; uyumlu marka:xiaomi uyumlu  0.6618
+5        5  TERM_efd883e2  ITEM_38fde904af64  megane 2 direksiyon kılıfı                peugeot 301 orjinal kaplama deri direksiyon kılıfı  m&r oto kilif aksesuar           otomobil & motosiklet/otomobil/araç içi aksesuarı/direksiyon ürünü  unknown   unknown                                                                                         renk:gri; color detail:gri  0.6979
+6        6  TERM_efd883e2  ITEM_3eb1d4d3365d  megane 2 direksiyon kılıfı                              clio 2 deri direksiyon simidi (mais)                 renault           otomobil & motosiklet/otomobil/araç içi aksesuarı/direksiyon ürünü  unknown   unknown                                                                          renk:siyah; menşei:fr; color detail:siyah  0.6723
+7        7  TERM_efd883e2  ITEM_2d78839caeb0  megane 2 direksiyon kılıfı       talisman megane 4 faz1 deri direksiyon simidi şerit takipli                 renault           otomobil & motosiklet/otomobil/araç içi aksesuarı/direksiyon ürünü  unknown   unknown                                      renk:siyah; menşei:fr; tamir edilebilirlik:tamir edilmez.; color detail:siyah  0.6695
+8        8  TERM_efd883e2  ITEM_4997490235a4  megane 2 direksiyon kılıfı                             peugeot 305 geçmeli direksiyon kılıfı                  devbur           otomobil & motosiklet/otomobil/araç içi aksesuarı/direksiyon ürünü  unknown   unknown                                                                       renk:bej; özellik:standart; color detail:bej  0.6643
+9        9  TERM_efd883e2  ITEM_e0a4885d902d  megane 2 direksiyon kılıfı                     direksiyon korugu megane iv-espace v-talisman               universal  otomobil & motosiklet/otomobil yedek parça/yürüyen aksam & direksiyon/z rot  unknown   unknown                           araç marka ve model:fiat / tofaş kartal; araç bilgisi:alfa romeo 145 1.4l 5mt; menşei:tr  0.6543

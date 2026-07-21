@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+8400,1,record player matches plak çalar
+8401,1,record player matches plak çalar
+8402,1,record player matches plak çalar
+8403,1,record player matches plak çalar
+8404,1,record player matches plak çalar
+8405,1,transparent pencil case matches query
+8406,1,transparent pencil case matches query
+8407,1,transparent pencil case matches query
+8408,1,transparent pencil case matches query
+8409,1,pencil case with transparent window
+8410,1,arçelik trousseau set brand+category match
+8411,1,arçelik trousseau set
+8412,1,arçelik trousseau set
+8413,1,arçelik trousseau set
+8414,1,arçelik trousseau set
+8415,1,juo brand powerbank
+8416,1,juo brand powerbank
+8417,1,juo brand powerbank
+8418,0,wrong brand - sharge not juo
+8419,0,wrong brand - junglee not juo
+8420,1,buldan csn tekstil runner match
+8421,1,buldan csn tekstil runner match
+8422,1,buldan csn tekstil runner match
+8423,1,buldan csn tekstil runner match
+8424,1,buldan csn tekstil runner match
+8425,1,karton fon kartonu matches karton
+8426,1,kraft karton çanta matches karton
+8427,1,karton koli kutu matches karton
+8428,1,karton koli matches karton
+8429,1,karton kutu matches karton
+8430,1,lavabolu banyo dolabı seti
+8431,1,lavabolu banyo dolabı seti
+8432,1,lavabo dahil banyo dolabı
+8433,1,lavabolu banyo dolabı
+8434,1,lavabolu banyo dolabı
+8435,1,rusça learning/activity book for children
+8436,1,rusça öğrenim kitabı
+8437,1,rusça dilbilgisi kitabı
+8438,1,rusça children's book
+8439,1,rusça konuşma kılavuzu
+8440,0,koltuk şalı - not İpek Evi şal product
+8441,0,pike bedding not şal
+8442,0,halı not şal
+8443,0,halı not şal
+8444,0,pike takımı not şal
+8445,1,alarm saatli radyo category match
+8446,1,alarm saatli radyo category match
+8447,1,alarm saatli radyo category match
+8448,1,alarm saatli radyo category match
+8449,1,alarm saatli radyo category match
+8450,1,xiaomi smart camera
+8451,1,xiaomi smart camera
+8452,1,xiaomi smart camera
+8453,1,xiaomi smart camera
+8454,1,xiaomi smart camera
+8455,1,brown palazzo pants matches
+8456,0,wrong color - navy not brown
+8457,0,not palazzo style; no brown color
+8458,0,wrong color - cherry not brown
+8459,0,wrong color - charcoal not brown
+8460,1,xiaomi redmi buds match
+8461,1,xiaomi redmi buds match
+8462,1,xiaomi redmi buds match
+8463,1,xiaomi redmi buds match
+8464,1,xiaomi redmi buds match
+8465,1,x-force brand product
+8466,1,x-force brand product
+8467,1,x-force brand product
+8468,1,x-force brand product
+8469,1,x-force brand product
+8470,1,metal suluk matches demir suluk
+8471,1,metal suluk matches demir suluk
+8472,1,metal suluk matches demir suluk
+8473,1,çelik matara matches demir suluk
+8474,0,plastic bottle not metal
+8475,0,wrong model - 12 pro max not 12 pro
+8476,0,wrong model - 12 pro max not 12 pro
+8477,0,wrong model - 12 pro max not 12 pro
+8478,0,wrong model - 12 pro max not 12 pro
+8479,0,wrong model - 12 pro max not 12 pro
+8480,1,keramika brand fincan takımı
+8481,1,keramika brand fincan takımı
+8482,1,keramika brand fincan takımı
+8483,1,keramika brand fincan takımı
+8484,1,keramika brand fincan takımı
+8485,1,yatak alezi mattress protector match
+8486,1,yatak alezi mattress protector match
+8487,1,yatak alezi mattress protector match
+8488,1,yatak alezi mattress protector match
+8489,1,yatak alezi mattress protector match
+8490,1,beard trimmer matches sakal traş makinesi
+8491,1,trimmer covers sakal area
+8492,1,beard trimmer matches sakal traş makinesi
+8493,1,beard trimmer matches sakal traş makinesi
+8494,1,beard trimmer matches sakal traş makinesi
+8495,1,egos brand jöle
+8496,1,egos brand jöle
+8497,1,egos brand jöle
+8498,1,egos brand jöle
+8499,1,egos brand jöle
+8500,1,sambucol brand vitamin
+8501,1,sambucol brand vitamin
+8502,1,sambucol brand vitamin
+8503,1,sambucol brand vitamin
+8504,0,wrong brand - anti not sambucol
+8505,1,çözülmemiş davalar brand game
+8506,0,wrong brand - detectify not çözülmemiş davalar
+8507,1,çözülmemiş davalar brand game
+8508,1,çözülmemiş davalar brand game
+8509,1,çözülmemiş davalar brand game
+8510,1,redmi 12 phone matches
+8511,0,accessory case not phone
+8512,0,wrong phone - honor not redmi 12
+8513,0,accessory case; also wrong model 12c
+8514,0,wrong phone - tecno not redmi 12
+8515,1,tom ford brand gözlük
+8516,1,tom ford brand gözlük
+8517,1,tom ford brand gözlük
+8518,1,tom ford brand gözlük
+8519,1,tom ford brand gözlük
+8520,0,knitting yarn not finished pillow
+8521,0,knitting yarn not finished pillow
+8522,1,actual puffy heart pillow product
+8523,0,blanket not heart pillow
+8524,0,blanket not heart pillow
+8525,1,kedi tüneli match
+8526,1,kedi tüneli match
+8527,1,kedi tüneli match
+8528,1,kedi tüneli match
+8529,1,kedi tüneli match
+8530,1,bisküvi match
+8531,1,bisküvi match
+8532,1,bisküvi match
+8533,1,bisküvi match
+8534,1,bisküvi match
+8535,1,elle women's sneaker match
+8536,1,elle women's sneaker match
+8537,1,elle women's sneaker match
+8538,1,elle women's sneaker match
+8539,1,elle women's sneaker match
+8540,1,children pike bed cover single size
+8541,0,blanket not bedspread; category mismatch
+8542,0,fitted sheet not bedspread/quilt
+8543,0,sleeping bag not bed cover
+8544,0,size/category mismatch fitted sheet skirt
+8545,1,3w clinic brand match
+8546,0,unrelated power inverter not 3w brand
+8547,1,3w clinic brand match
+8548,0,wrong brand - dalba not 3w
+8549,1,3w clinic brand match
+8550,1,columbia brand mont
+8551,1,columbia brand mont
+8552,1,columbia brand mont
+8553,1,columbia brand mont
+8554,1,columbia brand mont
+8555,1,baby support sitting cushion match
+8556,1,baby support sitting cushion match
+8557,1,baby support sitting cushion match
+8558,1,baby support sitting cushion match
+8559,1,baby safety seating cushion
+8560,1,philips ipl hair removal device
+8561,0,wrong brand - braun not philips
+8562,0,espresso machine not hair removal
+8563,0,espresso machine not hair removal
+8564,0,espresso machine not hair removal
+8565,1,prima premium care 6 diaper match
+8566,1,prima premium care 6 diaper match
+8567,1,prima premium care 6 diaper match
+8568,1,prima premium care 6 diaper match
+8569,1,prima premium care 6 diaper match
+8570,1,sustalı karabina matches
+8571,1,sustalı model key case
+8572,1,sustalı anahtar kılıfı
+8573,0,no sustalı feature mentioned
+8574,0,unrelated gear shift keychain
+8575,0,camera not educational computer
+8576,0,camera not educational computer
+8577,0,drawing tablet not computer
+8578,0,book about computer game not device
+8579,0,play dough set unrelated
+8580,1,altus brand klima match
+8581,0,wrong brand - tcl not altus
+8582,0,radiator not klima though altus brand
+8583,0,radiator not klima though altus brand
+8584,0,wrong brand - bosch not altus
+8585,1,gazzella ironing board matches
+8586,0,ironing board cover not board itself
+8587,0,wrong brand - devecioğlu not gazelle
+8588,0,wrong brand and cover not board
+8589,0,wrong brand and cover not board
+8590,1,lumberjack men's running shoe
+8591,1,lumberjack men's running shoe
+8592,1,lumberjack men's running shoe
+8593,1,lumberjack men's running shoe
+8594,1,lumberjack men's running shoe
+8595,1,tek kişilik kapitone pike match
+8596,1,tek kişilik kapitone pike match
+8597,1,tek kişilik kapitone pike match
+8598,0,no kapitone feature mentioned
+8599,0,no kapitone feature mentioned
+8600,1,white men's sneaker
+8601,1,white men's sneaker
+8602,1,white men's sneaker
+8603,1,white sneaker with stripe
+8604,0,color unknown - not confirmed white
+8605,1,balkan room dolap içi düzenleyici
+8606,1,balkan room dolap içi düzenleyici
+8607,1,balkan room dolap içi düzenleyici
+8608,1,balkan room dolap içi düzenleyici
+8609,1,balkan room dolap içi düzenleyici
+8610,1,iphone pro max actual phone
+8611,1,iphone pro max actual phone
+8612,1,iphone pro max actual phone
+8613,0,case accessory not phone
+8614,0,case accessory not phone
+8615,1,söz nişan tepsisi match
+8616,1,söz nişan tepsisi match
+8617,1,söz nişan tepsisi match
+8618,1,söz nişan tepsisi match
+8619,1,söz nişan tepsisi match
+8620,0,water set not tea glass
+8621,0,water glass set not tea glass
+8622,0,wrong brand - paşabahçe not english home
+8623,0,wrong brand - paşabahçe not english home
+8624,0,wrong brand and tea saucer not glass
+8625,1,school pens match
+8626,0,wall sticker not pen
+8627,0,paintbrush not pen
+8628,0,craft pompoms not pen
+8629,0,canvas painting set not pen
+8630,1,hair styling set match
+8631,1,hair styling set match
+8632,1,hair styling set match
+8633,1,hair styling set match
+8634,1,hair styling set match
+8635,1,men's watch set match
+8636,1,men's watch set match
+8637,1,men's watch set match
+8638,1,men's watch set match
+8639,1,men's watch set match
+8640,1,children's regional outfit match
+8641,1,children's folk costume match
+8642,1,children's folk costume match
+8643,1,children's folk costume match
+8644,0,wizard costume not regional outfit
+8645,1,kiwi brand chopper
+8646,1,kiwi brand chopper
+8647,1,kiwi brand chopper
+8648,0,wrong brand - arçelik not kiwi
+8649,0,wrong brand - 5dm not kiwi
+8650,1,black vase match
+8651,1,black vase match
+8652,1,black vase match
+8653,1,black vase match
+8654,1,black vase match
+8655,1,herbalife brand product
+8656,1,herbalife brand product
+8657,1,herbalife brand product
+8658,1,herbalife brand product
+8659,1,herbalife brand product
+8660,1,kabak lifi loofah match
+8661,1,kabak lifi loofah match
+8662,1,kabak lifi loofah match
+8663,1,kabak lifi loofah match
+8664,1,kabak lifi loofah match
+8665,1,korean skincare product
+8666,1,korean skincare product
+8667,1,korean skincare product
+8668,1,korean skincare product
+8669,1,korean skincare product
+8670,1,cüzdan kartlık match
+8671,1,cüzdan kartlık match
+8672,1,cüzdan kartlık match
+8673,1,cüzdan kartlık match
+8674,1,cüzdan kartlık match
+8675,1,esty compatible aspiratör filtresi
+8676,1,esty brand aspiratör filtresi
+8677,1,esty brand aspiratör filtresi
+8678,1,esty brand aspiratör filtresi
+8679,1,esty brand aspiratör filtresi
+8680,1,toaster match
+8681,1,toaster match
+8682,1,toaster match
+8683,1,toaster match
+8684,1,toaster match
+8685,1,formeya brand tek kişilik yorgan
+8686,1,formeya brand tek kişilik yorgan
+8687,0,wrong brand - cs ilkim not formeya
+8688,0,wrong brand - nanosoft not formeya
+8689,0,wrong brand - zeynep tekstil not formeya
+8690,0,wrong compatible model - gt sport not gt5
+8691,0,wrong compatible model - gt active not gt5
+8692,0,wrong compatible model - gt3 not gt5
+8693,0,wrong compatible model - gt2 not gt5
+8694,1,gt5 pro compatible band matches gt5
+8695,0,wrong brand - vicalina not tefal
+8696,0,wrong brand - yıldız çelik not tefal
+8697,0,wrong brand - demir çeyiz not tefal
+8698,0,wrong brand - abnturk not tefal
+8699,0,wrong brand - kahramanlar not tefal
+8700,1,mother's day gift item
+8701,1,mother's day gift item
+8702,1,mother's day gift item
+8703,1,mother's day gift item
+8704,1,mother's day gift item
+8705,1,tommy hilfiger handbag match
+8706,1,tommy hilfiger handbag match
+8707,1,tommy hilfiger handbag match
+8708,1,tommy hilfiger handbag match
+8709,0,wash bag pouch not handbag
+8710,1,action camera match
+8711,1,action camera match
+8712,1,action camera match
+8713,1,action camera match
+8714,1,action camera match
+8715,1,nike basketball match
+8716,1,nike basketball match
+8717,1,nike basketball match
+8718,1,nike basketball match
+8719,1,nike basketball match
+8720,1,30 ml volume match
+8721,0,wrong volume - 50 ml
+8722,1,30 ml volume match
+8723,0,wrong volume - not 30 ml
+8724,0,wrong volume - 15 ml
+8725,1,romand far paleti match
+8726,1,romand far paleti match
+8727,1,romand far paleti match
+8728,1,romand far paleti match
+8729,1,romand far paleti match
+8730,1,asus tuf gaming laptop
+8731,1,asus tuf gaming laptop
+8732,1,asus tuf gaming laptop
+8733,1,asus tuf gaming laptop
+8734,1,asus tuf gaming laptop
+8735,1,vt cosmetics brand product
+8736,1,vt cosmetics brand product
+8737,1,vt cosmetics brand product
+8738,1,vt cosmetics brand product
+8739,1,vt cosmetics brand product
+8740,1,sarev brand product
+8741,1,sarev brand product
+8742,1,sarev brand product
+8743,1,sarev brand product
+8744,1,sarev brand product
+8745,1,doğum günü magnet match
+8746,1,doğum günü magnet match
+8747,1,doğum günü magnet match
+8748,1,doğum günü magnet match
+8749,1,doğum günü magnet match

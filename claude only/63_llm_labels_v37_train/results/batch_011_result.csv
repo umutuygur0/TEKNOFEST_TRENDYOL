@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3850,1,hawk sunglasses brand match
+3851,1,hawk sunglasses brand match
+3852,1,hawk sunglasses brand match
+3853,0,mousepad wrong brand/category not hawk sunglasses
+3854,0,mousepad wrong brand/category not hawk sunglasses
+3855,1,airfryer matches query
+3856,1,airfryer matches query
+3857,1,airfryer matches query
+3858,1,airfryer matches query
+3859,1,airfryer matches query
+3860,1,my little pony toy figure set
+3861,1,plush pony toy
+3862,0,pony comic book not a toy
+3863,1,my little pony toy set
+3864,0,pony bag not a toy
+3865,1,boot matches bod/bot query
+3866,1,boot matches bod/bot query
+3867,1,boot matches bod/bot query
+3868,1,boot matches bod/bot query
+3869,1,boot matches bod/bot query
+3870,0,generic query ürün no specific match
+3871,0,generic query ürün no specific match
+3872,0,generic query ürün no specific match
+3873,0,generic query ürün no specific match
+3874,0,generic query ürün no specific match
+3875,1,bauer brand fishing reel
+3876,1,bauer brand fishing reel
+3877,1,bauer brand fishing reel
+3878,1,bauer branded fishing reel
+3879,1,bauer brand fishing rod
+3880,0,self-help book not literally myself product
+3881,0,pun mug not myself product
+3882,0,self-help book set not myself product
+3883,0,self control tshirt not myself match
+3884,0,phone case unrelated to myself query
+3885,1,model toy car matches arabalar
+3886,1,model toy car matches arabalar
+3887,1,model toy car matches arabalar
+3888,1,model toy car matches arabalar
+3889,1,model toy car matches arabalar
+3890,1,dresuar exact match
+3891,0,shoe rack not dresuar category
+3892,1,dresuar exact match
+3893,1,dresuar exact match
+3894,1,dresuar exact match
+3895,1,motivasyon sticker matches motive query
+3896,1,motivasyon sticker matches motive query
+3897,1,motivasyon pano matches motive query
+3898,0,album poster wrong category for motive query
+3899,1,motto sticker matches motive query
+3900,1,cooking pot matches pişirme
+3901,1,cooking appliance matches pişirme
+3902,1,cooking utensil matches pişirme
+3903,1,frying pot matches pişirme
+3904,1,roasting pan matches pişirme
+3905,1,hydraulic oil matches hidrolik
+3906,1,hydraulic jack matches hidrolik
+3907,1,hydraulic selector arm matches hidrolik
+3908,1,hydraulic door closer matches hidrolik
+3909,1,hydraulic brake set matches hidrolik
+3910,1,stanley thermos matches stanlet
+3911,1,stanley thermos matches stanlet
+3912,1,stanley thermos matches stanlet
+3913,1,stanley thermos matches stanlet
+3914,1,stanley thermos matches stanlet
+3915,1,bijon lug nut set exact match
+3916,0,lug nut wrench not bijon itself
+3917,0,lug nut wrench not bijon itself
+3918,1,bijon lug nut product
+3919,0,wheel stud not bijon nut
+3920,1,boboli brand sock exact match
+3921,0,different brand bumbo not boboli
+3922,0,different brand bubbles not boboli
+3923,1,boboli brand cardigan exact match
+3924,0,different brand bogibaby not boboli
+3925,1,lemon squeezer matches limonluk
+3926,1,lemon squeezer matches limonluk
+3927,1,lemon squeezer matches limonluk
+3928,1,lemon squeezer matches limonluk
+3929,1,lemon squeezer matches limonluk
+3930,1,amazfit brand smart band
+3931,1,amazfit brand smartwatch
+3932,1,amazfit brand smartwatch
+3933,1,amazfit compatible strap accessory
+3934,1,amazfit brand smartwatch
+3935,1,yöresel kaftan dress matches fistan
+3936,1,fisto dress matches fistan
+3937,1,yöresel kaftan dress matches fistan
+3938,1,yöresel kaftan dress matches fistan
+3939,1,yöresel kaftan dress matches fistan
+3940,1,notebook matches defterler
+3941,1,notebook matches defterler
+3942,1,notebook matches defterler
+3943,1,notebook matches defterler
+3944,1,notebook matches defterler
+3945,1,denim jeans matches newjeans query
+3946,1,denim jeans matches newjeans query
+3947,1,denim style pants matches newjeans query
+3948,1,denim jeans matches newjeans query
+3949,1,denim jeans matches newjeans query
+3950,1,meybon candy matches mey query
+3951,1,meybon candy matches mey query
+3952,0,different brand candy not meybon
+3953,0,dried fruit not meybon candy
+3954,0,different candy type not meybon
+3955,1,boss brand sneaker matches bouis
+3956,0,different brand boa not boss
+3957,1,boss brand sneaker matches bouis
+3958,1,boss brand sneaker matches bouis
+3959,0,different brand not boss
+3960,1,decorative cactus matches kaktüs
+3961,1,cactus planter pot matches kaktüs
+3962,1,cactus planter pot matches kaktüs
+3963,1,live cactus plant matches kaktüs
+3964,1,mini cactus decor matches kaktüs
+3965,0,wrong model code n101 vs z101
+3966,0,wrong model code j101 vs z101
+3967,0,wrong model code v101 vs z101
+3968,1,exact model z101 match
+3969,0,wrong model code n101 vs z101
+3970,0,mislabeled category string not tesettür match
+3971,0,plain dress not tesettür specific match
+3972,1,tesettür takım matches tesa
+3973,1,tesettür pantolon matches tesa
+3974,1,tesettür takım matches tesa
+3975,0,foundation makeup unrelated to hig/hiccup brand
+3976,1,hiccup brand pants matches hig
+3977,1,hiccup brand jeans matches hig
+3978,1,hiccup brand jeans matches hig
+3979,1,hiccup brand jeans matches hig
+3980,1,nurgaz brand mangal exact match
+3981,1,nurgaz brand grill set exact match
+3982,1,nurgaz product line match
+3983,1,nurgaz brand stove exact match
+3984,1,nurgaz brand stove exact match
+3985,1,kerastase genesis line exact match
+3986,1,kerastase genesis line exact match
+3987,1,kerastase genesis line exact match
+3988,1,bioxcin genesis product name match
+3989,1,kerastase genesis line exact match
+3990,1,cerave brand matches careve
+3991,1,cerave brand matches careve
+3992,1,cerave brand matches careve
+3993,1,cerave brand matches careve
+3994,1,cerave brand matches careve
+3995,1,dubai chocolate matches düfa
+3996,1,dubai chocolate matches düfa
+3997,1,dubai chocolate matches düfa
+3998,1,dubai chocolate matches düfa
+3999,1,dubai chocolate matches düfa
+4000,1,brooch matches broş
+4001,1,brooch matches broş
+4002,1,brooch matches broş
+4003,1,brooch matches broş
+4004,1,brooch matches broş
+4005,0,different brand not artloop
+4006,0,different brand not artloop
+4007,0,different brand not artloop
+4008,0,unrelated kitchen tool not artloop
+4009,0,different brand not artloop
+4010,1,steelseries prime+ product name match
+4011,1,reebok prime set sneaker name match
+4012,1,zeiron prime x5 pc name match
+4013,0,xprime different brand not prime
+4014,0,primer makeup coincidental name overlap
+4015,1,samsonite brand bag exact match
+4016,1,samsonite brand bag exact match
+4017,1,samsonite brand bag exact match
+4018,1,samsonite brand bag exact match
+4019,1,samsonite brand bag exact match
+4020,1,farm animal toy set matches çiftlik
+4021,1,farm animal toy set matches çiftlik
+4022,1,farm animal toy set matches çiftlik
+4023,1,farm animal toy set matches çiftlik
+4024,1,farm toy set matches çiftlik
+4025,1,plus size xl tshirt brand modexl
+4026,1,oversized battal boy tshirt matches xl
+4027,1,plus size xl sweatshirt brand modexl
+4028,1,plus size xl sweatshirt brand modexl
+4029,1,plus size xl tshirt brand modexl
+4030,1,prohel brand motorcycle jacket exact match
+4031,1,prohel brand motorcycle jacket exact match
+4032,1,prohel brand motorcycle jacket exact match
+4033,1,prohel brand motorcycle jacket exact match
+4034,1,prohel brand motorcycle jacket exact match
+4035,1,candle holder matches şamdanlık
+4036,1,candle holder matches şamdanlık
+4037,1,candlestick matches şamdanlık
+4038,1,candle holder matches şamdanlık
+4039,1,candlestick matches şamdanlık
+4040,1,dinosaur fossil dig toy matches fosil
+4041,1,fossil brand watch matches fosil
+4042,1,fossil brand watch matches fosil
+4043,1,fossil dig kit toy matches fosil
+4044,1,fossil themed decor object matches fosil
+4045,1,nail dryer matches kurutucu
+4046,1,nail dryer matches kurutucu
+4047,1,nail dryer matches kurutucu
+4048,1,nail dryer matches kurutucu
+4049,1,salad dryer matches kurutucu generic term
+4050,1,vent grille matches menfez
+4051,1,vent grille matches menfez
+4052,1,vent grille matches menfez
+4053,1,vent grille matches menfez
+4054,1,vent grille matches menfez
+4055,1,football cleats matches kronpon/krampon
+4056,1,football cleats matches kronpon/krampon
+4057,1,football cleats matches kronpon/krampon
+4058,1,football cleats matches kronpon/krampon
+4059,1,football cleats matches kronpon/krampon
+4060,1,epivia hair removal cream matches epif
+4061,1,epify brand matches epif
+4062,1,epify brand matches epif
+4063,0,different brand empressco not epif
+4064,0,different brand empressco not epif
+4065,1,usb type-c converter matches dönüştürücü
+4066,1,usb type-c converter matches dönüştürücü
+4067,1,usb-c converter matches dönüştürücü
+4068,1,type-c converter matches dönüştürücü
+4069,1,usb hub converter matches dönüştürücü
+4070,1,porsima brand spice jar set exact match
+4071,1,porsima brand spice jar set exact match
+4072,1,porsima brand spice jar set exact match
+4073,1,porsima brand spice jar set exact match
+4074,1,porsima brand spice jar set exact match
+4075,0,fishing lure different brand not zingo
+4076,0,fishing lure different brand not zingo
+4077,0,jenga game not zingo brand
+4078,0,knitting kit unrelated to zingo
+4079,0,jenga game not zingo brand
+4080,1,ceiling light matches plafonyer
+4081,1,ceiling light matches plafonyer
+4082,1,ceiling light matches plafonyer
+4083,1,ceiling light matches plafonyer
+4084,1,ceiling light matches plafonyer
+4085,1,rebul extreme perfume exact match
+4086,1,rebul extreme perfume exact match
+4087,1,extreme named perfume different brand
+4088,0,mascara not extreme perfume line
+4089,1,rebul extreme perfume set exact match
+4090,1,rose water matches gülsuyu
+4091,1,rose water matches gülsuyu
+4092,1,rose water matches gülsuyu
+4093,1,rose water matches gülsuyu
+4094,1,rose water matches gülsuyu
+4095,1,pedometer exact match
+4096,1,smartwatch with step counter feature
+4097,1,smart bracelet with step counter feature
+4098,1,smart bracelet with step counter feature
+4099,1,smartwatch with step counter feature
+4100,1,child potty matches lazımlık
+4101,1,child potty matches lazımlık
+4102,1,child potty matches lazımlık
+4103,1,child potty matches lazımlık
+4104,1,child potty matches lazımlık
+4105,1,venus design brand earring exact match
+4106,1,venus design brand earring exact match
+4107,1,venus design brand earring exact match
+4108,1,venus design brand earring exact match
+4109,1,venus design brand earring exact match
+4110,1,school bag set matches okul
+4111,1,school water bottle matches okul
+4112,1,school bag set matches okul
+4113,1,school stationery set matches okul
+4114,1,school bag set matches okul
+4115,1,yaşamak book by yu hua exact match
+4116,1,yaşamak book set exact match
+4117,0,different book wrong author not yaşamak
+4118,0,dictionary not the yaşamak book
+4119,0,quote mug not the yaşamak book
+4120,1,motorcycle helmet matches kask
+4121,1,jokey style helmet matches kask
+4122,1,jokey helmet matches kask
+4123,1,jokey helmet matches kask
+4124,1,motorcycle helmet matches kask
+4125,1,roborock robot vacuum exact match
+4126,1,roborock robot vacuum exact match
+4127,1,roborock brand vacuum product
+4128,1,roborock robot vacuum exact match
+4129,0,actual brand dreame not roborock
+4130,1,regular potato matches patates
+4131,0,sweet potato different vegetable variant
+4132,0,sweet potato different vegetable variant
+4133,0,sweet potato different vegetable variant
+4134,1,baking potato matches patates
+4135,1,superfit brand kids boot exact match
+4136,1,superfit brand kids boot exact match
+4137,1,superfit brand kids boot exact match
+4138,1,superfit brand kids boot exact match
+4139,1,superfit brand kids boot exact match
+4140,1,layette brand baby item exact match
+4141,1,layette brand baby romper exact match
+4142,1,layette brand baby body exact match
+4143,1,layette brand baby sweatshirt exact match
+4144,1,layette brand baby romper exact match
+4145,1,pomodoro study timer matches kronometre
+4146,1,pomodoro study timer matches kronometre
+4147,1,pomodoro study timer matches kronometre
+4148,1,pomodoro study timer matches kronometre
+4149,1,digital countdown timer matches kronometre
+4150,1,lemon tree sapling matches limon
+4151,0,lemon-scented cypress not actual lemon tree
+4152,1,lemon squeezer accessory matches limon
+4153,1,lemon tree sapling matches limon
+4154,1,lemon squeezer matches limon
+4155,1,padlock matches kilit
+4156,1,chain lock matches kilit
+4157,1,bicycle lock matches kilit
+4158,1,padlock matches kilit despite category tag
+4159,1,padlock matches kilit
+4160,1,bluetooth speaker matches hopörlör
+4161,1,bluetooth speaker matches hopörlör
+4162,1,bluetooth speaker matches hopörlör
+4163,1,bluetooth speaker matches hopörlör
+4164,1,bluetooth speaker matches hopörlör
+4165,1,clinic line serum matches query
+4166,1,clinique brand moisturizer matches clinic
+4167,1,clinic line cream matches query
+4168,1,clinique brand gel matches clinic
+4169,1,clinic line serum matches query
+4170,1,table runner matches ranır
+4171,1,table runner matches ranır
+4172,1,table runner matches ranır
+4173,1,table runner matches ranır
+4174,1,table runner matches ranır
+4175,1,body care oil matches oil query
+4176,1,hair repair oil matches oil query
+4177,1,bio-oil brand skin oil exact match
+4178,1,oil pulling mouthwash matches oil query
+4179,1,hair care oil matches oil query
+4180,1,water heater matches şofben
+4181,1,water heater matches şofben
+4182,1,water heater matches şofben
+4183,1,water heater matches şofben
+4184,1,water heater matches şofben
+4185,1,stanley thermos matches stanlry
+4186,1,stanley thermos matches stanlry
+4187,1,stanley thermos matches stanlry
+4188,1,stanley thermos matches stanlry
+4189,1,stanley thermos matches stanlry
+4190,1,berberine supplement exact match
+4191,1,berberine supplement exact match
+4192,1,berberine supplement exact match
+4193,1,berberine supplement exact match
+4194,1,berberine supplement exact match
+4195,1,monstera decor matches query
+4196,1,monstera plant exact match
+4197,1,monstera plant exact match
+4198,1,monstera decor matches query
+4199,1,monstera decor matches query

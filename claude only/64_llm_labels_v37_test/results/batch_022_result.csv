@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+7700,1,weewell brand baby camera match
+7701,1,weewell brand baby camera match
+7702,1,weewell brand baby camera match
+7703,0,wrong brand wellbox not weewell
+7704,0,wrong brand anunnaki not weewell
+7705,0,dress not skirt
+7706,0,wrong brand and dress not skirt
+7707,0,wrong brand and dress not skirt
+7708,0,wrong brand and dress not skirt
+7709,0,wrong brand and dress not skirt
+7710,0,puffer coat not fur item
+7711,0,plush jacket not fur item
+7712,1,fur trimmed hooded coat matches
+7713,1,faux fur hooded anorak matches
+7714,1,fur lined hooded coat matches
+7715,1,women's winter slipper matches
+7716,1,women's winter slipper matches
+7717,1,women's winter slipper matches
+7718,1,women's winter slipper matches
+7719,1,women's winter slipper matches
+7720,1,defacto girl's set match
+7721,1,defacto girl's set match
+7722,1,defacto girl's set match
+7723,1,defacto girl's set match
+7724,1,defacto girl's set match
+7725,1,tudors men's tshirt match
+7726,1,tudors men's tshirt match
+7727,1,tudors men's tshirt match
+7728,1,tudors men's tshirt match
+7729,1,tudors men's tshirt match
+7730,0,not striped pattern - bear figure design
+7731,0,wrong product type sweater not scarf
+7732,1,striped scarf and hat set matches
+7733,1,striped pattern scarf and hat set matches
+7734,0,wrong product type sweatshirt not scarf
+7735,1,women's navy blazer matches
+7736,1,women's navy blazer matches
+7737,1,women's navy blazer matches
+7738,1,women's navy jacket matches
+7739,1,women's navy blazer matches
+7740,1,vested suit match
+7741,1,vested suit match
+7742,1,vested suit match
+7743,1,vested suit style for child matches
+7744,1,vested suit match
+7745,1,snap button hijab bonnet matches
+7746,1,snap button hijab bonnet matches
+7747,1,snap button hijab bonnet matches
+7748,1,snap button hijab bonnet matches
+7749,1,snap button hijab bonnet matches
+7750,1,short sleeve knit cardigan matches
+7751,1,short sleeve cardigan style top matches
+7752,1,short sleeve knit cardigan matches
+7753,1,short sleeve knit cardigan matches
+7754,1,short sleeve cardigan matches
+7755,1,ipekyol boot match
+7756,1,ipekyol boot match
+7757,1,ipekyol boot match
+7758,0,blouse not boot
+7759,0,dress not boot
+7760,1,baby diaper changing mat matches
+7761,1,baby diaper changing mat matches
+7762,1,baby diaper changing mat matches
+7763,1,baby diaper changing mat matches
+7764,1,baby diaper changing mat matches
+7765,1,paulmark coat match
+7766,1,paulmark coat match
+7767,1,paulmark coat match
+7768,1,paulmark coat match
+7769,1,paulmark coat match
+7770,1,skechers men's sport shoe match
+7771,1,skechers unisex sport shoe includes male
+7772,1,skechers boy's sport shoe match
+7773,1,skechers boy's sport shoe match
+7774,1,skechers boy's sport shoe match
+7775,1,new balance shoe match
+7776,1,new balance shoe match
+7777,1,new balance shoe match
+7778,1,new balance shoe match
+7779,1,new balance shoe match
+7780,1,derimod heeled shoe match
+7781,1,derimod heeled stiletto match
+7782,0,sandal category not heeled shoe
+7783,1,derimod heeled shoe match
+7784,0,sandal category not heeled shoe
+7785,1,colin's pants match
+7786,1,colin's pants match
+7787,1,colin's pants match
+7788,1,colin's pants match
+7789,1,colin's pants match
+7790,1,montessori toy match
+7791,1,montessori toy match
+7792,1,montessori toy match
+7793,1,montessori toy match
+7794,1,montessori toy match
+7795,1,tommy hilfiger men's sweatshirt match
+7796,1,tommy hilfiger men's sweatshirt match
+7797,1,tommy hilfiger men's sweatshirt match
+7798,1,tommy hilfiger men's sweatshirt match
+7799,1,tommy hilfiger men's sweatshirt match
+7800,1,vans old skool model matches
+7801,1,vans old skool model matches
+7802,0,vans ward platform not old skool model
+7803,0,wrong brand converse not vans
+7804,0,wrong brand converse not vans
+7805,1,midi puzzle matches
+7806,1,midi puzzle matches
+7807,0,1000 piece puzzle not midi
+7808,0,xxl puzzle not midi
+7809,0,35 piece puzzle not midi
+7810,1,igor sandal match
+7811,1,igor sandal match
+7812,1,igor sandal match
+7813,1,igor sandal match
+7814,1,igor sandal match
+7815,1,kaşe fabric for jacket matches
+7816,1,kaşe fabric for jacket matches
+7817,1,kaşe fabric for jacket matches
+7818,0,finished suede jacket not kaşe fabric
+7819,0,finished knit jacket not kaşe fabric
+7820,0,men's sleeveless top not crop style
+7821,0,regular tshirt not crop
+7822,0,regular tshirt not crop
+7823,0,regular tshirt not crop
+7824,0,regular tshirt not crop
+7825,0,girl's item gender mismatch for boy query
+7826,0,not explicitly winter set
+7827,0,unisex not boy specific and no winter spec
+7828,0,girl's item gender mismatch for boy query
+7829,0,single sweatshirt not full top-bottom set
+7830,1,crop style coat matches
+7831,1,crop puffer coat matches
+7832,1,crop coat matches
+7833,1,crop puffer coat matches
+7834,1,crop coat matches
+7835,1,layki slipper match
+7836,1,layki slipper match
+7837,1,layki slipper match
+7838,1,layki slipper match
+7839,1,layki slipper match
+7840,1,one hand fold baby stroller matches
+7841,1,one hand fold baby stroller matches
+7842,1,one hand fold baby stroller matches
+7843,1,one hand fold baby stroller matches
+7844,1,one hand fold baby stroller matches
+7845,0,tshirt not sweatshirt
+7846,0,tshirt not sweatshirt
+7847,0,graphic tee not sweatshirt
+7848,0,women's hoodie gender mismatch
+7849,0,wrong brand adidas not puma
+7850,1,ceyo orthopedic slipper match
+7851,1,ceyo slipper brand match
+7852,1,ceyo orthopedic slipper match
+7853,1,ceyo orthopedic slipper match
+7854,1,ceyo orthopedic slipper match
+7855,1,sevdeugur brand match
+7856,1,sevdeugur brand match
+7857,1,sevdeugur brand match
+7858,1,sevdeugur brand match
+7859,1,sevdeugur brand match
+7860,1,aker tunic match
+7861,1,aker tunic match
+7862,1,aker tunic match
+7863,1,aker tunic match
+7864,1,aker tunic match
+7865,1,mavi men's puffer vest match
+7866,1,mavi men's puffer vest match
+7867,1,mavi men's puffer vest match
+7868,1,mavi men's puffer vest match
+7869,1,mavi men's puffer vest match
+7870,0,mary jane shoe not boot
+7871,0,wrong color black not acı kahve
+7872,0,wrong color black not acı kahve
+7873,0,loafer not boot despite color match
+7874,0,wrong color black not acı kahve
+7875,1,nautica sneaker match
+7876,1,nautica sneaker match
+7877,1,nautica sneaker match
+7878,1,nautica sneaker match
+7879,1,nautica sneaker match
+7880,1,skechers coat match
+7881,1,skechers coat match
+7882,1,skechers coat match
+7883,1,skechers coat match
+7884,1,skechers coat match
+7885,1,seasonal thin men's coat match
+7886,1,seasonal thin men's coat match
+7887,1,seasonal thin men's coat match
+7888,1,seasonal thin men's coat match
+7889,1,seasonal thin men's coat match
+7890,1,lc waikiki baby item match
+7891,1,lc waikiki baby item match
+7892,1,lc waikiki baby item match
+7893,1,lc waikiki baby item match
+7894,1,lc waikiki baby item match
+7895,1,women's black shirt match
+7896,1,women's black shirt match
+7897,1,women's black shirt match
+7898,1,women's black shirt match
+7899,1,women's black shirt match
+7900,1,winter long coat matches
+7901,1,winter long coat matches
+7902,0,not explicitly long coat
+7903,0,baby coat not stated long
+7904,0,child coat not stated long
+7905,1,black shawl match
+7906,1,black shawl match
+7907,1,black shawl match
+7908,1,black shawl match
+7909,1,black shawl match
+7910,1,classic pants match
+7911,0,palazzo pants not classic style
+7912,1,classic leather pants match
+7913,0,pleated pants not classic style
+7914,1,classic shirt match
+7915,1,levidor trenchcoat match
+7916,1,levidor trenchcoat match
+7917,1,levidor trenchcoat match
+7918,1,levidor trenchcoat match
+7919,0,wrong brand alvina not levidor
+7920,1,new balance sport shoe match
+7921,1,new balance sport shoe match
+7922,1,new balance sport shoe match
+7923,1,new balance sport shoe match
+7924,1,new balance sport shoe match
+7925,1,men's babet shoe match
+7926,1,men's babet shoe match
+7927,1,men's babet shoe match
+7928,1,men's babet shoe match
+7929,1,men's babet shoe match
+7930,1,lee brand jeans match
+7931,1,lee brand jeans match
+7932,1,lee brand jeans match
+7933,1,lee brand jeans match
+7934,1,lee brand jeans match
+7935,1,baby carrier match
+7936,1,baby carrier match
+7937,1,baby carrier match
+7938,1,baby carrier match
+7939,1,baby carrier match
+7940,1,lc waikiki baby girl item match
+7941,1,lc waikiki baby girl item match
+7942,1,lc waikiki baby girl item match
+7943,0,child 6-9 years not baby age
+7944,1,lc waikiki baby girl item match
+7945,0,adult plus size pajama not child polar onesie
+7946,0,cotton sleep sack not polar fleece
+7947,0,cotton sleep sack not polar fleece
+7948,0,cotton sleep sack not polar fleece
+7949,0,wool sleep sack not polar fleece
+7950,1,boy baby jeans match
+7951,1,boy baby jeans match
+7952,1,boy baby jeans match
+7953,1,boy baby jeans match
+7954,1,boy baby jeans match
+7955,1,cadence hybrid multisurface paint match
+7956,1,cadence hybrid multisurface paint match
+7957,1,cadence hybrid multisurface paint match
+7958,1,cadence hybrid multisurface paint match
+7959,1,cadence hybrid multisurface paint match
+7960,1,printed tracksuit set matches
+7961,0,no printed pattern mentioned
+7962,0,no printed pattern mentioned
+7963,0,printed tshirt not tracksuit set
+7964,0,printed tshirt not tracksuit set
+7965,1,short heel shoe match
+7966,1,short heel shoe match
+7967,1,short heel shoe match
+7968,1,short heel shoe match
+7969,1,short heel shoe match
+7970,1,women's sport sneaker match
+7971,1,women's sport sneaker match
+7972,1,women's sport sneaker match
+7973,1,women's sport sneaker match
+7974,1,women's sport sneaker match
+7975,1,metallica tshirt match
+7976,1,metallica tshirt match
+7977,1,metallica tshirt match
+7978,1,metallica tshirt match
+7979,1,metallica tshirt match
+7980,1,baby girl blouse match
+7981,1,baby girl blouse match
+7982,1,baby girl blouse match
+7983,1,baby girl blouse match
+7984,1,baby girl blouse match
+7985,1,etikmen men's shirt match
+7986,1,etikmen men's shirt match
+7987,1,etikmen men's shirt match
+7988,1,etikmen men's shirt match
+7989,1,etikmen men's shirt match
+7990,1,nursery shoe match
+7991,1,nursery shoe match
+7992,1,nursery/school house shoe match
+7993,1,nursery shoe match
+7994,1,nursery shoe match
+7995,1,men's coat match
+7996,1,men's coat match
+7997,0,women's coat gender mismatch
+7998,1,men's coat match
+7999,1,men's coat match
+8000,1,guess coat match
+8001,1,guess coat match
+8002,1,guess coat match
+8003,1,guess coat match
+8004,1,guess coat match
+8005,0,no waterproof spec mentioned
+8006,1,waterproof work boot match
+8007,1,waterproof work shoe match
+8008,1,waterproof work boot match
+8009,1,waterproof work boot match
+8010,1,inna brand match
+8011,1,inna brand match
+8012,1,inna brand match
+8013,1,inna brand match
+8014,1,inna brand match
+8015,1,baby girl coat match
+8016,1,baby girl coat match
+8017,1,baby girl coat match
+8018,1,baby girl coat match
+8019,0,adult age group not baby/child
+8020,0,waterproof boot not suede
+8021,0,babet not boot category
+8022,0,sandal not boot category
+8023,0,loafer not boot category
+8024,0,wrong color black not beige
+8025,1,lufian women's shoe match
+8026,1,lufian women's shoe match
+8027,1,lufian women's shoe match
+8028,1,lufian women's shoe match
+8029,1,lufian women's shoe match
+8030,1,men's boot match
+8031,1,men's boot match
+8032,1,men's boot match
+8033,1,men's boot match
+8034,1,men's boot match
+8035,1,boy's jacket suit set match
+8036,1,boy's jacket suit set match
+8037,1,boy's jacket suit set match
+8038,1,boy's jacket suit set match
+8039,1,boy's jacket suit set match
+8040,1,toy story character toy match
+8041,1,toy story figure collectible match
+8042,1,toy story pc game match
+8043,1,toy story ps3 game match
+8044,1,toy story themed puzzle match
+8045,1,aker trenchcoat match
+8046,1,aker trenchcoat match
+8047,1,aker trenchcoat match
+8048,1,aker trenchcoat match
+8049,1,aker trenchcoat match

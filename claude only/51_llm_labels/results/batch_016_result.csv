@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+5600,1,toy garbage truck matches query
+5601,1,toy garbage truck matches query
+5602,1,toy garbage truck matches query
+5603,1,men's baggy fabric trousers match
+5604,1,men's baggy fabric trousers match
+5605,1,men's baggy fabric trousers match
+5606,1,men's baggy fabric trousers match
+5607,1,men's baggy fabric trousers match
+5608,1,exact hemnes divan match
+5609,1,ikea hemnes divan same product
+5610,0,mattress compatible with divan, not divan itself
+5611,0,foam mattress accessory, not the divan
+5612,0,foam mattress accessory, not the divan
+5613,1,us polo vest matches
+5614,1,us polo vest matches
+5615,1,us polo vest matches
+5616,1,us polo vest matches
+5617,1,us polo vest matches
+5618,1,title matches maşa raptiye exactly
+5619,0,plain raptiye, not maşa raptiye
+5620,0,colored raptiye, different fastener type
+5621,0,pvc raptiye, different fastener type
+5622,0,furniture hardware fastener, wrong type
+5623,1,exact sticker match
+5624,1,same car decoration text
+5625,1,exact sticker match
+5626,1,exact sticker match
+5627,0,ride-on toy car, not sticker
+5628,1,kemal tanca men's shoe match
+5629,1,kemal tanca men's shoe match
+5630,1,kemal tanca men's boot match
+5631,1,kemal tanca men's shoe match
+5632,1,kemal tanca men's shoe match
+5633,1,duxal shoes brand match
+5634,1,duxal shoes brand match
+5635,1,duxal shoes brand match
+5636,1,duxal shoes brand match
+5637,1,duxal shoes brand match
+5638,1,exact rebul dark spice cologne
+5639,1,exact rebul dark spice cologne
+5640,0,shower gel, not the cologne
+5641,1,cologne set includes dark spice
+5642,1,cologne set includes dark spice
+5643,1,mirror led light matches
+5644,1,led strip for makeup mirror
+5645,1,mirror led light matches
+5646,1,led lit makeup mirror matches
+5647,1,mirror led lighting set matches
+5648,1,müslüm gürses vinyl record
+5649,1,müslüm gürses vinyl record
+5650,1,müslüm gürses titled record
+5651,0,wooden art print, not music
+5652,0,wooden poster, not music
+5653,1,kzy multi purpose cabinet match
+5654,1,kzy multi purpose cabinet match
+5655,1,kzy multi purpose cabinet match
+5656,1,kzy multi purpose office cabinet
+5657,1,kzy multi purpose cabinet match
+5658,1,large suitcase matches
+5659,1,large suitcase matches
+5660,1,large suitcase matches
+5661,1,large suitcase matches
+5662,1,large suitcase matches
+5663,1,pudding bowl set matches
+5664,1,pudding bowl set matches
+5665,1,pudding bowl set matches
+5666,1,pudding bowl set matches
+5667,1,pudding bowl set matches
+5668,1,yellow highlighter matches
+5669,1,yellow highlighter title matches
+5670,1,yellow highlighter matches
+5671,1,yellow highlighter set matches
+5672,1,yellow highlighter matches
+5673,1,hasan ali yücel classics set
+5674,1,part of same classics series
+5675,1,hasan ali yücel full set
+5676,1,part of same classics series
+5677,1,single book from same series
+5678,1,contact paper marble pattern match
+5679,1,contact paper marble pattern match
+5680,1,contact paper marble pattern match
+5681,1,contact paper marble pattern match
+5682,1,adhesive contact paper foil match
+5683,1,elle men's sneaker matches
+5684,1,elle men's sneaker matches
+5685,1,elle men's sneaker matches
+5686,1,elle men's sneaker matches
+5687,1,elle men's leather sneaker match
+5688,1,merrell brand outdoor shoe match
+5689,1,merrell brand outdoor shoe match
+5690,1,merrell brand shoe match
+5691,1,merrell brand shoe attributes match
+5692,1,merrell brand outdoor shoe match
+5693,1,next baby brand kids coat
+5694,1,next baby brand romper set
+5695,1,next baby brand baby set
+5696,1,next baby brand coat match
+5697,1,next baby brand coat match
+5698,1,battal boy elastic sheet match
+5699,1,battal boy elastic sheet match
+5700,1,battal boy elastic sheet match
+5701,1,battal boy elastic sheet match
+5702,1,battal boy elastic sheet match
+5703,1,mad body spray matches
+5704,1,mad body spray matches
+5705,1,mad body spray matches
+5706,0,perfume not body spray line
+5707,0,perfume not body spray line
+5708,1,turbo oven matches
+5709,1,turbo mini oven matches
+5710,1,turbo oven matches
+5711,1,turbo oven title matches
+5712,1,turbo midi oven matches
+5713,1,örgü peynir cheese matches
+5714,1,örgü peynir cheese matches
+5715,1,örgü peynir cheese matches
+5716,1,örgü peynir cheese matches
+5717,1,örgü peynir cheese matches
+5718,1,lumberjack men's sweatpants match
+5719,1,lumberjack men's sweatpants match
+5720,1,lumberjack men's sweatpants match
+5721,1,lumberjack men's sweatpants match
+5722,1,lumberjack men's sweatpants match
+5723,1,girl's tracksuit set matches
+5724,1,girl themed tracksuit set matches
+5725,1,girl themed tracksuit set matches
+5726,1,girl's tracksuit set matches
+5727,1,girl's tracksuit set matches
+5728,1,kiwi upholstery washer matches
+5729,1,kiwi upholstery washer matches
+5730,1,kiwi upholstery washer matches
+5731,1,kiwi upholstery washer matches
+5732,0,cleaning brush, not washing machine
+5733,1,hand ankle weight matches
+5734,1,hand ankle weight matches
+5735,1,hand ankle weight matches
+5736,1,hand ankle weight matches
+5737,1,hand ankle weight matches
+5738,1,bepanthol anti-scar jel matches
+5739,1,bepanthol anti-scar jel matches
+5740,1,bepanthol anti-scar jel matches
+5741,0,bepanjel wound gel, different product
+5742,0,bepanjel wound gel, different product
+5743,1,karaca cutlery set matches
+5744,1,karaca cutlery set matches
+5745,1,karaca cutlery set matches
+5746,1,karaca cutlery set matches
+5747,1,karaca cutlery set matches
+5748,1,regional wedding kaftan matches
+5749,0,generic dress, not traditional fistan
+5750,1,regional wedding kaftan matches
+5751,1,regional wedding kaftan matches
+5752,1,regional wedding kaftan matches
+5753,1,wooden bungalow house matches
+5754,1,wooden bungalow house matches
+5755,0,miniature model kit, not house
+5756,0,miniature model kit, not house
+5757,0,jigsaw puzzle, not real house
+5758,1,balcony corner seating set matches
+5759,1,balcony corner seating set matches
+5760,1,balcony corner seating set matches
+5761,1,corner seating set for balcony
+5762,1,corner seating set for balcony
+5763,1,lego batman set matches
+5764,1,lego batman set matches
+5765,1,lego batman set matches
+5766,1,lego batman set matches
+5767,1,lego batman branded keychain
+5768,0,depilation wax, wrong brand/category
+5769,0,scarf, unrelated to soft99 brand
+5770,0,scarf, unrelated to soft99 brand
+5771,0,rug named soft, wrong category
+5772,0,avon perfume, wrong brand
+5773,1,evening shoe matches
+5774,1,evening shoe matches
+5775,1,evening shoe matches
+5776,1,evening shoe matches
+5777,1,evening shoe and bag matches
+5778,1,long fur coat matches
+5779,1,long plush fur coat matches
+5780,1,long faux fur coat matches
+5781,1,long kürk coat matches
+5782,1,fur lined long coat matches
+5783,1,hair clip set matches
+5784,1,hair clip set matches
+5785,1,hair clip set matches
+5786,1,hair clip set matches
+5787,1,hair clip set matches
+5788,1,thermal mug matches
+5789,1,thermal mug matches
+5790,1,thermal mug set matches
+5791,1,thermal mug set matches
+5792,1,thermal mug matches
+5793,1,women's hooded raincoat matches
+5794,1,women's hooded raincoat matches
+5795,1,women's hooded rainwear matches
+5796,1,women's hooded raincoat matches
+5797,1,women's hooded raincoat matches
+5798,1,tab a9 plus tablet case
+5799,1,tab a9 plus tablet case
+5800,1,tab a9 plus tablet case
+5801,1,tab a9 plus tablet case
+5802,1,tab a9 plus tablet case
+5803,1,bosch hammer drill matches
+5804,1,bosch hammer drill matches
+5805,1,bosch hammer drill matches
+5806,1,bosch hammer drill matches
+5807,1,bosch hammer drill matches
+5808,1,gündoğdu kashar cheese matches
+5809,1,gündoğdu kashar cheese matches
+5810,1,gündoğdu kashar cheese matches
+5811,1,gündoğdu kashar cheese matches
+5812,1,gündoğdu kashar cheese matches
+5813,1,dermacol make up cover foundation
+5814,1,dermacol make up cover foundation
+5815,1,dermacol make up cover foundation
+5816,1,dermacol make up cover line
+5817,1,dermacol make up cover foundation
+5818,1,dijitsu mini fridge matches
+5819,1,dijitsu mini fridge matches
+5820,1,dijitsu mini fridge matches
+5821,1,dijitsu mini fridge matches
+5822,1,dijitsu mini fridge matches
+5823,1,twin bunk bed matches
+5824,1,twin bunk bed with mattresses
+5825,1,double bunk bed matches
+5826,1,double size bunk bed matches
+5827,1,double size bunk bed matches
+5828,1,black home slipper matches
+5829,1,black home slipper matches
+5830,1,black plush home slipper matches
+5831,1,black home slipper matches
+5832,1,black home slipper matches
+5833,1,iced tea matches
+5834,1,cold brew iced tea bags
+5835,1,iced tea matches
+5836,1,iced tea sample pack matches
+5837,0,herbal cold remedy tea, not iced
+5838,0,single pot, not a set
+5839,1,perla cookware set matches
+5840,1,perla cookware set matches
+5841,1,perla cookware set matches
+5842,1,perla cookware set matches
+5843,1,modem storage box matches
+5844,1,modem storage box matches
+5845,1,modem storage box matches
+5846,1,modem storage box matches
+5847,1,modem storage box matches
+5848,1,youth room furniture set matches
+5849,1,youth room furniture set matches
+5850,1,youth room furniture set matches
+5851,1,pink girl's youth room set
+5852,1,youth room furniture set matches
+5853,1,set of three wall clocks
+5854,1,set of three wall clocks
+5855,1,set of three wall clocks
+5856,1,set of three wall clocks
+5857,1,set of three wall clocks
+5858,1,brown women's jeans matches
+5859,1,brown women's jeans matches
+5860,1,brown women's jeans matches
+5861,1,brown women's jeans matches
+5862,1,brown women's jeans matches
+5863,1,shelf decoration ornament matches
+5864,1,shelf decoration ornament matches
+5865,1,shelf decoration ornament matches
+5866,1,shelf decoration ornament matches
+5867,1,shelf decoration ornament matches
+5868,1,bohemia glassware matches
+5869,1,bohemia glassware matches
+5870,1,bohemia glassware matches
+5871,1,bohemia glassware matches
+5872,1,bohemia glassware matches
+5873,0,jamy model, different jean fit
+5874,0,jeff model, different jean fit
+5875,0,jumy model, different jean fit
+5876,0,jumy model, different jean fit
+5877,0,jumy model, different jean fit
+5878,1,nascita manicure pedicure set matches
+5879,0,nail scissors, not manicure set
+5880,0,nail scissors, not manicure set
+5881,0,tweezers, not manicure set
+5882,0,nail scissors set, not manicure set
+5883,1,tire air compressor matches
+5884,1,tire air compressor matches
+5885,1,tire air compressor matches
+5886,1,tire air compressor matches
+5887,1,tire air compressor matches
+5888,1,iphone matches generic query
+5889,1,iphone matches generic query
+5890,1,iphone matches generic query
+5891,1,iphone matches generic query
+5892,1,iphone matches generic query
+5893,1,cabinet leg matches
+5894,1,cabinet leg matches
+5895,1,cabinet leg matches
+5896,1,cabinet leg matches
+5897,1,cabinet leg matches
+5898,1,defacto kids sweatshirt matches
+5899,1,defacto kids sweatshirt matches
+5900,1,defacto kids sweatshirt matches
+5901,1,defacto kids sweatshirt matches
+5902,1,defacto kids sweatshirt matches
+5903,1,wicker planter matches
+5904,1,wicker planter matches
+5905,1,wicker planter set matches
+5906,1,wicker planter set matches
+5907,1,wicker planter matches
+5908,1,hennin brand evening dress matches
+5909,1,hennin brand evening dress matches
+5910,1,hennin brand evening dress matches
+5911,1,hennin brand evening dress matches
+5912,1,hennin brand evening dress matches
+5913,1,ipekyol blouse matches
+5914,1,ipekyol blouse matches
+5915,0,bodysuit, not a blouse
+5916,1,ipekyol blouse matches
+5917,1,ipekyol blouse matches
+5918,1,karaca pot matches
+5919,1,karaca pot matches
+5920,1,karaca pot set matches
+5921,1,karaca pot matches
+5922,1,karaca pot matches
+5923,1,playstation 3 console matches
+5924,1,playstation 3 console matches
+5925,1,playstation 3 console matches
+5926,1,playstation 3 console matches
+5927,1,playstation 3 console matches
+5928,1,jam dish matches
+5929,1,jam serving bowl set matches
+5930,1,jam bowl set matches
+5931,1,jam dish set matches
+5932,1,jam bowl set matches
+5933,1,organic tahini suits baby query
+5934,1,organic tahini suits baby query
+5935,1,tested organic tahini for babies
+5936,1,organic tahini suits baby query
+5937,1,organic tahini suits baby query
+5938,1,router machine matches
+5939,0,router bit accessory, not machine
+5940,1,router machine title matches
+5941,0,router bit set, not machine
+5942,1,router machine matches
+5943,1,grundig toaster matches
+5944,1,grundig toaster matches
+5945,1,grundig toaster matches
+5946,1,grundig toaster matches
+5947,1,grundig toaster matches
+5948,1,men's gift set matches
+5949,1,men's wallet belt gift set

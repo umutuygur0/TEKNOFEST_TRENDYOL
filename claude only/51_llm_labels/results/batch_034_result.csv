@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11900,1,exact query match
+11901,1,kız çocuk tayt match
+11902,1,kız çocuk tayt match
+11903,1,kız çocuk tayt match
+11904,0,pijama takımı not altı
+11905,0,pijama üstü not altı
+11906,0,pijama takımı not altı
+11907,1,pijama altı exact match
+11908,0,pijama takımı not altı
+11909,1,tom ford erkek güneş gözlüğü match
+11910,1,tom ford erkek güneş gözlüğü match
+11911,1,tom ford erkek güneş gözlüğü match
+11912,1,tom ford güneş gözlüğü match
+11913,1,tom ford erkek güneş gözlüğü match
+11914,0,saç lastiği not toka
+11915,0,saç bandı not toka
+11916,0,wrong brand not oysho
+11917,0,wrong brand not oysho
+11918,0,wrong brand osha not oysho
+11919,1,defacto kız çocuk mont match
+11920,1,defacto kız çocuk mont match
+11921,1,defacto kız çocuk mont match
+11922,1,defacto kız çocuk parka similar coat
+11923,1,defacto kız çocuk mont match
+11924,1,ocak koruyucu folyo match
+11925,1,ocak arkası koruyucu match
+11926,1,ocak arkası koruyucu match
+11927,1,ocak koruyucu ped match
+11928,1,ocak koruyucu folyo match
+11929,1,anua brand serum match
+11930,1,anua brand serum match
+11931,1,anua brand cleanser match
+11932,1,anua brand toner match
+11933,0,wrong brand anyong not anua
+11934,1,monitör led ışık match
+11935,1,monitor led şerit match
+11936,1,monitor led şerit match
+11937,1,monitor led şerit match
+11938,1,led ambiyans tv monitör arkası match
+11939,1,soho terlik match
+11940,1,soho terlik match
+11941,1,soho terlik match
+11942,1,soho terlik match
+11943,1,soho terlik match
+11944,1,lc waikiki sweatshirt match
+11945,1,lc waikiki sweatshirt match
+11946,0,wrong category hamile salopeti
+11947,1,lc waikiki sweatshirt match
+11948,1,lc waikiki sweatshirt match
+11949,1,yapay çiçek süs match
+11950,1,yapay çiçek süs match
+11951,1,yapay çiçek süs match
+11952,1,yapay çiçek süs match
+11953,1,yapay çiçek süs match
+11954,1,islak wax match
+11955,1,islak wax match
+11956,1,islak wax match
+11957,1,islak wax match
+11958,1,islak wax match
+11959,1,süpürge makinesi match
+11960,1,süpürge makinesi match
+11961,1,süpürge makinesi match
+11962,1,süpürge makinesi match
+11963,1,süpürge makinesi match
+11964,1,sandalye pabucu match
+11965,1,sandalye pabucu match
+11966,1,sandalye pabucu match
+11967,1,sandalye pabucu match
+11968,1,sandalye pabucu match
+11969,1,bisiklet gidonu match
+11970,1,bisiklet gidonu match
+11971,1,bisiklet gidonu match
+11972,1,bisiklet gidonu match
+11973,1,bisiklet gidonu match
+11974,1,vintage kolye match
+11975,0,stationery not jewelry
+11976,0,stationery not jewelry
+11977,1,vintage kolye match
+11978,1,vintage kolye match
+11979,1,bagi neo2 stroller match
+11980,1,bagi neo2 stroller match
+11981,1,bagi neo2 stroller match
+11982,1,bagi neo2 stroller match
+11983,1,bagi neo2 stroller match
+11984,1,tikatti brand ruj match
+11985,1,tikatti brand glitter jel match
+11986,1,tikatti brand glitter jel match
+11987,0,wrong brand mujgan not tikatti
+11988,0,wrong brand mujgan not tikatti
+11989,1,the purest solutions tonik match
+11990,1,the purest solutions tonik match
+11991,1,the purest solutions tonik match
+11992,1,the purest solutions tonik match
+11993,0,bakım seti not tonik
+11994,1,karaca kahve makinesi match
+11995,1,karaca kahve makinesi match
+11996,1,karaca kahve makinesi match
+11997,1,karaca kahve makinesi match
+11998,1,karaca kahve makinesi match
+11999,1,kutu oyunu match
+12000,1,kutu oyunu match
+12001,1,kutu oyunu match
+12002,1,kutu oyunu match
+12003,1,kutu oyunu match
+12004,1,go board game literal match
+12005,0,phone model not the game
+12006,0,phone model not the game
+12007,0,phone case brand name only
+12008,0,unrelated phone case
+12009,1,erkek beyaz sweatshirt match
+12010,1,erkek beyaz sweatshirt match
+12011,1,erkek beyaz sweatshirt match
+12012,1,erkek beyaz sweatshirt match
+12013,1,erkek beyaz sweatshirt match
+12014,1,erkek bornoz match
+12015,1,unisex bornoz includes erkek
+12016,1,unisex bornoz includes erkek
+12017,1,unisex bornoz includes erkek
+12018,1,erkek bornoz match
+12019,1,dove saç serum mask match
+12020,1,dove saç serum mask match
+12021,1,dove saç serum mask match
+12022,1,dove saç serum ve yağı exact match
+12023,1,dove çift fazlı saç serumu match
+12024,0,lipstick not lip pencil
+12025,0,lipstick not lip pencil
+12026,0,lipstick not lip pencil
+12027,0,lipstick not lip pencil
+12028,0,lipstick not lip pencil
+12029,1,cosargroup saksılık match
+12030,1,cosargroup saksılık match
+12031,1,cosargroup saksılık match
+12032,1,cosargroup saksılık match
+12033,1,cosargroup saksılık match
+12034,1,nyx fat oil slick click match
+12035,1,nyx fat oil slick click match
+12036,1,nyx fat oil slick click match
+12037,1,nyx fat oil slick click match
+12038,1,nyx fat oil slick click match
+12039,1,kiğılı erkek mont match
+12040,1,kiğılı erkek mont match
+12041,1,kiğılı erkek mont match
+12042,1,kiğılı erkek mont match
+12043,1,kiğılı erkek mont match
+12044,1,rookie scooter match
+12045,1,rookie scooter match
+12046,1,rookie scooter match
+12047,0,wrong brand furkan toys not rookie
+12048,0,wrong brand robo not rookie
+12049,1,curaprox diş fırçası match
+12050,1,curaprox diş fırçası match
+12051,1,curaprox diş fırçası match
+12052,1,curaprox diş fırçası match
+12053,1,curaprox diş fırçası match
+12054,1,yüz nemlendirici match
+12055,1,yüz nemlendirici match
+12056,1,yüz nemlendirici match
+12057,1,yüz nemlendirici match
+12058,1,yüz nemlendirici match
+12059,1,kadın oversize gömlek match
+12060,1,kadın oversize gömlek match
+12061,1,kadın oversize gömlek match
+12062,1,kadın oversize gömlek match
+12063,1,kadın oversize gömlek match
+12064,1,ham sunta raw board match
+12065,0,finished bookshelf not raw sunta
+12066,0,kitchen cabinet not sunta
+12067,0,wood cutting board not sunta
+12068,0,cabinet not sunta
+12069,1,kız çocuğu okul çantası match
+12070,1,kız çocuğu okul çantası match
+12071,1,kız çocuğu okul çantası match
+12072,1,kız çocuğu okul çantası match
+12073,1,kız çocuğu okul çantası match
+12074,1,saç kaynak boncuğu match
+12075,1,saç kaynak boncuğu match
+12076,1,saç kaynak boncuğu match
+12077,1,saç kaynak boncuğu match
+12078,1,saç kaynak boncuğu match
+12079,1,salon yapay çiçek match
+12080,1,salon yapay çiçek match
+12081,1,salon yapay çiçek match
+12082,1,salon yapay çiçek match
+12083,1,salon yapay çiçek match
+12084,1,çocuk giyimi match
+12085,1,çocuk giyimi match
+12086,1,çocuk giyimi match
+12087,1,çocuk giyimi match
+12088,0,büyük beden yetişkin not çocuk
+12089,1,güneş kremi match
+12090,1,güneş kremi match
+12091,1,güneş kremi match
+12092,1,güneş kremi match
+12093,1,güneş kremi match
+12094,1,calvin klein erkek jean match
+12095,1,calvin klein erkek jean match
+12096,1,calvin klein erkek jean match
+12097,1,calvin klein erkek jean match
+12098,0,children's jean not adult
+12099,1,papatya fincan takımı match
+12100,1,papatya fincan takımı match
+12101,1,papatya fincan takımı match
+12102,1,papatya fincan takımı match
+12103,1,papatya fincan takımı match
+12104,1,atoderm brand match
+12105,1,atoderm brand match
+12106,1,atoderm brand match
+12107,1,atoderm brand match
+12108,1,atoderm brand match
+12109,1,madame coco kahve fincanı match
+12110,1,madame coco kahve fincanı match
+12111,1,madame coco kahve fincanı match
+12112,1,madame coco kahve fincanı match
+12113,1,madame coco kahve fincanı match
+12114,1,izole protein match
+12115,1,izole protein match
+12116,1,izole protein match
+12117,1,izole protein match
+12118,1,izole protein match
+12119,0,category mismatch camping tent
+12120,1,stress topu toy match
+12121,1,stress topu exercise ball match
+12122,1,stress topu exercise ball match
+12123,1,stress topu in set match
+12124,1,jack jones erkek sweatshirt match
+12125,1,jack jones erkek sweatshirt match
+12126,1,jack jones erkek sweatshirt match
+12127,1,jack jones erkek sweatshirt match
+12128,1,jack jones erkek sweatshirt match
+12129,1,leopar fincan match
+12130,1,leopar fincan match
+12131,1,leopar fincan match
+12132,1,leopar fincan match
+12133,1,leopar fincan match
+12134,1,gümüş terlik match
+12135,1,gümüş terlik match
+12136,1,gümüş terlik match
+12137,1,gümüş terlik match
+12138,1,gümüş terlik match
+12139,1,taç saç aksesuar match
+12140,1,taç saç aksesuar match
+12141,1,taç saç aksesuar match
+12142,1,taç saç aksesuar match
+12143,1,taç saç aksesuar match
+12144,1,telefonluk match
+12145,1,telefonluk match
+12146,1,telefonluk match
+12147,1,telefonluk match
+12148,1,telefonluk match
+12149,1,kpss önlisans match
+12150,1,kpss önlisans match
+12151,1,kpss önlisans match
+12152,1,kpss önlisans match
+12153,1,kpss önlisans-lisans match
+12154,0,unrelated figure toy
+12155,0,unrelated hair clip
+12156,0,unrelated hair clip
+12157,0,unrelated accessory set
+12158,0,unrelated gift basket
+12159,1,çanta sapı match
+12160,1,çanta sapı match
+12161,1,çanta sapı match
+12162,1,çanta sapı match
+12163,1,çanta sapı match
+12164,1,motorcu maske match
+12165,1,motorcu maske match
+12166,1,motorcu maske match
+12167,1,motorcu boyunluk match
+12168,1,motorcu boyunluk match
+12169,1,mantar led lamba match
+12170,1,mantar led lamba match
+12171,1,mantar led lamba match
+12172,1,mantar led lamba match
+12173,1,mantar led lamba match
+12174,1,kolay tarama sprey match
+12175,1,kolay tarama sprey match
+12176,1,kolay tarama sprey match
+12177,1,kolay tarama sprey match
+12178,1,kolay tarama sprey match
+12179,1,nike siyah ayakkabı match
+12180,1,nike siyah ayakkabı match
+12181,1,nike siyah ayakkabı match
+12182,1,nike siyah ayakkabı match
+12183,0,actual color bej not siyah
+12184,1,simli oje match
+12185,1,simli oje match
+12186,1,simli oje match
+12187,1,simli oje match
+12188,1,simli oje match
+12189,0,wrong model c10 not i71
+12190,0,wrong model c91n not i71
+12191,0,wrong model c10 not i71
+12192,1,hjc i71 exact model match
+12193,0,wrong model c70 not i71
+12194,1,mom dad kupa match
+12195,1,mom dad kupa match
+12196,1,mom dad kupa match
+12197,1,mom dad kupa match
+12198,1,mom dad kupa match
+12199,1,kabarık abiye match
+12200,1,kabarık abiye match
+12201,1,kabarık abiye match
+12202,1,kabarık abiye match
+12203,0,tesettür elbise not abiye
+12204,1,ham kakao match
+12205,1,ham kakao match
+12206,1,ham kakao match
+12207,1,ham kakao match
+12208,1,ham kakao match
+12209,1,av malzemeleri match
+12210,1,av malzemeleri match
+12211,1,av malzemeleri match
+12212,1,av malzemeleri match
+12213,1,av malzemeleri match
+12214,1,calvin klein eşofman altı match
+12215,1,calvin klein eşofman altı match
+12216,1,calvin klein eşofman altı match
+12217,1,calvin klein eşofman altı match
+12218,1,calvin klein eşofman altı match
+12219,1,tenis malzemesi match
+12220,1,tenis malzemesi match
+12221,1,tenis malzemesi match
+12222,1,tenis malzemesi match
+12223,1,tenis malzemesi match
+12224,1,puma skyrocket match
+12225,1,puma skyrocket match
+12226,1,puma skyrocket match
+12227,1,puma skyrocket match
+12228,1,puma skyrocket match
+12229,1,yves rocher krem match
+12230,1,yves rocher krem match
+12231,1,yves rocher krem match
+12232,1,yves rocher krem match
+12233,1,yves rocher krem match
+12234,1,pierre cardin bot match
+12235,1,pierre cardin bot match
+12236,1,pierre cardin bot match
+12237,1,pierre cardin bot match
+12238,1,pierre cardin bot match
+12239,0,not a dht blocker supplement
+12240,0,not a dht blocker supplement
+12241,0,unrelated zeolite supplement
+12242,0,unrelated diabetes supplement
+12243,0,unrelated weight loss supplement
+12244,1,kadın el omuz çantası match
+12245,1,kadın el omuz çantası match
+12246,1,kadın el omuz çantası match
+12247,1,kadın el omuz çantası match
+12248,1,kadın el omuz çantası match
+12249,1,wet n wild fondöten match

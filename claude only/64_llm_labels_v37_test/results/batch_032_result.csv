@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11200,1,brand fenerbahce sweatshirt category match
+11201,1,fenerbahce logolu sweat matches
+11202,1,fenerbahce licensed cocuk sweatshirt
+11203,1,fenerbahce licensed antrenman sweat
+11204,1,fenerium tribun sweat fenerbahce
+11205,1,ahsap kek fanus exact match
+11206,1,ahsap kek fanus akrilik kapak match
+11207,1,ahsap kek fanusu exact match
+11208,0,materyal cam not ahsap
+11209,0,materyal cam not ahsap
+11210,1,kadin omuz cantasi matches
+11211,1,kadin omuz cantasi matches
+11212,1,kadin omuz cantasi matches
+11213,1,kadin omuz cantasi matches
+11214,1,kadin omuz cantasi matches
+11215,1,5 metre led serit match
+11216,1,5 metre led serit match
+11217,1,5 metre led match
+11218,0,10 metre not 5 metre
+11219,1,5 metre led serit match
+11220,1,karaca granit tencere match
+11221,1,karaca granit tencere match
+11222,1,karaca granit tencere match
+11223,1,karaca granit tencere match
+11224,1,karaca granit tencere match
+11225,1,sabunluk seti match
+11226,1,sabunluk seti match
+11227,1,sabunluk seti match
+11228,1,sabunluk seti match
+11229,1,sabunluk seti match
+11230,1,uyku tulumu erkek kadin unisex adult match
+11231,1,uyku tulumu match
+11232,1,uyku tulumu match
+11233,1,uyku tulumu match
+11234,0,ayicik kostum tulum not sleeping bag
+11235,1,lufian ceket match
+11236,1,lufian ceket match
+11237,1,lufian ceket match
+11238,1,lufian ceket match
+11239,1,lufian ceket match
+11240,1,tonny black spor ayakkabi match
+11241,1,tonny black erkek spor ayakkabi match
+11242,1,tonny black spor ayakkabi match
+11243,1,tonny black spor ayakkabi match
+11244,1,tonny black erkek spor ayakkabi match
+11245,1,kargo poseti match
+11246,1,kargo poseti match
+11247,1,kargo poseti match
+11248,1,kargo poseti match
+11249,1,kargo poseti match
+11250,0,full product not spare part
+11251,0,full product not spare part
+11252,0,full product not spare part
+11253,0,full product not spare part
+11254,0,full product not spare part
+11255,1,labne match
+11256,1,labne match
+11257,1,labne match
+11258,1,labne match
+11259,1,labne match
+11260,0,xiaomi 15t not 15
+11261,0,xiaomi 14t pro not 15
+11262,0,redmi 15c not xiaomi 15
+11263,0,xiaomi 14t pro not 15
+11264,0,xiaomi 14t pro not 15
+11265,1,kaymaz sungerli koltuk ortusu match
+11266,1,kaymaz sungerli koltuk ortusu match
+11267,1,kaymaz sungerli koltuk ortusu match
+11268,1,kaymaz sungerli koltuk ortusu match
+11269,1,kaymaz sungerli koltuk ortusu match
+11270,1,polly pocket oyun seti match
+11271,1,polly pocket oyun seti match
+11272,1,polly pocket oyun seti match
+11273,1,polly pocket oyun seti match
+11274,1,polly pocket oyun seti match
+11275,1,wilson tenis raketi match
+11276,1,wilson tenis raketi match
+11277,1,wilson tenis raketi match
+11278,1,wilson tenis raketi match
+11279,1,wilson tenis raketi match
+11280,1,macbook air laptop match
+11281,1,macbook air laptop match
+11282,1,macbook air laptop match
+11283,1,macbook air laptop match
+11284,0,kilif accessory not laptop itself
+11285,1,android uyumlu tablet kalemi match
+11286,1,android uyumlu tablet kalemi match
+11287,1,android uyumlu dokunmatik kalem match
+11288,1,android uyumlu tablet kalemi match
+11289,1,android uyumlu dokunmatik kalem match
+11290,0,lg g6 phone case not tv
+11291,0,lg g6 phone case not tv
+11292,0,sony adapter unrelated to lg 65
+11293,0,bluetooth hoparlor unrelated
+11294,0,iphone kilif unrelated
+11295,0,pike bedspread not electric blanket
+11296,0,pike bedspread not electric blanket
+11297,0,pike bedspread not electric blanket
+11298,0,pike bedspread not electric blanket
+11299,0,pike bedspread not electric blanket
+11300,0,ev terligi not bot
+11301,0,ev terligi not bot
+11302,0,ev terligi not bot
+11303,0,ev terligi not bot
+11304,0,ev terligi not bot
+11305,1,jumiso brand match
+11306,1,jumiso brand match
+11307,1,jumiso brand match
+11308,1,jumiso brand match
+11309,1,jumiso brand match
+11310,1,oto filtre seti match
+11311,1,oto filtre seti match
+11312,1,oto filtre seti match
+11313,1,oto filtre seti match
+11314,1,oto filtre seti match
+11315,1,farmasi brand match
+11316,1,farmasi brand match
+11317,1,farmasi brand match
+11318,1,farmasi brand match
+11319,1,farmasi brand match
+11320,0,pink themed not boy oriented
+11321,1,cocuk odasi perde match
+11322,1,cocuk odasi perde match
+11323,1,cocuk odasi perde match
+11324,1,cocuk odasi perde match
+11325,1,slipcat babet match
+11326,1,slipcat babet match
+11327,1,slipcat babet match
+11328,1,slipcat babet match
+11329,1,slipcat babet match
+11330,1,yuvarlak sekil runner match
+11331,0,dikdortgen sekil not yuvarlak
+11332,0,dikdortgen sekil not yuvarlak
+11333,0,dikdortgen sekil not yuvarlak
+11334,0,dikdortgen sekil not yuvarlak
+11335,1,dekoratif sabun match
+11336,1,dekoratif sabun match
+11337,1,dekoratif sabun match
+11338,1,dekoratif sabun match
+11339,1,dekoratif sabun match
+11340,1,getcho canta brand match
+11341,1,getcho canta brand match
+11342,1,getcho canta brand match
+11343,1,getcho canta brand match
+11344,1,getcho canta brand match
+11345,1,whey protein tozu match
+11346,1,whey protein tozu match
+11347,1,whey protein tozu match
+11348,1,whey protein tozu match
+11349,1,whey protein tozu match
+11350,1,taki aksesuar duzenleyici match
+11351,1,taki aksesuar duzenleyici match
+11352,1,taki aksesuar duzenleyici match
+11353,1,taki aksesuar duzenleyici match
+11354,1,taki aksesuar duzenleyici match
+11355,1,glade oda kokusu match
+11356,1,glade oda kokusu match
+11357,1,glade oda kokusu match
+11358,1,glade oda kokusu match
+11359,1,glade oda kokusu match
+11360,1,ayakli cam vazo match
+11361,1,ayakli cam vazo match
+11362,1,ayakli cam vazo match
+11363,1,ayakli cam vazo match
+11364,1,ayakli cam vazo match
+11365,1,gunes enerjili powerbank match
+11366,1,gunes enerjili powerbank match
+11367,1,gunes enerjili powerbank match
+11368,1,gunes enerjili powerbank match
+11369,1,gunes enerjili powerbank match
+11370,1,ipad manyetik kilif match
+11371,1,ipad manyetik kilif match
+11372,1,ipad manyetik kilif match
+11373,1,ipad manyetik kilif match
+11374,1,ipad manyetik kilif match
+11375,1,oversize sweat match
+11376,1,oversize sweat match
+11377,1,oversize sweat match
+11378,1,oversize sweat match
+11379,1,oversize sweat match
+11380,1,kadin kalin kaban match
+11381,1,kadin kalin kaban match
+11382,1,kadin kalin kaban match
+11383,1,kadin kalin kaban match
+11384,1,kadin kalin kaban match
+11385,1,yemek tasima termal canta match
+11386,1,yemek tasima termal canta match
+11387,1,yemek tasima termal canta match
+11388,1,yemek tasima termal canta match
+11389,0,bebek bakim cantasi no yemek tasima mention
+11390,1,pirinc sirkesi match
+11391,1,pirinc sirkesi match
+11392,1,pirinc sirkesi match
+11393,1,kirmizi pirinc sirkesi match
+11394,1,pirinc sirkesi sos match
+11395,1,playstation 5 match
+11396,1,playstation 5 match
+11397,1,playstation 5 match
+11398,1,playstation 5 match
+11399,1,playstation 5 match
+11400,1,madame coco battaniye match
+11401,1,madame coco battaniye match
+11402,1,madame coco battaniye match
+11403,1,madame coco battaniye match
+11404,1,madame coco battaniye match
+11405,1,mutfak havlusu kurulama bezi match
+11406,1,mutfak havlusu kurulama bezi match
+11407,1,mutfak havlusu kurulama bezi match
+11408,1,mutfak havlusu kurulama bezi match
+11409,1,mutfak havlusu kurulama bezi match
+11410,1,the purest solutions brand match
+11411,1,the purest solutions brand match
+11412,1,the purest solutions brand match
+11413,0,brand cos.kim not the purest solutions
+11414,0,brand troubless not the purest solutions
+11415,1,mika tabak match
+11416,0,supla runner not mika tabak
+11417,1,akrilik mika sunumluk match
+11418,0,vinyl karakter tabak not mika
+11419,0,cam servis tabagi not mika
+11420,1,vakumlu kapakli cam kahvaltilik match
+11421,1,vakumlu kapakli cam kahvaltilik match
+11422,1,vakumlu kapakli cam kahvaltilik match
+11423,1,vakumlu kapakli cam kahvaltilik match
+11424,1,vakumlu kapakli cam kahvaltilik match
+11425,1,fatih kuru boya match
+11426,1,fatih kuru boya match
+11427,1,fatih kuru boya match
+11428,1,fatih kuru boya match
+11429,1,fatih kuru boya match
+11430,1,yuksek bel pantolon match
+11431,1,yuksek bel pantolon match
+11432,1,yuksek bel pantolon match
+11433,1,yuksek bel pantolon match
+11434,1,yuksek bel pantolon match
+11435,1,laminant parke match
+11436,1,laminant parke match
+11437,1,laminant parke match
+11438,1,laminant parke match
+11439,1,laminant parke match
+11440,1,direnc bandi match
+11441,1,direnc bandi training band match
+11442,1,direnc bandi training band match
+11443,1,direnc bandi match
+11444,1,direnc bandi match
+11445,1,cocuk pijama takimi match
+11446,1,cocuk pijama takimi match
+11447,1,cocuk pijama takimi match
+11448,1,cocuk pijama takimi match
+11449,1,cocuk pijama takimi match
+11450,1,mad parfum brand match
+11451,1,mad parfum brand match
+11452,1,mad parfum brand match
+11453,0,brand muscent not mad parfum
+11454,0,brand duke nickle not mad parfum
+11455,0,kopek tasmasi not brosch
+11456,0,celik kolye not brosch
+11457,0,kupe not brosch
+11458,0,bileklik not brosch
+11459,0,kolye not brosch
+11460,1,english home cerceve match
+11461,1,english home cerceve match
+11462,1,english home cerceve match
+11463,1,english home cerceve match
+11464,1,english home cerceve match
+11465,1,gelin yelpazesi match
+11466,1,gelin yelpazesi match
+11467,1,gelin yelpazesi match
+11468,1,gelin yelpazesi match
+11469,1,gelin yelpazesi match
+11470,0,genel kitaplik not koseli raf
+11471,0,genel kitaplik not koseli raf
+11472,0,kitaplik not koseli raf
+11473,0,genel kitaplik not koseli raf
+11474,0,kitaplik yanlis materyal not koseli raf
+11475,1,akulu vidalama match
+11476,1,akulu vidalama match
+11477,1,akulu vidalama darbeli matkap match
+11478,1,akulu vidalama match
+11479,1,akulu vidalama match
+11480,1,instax mini match
+11481,1,instax mini match
+11482,1,instax mini match
+11483,1,instax mini match
+11484,1,instax mini match
+11485,1,porser yemek takimi match
+11486,1,porser yemek takimi match
+11487,1,porser yemek takimi match
+11488,1,porser yemek takimi match
+11489,1,porser yemek takimi match
+11490,1,h2 kanat ayna match
+11491,1,h2 kanat ayna match
+11492,1,h2 kanat ayna match
+11493,1,h2 kanat ayna match
+11494,1,h2 kanat ayna match
+11495,1,premiata brand match
+11496,1,premiata brand match
+11497,1,premiata brand match
+11498,1,premiata brand match
+11499,1,premiata brand match
+11500,1,ahsap kahve sunum tepsisi match
+11501,1,ahsap kahve sunum tepsisi match
+11502,1,ahsap kahve sunum tepsisi match
+11503,1,ahsap kahve sunum tepsisi match
+11504,1,ahsap kahve sunum tepsisi match
+11505,1,grafik tablet match
+11506,1,grafik tablet match
+11507,1,grafik tablet match
+11508,1,grafik tablet match
+11509,1,grafik tablet match
+11510,1,jump krampon match
+11511,1,jump krampon match
+11512,1,jump krampon match
+11513,1,jump krampon match
+11514,1,jump krampon match
+11515,1,areka palmiye match
+11516,1,areka palmiye match
+11517,1,areka palmiye match
+11518,0,difenbahya not palmiye
+11519,0,seftali agaci not palmiye
+11520,1,lorente home hali match
+11521,1,lorente home hali match
+11522,1,lorente home hali match
+11523,1,lorente home hali match
+11524,1,lorente home hali match
+11525,1,zeytin match
+11526,1,zeytin match
+11527,1,zeytin match
+11528,1,zeytin match
+11529,1,zeytin match
+11530,1,be blue pantolon match
+11531,1,be blue pantolon match
+11532,1,be blue pantolon match
+11533,1,be blue pantolon match
+11534,1,be blue pantolon match
+11535,1,8 sinif matematik soru bankasi match
+11536,1,8 sinif matematik soru bankasi match
+11537,1,8 sinif matematik soru bankasi match
+11538,1,8 sinif matematik soru bankasi match
+11539,1,8 sinif matematik soru bankasi match
+11540,1,under armour kosu ayakkabisi match
+11541,1,under armour kosu ayakkabisi match
+11542,1,under armour kosu ayakkabisi match
+11543,1,under armour kosu ayakkabisi match
+11544,1,under armour kosu ayakkabisi match
+11545,1,us polo assn kadin tshirt match
+11546,1,us polo assn kadin tshirt match
+11547,1,us polo assn kadin tshirt match
+11548,1,us polo assn kadin tshirt match
+11549,1,us polo assn kadin tshirt match

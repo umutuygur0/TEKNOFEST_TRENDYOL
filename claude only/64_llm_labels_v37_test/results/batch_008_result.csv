@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2800,1,brand ingco match
+2801,1,brand ingco match
+2802,1,brand ingco match
+2803,1,brand ingco match
+2804,1,brand ingco match
+2805,1,fondöten product match
+2806,1,fondöten product match
+2807,1,fondöten product match
+2808,1,fondöten product match
+2809,1,fondöten product match
+2810,1,brand budizzz sleep companion
+2811,1,brand budizzz product
+2812,1,brand budizzz product
+2813,0,brand bubu not budizzz
+2814,0,brand yada baby not budizzz
+2815,0,unrelated to core query
+2816,0,unrelated to core query
+2817,0,unrelated to core query
+2818,0,unrelated to core query
+2819,0,unrelated to core query
+2820,1,şarj charger product
+2821,1,şarj kablosu charger cable
+2822,1,şarj power strip charger
+2823,1,şarj type-c cable charger
+2824,0,phone case not charger itself
+2825,1,kordon watch band match
+2826,1,kordon watch band match
+2827,1,kordon watch band match
+2828,1,kordon watch band match
+2829,1,kordon watch band match
+2830,1,brand makbuleofficial match
+2831,1,brand makbuleofficial match
+2832,1,brand makbuleofficial match
+2833,1,brand makbuleofficial match
+2834,1,brand makbuleofficial match
+2835,1,ankaragücü fan item
+2836,1,ankaragücü sticker fan item
+2837,0,unrelated fan group not ankaragücü
+2838,0,unrelated cooler bag
+2839,0,generic keychain unrelated
+2840,1,sumak spice match
+2841,1,sumak spice match
+2842,1,sumak spice match
+2843,1,sumak spice match
+2844,1,sumak spice match
+2845,1,brand kolexonline sehpa match
+2846,1,brand kolexonline sehpa match
+2847,1,brand kolexonline sehpa match
+2848,1,brand kolexonline sehpa match
+2849,1,brand kolexonline sehpa match
+2850,1,usb hub çoğaltıcı match
+2851,1,usb hub çoğaltıcı match
+2852,1,usb hub çoğaltıcı match
+2853,1,usb hub çoğaltıcı match
+2854,1,usb hub çoğaltıcı match
+2855,1,süzgeç strainer match
+2856,1,süzgeç strainer match
+2857,1,süzgeç strainer match
+2858,1,süzgeç strainer match
+2859,1,süzgeç strainer match
+2860,1,sardunya flower match
+2861,1,sardunya flower match
+2862,1,sardunya seed match
+2863,1,sardunya plant match
+2864,1,sardunya flower match
+2865,1,brand zambo waffle sauce
+2866,0,brand zicco not zambo
+2867,0,unrelated darbuka not zambo
+2868,0,unrelated dart oku not zambo
+2869,0,unrelated piliç makinesi not zambo
+2870,1,brand adawall wallpaper match
+2871,1,brand adawall wallpaper match
+2872,1,brand adawall wallpaper match
+2873,1,brand adawall wallpaper match
+2874,1,brand adawall wallpaper match
+2875,1,brand class maket bıçağı
+2876,1,brand class bornoz
+2877,1,brand class havlu
+2878,0,brand sertay not class
+2879,0,brand esilahomecolection not class
+2880,1,brand silkhome eşarp match
+2881,1,brand silk home eşarp match
+2882,1,brand silk home eşarp match
+2883,1,brand silk home eşarp match
+2884,1,brand silkhome eşarp match
+2885,1,pres tulumba press tool
+2886,1,french press coffee pres
+2887,1,french press coffee pres
+2888,1,hamburger pres aparatı
+2889,0,dough dispenser not a press
+2890,1,jeneratör generator match
+2891,1,jeneratör generator match
+2892,1,jeneratör generator match
+2893,1,jeneratör generator match
+2894,1,jeneratör generator match
+2895,1,brand madetoll cream match
+2896,0,brand fortem not madetoll
+2897,0,brand skin401 not madetoll
+2898,0,brand new well not madetoll
+2899,0,brand dr.jart not madetoll
+2900,1,çekirdek coffee bean match
+2901,1,çekirdek coffee bean match
+2902,1,çekirdek coffee bean match
+2903,1,çekirdek coffee bean match
+2904,1,çekirdek coffee bean match
+2905,1,bariyer barrier cream match
+2906,1,bariyer barrier cream match
+2907,1,bariyer barrier cream match
+2908,1,bariyer barrier cream match
+2909,0,face shield not barrier cream
+2910,1,brand ktm match
+2911,1,brand ktm match
+2912,1,brand ktm match
+2913,1,brand ktm match
+2914,1,brand ktm match
+2915,1,tesla model toy car
+2916,1,tesla wall connector charger
+2917,1,brand tesla battery
+2918,0,product name only not tesla brand
+2919,0,product name only not tesla brand
+2920,1,nails oje nail polish
+2921,0,lipstick not nails
+2922,0,lipstick not nails
+2923,0,lipstick not nails
+2924,0,lipstick not nails
+2925,1,brand fidanburada match
+2926,1,brand fidanburada match
+2927,1,brand fidanburada match
+2928,1,brand fidanburada match
+2929,1,brand fidanburada match
+2930,0,no ep2220 match toner
+2931,0,unrelated kindle
+2932,0,unrelated kulaklık
+2933,0,unrelated hesap makinesi
+2934,0,unrelated adaptör
+2935,0,macbook not iphone
+2936,0,apple watch not iphone
+2937,0,macbook air not iphone
+2938,0,smartwatch not iphone itself
+2939,0,earphones not iphone itself
+2940,1,kareli defter match
+2941,1,kareli defter match
+2942,1,kareli defter match
+2943,1,kareli defter match
+2944,1,kareli defter match
+2945,1,brand minisan heater match
+2946,1,brand minisan heater match
+2947,1,brand minisan heater match
+2948,1,brand minisan heater match
+2949,1,brand minisan heater match
+2950,1,bijuteri bileklik match
+2951,1,bijuteri kolye match
+2952,1,bujiteri explicit match
+2953,1,bijuteri kolye match
+2954,1,bijuteri kolye match
+2955,1,ovulasyon test match
+2956,1,ovulasyon test match
+2957,1,ovulasyon test match
+2958,1,ovulasyon test match
+2959,1,ovulasyon test match
+2960,1,davlumbaz match
+2961,1,davlumbaz match
+2962,1,davlumbaz match
+2963,1,davlumbaz match
+2964,1,davlumbaz match
+2965,0,puzzle not a lens product
+2966,0,magnifier not a lens product
+2967,0,magnifier not a lens product
+2968,0,magnifier not a lens product
+2969,0,sunglasses not a lens product
+2970,1,brand keen shoe match
+2971,1,brand keen shoe match
+2972,1,brand keen shoe match
+2973,1,brand keen shoe match
+2974,1,brand keen shoe match
+2975,1,stronger with you perfume line
+2976,1,stronger with you perfume line
+2977,1,stronger with you perfume line
+2978,1,stronger with you perfume line
+2979,0,y le parfum different line
+2980,1,kettlebell match
+2981,1,kettlebell match
+2982,1,kettlebell match
+2983,1,kettlebell match
+2984,1,kettlebell match
+2985,0,mat actually for ford not nissan
+2986,0,vw toy car not nissan
+2987,0,hyundai part not nissan
+2988,0,toyota mat not nissan
+2989,0,tesla mat mismatched data not nissan
+2990,1,brand bioaqua match
+2991,1,brand bioaqua match
+2992,1,brand bioaqua match
+2993,1,brand bioaqua match
+2994,1,brand bioaqua match
+2995,1,baton trekking pole match
+2996,1,baton trekking pole match
+2997,1,baton trekking pole match
+2998,1,baton trekking pole match
+2999,1,baton trekking pole match
+3000,1,brand oriflame match
+3001,1,brand oriflame match
+3002,1,brand oriflame match
+3003,0,different brand not oriflame
+3004,0,brand avon not oriflame
+3005,1,brand abc cleaner match
+3006,1,brand abc detergent match
+3007,1,brand abc detergent match
+3008,1,brand abc cleaner match
+3009,1,brand abc cleaner match
+3010,1,pipo tobacco pipe match
+3011,1,pipo tobacco pipe match
+3012,1,pipo tobacco pipe match
+3013,1,pipo tobacco pipe match
+3014,1,pipo tobacco pipe match
+3015,1,powerbank match
+3016,1,powerbank match
+3017,1,powerbank match
+3018,1,powerbank match
+3019,1,powerbank match
+3020,1,brand rimas yelek match
+3021,0,brand harem scarf not rimas
+3022,0,brand modaroma not rimas
+3023,0,unrelated book not rimas
+3024,0,brand minice not rimas
+3025,1,mahlep spice match
+3026,1,mahlep spice match
+3027,1,mahlep spice match
+3028,1,mahlep spice match
+3029,1,mahlep spice match
+3030,1,şifonyer chest of drawers match
+3031,1,şifonyer chest of drawers match
+3032,1,şifonyer chest of drawers match
+3033,1,şifonyer chest of drawers match
+3034,1,şifonyer chest of drawers match
+3035,0,unrelated pet bowl not miyavita
+3036,0,unrelated pet solution not miyavita
+3037,0,unrelated baby product not miyavita
+3038,0,unrelated music instrument
+3039,0,unrelated food product
+3040,1,termosifon water heater match
+3041,1,termosifon water heater match
+3042,1,termosifon water heater match
+3043,1,termosifon water heater match
+3044,1,termosifon water heater match
+3045,1,furby themed product
+3046,1,brand furby match
+3047,1,brand furby match
+3048,1,furby themed product
+3049,1,furby licensed puzzle
+3050,1,brand korbell match
+3051,1,brand korbell match
+3052,1,brand korbell match
+3053,1,brand korbell match
+3054,1,brand korbell match
+3055,1,coilover suspension match
+3056,1,coilover suspension match
+3057,1,coilover suspension match
+3058,1,coilover suspension match
+3059,1,coilover suspension match
+3060,1,tırmalama scratching post match
+3061,1,tırmalama scratching post match
+3062,1,tırmalama scratching related product
+3063,1,tırmalama scratching post match
+3064,1,tırmalama scratching post match
+3065,1,brand olala ülker match
+3066,1,brand olala ülker match
+3067,1,brand olala ülker match
+3068,1,brand olala ülker match
+3069,0,different olala book series
+3070,0,not actual mugler brand
+3071,1,brand mugler perfume match
+3072,0,brand loreal not mugler
+3073,1,brand mugler perfume match
+3074,1,brand mugler perfume match
+3075,1,pad cleansing product match
+3076,1,pad cleansing product match
+3077,1,pad cleansing product match
+3078,1,pad cleansing product match
+3079,0,dart oku unrelated to pad
+3080,0,unrelated to ce query
+3081,0,unrelated to ce query
+3082,0,unrelated to ce query
+3083,0,unrelated to ce query
+3084,0,unrelated to ce query
+3085,1,brand purest solutions match
+3086,1,brand purest solutions match
+3087,1,brand purest solutions match
+3088,1,brand purest solutions match
+3089,1,brand purest solutions match
+3090,1,brand finish match
+3091,1,brand finish match
+3092,1,brand finish match
+3093,1,brand finish match
+3094,1,brand finish match
+3095,1,zefiran product match
+3096,1,zefiran product match
+3097,1,zefiran product match
+3098,0,different disinfectant not zefiran
+3099,0,different disinfectant not zefiran
+3100,1,vakumlu storage container match
+3101,1,vakumlu storage container match
+3102,1,vakumlu storage container match
+3103,1,vakumlu storage container match
+3104,1,vakumlu storage container match
+3105,1,selfie stick match
+3106,1,selfie stick match
+3107,1,selfie stick match
+3108,1,selfie stick match
+3109,1,selfie stick match
+3110,0,unrelated bird product not medik8
+3111,0,unrelated spark plug not medik8
+3112,0,brand estee lauder not medik8
+3113,0,unrelated car sticker not medik8
+3114,0,unrelated brake hose not medik8
+3115,1,brand iremçiçekçilik match
+3116,1,brand iremçiçekçilik match
+3117,1,brand iremçiçekçilik match
+3118,1,brand iremçiçekçilik match
+3119,1,brand iremçiçekçilik match
+3120,1,trençkot coat match
+3121,1,trençkot coat match
+3122,1,trençkot coat match
+3123,1,trençkot coat match
+3124,1,trençkot coat match
+3125,1,oduncu gömlek match
+3126,1,oduncu gömlek match
+3127,1,oduncu gömlek match
+3128,1,oduncu gömlek match
+3129,1,oduncu gömlek match
+3130,1,gelinlik wedding dress match
+3131,1,gelinlik wedding dress match
+3132,1,gelinlik wedding dress match
+3133,1,gelinlik wedding dress match
+3134,1,gelinlik wedding dress match
+3135,1,buttermelt product line match
+3136,1,buttermelt product line match
+3137,1,buttermelt product line match
+3138,1,buttermelt product line match
+3139,1,buttermelt product line match
+3140,1,brand kenko match
+3141,1,brand kenko match
+3142,1,brand kenko match
+3143,1,brand kenko match
+3144,1,brand kenko match
+3145,1,playstation 5 match
+3146,1,playstation 5 match
+3147,1,playstation 5 match
+3148,1,playstation 5 match
+3149,1,playstation 5 match

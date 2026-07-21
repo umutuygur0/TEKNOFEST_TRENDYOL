@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+5250,1,pleated skirt matches
+5251,1,pleated skirt matches
+5252,1,pleated tesettur skirt matches
+5253,1,EA7 sneaker matches
+5254,0,sweatpants not sneaker
+5255,0,t-shirt not sneaker
+5256,0,polo shirt not sneaker
+5257,0,polo shirt not sneaker
+5258,1,Elart double sleep set
+5259,1,Elart double sleep set
+5260,1,Elart double sleep set
+5261,1,Elart sleep set bedspread
+5262,1,Elart double sleep set
+5263,1,Mango fur-collar jacket
+5264,1,Mango fur-look jacket
+5265,0,actually pajama bottoms not coat
+5266,1,Mango fur-look crop jacket
+5267,1,Mango Teen fur-look jacket
+5268,1,iPad A16 case matches
+5269,1,iPad A16 case matches
+5270,1,iPad A16 case matches
+5271,1,iPad A16 case matches
+5272,1,iPad A16 case matches
+5273,1,baby cleaning cotton pads
+5274,1,title matches baby cleaning pads
+5275,1,baby cleaning cotton pads
+5276,1,baby cleaning cotton pads
+5277,1,title matches baby cleaning pads
+5278,1,kids cleats football boot
+5279,1,kids cleats matches
+5280,1,kids cleats matches
+5281,1,kids cleats matches
+5282,1,kids adult cleats unisex
+5283,1,white baby shirt body
+5284,1,baby shirt body color unspecified
+5285,1,white baby shirt explicit
+5286,1,baby shirt color unspecified
+5287,1,ecru close to white baby shirt
+5288,1,Avenir brand camera
+5289,0,Shiseido not Avenir brand
+5290,0,Estee Lauder not Avenir brand
+5291,0,Estee Lauder not Avenir brand
+5292,0,Shiseido not Avenir brand
+5293,1,Hasema tesettur swimsuit
+5294,1,hasema style hijab swimsuit
+5295,1,Hasema tesettur swimsuit
+5296,1,Hasema tesettur swimsuit
+5297,1,hasema style tesettur swimsuit
+5298,1,Maybelline blush matches
+5299,1,Maybelline blush matches
+5300,1,Maybelline blush matches
+5301,1,Maybelline blush matches
+5302,1,Maybelline blush matches
+5303,1,US Polo womens sweatpants
+5304,1,US Polo womens sweatpants
+5305,1,US Polo womens sweatpants
+5306,1,US Polo womens sweatpants
+5307,1,US Polo womens sweatpants
+5308,1,Bare With Me concealer line
+5309,1,Bare With Me concealer line
+5310,1,Bare With Me concealer line
+5311,1,Bare With Me concealer line
+5312,1,Bare With Me concealer line
+5313,1,dusty rose colored scarf
+5314,0,shawl category wrong color
+5315,1,dusty rose scarf explicit
+5316,0,wrong color red and blue
+5317,1,dusty rose scarf explicit
+5318,1,Nike jacket matches
+5319,1,Nike jacket matches
+5320,1,Nike jacket matches
+5321,1,Nike jacket matches
+5322,1,Nike jacket matches
+5323,1,Reebok watch matches
+5324,1,Reebok watch matches
+5325,1,Reebok watch matches
+5326,1,Reebok watch matches
+5327,1,Reebok watch matches
+5328,1,Familia paper towel matches
+5329,1,Familia paper towel matches
+5330,1,Familia paper towel matches
+5331,0,Papia brand not Familia
+5332,0,Papia brand not Familia
+5333,1,Acar bowl set matches
+5334,1,Acar bowl set matches
+5335,1,Acar bowl set matches
+5336,1,Acar bowl matches
+5337,1,Acar bowl set matches
+5338,1,Mini Cooper branded mat set
+5339,1,Mini Cooper steering wheel cover
+5340,1,Mini Cooper plate frame
+5341,1,Mini Cooper plate frame
+5342,0,attribute shows Fiat not Mini
+5343,1,black sunglasses matches
+5344,1,black sunglasses matches
+5345,1,black sunglasses matches
+5346,1,black sunglasses matches
+5347,1,black sunglasses matches
+5348,1,old money style jacket
+5349,1,old money style jacket
+5350,1,old money style jacket
+5351,1,old money style jacket
+5352,1,old money style jacket
+5353,1,title says sert hard bristle
+5354,0,extra soft opposite of hard
+5355,0,extra soft opposite of hard
+5356,0,medium not hard bristle
+5357,0,soft not hard bristle
+5358,1,retro style fridge
+5359,1,retro style fridge
+5360,1,retro style fridge
+5361,1,retro style fridge
+5362,1,retro style fridge
+5363,1,genuine leather mens bag
+5364,1,genuine leather mens bag
+5365,1,genuine leather mens bag
+5366,1,faux leather mens bag
+5367,1,faux leather mens bag
+5368,1,colorful coffee cup set
+5369,1,title says renkli colorful
+5370,1,colorful coffee cup set
+5371,1,colorful coffee cup set
+5372,1,colorful coffee cup set
+5373,1,basket side table
+5374,1,basket side table
+5375,1,basket side table
+5376,1,basket side table
+5377,0,kids play table no basket
+5378,1,Vichy Neovadiol line
+5379,1,Vichy Neovadiol line
+5380,1,Vichy Neovadiol line
+5381,0,Liftactiv line not Neovadiol
+5382,0,Liftactiv line not Neovadiol
+5383,1,straw belt matches
+5384,1,straw belt matches
+5385,1,straw belt matches
+5386,1,title says hasir straw
+5387,1,straw belt matches
+5388,1,simple wall clock matches
+5389,1,minimalist wall clock matches
+5390,1,minimalist wall clock matches
+5391,1,classic simple wall clock
+5392,1,simple design wall clock
+5393,1,zinc picolinate supplement
+5394,1,zinc picolinate supplement
+5395,1,zinc picolinate supplement
+5396,1,zinc picolinate supplement
+5397,1,zinc picolinate supplement
+5398,1,generic toothbrush matches
+5399,1,generic toothbrush matches
+5400,1,generic toothbrush matches
+5401,1,generic toothbrush matches
+5402,1,generic toothbrush matches
+5403,1,embroidered cushion cover
+5404,1,embroidered cushion cover
+5405,1,embroidered cushion cover
+5406,1,embroidered cushion cover
+5407,1,embroidered cushion cover
+5408,0,single cape not a set
+5409,0,single coat not a set
+5410,0,single coat not a set
+5411,0,single coat not a set
+5412,0,single coat not a set
+5413,1,Pegem Akademi exam prep book
+5414,1,Pegem Akademi exam prep book
+5415,1,Pegem Akademi exam prep book
+5416,1,Pegem Akademi exam prep book
+5417,1,Pegem Akademi exam prep book
+5418,1,genuine leather mens shoe
+5419,1,genuine leather mens shoe
+5420,1,genuine leather mens shoe
+5421,1,genuine leather mens shoe
+5422,1,genuine leather mens shoe
+5423,1,iPad Air 11 inch matches
+5424,1,iPad Air 11 inch matches
+5425,1,iPad Air 11 inch matches
+5426,1,iPad Air 11 inch matches
+5427,1,iPad Air 11 inch matches
+5428,1,Haribo candy matches
+5429,1,Haribo candy matches
+5430,1,Haribo candy pack matches
+5431,1,Haribo gummy explicit
+5432,1,Haribo candy pack matches
+5433,1,sandpaper disc matches
+5434,1,sanding sponge block matches
+5435,1,sandpaper disc matches
+5436,1,orbital sander tool matches
+5437,1,wet sandpaper set matches
+5438,1,H&M pajama set matches
+5439,1,H&M pajama set matches
+5440,1,H&M pajama set matches
+5441,1,H&M cotton pajama set
+5442,1,H&M cotton pajama set
+5443,1,kids sweatpants includes girls
+5444,1,girls jogger sweatpants
+5445,1,girls sweatpants matches
+5446,1,kids sweatpants includes girls
+5447,1,kids sweatpants includes girls
+5448,1,fully covered swimsuit
+5449,1,fully covered swimsuit
+5450,1,fully covered swimsuit
+5451,1,fully covered swimsuit
+5452,1,fully covered swimsuit
+5453,1,adhesive LED light matches
+5454,1,adhesive LED light matches
+5455,1,adhesive LED spot light matches
+5456,1,title matches adhesive LED
+5457,1,adhesive LED strip matches
+5458,1,bronzer brush explicit
+5459,1,contour brush usable as bronzer
+5460,0,foundation brush not bronzer
+5461,1,multipurpose brush includes bronzer
+5462,1,contour brush usable as bronzer
+5463,1,su yolu bracelet matches
+5464,1,su yolu bracelet matches
+5465,1,su yolu bracelet matches
+5466,1,su yolu bracelet matches
+5467,1,su yolu bracelet matches
+5468,1,Kahramanlar teapot matches
+5469,1,Kahramanlar teapot matches
+5470,1,Kahramanlar teapot matches
+5471,1,title says Kahramanlar teapot
+5472,1,Kahramanlar teapot matches
+5473,1,Michael Kors branded item
+5474,1,Michael Kors branded item
+5475,1,Michael Kors branded item
+5476,1,Michael Kors branded item
+5477,1,Michael Kors branded item
+5478,1,OGX coconut hair product
+5479,1,OGX coconut hair product
+5480,1,OGX coconut hair product
+5481,1,OGX coconut hair product
+5482,1,OGX coconut hair product
+5483,1,short cashmere-look coat
+5484,1,short cashmere-look coat jacket
+5485,1,short cashmere-look coat
+5486,1,short cashmere-look coat
+5487,1,short cashmere-look coat
+5488,1,Hummel sneaker matches
+5489,1,Hummel sneaker matches
+5490,1,Hummel sneaker matches
+5491,1,Hummel sport shoe close match
+5492,1,title says sneaker
+5493,1,Besiktas bedding set
+5494,1,Besiktas bedding set
+5495,1,Besiktas bedding set
+5496,1,Besiktas bedding set
+5497,1,Besiktas bedding set smaller size
+5498,1,The North Face jacket
+5499,1,The North Face jacket
+5500,1,The North Face jacket
+5501,1,The North Face jacket
+5502,1,The North Face jacket
+5503,1,Skechers womens shoe
+5504,1,Skechers womens shoe
+5505,1,Skechers womens shoe
+5506,1,Skechers womens shoe
+5507,1,Skechers womens shoe
+5508,1,hair styling foam matches
+5509,1,hair styling foam matches
+5510,1,hair styling foam matches
+5511,1,hair styling foam matches
+5512,1,hair styling foam matches
+5513,1,multi-piece earring set
+5514,1,title says kadin womens
+5515,1,multi-piece earring set
+5516,1,multi-piece earring set
+5517,1,multi-piece earring set
+5518,1,draped dress matches
+5519,1,draped maxi dress matches
+5520,1,draped long dress matches
+5521,1,draped long dress matches
+5522,1,draped evening dress matches
+5523,1,Macharel jeans matches
+5524,1,Macharel jeans matches
+5525,1,Macharel jeans matches
+5526,1,Macharel jeans matches
+5527,1,Macharel jeans matches
+5528,1,Engin Eraydin soru bankasi
+5529,1,Engin Eraydin soru bankasi
+5530,1,Engin Eraydin soru bankasi
+5531,1,Engin Eraydin soru bankasi
+5532,1,Engin Eraydin soru bankasi
+5533,1,VR gaming glasses matches
+5534,1,VR gaming glasses matches
+5535,1,VR gaming glasses matches
+5536,1,VR gaming glasses matches
+5537,1,VR gaming glasses matches
+5538,1,Samsung TV remote matches
+5539,1,Samsung TV remote matches
+5540,1,Samsung TV remote matches
+5541,1,Samsung TV remote matches
+5542,1,Samsung TV remote matches
+5543,1,mens baggy sweatpants matches
+5544,1,mens baggy sweatpants matches
+5545,1,mens baggy sweatpants matches
+5546,1,mens baggy sweatpants matches
+5547,1,mens baggy sweatpants matches
+5548,1,Blendax shampoo matches
+5549,1,Blendax shampoo matches
+5550,1,Blendax shampoo matches
+5551,1,Blendax shampoo matches
+5552,1,Blendax shampoo set matches
+5553,1,Turtle Wax product matches
+5554,1,Turtle Wax product matches
+5555,1,Turtle Wax product matches
+5556,0,Farecla brand not Turtle Wax
+5557,0,Hellfire brand not Turtle Wax
+5558,1,Dogi&Dog brand matches
+5559,0,Coolpet brand not Dogi&Dog
+5560,1,Dogi&Dog brand matches
+5561,1,Dogi&Dog brand matches
+5562,0,Dolce Pets brand not Dogi&Dog
+5563,1,striped body top matches
+5564,1,striped knit top matches
+5565,1,striped t-shirt matches
+5566,1,striped knit sweater matches
+5567,1,striped knit sweater matches
+5568,1,handheld steam iron matches
+5569,1,handheld steam iron matches
+5570,1,handheld steam iron matches
+5571,1,handheld steam iron matches
+5572,1,handheld steam iron matches
+5573,1,Xaura brand matches
+5574,0,Mistirik brand not Xaura
+5575,0,Mistirik brand not Xaura
+5576,0,Xolo brand not Xaura
+5577,0,different brand massage device
+5578,1,Missamour brand dress
+5579,0,different brand not Missamour
+5580,0,different brand not Missamour
+5581,0,different brand not Missamour
+5582,0,different brand not Missamour
+5583,1,Tiffany&Tomato brand jacket
+5584,0,Forever21 not Tiffany Tomato
+5585,0,Tanisa brand not Tiffany Tomato
+5586,0,Tanisa brand not Tiffany Tomato
+5587,0,EA7 brand not Tiffany Tomato
+5588,0,foot anklet not hand chain
+5589,0,likely ankle jewelry not hand
+5590,0,explicitly foot anklet not hand
+5591,0,foot accessory category not hand
+5592,0,foot accessory category not hand
+5593,1,Yatas Visco Therapy pillow
+5594,1,Yatas Visco Therapy pillow
+5595,1,Yatas Visco Therapy pillow
+5596,1,Yatas Visco Therapy pillow
+5597,0,Yatsan brand not Yatas
+5598,1,toy garbage truck matches
+5599,1,toy garbage truck matches

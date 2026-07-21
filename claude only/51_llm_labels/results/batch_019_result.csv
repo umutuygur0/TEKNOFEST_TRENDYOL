@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+6650,1,mdf ham duvar paneli matches mdf panel query
+6651,1,mdf duvar paneli matches query
+6652,1,mdf duvar paneli/lambiri matches query
+6653,1,toka aksesuar organizer kutusu matches toka kutusu düzenleyici
+6654,1,toka organizer kutusu matches query
+6655,1,toka kutusu exact match
+6656,1,toka organizer/askı matches toka düzenleyici intent
+6657,1,takı toka düzenleyici saklama kutusu matches
+6658,1,çocuk cüzdan exact type match
+6659,1,çocuk cüzdan karakterli matches
+6660,1,çocuk cüzdanı matches
+6661,1,çocuk cüzdanı matches
+6662,1,çocuk cüzdan dinozor desenli matches
+6663,1,retro pikap plak çalar matches
+6664,1,retro pikap matches
+6665,1,retro pikap plak çalar matches
+6666,1,retro pikap plak çalar matches
+6667,1,retro pikap plak çalar matches
+6668,1,mermer sunumluk exact match
+6669,1,mermer sunumluk/tabla matches
+6670,1,mermer sunumluk stand matches
+6671,1,mermer sunum tabağı matches sunumluk intent
+6672,1,mermer sunumluk (cutting board framed as sunumluk) matches
+6673,1,çarşaf+yastık kılıfı set matches
+6674,1,çarşaf+yastık kılıfı matches
+6675,1,çarşaf takımı yastık kılıflı matches
+6676,1,çarşaf takımı yastık kılıflı matches
+6677,1,çarşaf+yastık kılıfı matches
+6678,1,gaz yağı (lamba yakıtı) matches
+6679,1,kandil/gaz lambası yakıtı matches gaz yağı intent
+6680,1,kandil/gaz lambası yağı matches
+6681,1,kandil/gaz lambası yağı matches
+6682,1,kandil/gaz lambası yakıtı matches
+6683,1,bohem koltuk takımı exact match
+6684,1,bohem koltuk takımı matches
+6685,1,bohem koltuk takımı matches
+6686,1,bohem koltuk takımı matches
+6687,1,bohem koltuk (üçlü) matches
+6688,1,rival loves me pudra product matches
+6689,1,rival loves me pudra matches
+6690,1,rival loves me pudra matches
+6691,0,brand is rival de loop not rival loves me
+6692,0,kapatıcı (concealer) not pudra, wrong product type
+6693,1,mustela bebek şampuanı matches
+6694,0,brand listed zuhudi and category is educational toy, mismatched listing not actual mustela shampoo
+6695,1,mustela bebek şampuanı matches
+6696,1,mustela bebek şampuanı matches
+6697,1,mustela bebek şampuanı matches
+6698,1,gül kovası for kahve sunumu matches
+6699,1,gül kovası sunumluk matches
+6700,1,gül kovası sunumluk matches
+6701,1,gül kovası sunumluk matches
+6702,1,gül kovası sunumluk matches
+6703,1,misinalı şiş seti exact match
+6704,1,misinalı şiş seti matches
+6705,1,misinalı örgü şiş seti matches
+6706,1,misinalı örgü şiş seti matches
+6707,1,misinalı şiş matches
+6708,1,çocuk seyahat boyun yastığı matches
+6709,1,boyun yastığı bebek/çocuk matches
+6710,1,çocuk boyun yastığı matches
+6711,1,boyun yastığı çocuk & yetişkin matches
+6712,1,boyun yastığı çocuk & yetişkin matches
+6713,1,calvin klein t-shirt exact match
+6714,1,calvin klein t-shirt matches
+6715,1,calvin klein t-shirt matches
+6716,1,calvin klein t-shirt matches
+6717,1,calvin klein t-shirt (kadın variant) matches
+6718,0,brand field is polo not flexi despite title wording
+6719,1,flexi brand şerit tasma matches
+6720,1,flexi brand otomatik tasma matches
+6721,1,flexi brand gezdirme tasması matches
+6722,1,flexi brand gezdirme tasması matches
+6723,0,chocolate product not a flower gift
+6724,0,chocolate product not a flower gift
+6725,0,generic baby gift, no flower product
+6726,0,chocolate product not flower
+6727,0,chocolate product not flower
+6728,1,döküm mini tencere lava exact match
+6729,1,döküm mini tencere lava matches
+6730,1,döküm mini tencere lava matches
+6731,1,döküm mini oval tencere matches
+6732,1,döküm mini oval tencere matches
+6733,1,siyah kapşonlu fermuarlı hırka/sweat matches
+6734,1,siyah kapşonlu fermuarlı hırka matches
+6735,1,siyah fermuarlı kapşonlu hırka matches
+6736,1,siyah kapüşonlu fermuarlı sweat hırka matches
+6737,1,siyah fermuarlı hırka matches
+6738,1,antika kaset (physical cassette) matches
+6739,0,cassette player device not a cassette tape itself
+6740,0,pikap/cassette player device not the cassette itself
+6741,0,cd/kaset çalar device not the cassette itself
+6742,0,it is a book titled with kaset word, wrong category
+6743,1,kadın kol/omuz çantası matches
+6744,1,kadın omuz kol çantası matches
+6745,1,kadın omuz kol çantası matches
+6746,1,kadın kol omuz çantası matches
+6747,1,kadın omuz kol çantası matches
+6748,1,koleston oksidasyon kremi wella matches
+6749,1,koleston peroksit oksidasyon kremi wella matches
+6750,1,koleston peroksit sıvı wella matches
+6751,1,koleston tüp boya + oksidan peroksit wella matches
+6752,0,brand mefu and category lip cream, mismatched listing not genuine wella koleston
+6753,1,taşınabilir smart led tv matches
+6754,1,taşınabilir kamp/karavan tv matches
+6755,1,taşınabilir led tv matches
+6756,1,taşınabilir android tv matches
+6757,1,taşınabilir tv kamp/tekne uyumlu matches
+6758,1,twist brand sweatshirt matches
+6759,1,twist brand sweatshirt matches
+6760,1,twist brand sweatshirt matches
+6761,0,triko hırka (cardigan) not a sweatshirt
+6762,1,twist brand sweatshirt matches
+6763,1,emaye saklama kabı matches
+6764,1,emaye saklama kabı matches
+6765,1,emaye saklama kabı matches
+6766,1,emaye saklama kabı seti matches
+6767,1,emaye saklama kabı seti matches
+6768,1,bakır tava sahan matches
+6769,1,bakır sahan 3'lü takım matches
+6770,1,bakır tava sahan seti matches
+6771,1,bakır sahan matches
+6772,1,bakır sahan matches
+6773,1,la roche posay güneş bakım seti matches
+6774,1,la roche posay güneş bakım seti matches
+6775,1,la roche posay güneş bakım seti matches
+6776,1,la roche posay güneş korumalı cilt bakım seti matches
+6777,1,la roche posay güneş bakım seti matches
+6778,1,bella maison kadeh exact match
+6779,1,bella maison kadeh matches
+6780,1,bella maison kadeh matches
+6781,1,bella maison kadeh matches
+6782,1,bella maison kadeh matches
+6783,1,masa/sehpa üstü dekoratif aksesuar matches
+6784,1,masa/sehpa üstü dekoratif aksesuar matches
+6785,1,masaüstü dekoratif set matches
+6786,1,masa/sehpa üstü dekoratif aksesuar matches
+6787,1,masaüstü dekoratif set matches
+6788,1,highgenic brand product matches
+6789,1,highgenic brand product matches
+6790,1,highgenic brand product matches
+6791,1,highgenic brand product matches
+6792,1,highgenic brand product matches
+6793,1,lacivert doktor/hemşire forma matches
+6794,1,lacivert forma scrubs matches
+6795,1,lacivert forma matches
+6796,1,lacivert forma matches
+6797,1,lacivert forma scrubs matches
+6798,1,motosiklet/motorcu eldiveni matches
+6799,1,motorcu eldiveni matches
+6800,1,motorcu eldiveni matches
+6801,1,motosiklet eldiveni matches
+6802,1,motosiklet eldiveni matches
+6803,1,erkek tıraş köpüğü bakım seti matches
+6804,1,erkek tıraş takımı bakım seti matches
+6805,1,erkek tıraş köpüğü bakım seti matches
+6806,0,generic gift/skincare set with no shaving item indicated
+6807,1,erkek tıraş takımı bakım seti matches
+6808,1,yapay çiçek arajman matches
+6809,1,çiçek aranjmanı matches
+6810,1,çiçek arajman tasarım matches
+6811,1,aranjmanlı saksı matches
+6812,1,arajman saksı matches
+6813,1,gillette mach3 yedek bıçak matches
+6814,1,gillette mach3 yedek bıçak matches
+6815,1,gillette mach3 tıraş makinesi matches
+6816,1,gillette mach3 yedek bıçak matches
+6817,1,gillette mach3 yedek bıçak matches
+6818,1,horlama önleyici burun bandı matches
+6819,1,horlama önleyici burun dilatörü matches
+6820,1,horlama önleyici burun bandı matches
+6821,1,horlama önleyici ağız bandı matches
+6822,1,horlama önleyici burun dilatörü matches
+6823,1,plastik raf banyo rafı matches
+6824,1,plastik raf ünitesi banyo rafı matches
+6825,1,plastik banyo rafı matches
+6826,1,plastik banyo rafı matches
+6827,1,plastik raf ünitesi matches
+6828,1,karaca çay makinesi matches
+6829,1,karaca çay makinesi matches
+6830,1,karaca çay makinesi matches
+6831,1,karaca çay makinesi matches
+6832,1,karaca çay makinesi matches
+6833,1,araba yıkama bakım seti matches
+6834,1,araç bakım/yıkama seti matches
+6835,1,oto temizlik fırça bez köpük seti matches
+6836,1,oto bakım/yıkama seti matches
+6837,1,oto yıkama kurulama bezi seti matches
+6838,1,bulaşık makinesi sepeti matches
+6839,1,bulaşık makinesi alt sepeti matches
+6840,1,bulaşık makinesi alt sepet matches
+6841,1,bulaşık makinesi alt sepeti matches
+6842,1,bulaşık makinesi alt sepet matches
+6843,1,çocuk termal içlik matches
+6844,1,çocuk termal içlik takım matches
+6845,1,çocuk termal alt içlik matches
+6846,1,çocuk termal içlik takımı matches
+6847,1,çocuk termal içlik matches
+6848,1,kadın pantolon takım matches
+6849,0,men's suit (erkek takım elbise), wrong gender/product
+6850,1,kadın pantolon ikili takım matches
+6851,1,kadın pantolon ikili takım matches
+6852,1,kadın pantolon takım matches
+6853,1,tüy inceltici losyon matches
+6854,1,tüy inceltici karınca yumurtası yağı matches
+6855,1,tüy inceltici serum matches
+6856,1,tüy inceltici matches
+6857,1,tüy azaltıcı ürün matches
+6858,1,arm & hammer diş macunu matches
+6859,1,arm & hammer diş macunu matches
+6860,1,arm & hammer diş macunu matches
+6861,1,arm & hammer diş macunu matches
+6862,1,arm & hammer diş macunu matches
+6863,1,mango deri görünümlü pantolon matches
+6864,1,mango deri pantolon matches
+6865,1,mango deri görünümlü pantolon matches
+6866,1,mango deri görünümlü pantolon matches
+6867,1,mango deri görünümlü pantolon matches
+6868,1,cam kapaklı granit sahan seti matches
+6869,1,kapaklı granit sahan seti matches
+6870,1,kulplu kapaklı sahan seti matches
+6871,1,kapaklı granit sahan seti matches
+6872,1,cam kapaklı granit sahan seti matches
+6873,1,not defteri bloknot matches
+6874,1,yapışkanlı not kağıtlı bloknot matches
+6875,1,yapışkanlı not kağıdı matches
+6876,1,yapışkanlı not seti matches
+6877,1,notepad bloknot defter matches
+6878,1,hotiç kadın ayakkabı matches
+6879,1,yaya by hotiç kadın ayakkabı matches
+6880,1,yaya by hotiç kadın ayakkabı matches
+6881,1,hotiç kadın ayakkabı matches
+6882,1,hotiç kadın ayakkabı matches
+6883,1,döner kitaplık exact match
+6884,1,döner kitaplık matches
+6885,1,döner kitaplık matches
+6886,1,döner kitaplık matches
+6887,1,döner metal kitaplık matches
+6888,1,50lt oyuncak kutusu exact match
+6889,1,60lt oyuncak kutusu close volume match
+6890,1,50 litre oyuncak saklama kutusu exact match
+6891,1,36lt oyuncak saklama kutusu close volume match
+6892,0,12lt organizer far smaller than requested 50lt toy box, different scale product
+6893,1,canbebe bebek bezi matches brand
+6894,1,canbebe bebek bezi matches brand
+6895,1,canbebe bebek bezi matches brand
+6896,1,canbebe bebek bezi matches brand
+6897,1,canbebe bebek bezi matches brand
+6898,1,transfer baskı/etiket baskı matches
+6899,1,dtf baskı tişört baskısı matches
+6900,1,dtf baskı tişört baskısı matches
+6901,1,fotoğraf baskısı matches
+6902,1,dtf transfer baskı kağıdı matches
+6903,0,this is the tablet itself (specs listed) not a case
+6904,1,samsung galaxy tab a9 plus tablet kılıfı matches
+6905,1,samsung galaxy tab a9 kılıf matches
+6906,1,kılıf compatible with samsung galaxy tab a9 matches
+6907,1,samsung galaxy tab a9 kılıf matches
+6908,1,pastel daylong ruj matches
+6909,1,pastel daylong likit ruj matches
+6910,1,pastel daylong lipcolor matches
+6911,1,pastel daylong lipcolor matches
+6912,1,pastel daylong lipcolor matches
+6913,1,yataş tek kişilik battaniye matches
+6914,1,yataş tek kişilik battaniye matches
+6915,1,yataş tek kişilik battaniye matches
+6916,1,yataş tek kişilik wellsoft battaniye matches
+6917,1,yataş tek kişilik battaniye matches
+6918,1,çelik künye bileklik matches
+6919,1,paslanmaz çelik künye bileklik matches
+6920,1,kadın künye model bileklik matches
+6921,1,zirkon taşlı künye kadın matches
+6922,1,künye bileklik matches
+6923,1,mommy bag anne bebek bakım çantası matches
+6924,1,mommy bag anne bebek bakım çantası matches
+6925,1,mommy bag anne bebek bakım çantası matches
+6926,1,mommy bag anne bebek bakım çantası matches
+6927,1,mommy collection bebek bakım çantası matches
+6928,1,stabilo boss fosforlu kalem matches
+6929,1,stabilo boss fosforlu kalem matches
+6930,1,stabilo boss fosforlu kalem set matches
+6931,1,stabilo boss fosforlu kalem matches
+6932,1,stabilo boss fosforlu kalem matches
+6933,1,dorpek tv sehpası matches
+6934,1,dorpek tv sehpası matches
+6935,1,dorpek tv sehpası matches
+6936,0,brand is doressa not dorpek
+6937,1,dorpek tv sehpası matches
+6938,1,zaza tesbih matches
+6939,1,zaza tesbih matches
+6940,1,zaza tesbih matches
+6941,1,zaza tesbihi matches
+6942,1,zaza tesbih matches
+6943,1,çift kişilik koltuk yatak matches
+6944,0,camp folding mattress, not sofa-bed furniture item
+6945,1,katlanır yataklı koltuk matches
+6946,1,katlanır yataklı koltuk matches
+6947,1,katlanır yataklı koltuk matches
+6948,1,karaca tek kişilik nevresim takımı matches
+6949,1,karaca tek kişilik nevresim takımı matches
+6950,1,karaca tek kişilik nevresim takımı matches
+6951,1,karaca tek kişilik nevresim takımı matches
+6952,1,karaca tek kişilik nevresim takımı matches
+6953,1,madame coco tek kişilik pike takımı matches
+6954,1,madame coco tek kişilik pike takımı matches
+6955,1,madame coco tek kişilik pike takımı matches
+6956,1,madame coco tek kişilik pike takımı matches
+6957,1,madame coco tek kişilik pike takımı matches
+6958,1,philips 7000 series buharlı ütü matches
+6959,1,philips 7000 series buharlı ütü matches
+6960,1,philips 7000 series süpürge matches
+6961,1,philips 7000 series temizlik robotu matches
+6962,1,philips 7000 series süpürge matches
+6963,1,vichy yüz kremi matches
+6964,1,vichy yüz bakım kremi matches
+6965,1,vichy yüz kremi matches
+6966,1,vichy yüz kremi matches
+6967,1,vichy gece kremi matches
+6968,1,bungou stray dogs manga set matches
+6969,1,bungou stray dogs cilt matches
+6970,1,bungou stray dogs manga set matches
+6971,1,bungou stray dogs manga cilt matches
+6972,0,anime sticker set not the manga books
+6973,1,garnier c vitamini krem matches
+6974,1,garnier c vitamini yüz kremi matches
+6975,1,garnier c vitamini krem matches
+6976,1,c vitamini emulsion (cream-like) matches
+6977,0,serum not cream, different product form
+6978,1,hediyelik kolonya şişesi matches
+6979,1,kolonya şişesi hediyelik matches
+6980,1,kolonya şişesi hediyelik matches
+6981,1,kolonya şişesi hediyelik matches
+6982,1,kolonya şişesi hediyelik matches
+6983,1,odun kesme motoru matches
+6984,1,odun kesme motoru matches
+6985,1,odun kesme motoru matches
+6986,1,odun kesme motoru matches
+6987,1,ağaç kesim motoru matches
+6988,1,akel brand ocak matches
+6989,1,akel brand gözleme sacı matches
+6990,1,akel brand plate matches
+6991,1,akel brand ocak matches
+6992,1,akel brand gözleme sacı matches
+6993,1,fırdöndü matches
+6994,1,fırdöndü matches
+6995,1,fırdöndü kurşun matches
+6996,1,fırdöndü kurşunlu takım matches
+6997,1,fırdöndü kurşun matches
+6998,1,cam kesici tool matches
+6999,0,glass cutting board for food, not a glass-cutting tool

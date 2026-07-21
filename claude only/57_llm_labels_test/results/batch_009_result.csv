@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3150,1,fujifilm instax mini camera matches query
+3151,1,instax mini model matches
+3152,1,instax mini evo matches
+3153,1,instax mini 11 matches
+3154,1,instax mini 11 matches
+3155,0,blue light glasses query but item is regular sunglasses; wrong brand
+3156,0,blue light glasses query but item is regular sunglasses; wrong brand
+3157,0,blue light glasses query but item is regular sunglasses; wrong brand
+3158,0,blue light glasses query but item is regular sunglasses; wrong brand
+3159,0,blue light glasses query but item is regular sunglasses; wrong brand
+3160,1,microfiber towel matches
+3161,1,microfiber towel matches
+3162,1,microfiber towel matches
+3163,1,microfiber towel matches
+3164,1,microfiber towel matches
+3165,1,lykd blush matches
+3166,1,lykd blush matches
+3167,1,lykd liquid blush matches
+3168,1,lykd blush palette includes allık
+3169,1,lykd stick blush matches
+3170,1,islamic wall art matches
+3171,1,islamic wall art matches
+3172,1,islamic wall art matches
+3173,1,islamic wall art matches
+3174,1,islamic wall art matches
+3175,1,margarita glass matches
+3176,1,margarita glass matches
+3177,1,margarita cocktail glass matches
+3178,0,canvas wall art not actual glass
+3179,1,margarita goblet matches
+3180,1,child sleep set matches
+3181,1,child sleep set matches
+3182,1,montessori sleep set matches
+3183,1,child bedding set matches
+3184,1,child bedding set matches
+3185,1,sefer kitel bulgur exact match
+3186,1,sefer kitel bulgur matches
+3187,1,sefer kitel bulgur matches
+3188,0,generic köy bulgur not sefer kitel type
+3189,1,köftelik bulgur matches sefer kitel purpose
+3190,1,chemical peeling product matches
+3191,1,chemical peeling product matches
+3192,1,chemical peeling product matches
+3193,0,book about peeling not actual product
+3194,1,chemical peeling serum matches
+3195,1,seiko watch matches
+3196,1,seiko watch matches
+3197,1,seiko watch matches
+3198,1,seiko watch matches
+3199,1,seiko watch matches
+3200,1,small gift keychains matches category
+3201,0,notebook not gift item category
+3202,0,party toy not gift favor category
+3203,0,packaging material not gift item
+3204,1,small wooden gift figures matches
+3205,0,blue light glasses not eye contact lens
+3206,0,blue light glasses not eye contact lens
+3207,0,blue light glasses not eye contact lens
+3208,0,blue light glasses not eye contact lens
+3209,0,blue light glasses not eye contact lens
+3210,1,oven and stove set matches
+3211,1,oven and stove set matches
+3212,1,oven and stove set matches
+3213,1,oven with stove burners matches
+3214,1,oven and stove set matches
+3215,1,bambum breakfast set matches
+3216,1,bambum breakfast set matches
+3217,1,bambum breakfast set matches
+3218,1,bambum breakfast set matches
+3219,1,bambum breakfast set matches
+3220,1,women's knit cardigan matches
+3221,1,women's knit cardigan matches
+3222,1,women's knit cardigan matches
+3223,1,women's knit cardigan matches
+3224,1,women's knit cardigan matches
+3225,1,drinking glass set matches
+3226,1,drinking glass set matches
+3227,1,glass and goblet set matches
+3228,1,drinking glass set matches
+3229,1,drinking glass set matches
+3230,1,altus microwave matches
+3231,1,altus microwave matches
+3232,1,altus microwave matches
+3233,1,altus microwave matches
+3234,1,altus microwave matches
+3235,1,atelier rebul liquid soap matches
+3236,1,atelier rebul liquid soap matches
+3237,1,atelier rebul liquid soap matches
+3238,0,wrong brand not atelier rebul
+3239,0,wrong brand not atelier rebul
+3240,1,xxl mouse pad matches
+3241,1,xxl mouse pad matches
+3242,1,xxl mouse pad matches
+3243,0,xl size not xxl
+3244,1,labeled xxl mouse pad
+3245,1,swim goggles matches
+3246,1,swim goggles matches
+3247,1,swim goggles matches
+3248,1,swim goggles matches
+3249,1,swim goggles matches
+3250,1,rifle case matches
+3251,1,rifle case matches
+3252,1,rifle case matches
+3253,1,rifle case matches
+3254,1,rifle case matches
+3255,1,black hooded cardigan matches
+3256,1,black hooded cardigan matches
+3257,0,no hood mentioned
+3258,1,black hooded cardigan matches
+3259,1,black hooded cardigan matches
+3260,1,paint palette matches
+3261,1,paint palette matches
+3262,1,paint palette matches
+3263,1,paint palette matches
+3264,1,paint palette matches
+3265,1,so chic bracelet matches
+3266,1,so chic bracelet matches
+3267,1,so chic bracelet matches
+3268,1,so chic bracelet matches
+3269,1,so chic bracelet matches
+3270,1,round wooden cutting board matches
+3271,0,bamboo material and rectangular not round
+3272,1,round wooden board matches
+3273,0,shape not confirmed round
+3274,1,round wooden serving tray matches
+3275,1,arzum soprano max blender matches
+3276,1,arzum soprano max blender variant matches
+3277,0,different arzum product line not soprano max
+3278,0,different arzum product line not soprano max
+3279,0,wrong brand karaca not arzum
+3280,1,flat sole boot matches
+3281,0,orthopedic sole not flat sole
+3282,0,no flat sole spec
+3283,0,thick sole not flat sole
+3284,0,thick sole not flat sole
+3285,1,mirrored jewelry cabinet matches
+3286,1,mirrored jewelry cabinet matches
+3287,1,mirrored bathroom cabinet matches
+3288,1,mirrored jewelry cabinet matches
+3289,0,full wardrobe not mirror cabinet
+3290,1,white men's shoes matches
+3291,1,white men's shoes matches
+3292,1,white men's shoes matches
+3293,1,unisex white sneaker matches
+3294,1,white men's sneaker matches
+3295,1,obd2 diagnostic tool matches
+3296,1,obd2 diagnostic tool matches
+3297,1,obd2 diagnostic tool matches
+3298,1,obd2 diagnostic tool matches
+3299,1,obd2 diagnostic tool matches
+3300,1,dog raincoat matches
+3301,1,dog raincoat matches
+3302,1,dog raincoat matches
+3303,1,dog raincoat matches
+3304,1,dog raincoat matches
+3305,1,wooden laundry basket matches
+3306,0,bathroom shelf not laundry basket
+3307,1,wooden laundry basket matches
+3308,1,wooden laundry basket matches
+3309,1,wooden laundry basket matches
+3310,1,stradivarius brand matches
+3311,1,stradivarius brand matches
+3312,1,stradivarius brand matches
+3313,1,stradivarius brand matches
+3314,1,stradivarius brand matches
+3315,1,fujifilm camera matches
+3316,1,fujifilm camera matches
+3317,1,fujifilm camera matches
+3318,1,fujifilm camera matches
+3319,1,fujifilm camera matches
+3320,1,jack daniels themed phone case matches
+3321,0,unrelated manga set
+3322,0,no jack daniels reference
+3323,0,unrelated muay thai headgear
+3324,0,no jack daniels reference
+3325,1,tesettür swimwear matches
+3326,1,tesettür swimwear matches
+3327,1,tesettür swimwear matches
+3328,1,tesettür swimwear matches
+3329,1,tesettür swimwear matches
+3330,1,men's watch matches
+3331,1,men's watch matches
+3332,1,men's watch matches
+3333,1,men's watch matches
+3334,1,men's watch matches
+3335,1,hair parting comb matches
+3336,1,hair parting comb matches
+3337,0,miscategorized as lipstick not comb
+3338,1,hair parting comb matches
+3339,0,detangling brush not parting comb
+3340,1,drone matches
+3341,1,drone matches
+3342,1,drone matches
+3343,1,drone matches
+3344,1,drone matches
+3345,1,beko toaster matches
+3346,1,beko toaster matches
+3347,1,beko toaster matches
+3348,1,beko toaster matches
+3349,1,beko toaster matches
+3350,0,glass cup not teapot
+3351,0,oil dispenser not teapot
+3352,0,cooking pot not teapot
+3353,0,cooking pot not teapot
+3354,0,glass cup not teapot
+3355,1,manisa mesir macunu matches
+3356,1,manisa mesir macunu matches
+3357,1,manisa mesir macunu matches
+3358,1,manisa mesir macunu matches
+3359,1,manisa mesir macunu matches
+3360,1,postpartum set matches
+3361,1,postpartum set matches
+3362,1,postpartum set matches
+3363,1,postpartum set matches
+3364,1,postpartum set matches
+3365,0,iphone 15 not 16 pro
+3366,0,phone case not phone itself
+3367,0,phone case not phone itself
+3368,0,phone case not phone itself
+3369,0,phone case not phone itself
+3370,1,essence mascara matches
+3371,1,essence mascara matches
+3372,1,essence mascara matches
+3373,1,essence mascara matches
+3374,0,wrong brand sephora not essence
+3375,1,nehir spoon matches
+3376,1,nehir spoon matches
+3377,1,nehir spoon matches
+3378,1,nehir spoon matches
+3379,1,nehir spoon matches
+3380,1,boom butter brand matches
+3381,1,boom butter brand matches
+3382,1,boom butter brand matches
+3383,1,boom butter brand matches
+3384,1,boom butter brand matches
+3385,1,bübchen brand matches
+3386,1,bübchen brand matches
+3387,1,bübchen brand matches
+3388,1,bübchen brand matches
+3389,1,bübchen brand matches
+3390,1,single armchair matches
+3391,1,single armchair matches
+3392,1,single armchair matches
+3393,1,single armchair matches
+3394,1,single armchair matches
+3395,1,rope matches
+3396,1,rope matches
+3397,1,rope matches
+3398,1,jute rope matches
+3399,1,steel rope matches
+3400,1,stove backsplash matches
+3401,1,stove backsplash matches
+3402,1,stove backsplash matches
+3403,1,stove backsplash matches
+3404,1,stove backsplash matches
+3405,1,study chair matches
+3406,1,study chair matches
+3407,1,study chair matches
+3408,1,study chair matches
+3409,1,study chair matches
+3410,0,toy not clothing set
+3411,0,toy not clothing set
+3412,0,toy not clothing set
+3413,0,toy not clothing set
+3414,0,toy not clothing set
+3415,1,green camera lens protector matches
+3416,1,dark green camera lens protector matches
+3417,1,green camera lens protector matches
+3418,1,light green camera lens protector matches
+3419,1,dark green camera lens protector matches
+3420,1,coffee cup set matches
+3421,1,coffee cup set matches
+3422,1,coffee cup set matches
+3423,1,coffee cup set matches
+3424,1,coffee cup set matches
+3425,1,benetton women sweatshirt matches
+3426,1,benetton women sweatshirt matches
+3427,1,benetton women sweatshirt matches
+3428,1,benetton women sweatshirt matches
+3429,1,benetton women sweatshirt matches
+3430,1,solgar milk thistle matches
+3431,1,solgar milk thistle matches
+3432,0,wrong brand nutraxin not solgar
+3433,0,different product not milk thistle
+3434,0,different product not milk thistle
+3435,1,remsa tesettür mayo matches
+3436,1,remsa tesettür mayo matches
+3437,1,remsa tesettür mayo matches
+3438,1,remsa tesettür mayo matches
+3439,1,remsa tesettür mayo matches
+3440,0,wrong publisher not 345 series
+3441,0,wrong subject literature not geometry
+3442,0,wrong publisher and subject biology
+3443,0,wrong publisher and subject
+3444,0,wrong publisher and subject
+3445,0,poncho not coat
+3446,0,poncho not coat
+3447,0,poncho not coat
+3448,0,poncho not coat
+3449,0,poncho not coat
+3450,1,zippered prayer dress matches
+3451,1,zippered prayer dress matches
+3452,1,zippered prayer dress matches
+3453,1,zippered prayer dress matches
+3454,1,zippered prayer dress matches
+3455,0,girls child coat not women's
+3456,0,wrong brand loft not lee cooper
+3457,0,wrong brand puma not lee cooper
+3458,0,wrong brand tommy hilfiger not lee cooper
+3459,0,wrong brand only not lee cooper
+3460,1,wiwi brand matches
+3461,1,wiwi brand matches
+3462,1,wiwi brand matches
+3463,1,wiwi brand matches
+3464,1,wiwi brand matches
+3465,1,gift gold bracelet matches
+3466,0,gold plated not real gold
+3467,1,gift gold bracelet matches
+3468,1,gift gold bracelet matches
+3469,1,gift gold bracelet matches
+3470,1,ipad tablet matches
+3471,1,ipad tablet matches
+3472,1,ipad tablet matches
+3473,1,ipad tablet matches
+3474,1,ipad tablet matches
+3475,1,redmi note 13 base model matches
+3476,0,pro variant not base model
+3477,0,pro plus variant not base model
+3478,0,pro variant not base model
+3479,0,note 13t pro different model
+3480,1,men's orthopedic sport shoe matches
+3481,1,men's orthopedic sport shoe matches
+3482,1,men's orthopedic sport shoe matches
+3483,0,no orthopedic spec unisex
+3484,1,men's orthopedic sport shoe matches
+3485,1,stove cover cloth matches
+3486,1,stove cover cloth matches
+3487,1,stove cover cloth matches
+3488,0,bottle cover not stove cover
+3489,0,table runner not stove cover
+3490,1,avon far away perfume matches
+3491,1,avon far away perfume matches
+3492,1,avon far away perfume matches
+3493,1,avon far away perfume matches
+3494,1,avon far away perfume matches
+3495,1,handheld camera with gimbal matches
+3496,0,phone case not actual camera
+3497,0,phone case not actual camera
+3498,0,phone case not actual camera
+3499,0,phone case not actual camera

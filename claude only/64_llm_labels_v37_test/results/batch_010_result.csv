@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3500,1,logitech g29 racing wheel match
+3501,0,ps4 console not g29 wheel
+3502,0,car armrest unrelated to g29
+3503,0,phone case not g29 wheel
+3504,0,phone case not g29 wheel
+3505,1,cece med brand match
+3506,1,cece med brand match
+3507,1,cece med brand match
+3508,1,cece med brand match
+3509,1,cece med brand match
+3510,1,lumberjack brand match
+3511,1,lumberjack brand match
+3512,1,lumberjack brand match
+3513,1,lumberjack brand match
+3514,0,wrong brand lotto not lumberjack
+3515,1,helium balloon match
+3516,1,helium balloon match
+3517,1,helium balloon match
+3518,1,helium balloon match
+3519,1,helium balloon match
+3520,1,karseell brand match
+3521,1,karseell brand match
+3522,1,karseell brand match
+3523,1,karseell brand match
+3524,1,karseell brand match
+3525,1,actual vase product
+3526,1,actual vase product
+3527,0,wall painting not a vase
+3528,0,wall painting not a vase
+3529,0,wall decor not a vase
+3530,1,gramophone product match
+3531,1,gramophone product match
+3532,1,gramophone product match
+3533,1,gramophone product match
+3534,1,gramophone product match
+3535,0,pen tip wrong category for sigma
+3536,1,sigma camera lens match
+3537,1,sigma camera lens match
+3538,1,sigma camera lens match
+3539,0,electrical fuse wrong category for sigma
+3540,1,sonny angel figure match
+3541,1,sonny angel figure match
+3542,1,sonny angel figure match
+3543,1,sonny angel figure match
+3544,1,sonny angel figure match
+3545,1,powerbank match
+3546,1,powerbank match
+3547,1,powerbank match
+3548,1,powerbank match
+3549,1,powerbank match
+3550,1,ph lab brand match
+3551,1,ph lab brand match
+3552,1,ph lab brand match
+3553,1,ph lab brand match
+3554,1,ph lab brand match
+3555,1,sofa cover match
+3556,1,sofa cover match
+3557,1,sofa cover match
+3558,1,sofa cover match
+3559,1,sofa cover match
+3560,1,bike grip match
+3561,1,bike grip match
+3562,1,bike grip match
+3563,1,bike grip match
+3564,1,bike grip match
+3565,0,coat unrelated to query st
+3566,1,stanley brand match
+3567,0,jacket unrelated to query st
+3568,0,jacket unrelated to query st
+3569,1,stanley brand match
+3570,1,emek brand shoe
+3571,1,emek brand shoe
+3572,1,emek brand shoe
+3573,1,emek brand shoe
+3574,0,gardening item not shoe
+3575,0,wrong brand werksan
+3576,0,wrong brand yesmed
+3577,0,wrong brand duracell
+3578,0,wrong brand proteinocean
+3579,0,wrong brand duracell
+3580,1,sluban brand match
+3581,1,sluban brand match
+3582,1,sluban brand match
+3583,1,sluban brand match
+3584,1,sluban brand match
+3585,1,aveeno brand match
+3586,1,aveeno brand match
+3587,1,aveeno brand match
+3588,1,aveeno brand match
+3589,1,aveeno brand match
+3590,1,cable match
+3591,1,cable match
+3592,1,cable match
+3593,1,cable match
+3594,1,cable match
+3595,1,hobonichi brand match
+3596,0,wrong brand concord
+3597,1,hobonichi brand match
+3598,0,wrong brand gift moda
+3599,0,wrong brand concord
+3600,1,flower pot match
+3601,1,flower pot match
+3602,1,flower pot match
+3603,1,flower pot match
+3604,1,flower pot match
+3605,1,hp brand match
+3606,1,hp compatible product match
+3607,1,hp brand match
+3608,1,hp brand match
+3609,1,hp brand match
+3610,1,autoglym brand match
+3611,1,autoglym brand match
+3612,1,autoglym brand match
+3613,1,autoglym brand match
+3614,1,autoglym brand match
+3615,1,callista brand match
+3616,1,callista brand match
+3617,1,callista brand match
+3618,1,callista brand match
+3619,1,callista brand match
+3620,1,goku figure match
+3621,0,phone case not goku figure
+3622,0,wrong character scar
+3623,0,wrong character set
+3624,0,wrong character figure
+3625,1,hair loss shampoo match
+3626,1,hair loss shampoo match
+3627,1,hair loss shampoo match
+3628,1,hair loss shampoo match
+3629,1,hair loss shampoo match
+3630,1,skirt suit match
+3631,1,skirt suit match
+3632,1,skirt suit match
+3633,1,skirt suit match
+3634,1,skirt suit match
+3635,1,arduino brand match
+3636,1,arduino brand match
+3637,1,arduino brand match
+3638,1,arduino brand match
+3639,1,arduino brand match
+3640,1,anne brand match
+3641,1,anne brand match
+3642,1,anne brand match
+3643,0,wrong brand endamim
+3644,1,anne brand match
+3645,1,stickerart brand match
+3646,1,stickerart brand match
+3647,1,stickerart brand match
+3648,1,stickerart brand match
+3649,1,stickerart brand match
+3650,1,magazine match
+3651,1,magazine match
+3652,1,magazine match
+3653,1,magazine match
+3654,1,magazine match
+3655,1,bmw model car match
+3656,0,kids bed unrelated to bmw
+3657,0,wrong car brand fiat
+3658,0,wrong car brand mercedes
+3659,0,unrelated bag product
+3660,1,earcuff match
+3661,1,earcuff match
+3662,1,earcuff match
+3663,1,earcuff match
+3664,1,earcuff match
+3665,1,hardaliye drink match
+3666,1,hardaliye drink match
+3667,1,hardaliye drink match
+3668,1,hardaliye drink match
+3669,1,hardaliye drink match
+3670,1,sticker product match
+3671,1,sticker product match
+3672,1,sticker product match
+3673,1,sticker product match
+3674,1,sticker product match
+3675,1,rinso brand match
+3676,1,rinso brand match
+3677,1,rinso brand match
+3678,1,rinso brand match
+3679,1,rinso brand match
+3680,1,linden tea match
+3681,1,linden tea match
+3682,1,linden tea match
+3683,1,linden tea match
+3684,1,linden tea match
+3685,1,sauce dish match
+3686,1,sauce dish match
+3687,1,sauce dish match
+3688,1,sauce dish match
+3689,1,sauce dish match
+3690,1,isana brand match
+3691,1,isana brand match
+3692,1,isana brand match
+3693,1,isana brand match
+3694,1,isana brand match
+3695,0,no relation to query sss
+3696,0,no relation to query sss
+3697,0,no relation to query sss
+3698,0,no relation to query sss
+3699,0,no relation to query sss
+3700,1,steam iron match
+3701,1,steam iron match
+3702,1,steam iron match
+3703,1,steam iron match
+3704,1,steam iron match
+3705,1,ovivo brand match
+3706,1,ovivo brand match
+3707,1,ovivo brand match
+3708,1,ovivo brand match
+3709,1,ovivo brand match
+3710,1,tipbox product match
+3711,1,tipbox product match
+3712,1,tipbox product match
+3713,1,tipbox product match
+3714,1,tipbox product match
+3715,1,vitanils product line match
+3716,1,vitanils brand match
+3717,1,vitanils brand match
+3718,1,vitanils brand match
+3719,1,vitanils brand match
+3720,1,kron brand match
+3721,1,kron brand match
+3722,1,kron brand match
+3723,1,kron brand match
+3724,1,kron brand match
+3725,1,ace brand match
+3726,1,ace brand match
+3727,1,ace brand match
+3728,1,ace brand match
+3729,1,ace brand match
+3730,1,couverture chocolate match
+3731,1,chocolate match
+3732,1,chocolate match
+3733,1,couverture chocolate match
+3734,1,chocolate match
+3735,0,shoe with stones not matching stone query
+3736,1,matches stone shade name
+3737,0,unrelated wedding dress
+3738,0,unrelated bag
+3739,0,unrelated cardigan
+3740,1,adjustable ring match
+3741,1,adjustable ring match
+3742,1,adjustable ring match
+3743,1,adjustable ring match
+3744,1,adjustable ring match
+3745,1,pencil case match
+3746,1,pencil case match
+3747,1,pencil case match
+3748,1,pencil case match
+3749,1,pencil case match
+3750,0,wrong brand not nubia
+3751,0,wrong brand not nubia
+3752,0,wrong brand not nubia
+3753,0,wrong brand not nubia
+3754,0,wrong brand not nubia
+3755,1,zte brand match
+3756,1,zte brand match
+3757,1,zte brand match
+3758,1,zte brand match
+3759,0,wrong brand agm
+3760,0,wrong model not v16
+3761,0,wrong model not v16
+3762,0,wrong model not v16
+3763,0,no explicit v16 match
+3764,0,wrong brand siemens
+3765,1,jungle brand match
+3766,1,jungle brand match
+3767,1,jungle brand match
+3768,1,jungle brand match
+3769,1,jungle brand match
+3770,1,rosehip match
+3771,1,rosehip match
+3772,1,rosehip match
+3773,1,rosehip match
+3774,1,rosehip match
+3775,1,biotin match
+3776,1,biotin match
+3777,1,biotin match
+3778,1,biotin match
+3779,1,biotin match
+3780,1,yasima brand match
+3781,1,yasima brand match
+3782,1,yasima brand match
+3783,1,yasima brand match
+3784,1,yasima brand match
+3785,1,fulya pattern cutlery match
+3786,1,fulya pattern cutlery match
+3787,1,fulya pattern cutlery match
+3788,0,unrelated bike wheel
+3789,0,unrelated ball pump
+3790,1,wfm model match
+3791,0,no wfm relation
+3792,0,no wfm relation
+3793,0,no wfm relation
+3794,0,no wfm relation
+3795,1,etek takim match
+3796,1,etek takim match
+3797,1,etek takim match
+3798,1,etek takim match
+3799,1,etek takim match
+3800,1,jigott brand match
+3801,1,jigott brand match
+3802,1,jigott brand match
+3803,1,jigott brand match
+3804,1,jigott brand match
+3805,1,greenpan brand match
+3806,1,greenpan brand match
+3807,1,greenpan brand match
+3808,1,greenpan brand match
+3809,1,greenpan brand match
+3810,1,carolina brand match
+3811,1,carolina brand match
+3812,1,carolina brand match
+3813,1,carolina brand match
+3814,1,carolina brand match
+3815,1,rope match
+3816,1,rope match
+3817,1,rope match
+3818,1,rope match
+3819,1,rope match
+3820,1,orjinal brand match
+3821,1,orjinal brand match
+3822,1,orjinal brand match
+3823,1,orjinal brand match
+3824,1,orjinal brand match
+3825,1,glass fanus match
+3826,1,glass fanus match
+3827,1,glass fanus match
+3828,1,glass fanus match
+3829,1,glass fanus match
+3830,1,bayemeyc brand match
+3831,1,bayemeyc brand match
+3832,1,bayemeyc brand match
+3833,1,bayemeyc brand match
+3834,1,bayemeyc brand match
+3835,1,jojobebek brand match
+3836,1,jojobebek brand match
+3837,1,jojobebek brand match
+3838,1,jojobebek brand match
+3839,1,jojobebek brand match
+3840,1,highlighter match
+3841,1,highlighter match
+3842,1,highlighter match
+3843,1,highlighter match
+3844,1,highlighter match
+3845,1,faiend brand match
+3846,1,faiend brand match
+3847,1,faiend brand match
+3848,1,faiend brand match
+3849,1,faiend brand match

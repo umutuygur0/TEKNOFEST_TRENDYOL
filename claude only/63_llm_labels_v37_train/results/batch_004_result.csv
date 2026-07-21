@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+1400,1,cleanser matches query
+1401,1,cleanser matches query
+1402,1,makeup cleanser matches
+1403,1,cleansing oil matches
+1404,1,cleansing gel matches
+1405,1,kafka donusum book match
+1406,1,donusum kafka book match
+1407,1,donusum book match
+1408,0,tarot deck not the novel
+1409,1,donusum book match
+1410,1,redline tv box brand match
+1411,1,redline tv box brand match
+1412,1,redline tv box brand match
+1413,1,redline tv box brand match
+1414,1,redline tv box brand match
+1415,1,sidefer drops match
+1416,1,sidefer drops match
+1417,1,sidefer drops match
+1418,1,sidefer supplement match
+1419,1,sidefer supplement match
+1420,1,tefal cookware match
+1421,1,tefal cookware match
+1422,1,tefal cookware match
+1423,1,tefal cookware match
+1424,1,tefal cookware match
+1425,1,avize chandelier match
+1426,1,avize chandelier match
+1427,1,avize chandelier match
+1428,1,avize chandelier match
+1429,1,avize chandelier match
+1430,1,malt cat paste match
+1431,1,malt cat paste match
+1432,1,malt cat paste match
+1433,1,malt cat paste match
+1434,1,malt cat paste match
+1435,1,pipo tobacco pipe match
+1436,1,pipo match
+1437,1,pipo match
+1438,1,pipo match
+1439,1,pipo match
+1440,1,ilkokul school bag match
+1441,1,ilkokul school bag match
+1442,1,ilkokul school bag match
+1443,1,ilkokul school bag match
+1444,1,ilkokul school bag match
+1445,1,suluk water bottle match
+1446,1,suluk match
+1447,1,suluk match
+1448,1,suluk match
+1449,1,suluk match
+1450,0,brand mismatch legami vs lego
+1451,0,brand mismatch legami vs lego
+1452,0,brand mismatch legami vs lego
+1453,0,brand mismatch legami vs lego
+1454,0,brand mismatch legami vs lego
+1455,0,brand mismatch not etro
+1456,0,brand mismatch not etro
+1457,0,brand mismatch not etro
+1458,0,brand mismatch not etro
+1459,0,brand mismatch not etro
+1460,1,tangram puzzle match
+1461,1,tangram puzzle match
+1462,1,tangram puzzle match
+1463,1,tangram puzzle match
+1464,1,tangram puzzle match
+1465,1,heyner mattress brand match
+1466,1,heyner mattress brand match
+1467,0,brand mismatch not heyner
+1468,1,heyner mattress brand match
+1469,1,heyner mattress brand match
+1470,0,salewa brand not sahlep product
+1471,0,salewa brand not sahlep product
+1472,0,salewa brand not sahlep product
+1473,0,salewa brand not sahlep product
+1474,0,salewa brand not sahlep product
+1475,1,modern style rug match
+1476,1,modern style rug match
+1477,1,modern style sofa match
+1478,1,modern avize direct match
+1479,0,modena not modern - mismatch
+1480,1,sofben water heater match
+1481,1,sofben match
+1482,1,sofben match
+1483,1,sofben match
+1484,1,sofben match
+1485,1,kapak jar lid match
+1486,1,kapak jar lid match
+1487,1,kapak jar lid match
+1488,1,kapak jar lid match
+1489,1,kapak jar lid match
+1490,1,sutluk creamer match
+1491,1,sutluk match
+1492,1,sutluk match
+1493,1,sutluk match
+1494,1,sutluk match
+1495,1,evlight avize brand match
+1496,1,evlight avize brand match
+1497,1,evlight avize brand match
+1498,0,brand mismatch not evlight
+1499,1,evlight avize brand match
+1500,1,mizon brand cream match
+1501,1,mizon brand match
+1502,1,mizon brand match
+1503,1,mizon brand match
+1504,0,brand mismatch mixsoon not mizon
+1505,1,kupalik mug rack match
+1506,1,kupalik match
+1507,1,kupalik match
+1508,1,kupalik match
+1509,1,kupalik match
+1510,1,bruder toy tractor match
+1511,0,brand mismatch twox not bruder
+1512,1,bruder toy tractor match
+1513,1,bruder toy excavator match
+1514,1,bruder toy excavator match
+1515,1,dolabi wardrobe match
+1516,1,dolabi wardrobe match
+1517,1,dolabi wardrobe match
+1518,1,dolabi wardrobe match
+1519,1,dolabi wardrobe match
+1520,1,ariel detergent match
+1521,1,ariel detergent match
+1522,1,ariel detergent match
+1523,1,ariel detergent match
+1524,1,ariel detergent match
+1525,1,sepetcibaba brand bowl match
+1526,1,sepetcibaba brand match
+1527,1,sepetcibaba brand match
+1528,1,sepetcibaba brand match
+1529,1,sepetcibaba brand match
+1530,1,zoe named earring match
+1531,0,unrelated tshirt no zoe match
+1532,0,generic earring no zoe reference
+1533,0,unrelated sunglasses no zoe match
+1534,0,unrelated sunglasses no zoe match
+1535,1,demlik teapot match
+1536,1,demlik teapot match
+1537,1,demlik teapot match
+1538,1,demlik teapot match
+1539,1,demlik teapot match
+1540,1,demogorgon themed necklace match
+1541,1,demogorgon themed bag match
+1542,0,gargoyle statue not demogorgon
+1543,0,unrelated supplement
+1544,0,generic figure not demogorgon specific
+1545,1,miav print mavi match
+1546,1,miav print mavi match
+1547,1,miav print mavi match
+1548,1,miav print mavi match
+1549,1,miav print mavi match
+1550,1,eastpak backpack match
+1551,1,eastpak backpack match
+1552,1,eastpak backpack match
+1553,1,eastpak backpack match
+1554,1,eastpak backpack match
+1555,1,battal boy bedding match
+1556,1,battal boy size shirt match
+1557,1,battal boy sleep set match
+1558,1,battal boy bedding match
+1559,1,battal boy bedding match
+1560,1,kanca hook match
+1561,1,kanca hook match
+1562,1,kanca hook match
+1563,1,kanca hook match
+1564,1,kanca hook match
+1565,1,tuz salt match
+1566,1,tuz salt match
+1567,1,tuz salt match
+1568,1,tuz salt match
+1569,1,tuz salt match
+1570,0,prolive not prolife brand
+1571,0,proplan not prolife brand
+1572,0,prolex not prolife brand
+1573,0,unrelated brand not prolife
+1574,0,probest not prolife brand
+1575,1,mammamia shoe brand match
+1576,1,mammamia shoe brand match
+1577,1,mammamia shoe brand match
+1578,1,mammamia shoe brand match
+1579,1,mammamia shoe brand match
+1580,1,keycap match
+1581,1,keycap match
+1582,1,keycap match
+1583,1,keycap match
+1584,1,keycap match
+1585,0,no rx relation
+1586,0,no rx relation
+1587,0,no rx relation
+1588,0,no rx relation
+1589,0,no rx relation
+1590,1,dosya file match
+1591,1,dosya file match
+1592,1,dosya file match
+1593,1,dosya file match
+1594,1,dosya file match
+1595,1,lavabo sink match
+1596,1,lavabo sink match
+1597,1,lavabo sink match
+1598,1,lavabo sink match
+1599,1,lavabo sink match
+1600,1,zeynep named dress match
+1601,1,zeynep brand match
+1602,1,zeynep named dress match
+1603,1,zeynep tekstil brand match
+1604,1,zeynep tekstil brand match
+1605,1,naturiga brand match
+1606,1,naturiga brand match
+1607,1,naturiga brand match
+1608,1,naturiga brand match
+1609,1,naturiga brand match
+1610,1,jadell brand match
+1611,1,jadell brand match
+1612,0,brand mismatch joyline not jadell
+1613,0,brand mismatch ja wella not jadell
+1614,0,brand mismatch janssen not jadell
+1615,1,kalemkutu pencil case match
+1616,1,kalemkutu pencil case match
+1617,1,kalemkutu pencil case match
+1618,1,kalemkutu pencil case match
+1619,1,kalemkutu pencil case match
+1620,1,robix steam cleaner brand match
+1621,1,robix steam cleaner brand match
+1622,1,robix ipl device brand match
+1623,1,robix skin device brand match
+1624,1,robix skin device brand match
+1625,1,small hookah matches kucuk
+1626,0,pattern name not size match
+1627,1,kucuk omuz cantasi direct match
+1628,1,kucuk omuz cantasi direct match
+1629,1,kucuk seyler book title match
+1630,1,nerf toy match
+1631,1,nerf toy match
+1632,1,nerf toy match
+1633,1,nerf toy match
+1634,1,nerf toy match
+1635,1,avent baby bottle match
+1636,1,avent baby bottle match
+1637,1,avent baby bottle match
+1638,1,avent baby bottle match
+1639,1,avent baby bottle match
+1640,1,discer play set match
+1641,1,dentist themed mug match
+1642,1,dentist play set match
+1643,1,dentist themed mug match
+1644,1,dentist play set match
+1645,1,avize match qvize typo
+1646,1,avize match
+1647,1,avize match
+1648,1,avize match
+1649,1,avize match
+1650,1,cecile perfume brand match
+1651,1,cecile perfume brand match
+1652,1,cecile perfume brand match
+1653,1,cecile perfume brand match
+1654,1,cecile perfume brand match
+1655,1,space star phone case brand match
+1656,1,space themed case match
+1657,1,space star phone case brand match
+1658,1,space themed case match
+1659,1,space star phone case brand match
+1660,1,office chair match
+1661,1,office chair match
+1662,1,office chair match
+1663,1,office chair match
+1664,1,office chair match
+1665,1,photocard kpop match
+1666,1,photocard kpop match
+1667,1,photocard kpop match
+1668,1,photocard kpop match
+1669,1,photocard kpop match
+1670,1,sticker book match
+1671,1,sticker book match
+1672,1,sticker book match
+1673,1,sticker book match
+1674,1,sticker set match
+1675,0,shoe named yamaha not brand
+1676,1,yamaha guitar brand match
+1677,1,yamaha bodyarmour brand match
+1678,1,yamaha bodyarmour brand match
+1679,1,yamaha keychain themed match
+1680,1,levent book title match
+1681,1,levent book series match
+1682,1,levent book series match
+1683,1,levent book series match
+1684,1,levent book series match
+1685,1,cohiba lighter themed match
+1686,1,cohiba brand match
+1687,1,cohiba brand match
+1688,1,cohiba brand match
+1689,1,cohiba brand match
+1690,1,kukla puppet match
+1691,1,kukla puppet match
+1692,1,kukla puppet match
+1693,1,kukla puppet match
+1694,1,kukla puppet match
+1695,1,esem otomat matches esemmat
+1696,0,unrelated religious book
+1697,0,unrelated eczema cream
+1698,0,unrelated basket
+1699,0,unrelated sink esvit brand
+1700,1,kitaplik bookshelf match
+1701,1,kitaplik bookshelf match
+1702,1,kitaplik bookshelf match
+1703,1,kitaplik bookshelf match
+1704,1,kitaplik bookshelf match
+1705,1,frizbi frisbee match
+1706,1,frizbi toy match
+1707,0,cookie cutter not real frisbee
+1708,0,frieza figure not frizbi
+1709,0,unrelated ice machine frozy brand
+1710,1,jbl speaker match jpl typo
+1711,1,jbl speaker match
+1712,1,jbl speaker match
+1713,1,jbl speaker match
+1714,1,jbl speaker match
+1715,1,nane mint match
+1716,1,nane mint oil match
+1717,1,nane spearmint tea match
+1718,1,nane spearmint tea match
+1719,1,nane spearmint tea match
+1720,1,endocare titled cream match
+1721,0,endovir not endocare
+1722,0,unrelated cannula
+1723,0,unrelated serum brand
+1724,0,unrelated mesotherapy product
+1725,1,rivaistanbul brand match
+1726,1,rivaistanbul brand match
+1727,1,rivaistanbul brand match
+1728,1,rivaistanbul brand match
+1729,1,rivaistanbul brand match
+1730,1,si perfume match
+1731,1,si perfume armani match
+1732,1,si perfume armani match
+1733,1,si perfume armani match
+1734,1,si perfume armani match
+1735,1,sinemkivanc brand match
+1736,1,sinemkivanc brand match
+1737,1,sinemkivanc brand match
+1738,1,sinemkivanc brand match
+1739,1,sinemkivanc brand match
+1740,1,isilti glitter match
+1741,1,isilti glitter match
+1742,1,isilti glitter match
+1743,1,isilti glitter match
+1744,1,isilti glitter match
+1745,1,numpad keypad match
+1746,1,numpad keypad match
+1747,0,car park display not numpad
+1748,0,car park display not numpad
+1749,0,car park display not numpad

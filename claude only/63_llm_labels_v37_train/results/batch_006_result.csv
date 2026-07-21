@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2100,1,hurç storage set matches query
+2101,1,hurç storage set matches query
+2102,1,hurç storage set matches query
+2103,1,hurç storage set matches query
+2104,1,hurç storage set matches query
+2105,0,no clear tomuycuk match - figür toy
+2106,0,no clear tomuycuk match - toka set
+2107,0,no clear tomuycuk match - toka set
+2108,0,no clear tomuycuk match - gift bag set
+2109,0,no clear tomuycuk match - gift basket
+2110,1,brand rodeo hair brush
+2111,1,brand rodeo comb
+2112,1,brand rodeo comb
+2113,1,brand rodeo hair brush
+2114,1,brand rodeo comb
+2115,1,scale matches terazi query
+2116,1,scale matches terazi query
+2117,1,digital kitchen scale matches
+2118,1,electronic scale matches
+2119,0,su terazisi is spirit level not weighing scale
+2120,1,vileda branded cleaning set
+2121,1,vileda cleaning set
+2122,1,vileda cleaning set
+2123,1,vileda cleaning set
+2124,1,vileda cleaning set
+2125,0,wrong size 2.5mm not 8mm
+2126,0,wrong size 1.6mm hole not 8mm
+2127,0,wrong size 1.6mm hole not 8mm
+2128,0,wrong size 2.5mm not 8mm
+2129,1,8mm beads exact size match
+2130,1,kartela color swatch card matches
+2131,1,derby 48li kartela blade pack matches
+2132,1,derby kartela blade pack matches
+2133,1,nail tips kartela stand matches
+2134,1,derby kartela blade pack matches
+2135,0,no relation to etatpur brand
+2136,0,no relation to etatpur brand
+2137,0,no relation to etatpur brand
+2138,0,no relation to etatpur brand
+2139,1,brand etat pur matches
+2140,1,buzdolabı matches query
+2141,1,buzdolabı matches query
+2142,1,buzdolabı matches query
+2143,1,buzdolabı matches query
+2144,1,buzdolabı matches query
+2145,1,nail tips product
+2146,1,nail gel product
+2147,1,gel nail polish product
+2148,1,nail tips product
+2149,1,nail polish product
+2150,1,babet shoe matches
+2151,1,babet shoe matches
+2152,1,babet shoe matches
+2153,1,babet shoe matches
+2154,1,babet shoe matches
+2155,1,desktop computer matches
+2156,1,desktop computer matches
+2157,1,desktop computer matches
+2158,1,desktop computer matches
+2159,1,desktop computer matches
+2160,1,brand raid insect spray
+2161,1,brand raid mosquito liquid
+2162,1,brand raid mosquito liquid
+2163,1,raid mosquito repellent refill
+2164,1,brand raid mosquito liquid
+2165,0,different brand youart not yoar
+2166,0,different brand ysl not yoar
+2167,1,brand yoar cosmetic exact match
+2168,0,different brand sassy go
+2169,0,different brand beauty by ay
+2170,1,brand nespresso machine
+2171,1,brand nespresso machine
+2172,1,brand nespresso capsules
+2173,1,brand nespresso machine
+2174,0,different brand only nespresso compatible
+2175,1,brand promalt malt drink
+2176,1,brand promalt malt drink
+2177,1,brand promalt malt drink
+2178,0,different brand maltana
+2179,0,different brand vitamalt
+2180,1,çakmak lighter matches
+2181,1,çakmak lighter matches
+2182,1,çakmak lighter matches
+2183,1,çakmak lighter matches
+2184,1,çakmak lighter matches
+2185,1,nintendo switch console
+2186,1,nintendo switch console
+2187,1,nintendo switch console
+2188,1,nintendo switch console
+2189,1,nintendo switch game
+2190,0,different brand arvix not arex
+2191,0,different brand arvix not arex
+2192,0,different brand arvix not arex
+2193,0,unrelated helmet product
+2194,0,unrelated gaming mouse product
+2195,1,brand omo detergent
+2196,1,brand omo detergent
+2197,1,brand omo detergent
+2198,1,brand omo detergent
+2199,1,brand omo detergent
+2200,1,ürün tipi reçellik matches
+2201,0,generic kase bowl not reçellik
+2202,1,ramekin mini reçellik matches
+2203,1,reçellik product type matches
+2204,1,cam reçellik product matches
+2205,1,atoderm bioderma product
+2206,1,atoderm bioderma product
+2207,1,atoderm bioderma product
+2208,1,atoderm bioderma product
+2209,1,atoderm bioderma product
+2210,1,custom song digital product
+2211,0,necklace not a song
+2212,1,vinyl record of songs
+2213,1,vinyl record of songs
+2214,0,childrens book not actual song
+2215,1,brand meduse sandals
+2216,1,brand meduse boots
+2217,0,different brand merrell
+2218,0,different brand walkway
+2219,0,different brand merrell
+2220,1,skin care serum matches cilt
+2221,1,skin care tonic matches cilt
+2222,1,skin care serum matches cilt
+2223,1,skin care serum matches cilt
+2224,1,skin care tonic matches cilt
+2225,1,hoppala baby bouncer matches
+2226,1,hoppala baby bouncer matches
+2227,1,hoppala baby bouncer matches
+2228,1,bella hoppala product line matches
+2229,1,hoppala baby bouncer matches
+2230,1,brand avene skincare
+2231,1,brand avene skincare
+2232,1,brand avene skincare
+2233,0,different brand aveeno
+2234,1,brand avene skincare
+2235,0,no clear muzigae brand match
+2236,0,no clear muzigae brand match
+2237,0,no clear muzigae brand match
+2238,0,no clear muzigae brand match
+2239,0,no clear muzigae brand match
+2240,1,pore tightening tonic matches gözenek
+2241,1,pore tightening tonic matches gözenek
+2242,1,pore tightening tonic matches gözenek
+2243,1,pore tightening tonic matches gözenek
+2244,1,pore care tonic matches gözenek
+2245,0,wall shelf not a squeegee
+2246,1,çekpas squeegee matches çekas
+2247,1,cam çekpas squeegee matches
+2248,1,cam çekçek squeegee matches
+2249,1,yer çekçek squeegee matches
+2250,1,sanding disk matches zımpara
+2251,1,sanding sponge matches zımpara
+2252,1,sandpaper disc matches zımpara
+2253,1,orbital sander matches zımpara
+2254,1,sandpaper set matches zımpara
+2255,1,sweatshirt matches query
+2256,1,sweatshirt matches query
+2257,1,sweatshirt matches query
+2258,1,sweatshirt matches query
+2259,1,sweatshirt matches query
+2260,1,brand jumbo cookware
+2261,1,brand jumbo cookware
+2262,1,jumbo matrix cookware
+2263,1,brand jumbo kettle
+2264,1,brand jumbo cookware
+2265,1,brand rare beauty perfume
+2266,1,brand rare beauty lipstick
+2267,1,brand rare beauty highlighter
+2268,1,brand rare beauty highlighter
+2269,1,brand rare beauty lipstick
+2270,1,kitaplık bookshelf matches
+2271,1,kitaplık bookshelf matches
+2272,1,kitaplık bookshelf matches
+2273,1,kitaplık bookshelf matches
+2274,1,kitaplık bookshelf matches
+2275,0,different brand le petit marseillais
+2276,0,different brand yves rocher
+2277,0,different brand ecowell
+2278,0,different brand yves rocher
+2279,0,different brand yves rocher
+2280,1,baby carrier matches kanguru
+2281,1,baby carrier matches kanguru
+2282,1,baby carrier matches kanguru
+2283,1,baby carrier matches kanguru
+2284,1,baby carrier matches kanguru
+2285,1,fenerbahçe themed mug
+2286,1,brand fenerbahçe mug
+2287,1,fenerbahçe licensed mug
+2288,1,brand fenerbahçe bracelet
+2289,1,brand fenerbahçe bracelet
+2290,1,manga set matches
+2291,1,manga related book matches
+2292,1,manga set matches
+2293,1,manga set matches
+2294,1,manga set matches
+2295,1,ayaklı footed stand matches
+2296,1,ayaklı footed stand matches
+2297,1,ayaklı footed stand matches
+2298,1,ayaklı footed stand matches
+2299,1,ayaklı footed stand matches
+2300,1,celebre avon perfume matches
+2301,1,celebre avon perfume matches
+2302,1,celebre avon perfume matches
+2303,1,celebre avon perfume matches
+2304,1,celebre avon perfume matches
+2305,0,different brand simenteks
+2306,0,different brand loyhediyelik
+2307,0,different brand thetic
+2308,0,different brand simenteks
+2309,0,different brand the lavinia
+2310,1,brand sonax car care
+2311,1,brand sonax car care
+2312,1,brand sonax car care
+2313,1,brand sonax car care
+2314,1,brand sonax car care
+2315,1,sensibio bioderma product
+2316,1,sensibio bioderma product
+2317,1,sensibio bioderma product
+2318,1,sensibio bioderma product
+2319,1,sensibio bioderma product
+2320,1,building block toy matches
+2321,1,building block toy matches
+2322,1,building block toy matches
+2323,1,building block toy matches
+2324,1,building block toy matches
+2325,1,beşiktaş bracelet matches
+2326,1,beşiktaş bracelet matches
+2327,1,beşiktaş bracelet matches
+2328,1,beşiktaş tshirt matches
+2329,1,beşiktaş bracelet matches
+2330,1,brand proshot boot
+2331,1,brand proshot boot
+2332,1,brand proshot running shoe
+2333,1,brand proshot outdoor shoe
+2334,0,different brand lumberjack
+2335,1,small items set matches eşyalar
+2336,1,decorative item matches eşyalar
+2337,1,decorative item matches eşyalar
+2338,1,household items set matches eşyalar
+2339,1,miniature household items match
+2340,1,kpss exam book matches
+2341,1,kpss exam book matches
+2342,1,kpss exam book matches
+2343,1,kpss exam book matches
+2344,1,kpss exam book matches
+2345,1,ring holder matches yüzüklük
+2346,1,ring stand matches yüzüklük
+2347,1,ring organizer matches yüzüklük
+2348,1,ring stand matches yüzüklük
+2349,1,ring organizer matches yüzüklük
+2350,1,adidas terrex line matches
+2351,1,adidas terrex line matches
+2352,1,adidas terrex line matches
+2353,1,adidas terrex line matches
+2354,1,adidas terrex line matches
+2355,1,bilsem exam prep book
+2356,1,bilsem exam prep book
+2357,1,bilsem exam prep book
+2358,1,bilsem exam prep book
+2359,1,bilsem exam prep book
+2360,0,different brand karen aksesuar
+2361,0,different brand tiyen
+2362,0,different brand htstore
+2363,0,different brand eyl techno
+2364,0,different brand teknova
+2365,0,different brand cosmen
+2366,0,different brand cosinus
+2367,0,different brand happy-nes
+2368,0,different brand svart wear
+2369,0,different brand crocs
+2370,0,different brand brabantia no ironika
+2371,0,decorative item not ironing board
+2372,1,title explicitly mentions ironika
+2373,0,different brand brabantia no ironika
+2374,0,different brand brabantia no ironika
+2375,1,şort matches şortolon
+2376,1,şort matches şortolon
+2377,1,şortlu pantolon matches şortolon
+2378,1,şort matches şortolon
+2379,1,şort matches şortolon
+2380,1,brand dremel rotary tool
+2381,0,brand bosch not dremel
+2382,1,brand dremel rotary tool
+2383,0,wrong category animal clipper brand bosch
+2384,0,different brand proxtech
+2385,1,pyramid shaped jewelry matches
+2386,1,pyramid puzzle matches
+2387,1,pyramid shaped bead matches
+2388,1,pyramid design belt matches
+2389,0,no pyramid reference hookah item
+2390,1,brand lykd lipstick
+2391,1,brand lykd palette
+2392,1,brand lykd contour
+2393,1,brand lykd lipstick
+2394,1,brand lykd lipstick
+2395,1,brand simtech heater
+2396,1,brand simtech heater
+2397,1,brand simtech heater
+2398,1,brand simtech heater
+2399,1,brand simtech heater fan
+2400,1,supergro product name matches
+2401,0,different product superblend not supergro
+2402,0,different product superblend not supergro
+2403,0,different product superblend not supergro
+2404,0,different product superblend not supergro
+2405,1,bot boots matches
+2406,1,bot boots matches
+2407,1,bot boots matches
+2408,1,bot boots matches
+2409,1,bot boots matches
+2410,1,sıvı yağ matches
+2411,1,sıvı yağ matches
+2412,1,sıvı yağ matches
+2413,1,sıvı yağ matches
+2414,1,sıvı yağ matches
+2415,1,brand pregio hair clip
+2416,0,different brand peg perego car seat
+2417,1,brand pregio hair clip
+2418,0,different brand wig product
+2419,1,brand pregio hair tie
+2420,1,brand tetra fish food
+2421,1,brand tetra fish food
+2422,1,brand tetra fish food
+2423,1,brand tetra fish food
+2424,1,brand tetra fish food
+2425,1,brand develi bath scrub
+2426,1,brand develi bath scrub
+2427,1,brand develi bath scrub
+2428,1,brand develi bath scrub
+2429,0,different brand alize yarn
+2430,1,brand pcos supplement
+2431,1,pcositol supplement for pcos
+2432,0,unrelated intimate care product
+2433,1,tea explicitly for pcos support
+2434,0,unrelated herbal supplement no pcos mention
+2435,1,brand sole cookware
+2436,0,different brand cem
+2437,1,brand sole cookware
+2438,0,different brand de buyer
+2439,1,brand sole cookware
+2440,1,brand the north face
+2441,1,brand the north face
+2442,1,brand the north face
+2443,1,brand the north face
+2444,1,brand the north face
+2445,1,koltuk sofa matches
+2446,1,koltuk sofa matches
+2447,1,koltuk sofa matches
+2448,1,koltuk sofa matches
+2449,1,koltuk sofa matches

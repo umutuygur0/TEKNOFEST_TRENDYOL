@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+8400,1,koton marka kadife pantolon eşleşiyor
+8401,0,marka koton değil mango woman
+8402,0,marka koton değil guess
+8403,0,marka koton değil ngu
+8404,0,kadife materyali belirtilmemiş tekstil örme
+8405,1,kırmızı bebek elbisesi eşleşiyor
+8406,1,kırmızı bebek elbisesi eşleşiyor
+8407,0,kırmızı renk belirtilmemiş kiraz desenli
+8408,0,kırmızı renk belirtilmemiş çilek desenli
+8409,0,kırmızı renk belirtilmemiş kiraz desenli
+8410,1,adidas kadın koşu ayakkabısı eşleşiyor
+8411,1,adidas kadın koşu ayakkabısı eşleşiyor
+8412,1,adidas kadın koşu ayakkabısı eşleşiyor
+8413,1,adidas kadın koşu ayakkabısı eşleşiyor
+8414,1,adidas unisex koşu ayakkabısı kadın uyumlu
+8415,1,metal suluk başlık eşleşiyor
+8416,1,metal suluk eşleşiyor
+8417,0,materyal tritan metal değil
+8418,0,materyal tritan metal değil
+8419,0,materyal tritan metal değil
+8420,1,kadın siyah trençkot eşleşiyor
+8421,1,kadın siyah trençkot eşleşiyor
+8422,1,kadın siyah trençkot eşleşiyor
+8423,1,kadın siyah trençkot eşleşiyor
+8424,1,kadın siyah trençkot eşleşiyor
+8425,0,pull bear tişört bot değil
+8426,0,marka ve kategori uyumsuz tişört
+8427,0,marka ve kategori uyumsuz tişört
+8428,0,marka ve kategori uyumsuz tişört
+8429,0,marka ve kategori uyumsuz tişört
+8430,0,bordo renk kırmızı değil
+8431,0,kırmızı renk belirtilmemiş unisex
+8432,0,kırmızı renk yok unisex
+8433,0,kırmızı renk yok unisex
+8434,0,kırmızı renk yok unisex
+8435,1,hamilelik testi eşleşiyor
+8436,1,hamilelik testi eşleşiyor
+8437,1,hamilelik testi eşleşiyor
+8438,1,hamilelik testi eşleşiyor
+8439,1,hamilelik testi eşleşiyor
+8440,1,lacivert erkek eşofman altı eşleşiyor
+8441,0,renk bordo lacivert değil
+8442,0,renk lacivert belirtilmemiş
+8443,0,renk lacivert belirtilmemiş
+8444,1,lacivert erkek eşofman altı eşleşiyor
+8445,0,low kesim bilekli değil
+8446,0,cinsiyet erkek kadın değil
+8447,0,cinsiyet erkek kadın değil
+8448,1,mid kesim unisex bilekli uyumlu
+8449,1,unisex basketbol ayakkabısı bilekli uyumlu
+8450,1,u.s. polo assn eşofman takımı eşleşiyor
+8451,1,u.s polo eşofman takımı başlık eşleşiyor
+8452,1,u.s polo eşofman takımı başlık eşleşiyor
+8453,1,u.s polo eşofman takımı eşleşiyor
+8454,1,u.s polo eşofman takımı eşleşiyor
+8455,1,pierre cardin kadın gömlek eşleşiyor
+8456,1,pierre cardin kadın gömlek eşleşiyor
+8457,1,pierre cardin kadın gömlek eşleşiyor
+8458,0,cinsiyet erkek kadın değil
+8459,1,pierre cardin kadın gömlek eşleşiyor
+8460,1,blazer etek takım eşleşiyor
+8461,1,blazer etek takım eşleşiyor
+8462,1,blazer etek takım eşleşiyor
+8463,0,etek değil pantolon takımı
+8464,0,etek değil pantolon takımı
+8465,1,ltb kadın kot pantolon eşleşiyor
+8466,1,ltb kadın kot pantolon eşleşiyor
+8467,1,ltb kadın kot pantolon eşleşiyor
+8468,1,ltb kadın kot pantolon eşleşiyor
+8469,1,ltb kadın kot pantolon eşleşiyor
+8470,1,kırmızı sweatshirt eşleşiyor unisex
+8471,1,kadın kırmızı sweatshirt eşleşiyor
+8472,1,kadın kırmızı sweatshirt eşleşiyor
+8473,1,kadın kırmızı sweatshirt eşleşiyor
+8474,1,kadın kırmızı sweatshirt eşleşiyor
+8475,1,füme hırka eşleşiyor
+8476,1,füme hırka eşleşiyor
+8477,0,kategori bluz hırka değil
+8478,1,açık füme kız çocuk hırka eşleşiyor
+8479,0,füme renk belirtilmemiş
+8480,1,penti patik eşleşiyor
+8481,1,penti patik eşleşiyor
+8482,1,penti patik eşleşiyor
+8483,1,penti patik eşleşiyor
+8484,1,penti patik eşleşiyor
+8485,1,vans bebek ayakkabı eşleşiyor
+8486,1,vans bebek ayakkabı eşleşiyor
+8487,1,vans bebek ayakkabı eşleşiyor
+8488,1,vans bebek ayakkabı başlıkta eşleşiyor
+8489,1,vans bebek ayakkabı eşleşiyor
+8490,1,luvishoes sneaker eşleşiyor
+8491,1,luvishoes sneaker eşleşiyor
+8492,1,luvishoes sneaker eşleşiyor
+8493,1,luvishoes sneaker eşleşiyor
+8494,1,luvishoes sneaker eşleşiyor
+8495,1,kahverengi sweatshirt eşleşiyor
+8496,1,kahverengi sweatshirt eşleşiyor
+8497,1,açık kahve sweatshirt yakın renk eşleşiyor
+8498,1,kahverengi sweatshirt eşleşiyor
+8499,1,kahverengi sweatshirt eşleşiyor
+8500,0,ev terliği bot değil
+8501,0,terlik bot değil
+8502,0,terlik bej süet değil
+8503,0,terlik bej süet değil
+8504,0,terlik bot değil
+8505,1,tuvalet eğitim seti eşleşiyor
+8506,1,tuvalet eğitim seti eşleşiyor
+8507,1,tuvalet eğitim seti eşleşiyor
+8508,1,tuvalet eğitim seti eşleşiyor
+8509,1,tuvalet eğitim seti eşleşiyor
+8510,1,bebek anı ürünü eşleşiyor
+8511,1,bebek anı ürünü eşleşiyor
+8512,1,bebek anı ürünü eşleşiyor
+8513,1,bebek anı ürünü eşleşiyor
+8514,1,bebek anı ürünü eşleşiyor
+8515,1,defacto erkek sweatshirt eşleşiyor
+8516,1,defacto erkek sweatshirt eşleşiyor
+8517,1,defacto erkek sweatshirt eşleşiyor
+8518,1,defacto erkek sweatshirt eşleşiyor
+8519,1,defacto erkek sweatshirt eşleşiyor
+8520,1,mango kadın mont eşleşiyor
+8521,1,mango kadın kaban eşleşiyor
+8522,1,mango kadın kaban palto eşleşiyor
+8523,1,mango kadın palto eşleşiyor
+8524,1,mango kadın kaban eşleşiyor
+8525,1,nike tn air max plus eşleşiyor
+8526,1,nike tn air max plus eşleşiyor
+8527,0,tn modeli değil
+8528,0,tn modeli değil
+8529,0,marka vans nike değil
+8530,1,nova color marka eşleşiyor
+8531,1,nova color marka eşleşiyor
+8532,1,nova color marka eşleşiyor
+8533,1,nova color marka eşleşiyor
+8534,1,nova color marka eşleşiyor
+8535,1,kız bebek gömlek eşleşiyor
+8536,1,kız bebek gömlek eşleşiyor
+8537,1,kız bebek gömlek eşleşiyor
+8538,1,kız bebek gömlek eşleşiyor
+8539,1,kız bebek gömlek eşleşiyor
+8540,1,ince sweatshirt eşleşiyor
+8541,1,ince sweatshirt eşleşiyor
+8542,1,ince sweatshirt eşleşiyor
+8543,1,ince sweatshirt eşleşiyor
+8544,1,ince sweatshirt eşleşiyor
+8545,0,1 blood ile ilgisiz poster
+8546,0,1 blood ile ilgisiz tablo
+8547,0,1 blood ile ilgisiz poster
+8548,0,1 blood ile ilgisiz poster
+8549,0,1 blood ile tamamen ilgisiz ürün
+8550,1,civil baby marka eşleşiyor
+8551,1,civil baby marka eşleşiyor
+8552,1,civil baby marka eşleşiyor
+8553,1,civil baby marka eşleşiyor
+8554,1,civil baby marka eşleşiyor
+8555,1,özel gün abiye elbisesi eşleşiyor
+8556,1,özel gün abiye elbisesi eşleşiyor
+8557,1,özel gün abiye elbisesi eşleşiyor
+8558,1,özel gün abiye elbisesi eşleşiyor
+8559,1,özel gün abiye elbisesi eşleşiyor
+8560,1,önü kapalı terlik eşleşiyor
+8561,1,önü kapalı terlik eşleşiyor
+8562,1,önü kapalı terlik eşleşiyor
+8563,1,önü kapalı terlik eşleşiyor
+8564,1,önü kapalı terlik eşleşiyor
+8565,1,erkek çocuk ev terliği eşleşiyor
+8566,1,erkek çocuk ev terliği eşleşiyor
+8567,1,erkek çocuk ev terliği eşleşiyor
+8568,1,erkek çocuk ev terliği eşleşiyor
+8569,1,erkek çocuk terlik unisex uyumlu
+8570,1,ns moda marka eşleşiyor
+8571,1,ns moda marka eşleşiyor
+8572,1,ns moda marka eşleşiyor
+8573,0,marka ns moda değil
+8574,0,marka ns moda değil
+8575,1,kalem boya eşleşiyor
+8576,1,keçeli boya kalemi eşleşiyor
+8577,1,keçeli boya kalemi eşleşiyor
+8578,1,kuru boya kalemi eşleşiyor
+8579,1,boya kalem seti eşleşiyor
+8580,1,aslan temalı ürün eşleşiyor
+8581,1,aslan temalı ürün eşleşiyor
+8582,1,aslan baskılı ürün eşleşiyor
+8583,1,aslan baskılı ürün eşleşiyor
+8584,0,aslan ile ilgisiz taraftar ürünü
+8585,1,puf başlıkta eşleşiyor
+8586,0,sandalye minderi puf değil
+8587,0,sandalye minderi puf değil
+8588,0,kasa koltuğu puf değil
+8589,0,sandalye minderi puf değil
+8590,1,bianco lucci trençkot eşleşiyor
+8591,1,bianco lucci trençkot eşleşiyor
+8592,1,bianco lucci trençkot eşleşiyor
+8593,1,bianco lucci trençkot eşleşiyor
+8594,1,bianco lucci trençkot eşleşiyor
+8595,1,the crow marka eşleşiyor
+8596,1,the crow marka eşleşiyor
+8597,1,the crow marka eşleşiyor
+8598,1,the crow marka eşleşiyor
+8599,1,the crow marka eşleşiyor
+8600,1,tudors eşofman takımı eşleşiyor
+8601,1,tudors eşofman takımı eşleşiyor
+8602,0,marka tudors değil
+8603,0,marka tudors değil
+8604,0,marka tudors değil
+8605,1,yürüteç eşleşiyor
+8606,1,yürüteç eşleşiyor
+8607,1,yürüteç eşleşiyor
+8608,1,yürüteç eşleşiyor
+8609,1,yürüteç eşleşiyor
+8610,1,marina mayo eşleşiyor
+8611,1,marina mayo eşleşiyor
+8612,1,marina mayo eşleşiyor
+8613,1,marina mayo eşleşiyor
+8614,1,marina mayo eşleşiyor
+8615,1,decathlon yelek eşleşiyor
+8616,1,decathlon yelek eşleşiyor
+8617,1,decathlon yelek eşleşiyor
+8618,1,decathlon yelek eşleşiyor
+8619,1,decathlon yelek eşleşiyor
+8620,1,tesettür etekli takım eşleşiyor
+8621,1,tesettür etekli takım eşleşiyor
+8622,1,tesettür etekli takım eşleşiyor
+8623,1,tesettür etekli takım eşleşiyor
+8624,1,tesettür etekli takım eşleşiyor
+8625,1,lescon kadın ayakkabı eşleşiyor
+8626,0,cinsiyet erkek kadın değil
+8627,1,lescon kadın ayakkabı eşleşiyor
+8628,1,lescon kadın ayakkabı eşleşiyor
+8629,1,lescon kadın ayakkabı eşleşiyor
+8630,1,armine marka eşleşiyor
+8631,0,marka alvina armine değil
+8632,0,marka alvina armine değil
+8633,0,marka alvina armine değil
+8634,0,marka tesettür dünyası armine değil
+8635,1,erkek ortopedik spor ayakkabı eşleşiyor
+8636,1,erkek ortopedik spor ayakkabı eşleşiyor
+8637,1,erkek ortopedik spor ayakkabı eşleşiyor
+8638,0,ortopedik ibaresi yok unisex
+8639,1,erkek ortopedik spor ayakkabı eşleşiyor
+8640,1,manijero sandalet eşleşiyor
+8641,1,manijero sandalet eşleşiyor
+8642,1,manijero sandalet eşleşiyor
+8643,1,manijero sandalet eşleşiyor
+8644,1,manijero sandalet eşleşiyor
+8645,0,arya stark bektaş ile ilgisiz
+8646,0,arya bektaş ile ilgisiz ürün
+8647,0,arya bektaş ile ilgisiz ürün
+8648,0,arya bektaş ile ilgisiz ürün
+8649,0,arya bektaş ile ilgisiz ürün
+8650,1,stan smith eşleşiyor
+8651,1,stan smith eşleşiyor
+8652,1,stan smith eşleşiyor
+8653,1,stan smith eşleşiyor
+8654,1,stan smith eşleşiyor
+8655,1,kadın palazzo pantolon eşleşiyor
+8656,1,kadın palazzo pantolon eşleşiyor
+8657,1,kadın palazzo pantolon eşleşiyor
+8658,1,kadın palazzo pantolon eşleşiyor
+8659,1,kadın palazzo kumaş pantolon eşleşiyor
+8660,1,avva erkek tişört eşleşiyor
+8661,1,avva erkek tişört eşleşiyor
+8662,1,avva erkek tişört eşleşiyor
+8663,1,avva erkek tişört eşleşiyor
+8664,1,avva erkek tişört eşleşiyor
+8665,1,kadın uzun mont eşleşiyor
+8666,1,kadın uzun mont eşleşiyor
+8667,1,kadın uzun mont eşleşiyor
+8668,1,kadın uzun kapitone mont eşleşiyor
+8669,0,uzun ibaresi belirtilmemiş
+8670,1,kamyon leo başlıkta eşleşiyor
+8671,0,leon farklı model kamyon
+8672,0,kamyon leo ile ilgisiz araba
+8673,0,kamyon leo ile ilgisiz araba
+8674,0,kamyon leo ile ilgisiz araba
+8675,1,bayan kapalı tesettür elbise eşleşiyor
+8676,1,bayan kapalı tesettür elbise eşleşiyor
+8677,1,bayan kapalı tesettür elbise eşleşiyor
+8678,1,bayan kapalı tesettür elbise eşleşiyor
+8679,0,kapalı olduğu belirsiz balon kol elbise
+8680,1,erkek deri ceket eşleşiyor
+8681,1,erkek deri ceket eşleşiyor
+8682,1,erkek deri ceket eşleşiyor
+8683,1,unisex deri ceket erkek uyumlu
+8684,1,erkek deri ceket eşleşiyor
+8685,1,l.a polo sneaker eşleşiyor
+8686,1,l.a polo sneaker eşleşiyor
+8687,1,l.a polo sneaker eşleşiyor
+8688,1,l.a polo sneaker eşleşiyor
+8689,1,l.a polo sneaker eşleşiyor
+8690,1,kadın beyaz hırka eşleşiyor
+8691,1,kadın beyaz hırka eşleşiyor
+8692,1,kadın beyaz hırka eşleşiyor
+8693,1,kadın beyaz hırka eşleşiyor
+8694,0,ekru renk beyaz değil
+8695,1,ekoseli kazak eşleşiyor
+8696,0,yılbaşı süsü kazak değil
+8697,0,ekose deseni belirtilmemiş
+8698,0,köpek kıyafeti insan kazağı değil
+8699,0,kazak değil çoklu takım ürünü
+8700,1,greyder erkek bot eşleşiyor
+8701,1,greyder erkek bot eşleşiyor
+8702,1,greyder erkek bot eşleşiyor
+8703,1,greyder erkek bot eşleşiyor
+8704,1,greyder erkek bot eşleşiyor
+8705,1,sandalet terlik eşleşiyor
+8706,1,sandalet terlik eşleşiyor
+8707,1,sandalet terlik eşleşiyor
+8708,1,sandalet terlik eşleşiyor
+8709,1,sandalet terlik eşleşiyor
+8710,1,lumberjack erkek sweatshirt eşleşiyor
+8711,1,lumberjack erkek sweatshirt eşleşiyor
+8712,1,lumberjack erkek sweatshirt eşleşiyor
+8713,1,lumberjack erkek sweatshirt eşleşiyor
+8714,1,lumberjack erkek sweatshirt eşleşiyor
+8715,0,şort sweatshirt değil
+8716,0,şort etek sweat değil
+8717,0,şort sweat değil
+8718,0,şort sweat değil
+8719,0,kot şort sweat değil
+8720,1,işıklı oyun topu eşleşiyor
+8721,1,işıklı oyun topu eşleşiyor
+8722,0,disko topu farklı ürün türü
+8723,0,disko topu farklı ürün türü
+8724,0,disko topu farklı ürün türü
+8725,1,boncuklu tabanca eşleşiyor
+8726,0,mantar patlatan boncuklu değil
+8727,0,sünger mermi boncuklu değil
+8728,0,nerf sünger dart boncuklu değil
+8729,0,kelepçe silah değil
+8730,1,kadın triko kazak eşleşiyor
+8731,1,kadın uzun triko kazak eşleşiyor
+8732,1,kadın triko kazak eşleşiyor
+8733,1,kadın triko kazak eşleşiyor
+8734,1,kadın triko kazak eşleşiyor
+8735,1,derimod topuklu ayakkabı eşleşiyor
+8736,1,derimod topuklu ayakkabı eşleşiyor
+8737,1,derimod topuklu ayakkabı eşleşiyor
+8738,1,derimod topuklu ayakkabı eşleşiyor
+8739,1,derimod topuklu ayakkabı eşleşiyor
+8740,1,joger pantolon eşleşiyor
+8741,1,joger pantolon eşleşiyor
+8742,1,joger pantolon eşleşiyor
+8743,1,joger pantolon eşleşiyor
+8744,1,joger pantolon eşleşiyor
+8745,1,kadın örgü yelek eşleşiyor
+8746,1,kadın örgü yelek eşleşiyor
+8747,1,kadın örgü yelek eşleşiyor
+8748,1,kadın örgü yelek eşleşiyor
+8749,1,kadın örgü yelek eşleşiyor

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+6300,1,banyo askısı directly matches query
+6301,1,banyo askısı directly matches query
+6302,1,banyo askısı directly matches query (diff color)
+6303,1,erbaşlar brand kahvaltı takımı matches
+6304,1,erbaşlar brand kahvaltı takımı matches
+6305,1,erbaşlar brand kahvaltı takımı matches
+6306,1,ers erbaşlar kahvaltı takımı matches
+6307,1,erbaşlar brand kahvaltı takımı matches
+6308,0,apocalypse speaker but 20cm not 16cm as queried
+6309,0,apocalypse speaker but 20cm not 16cm as queried
+6310,0,apocalypse speaker but 20cm not 16cm as queried
+6311,0,apocalypse speaker but 20cm not 16cm as queried
+6312,0,13cm speaker brand machete not 16cm apocalypse
+6313,1,güneş gözlüğü matches query
+6314,1,güneş gözlüğü matches query
+6315,1,güneş gözlüğü matches query
+6316,1,güneş gözlüğü matches query
+6317,1,güneş gözlüğü matches query
+6318,1,sebze meyve sepeti matches query
+6319,1,sebzelik meyvelik sepeti matches query
+6320,1,sebzelik meyvelik organizer matches query
+6321,1,meyve sebze sepeti matches query
+6322,1,multi-use sebzelik meyvelik sepet matches query
+6323,1,fbzhome banyo düzenleyici brand and category match
+6324,1,fbzhome banyo düzenleyici brand and category match
+6325,1,fbzhome banyo düzenleyici brand and category match
+6326,1,fbzhome banyo düzenleyici brand and category match
+6327,1,fbzhome banyo düzenleyici brand and category match
+6328,1,iphone 11 kırılmaz ekran koruyucu matches exactly
+6329,0,iphone 11 PRO screen protector not iphone 11
+6330,0,iphone 11 pro max screen protector not iphone 11
+6331,1,iphone 11 kırılmaz ekran koruyucu matches exactly
+6332,1,iphone 11 compatible screen protector matches
+6333,1,hamile tesettür elbise matches query
+6334,1,hamile tesettür elbise matches query
+6335,1,tesettüre uygun hamile elbise matches query
+6336,1,tesettüre uygun hamile elbise matches query
+6337,1,hamile tesettür tunik elbise matches query
+6338,1,revolution brand allık matches query
+6339,1,revolution brand allık matches query
+6340,1,revolution brand allık matches query
+6341,1,revolution pro brand allık matches query
+6342,1,revolution brand allık matches query
+6343,0,brand is linktech not S-Link as queried
+6344,0,brand is linktech not S-Link as queried
+6345,0,brand is linktech not S-Link as queried
+6346,0,brand is linktech not S-Link as queried
+6347,0,brand is linktech not S-Link as queried
+6348,1,stoper kapı stoperi matches query
+6349,1,stoper kapı stoperi matches query
+6350,1,title explicitly says kapı stoperi matching query
+6351,1,stoper kapı stoperi matches query
+6352,1,stoper kapı stoperi matches query
+6353,1,tuz değirmen matches query
+6354,1,tuz karabiber değirmeni matches query
+6355,1,tuz karabiber değirmeni matches query
+6356,1,tuz öğütücü değirmen matches query
+6357,1,tuz karabiber değirmeni matches query
+6358,1,seramik kaplama for cars matches query
+6359,1,seramik kaplama for cars matches query
+6360,0,wall/floor ceramic panel not car ceramic coating
+6361,1,araç seramik kaplama matches query
+6362,1,car ceramic coating product matches query
+6363,1,eşofman üstü matches query
+6364,1,eşofman üstü matches query
+6365,1,kapüşonlu eşofman üstü matches query
+6366,1,eşofman üstü matches query
+6367,1,eşofman üstü matches query
+6368,1,Tigger plush toy character matches query
+6369,0,Tiger watch brand not Tigger character
+6370,0,Tiger watch brand not Tigger character
+6371,0,Tiger watch brand not Tigger character
+6372,0,Tugerdi boots unrelated to Tigger
+6373,1,kadın ince saat matches query
+6374,1,kadın ince saat matches query
+6375,1,kadın ince saat matches query
+6376,1,kadın ince saat matches query
+6377,1,kadın ince saat matches query
+6378,1,david walker brand parfüm matches query
+6379,1,david walker brand parfüm matches query
+6380,1,david walker brand parfüm matches query
+6381,1,david walker brand parfüm matches query
+6382,1,david walker brand parfüm matches query
+6383,1,love my body brand outerwear ceket close to kaban
+6384,1,love my body brand ceket close to kaban
+6385,1,love my body brand ceket close to kaban
+6386,0,love my body pantolon not kaban/ceket
+6387,0,love my body pantolon not kaban/ceket
+6388,1,vans kırmızı sneaker matches query
+6389,1,vans kırmızı sneaker matches query
+6390,1,vans kırmızı sneaker matches query
+6391,1,vans kırmızı sneaker matches query
+6392,1,vans kırmızı sneaker title matches query
+6393,1,bioderma güneş kremi matches query
+6394,1,bioderma güneş kremi matches query
+6395,1,bioderma güneş kremi matches query
+6396,1,bioderma güneş kremi matches query
+6397,1,bioderma güneş kremi matches query
+6398,1,ikea kırlent matches query
+6399,1,ikea kırlent kılıfı matches query
+6400,1,ikea kırlent matches query
+6401,1,ikea kırlent kılıfı matches query
+6402,1,ikea kırlent matches query
+6403,1,tyt dil bilgisi soru bankası matches query
+6404,1,tyt ayt dil bilgisi soru bankası matches query
+6405,1,tyt ayt dil bilgisi soru bankası matches query
+6406,1,tyt ayt dil bilgisi soru bankası matches query
+6407,1,tyt ayt dil bilgisi soru bankası matches query
+6408,1,beyaz çift kişilik yatak örtüsü matches query
+6409,1,beyaz çift kişilik yatak örtüsü matches query
+6410,1,beyaz çift kişilik yatak örtüsü matches query
+6411,1,beyaz çift kişilik yatak örtüsü matches query
+6412,1,beyaz çift kişilik yatak örtüsü matches query
+6413,1,kırlent iç yastık matches yastık içi query
+6414,1,kırlent iç yastık matches yastık içi query
+6415,1,kırlent içi yastık matches yastık içi query
+6416,1,kırlent içi yastık matches yastık içi query
+6417,1,kırlent iç yastığı matches yastık içi query
+6418,1,esem brand otomat matches esemmat query intent
+6419,0,religious book unrelated to esemmat
+6420,0,eczema cream unrelated to esemmat
+6421,0,wooden basket unrelated to esemmat
+6422,0,bathroom sink unrelated to esemmat
+6423,1,imam gazali kitap seti matches query
+6424,1,imam gazali kitap seti matches query
+6425,1,imam gazali kitabı matches query
+6426,1,imam gazali kitabı matches query
+6427,1,imam-ı gazali kitap seti matches query
+6428,1,araba kornası matches query
+6429,1,araç korna set matches query
+6430,1,oto korna set matches query
+6431,1,havalı korna matches query
+6432,1,havalı korna matches query
+6433,1,hidroponik kil bilyesi matches query
+6434,1,hidroponik kil bilyesi matches query
+6435,0,cosmetic face mask clay not hydroponic clay pebbles
+6436,0,decorative gravel stones not clay pebbles
+6437,0,aquarium air stone not clay pebbles
+6438,1,iphone 16 pro ekran koruyucu matches exactly
+6439,1,iphone 16 pro ekran koruyucu matches exactly
+6440,1,iphone 16 pro ekran koruyucu title matches query
+6441,1,iphone 16 pro ekran koruyucu matches exactly
+6442,1,iphone 16 pro ekran koruyucu matches exactly
+6443,1,imprime brand parfüm matches query
+6444,0,brand ixora not imprime
+6445,0,brand farmasi not imprime
+6446,1,imprime brand parfüm matches query
+6447,0,brand farmasi not imprime
+6448,1,akvaryum cam temizleme matches query
+6449,1,akvaryum cam temizleme sileceği matches query
+6450,1,akvaryum temizleme seti includes glass cleaning
+6451,0,aquarium filtration system not glass cleaner
+6452,1,akvaryum cam kazıyıcı spatula matches query
+6453,1,çeyizlik havlu matches query
+6454,1,çeyizlik havlu matches query
+6455,1,çeyizlik havlu matches query
+6456,1,çeyizlik havlu matches query
+6457,1,çeyizlik havlu matches query
+6458,0,brand orhangazi not özgün zeytin
+6459,1,özgün zeytin & zeytinyaği brand matches
+6460,0,brand ertürk not özgün zeytin
+6461,1,özgün zeytincilik brand matches query
+6462,0,brand ayolis not özgün zeytin
+6463,1,ocak üstü koruyucu matches query
+6464,0,ocak arkası koruyucu is different placement than ocak üstü
+6465,0,ocak arkası koruyucu is different placement than ocak üstü
+6466,1,ocak üstü koruyucu matches query
+6467,1,ocak üstü koruyucu matches query
+6468,1,sivilce leke serum matches query
+6469,1,sivilce leke serum matches query
+6470,1,sivilce leke krem matches query
+6471,1,sivilce leke krem matches query
+6472,1,sivilce leke serum matches query
+6473,1,kara mürver sambucus supplement matches query
+6474,1,sambucol elderberry supplement matches query
+6475,1,sambucus şurup matches query
+6476,1,sambucus kara mürver matches query
+6477,1,sambucol kara mürver ekstresi matches query
+6478,1,philips brand small appliance matches query
+6479,1,philips brand blender matches query
+6480,1,philips brand small appliance set matches query
+6481,1,philips brand blender matches query
+6482,1,philips brand blender matches query
+6483,1,zarif tesettür abiye matches query
+6484,1,tesettür abiye elbise matches query
+6485,1,tesettür abiye elbise matches query
+6486,1,tesettür elbise matches query
+6487,1,tesettür abiye matches query
+6488,1,jig lure matches query
+6489,1,jig lure matches query
+6490,0,jigging fishing rod not jig lure
+6491,0,jigging fishing rod not jig lure
+6492,1,jig lure series matches query
+6493,1,redoxon brand matches query
+6494,1,redoxon brand matches query
+6495,1,redoxon brand matches query
+6496,1,redoxon brand matches query
+6497,1,redoxon brand matches query
+6498,1,pratico oyuncak dolabı matches query
+6499,1,pratico oyuncak dolabı matches query
+6500,1,pratico oyuncak dolabı matches query
+6501,1,pratico oyuncak dolabı matches query
+6502,1,pratico oyuncak dolabı matches query
+6503,1,english home fotoğraf çerçevesi matches query
+6504,0,brand chakra not english home
+6505,1,english home fotoğraf çerçevesi matches query
+6506,1,english home fotoğraf çerçevesi matches query
+6507,1,english home fotoğraf çerçevesi matches query
+6508,1,lego brand building set matches query (minor size diff)
+6509,1,lego brand building set matches query (minor size diff)
+6510,1,lego minifigures matches query
+6511,1,lego brand building set matches query (minor size diff)
+6512,1,lego brand building set matches query (minor size diff)
+6513,1,kadın altın alyans matches query
+6514,1,altın alyans yüzük kadın matches query
+6515,1,altın alyans matches query
+6516,1,altın alyans matches query
+6517,1,altın alyans yüzük matches query
+6518,1,stray kids album matches skz query
+6519,1,stray kids album matches skz query
+6520,1,stray kids album matches skz query
+6521,0,youth magazine not an album
+6522,0,hobby magazine not an album
+6523,1,kromi themed uçlu kalem set matches query
+6524,1,kromi themed plush toy matches query
+6525,1,kromi themed defter matches query
+6526,1,kromi themed defter matches query
+6527,1,kuromi themed bag matches query
+6528,1,wide leg kot pantolon matches query
+6529,1,wide leg denim pantolon matches query
+6530,1,wide leg kot pantolon matches query
+6531,1,wide leg kot pantolon matches query
+6532,1,bol paça palazzo denim similar to wide leg
+6533,1,yağmurluk ceket matches query
+6534,1,yağmurluk ceket matches query
+6535,1,yağmurluk ceket matches query
+6536,1,yağmurluk ceket matches query
+6537,1,yağmurluk ceket matches query
+6538,1,yaka kartı matches query
+6539,1,yaka kartı matches query
+6540,1,yaka kartı matches query
+6541,1,yaka kartı matches query
+6542,1,yaka kartı matches query
+6543,1,bayan triko kazak matches query
+6544,1,bayan triko kazak matches query
+6545,1,triko kazak matches query
+6546,1,triko kazak matches query
+6547,1,örme kazak matches triko kazak intent
+6548,1,balta matches query
+6549,1,balta matches query
+6550,1,balta matches query
+6551,1,kamp baltası matches query
+6552,1,kamp baltası matches query
+6553,1,huawei band 10 uyumlu kordon matches query
+6554,1,huawei band 10 uyumlu kordon matches query
+6555,1,huawei band 10 uyumlu kordon matches query
+6556,0,honor magic 2 kordon not huawei band 10
+6557,1,huawei band 10 uyumlu kordon matches query
+6558,1,rare beauty brand kapatıcı matches query
+6559,1,rare beauty brand kapatıcı matches query
+6560,1,rare beauty brand kapatıcı matches query
+6561,1,rare beauty brand kapatıcı matches query
+6562,1,rare beauty brand kapatıcı matches query
+6563,1,ocean glukozamin brand matches query
+6564,1,ocean glukozamin brand matches query
+6565,1,ocean glukozamin brand matches query
+6566,0,brand chondurax not ocean
+6567,0,brand balen not ocean
+6568,1,pierre cardin postacı çanta matches query
+6569,1,pierre cardin postacı çanta title matches query
+6570,0,pierre cardin omuz çantası not postacı çanta
+6571,0,pierre cardin omuz çantası not postacı çanta
+6572,0,pierre cardin çapraz omuz çanta not postacı çanta
+6573,1,d&p perfumum brand parfüm matches query
+6574,1,d&p perfumum brand parfüm matches query
+6575,1,d&p perfumum brand parfüm matches query
+6576,1,d&p perfumum brand parfüm matches query
+6577,1,d&p perfumum brand parfüm matches query
+6578,1,tekli zigon sehpa matches query
+6579,1,tekli zigon sehpa title matches query
+6580,1,tekli zigon sehpa title matches query
+6581,1,tekli zigon sehpa title matches query
+6582,1,tekli zigon sehpa title matches query
+6583,1,defter kılıfı matches query
+6584,1,defter kılıfı matches query
+6585,1,not defteri kılıfı matches query
+6586,0,kitap ayracı/book cover not defter kılıfı
+6587,0,kitap kılıfı book cover not defter kılıfı
+6588,0,game controller unrelated to eym query
+6589,0,exam prep book unrelated to eym query
+6590,0,novel book unrelated to eym query
+6591,0,ps4 game unrelated to eym query
+6592,0,ps4 game unrelated to eym query
+6593,1,eyfel kulesi biblo matches query
+6594,1,eyfel kulesi biblo matches query
+6595,1,eyfel kulesi model matches query
+6596,1,eyfel kulesi biblo matches query
+6597,1,eyfel kulesi biblo matches query
+6598,1,canson brand art paper matches query
+6599,1,canson product included in bundled set
+6600,1,canson product included in bundled set
+6601,1,canson brand matches query
+6602,1,canson brand matches query
+6603,1,ferre ankastre matches query
+6604,1,ferre ankastre matches query
+6605,1,ferre ankastre matches query
+6606,1,ferre ankastre matches query
+6607,1,ferre ankastre matches query
+6608,1,kumandalı aplik matches query
+6609,1,kumandalı aplik matches query
+6610,1,kumandalı aplik matches query
+6611,1,kumandalı aplik matches query
+6612,1,kumandalı aplik matches query
+6613,1,banyo oturağı matches duş oturağı query
+6614,1,duş oturağı matches query
+6615,1,duş oturağı matches query
+6616,1,duş oturağı matches query
+6617,1,banyo/duş oturağı matches query
+6618,1,loreal majirel saç boyası matches query
+6619,1,loreal majirel saç boyası matches query
+6620,1,loreal majirel saç boyası matches query
+6621,1,loreal majirel saç boyası matches query
+6622,1,loreal majirel saç boyası matches query
+6623,1,kablo koruyucu matches query
+6624,1,kablo koruyucu matches query
+6625,1,kablo koruyucu matches query
+6626,1,kablo koruyucu title matches query
+6627,1,kablo koruyucu matches query
+6628,1,defacto brand yelek matches query
+6629,1,defacto brand yelek matches query
+6630,1,defacto brand yelek matches query
+6631,1,defacto brand yelek matches query
+6632,1,defacto brand yelek matches query
+6633,1,motosiklet body armor matches query
+6634,1,motosiklet body armor matches query
+6635,1,motosiklet body armor matches query
+6636,1,motosiklet body armor matches query
+6637,0,knee cover only not full body armor
+6638,1,rainbocorns brand matches query
+6639,1,rainbocorns brand matches query
+6640,1,rainbocorns brand matches query
+6641,1,rainbocorns brand matches query
+6642,1,rainbocorns brand title matches query
+6643,1,tezgah rafı matches query
+6644,1,tezgah rafı matches query
+6645,1,tezgah rafı matches query
+6646,1,tezgah rafı matches query
+6647,1,tezgah rafı matches query
+6648,1,mdf panel matches query
+6649,1,mdf panel matches query

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+1400,1,iphone 13 matches query
+1401,1,refurbished iphone 13 same model
+1402,1,refurbished iphone 13 same model
+1403,0,case for iphone 11 not phone itself
+1404,0,phone case accessory not the phone
+1405,1,smart watch matches generic watch query
+1406,1,apple watch matches query
+1407,1,smart watch matches query
+1408,1,smart watch matches query
+1409,1,smart watch matches query
+1410,1,guitar pick matches pena query
+1411,1,guitar pick matches pena query
+1412,1,guitar pick matches pena query
+1413,1,guitar pick matches pena query
+1414,1,guitar pick matches pena query
+1415,1,mikro brand pen matches query
+1416,1,mikro brand pen matches query
+1417,1,mikro brand pen matches query
+1418,1,mikro brand pen matches query
+1419,1,mikro brand pen matches query
+1420,1,she vec brand sunscreen matches query
+1421,0,the ordinary brand mismatch
+1422,1,she vec brand sunscreen matches query
+1423,0,licape brand mismatch
+1424,0,revolution brand mismatch
+1425,1,fishing lure matches balıkçılık query
+1426,1,fishing lure matches balıkçılık query
+1427,1,fishing rig matches balıkçılık query
+1428,1,fishing lure matches balıkçılık query
+1429,1,fishing tackle set matches balıkçılık query
+1430,1,tomato paste matches salça query
+1431,1,tomato paste matches salça query
+1432,1,pepper paste matches salça query
+1433,1,tomato paste matches salça query
+1434,1,pepper paste matches salça query
+1435,1,estee lauder skincare set matches query
+1436,1,estee lauder set matches query
+1437,1,estee lauder set matches query
+1438,1,estee lauder eye cream matches query
+1439,1,estee lauder set matches query
+1440,0,alpha everstrong different brand from alpha
+1441,0,adidas shoe unrelated brand alpha only in model name
+1442,1,alpha brand hair serum matches query
+1443,1,alpha brand hair mask matches query
+1444,1,alpha brand hair mask matches query
+1445,1,elseve shampoo set matches query
+1446,1,elseve shampoo matches query
+1447,1,elseve shampoo set matches query
+1448,1,elseve hair conditioner matches query
+1449,1,elseve shampoo set matches query
+1450,1,kids activity craft matches aktivite query
+1451,1,kids activity coloring roll matches query
+1452,1,kids educational activity toy matches query
+1453,1,activity book set matches query
+1454,1,kids activity coloring roll matches query
+1455,1,saw sled tool matches hızar query
+1456,1,chainsaw matches hızar query
+1457,1,chainsaw matches hızar query
+1458,1,electric saw matches hızar query
+1459,1,chainsaw motor matches hızar query
+1460,1,persil detergent matches brand query
+1461,1,persil detergent matches brand query
+1462,1,persil detergent matches brand query
+1463,1,persil detergent matches brand query
+1464,1,persil detergent matches brand query
+1465,1,marcato pasta machine matches brand query
+1466,0,mesilife thermometer brand mismatch
+1467,0,skygo screws brand mismatch
+1468,0,motobisavm bike fender brand mismatch
+1469,0,ritter slicer brand mismatch
+1470,1,asroya bike fender matches brand query
+1471,1,asroya bike handlebar matches brand query
+1472,1,asroya brake lever matches brand query
+1473,1,asroya child bike seat matches brand query
+1474,1,asroya bike saddle matches brand query
+1475,1,gamelu shoe matches brand query
+1476,1,gamelu shoe matches brand query
+1477,1,gamelu shoe matches brand query
+1478,1,gamelu sneaker matches brand query
+1479,1,gamelu shoe matches brand query
+1480,1,daniel wellington watch matches query
+1481,1,daniel klein watch matches daniel query
+1482,0,sunglasses named daniel not a watch brand match
+1483,1,daniel klein watch matches query
+1484,1,daniel klein watch matches query
+1485,1,tonguç yayınları book matches brand query
+1486,1,tonguç yayınları book matches brand query
+1487,1,tonguç yayınları book matches brand query
+1488,1,tonguç yayınları book matches brand query
+1489,1,tonguç yayınları book matches brand query
+1490,1,croissant matches kruvasan query
+1491,1,croissant matches kruvasan query
+1492,1,croissant matches kruvasan query
+1493,1,chocolate croissant matches kruvasan query
+1494,0,earring shaped like croissant not food
+1495,1,orzax brand supplement matches query
+1496,1,orzax brand supplement matches query
+1497,1,ocean line by orzax matches query
+1498,1,ocean line by orzax matches query
+1499,0,nutraxin brand mismatch
+1500,1,football cleats matches grampon query
+1501,1,football cleats matches grampon query
+1502,1,football cleats matches grampon query
+1503,1,football cleats matches grampon query
+1504,1,football cleats matches grampon query
+1505,1,fms pressure cooker matches brand query
+1506,1,fms pressure cooker matches brand query
+1507,1,fms pressure cooker matches brand query
+1508,1,fms cookware matches brand query
+1509,0,s-link tester brand mismatch
+1510,1,paragraph question bank matches query
+1511,1,paragraph question bank matches query
+1512,1,paragraph question bank matches query
+1513,1,paragraph question bank matches query
+1514,1,paragraph question bank matches query
+1515,1,kids scooter matches query
+1516,1,kids scooter matches query
+1517,1,kids scooter matches query
+1518,1,kids scooter matches query
+1519,1,kids scooter matches query
+1520,1,adidas gazelle sneaker matches query
+1521,1,adidas gazelle sneaker matches query
+1522,1,adidas gazelle sneaker kids matches query
+1523,0,bike spoke wire unrelated to gazelle
+1524,0,hand exerciser unrelated to gazelle
+1525,1,samovar matches semaver query
+1526,1,samovar matches semaver query
+1527,1,samovar matches semaver query
+1528,1,tea samovar matches semaver query
+1529,1,samovar matches semaver query
+1530,1,laptop matches dizüstü query
+1531,1,laptop matches dizüstü query
+1532,1,laptop matches dizüstü query
+1533,1,laptop matches dizüstü query
+1534,1,laptop matches dizüstü query
+1535,1,beads matches boncuk query
+1536,1,beads matches boncuk query
+1537,1,beads matches boncuk query
+1538,1,beads matches boncuk query
+1539,1,beads matches boncuk query
+1540,1,badminton set matches query
+1541,1,badminton set matches query
+1542,1,badminton set matches query
+1543,1,badminton set matches query
+1544,1,badminton racket matches query
+1545,1,prada perfume matches brand query
+1546,1,prada sunglasses matches brand query
+1547,1,prada sunglasses matches brand query
+1548,1,prada sunglasses matches brand query
+1549,1,prada sunglasses matches brand query
+1550,1,garden hoe matches çapa query
+1551,1,garden hoe matches çapa query
+1552,1,garden hoe matches çapa query
+1553,1,garden hoe matches çapa query
+1554,1,garden hoe matches çapa query
+1555,1,sanicat cat litter matches brand query
+1556,1,sanicat cat litter matches brand query
+1557,1,sanicat cat litter matches brand query
+1558,1,sanicat cat litter matches brand query
+1559,1,sanicat cat litter matches brand query
+1560,1,face powder matches pudra query
+1561,1,face powder matches pudra query
+1562,1,face powder matches pudra query
+1563,1,face powder matches pudra query
+1564,1,face powder matches pudra query
+1565,1,fashcolle gaming chair matches brand query
+1566,1,fashcolle gaming chair matches brand query
+1567,1,fashcolle gaming chair matches brand query
+1568,0,exvega chair brand mismatch
+1569,0,ergopixel chair brand mismatch
+1570,1,babybjorn carrier matches brand query
+1571,1,babybjorn carrier matches brand query
+1572,1,babybjorn carrier matches brand query
+1573,0,molmini sling brand mismatch
+1574,0,kubbe carrier brand mismatch
+1575,1,sealant matches mastik query
+1576,1,sealant matches mastik query
+1577,1,sealant matches mastik query
+1578,1,sealant matches mastik query
+1579,1,sealant matches mastik query
+1580,1,qawwa jacket matches brand query
+1581,1,qawwa jacket matches brand query
+1582,1,qawwa parka matches brand query
+1583,1,qawwa kids jacket matches brand query
+1584,1,qawwa kids jacket matches brand query
+1585,1,slippers match terlik query
+1586,1,slippers match terlik query
+1587,1,slippers match terlik query
+1588,1,slippers match terlik query
+1589,1,slippers match terlik query
+1590,1,balonevi balloon matches brand query
+1591,1,balonevi balloon matches brand query
+1592,1,balonevi balloon matches brand query
+1593,1,balonevi balloon matches brand query
+1594,1,balonevi balloon matches brand query
+1595,1,cantu shampoo matches brand query
+1596,1,cantu hair oil matches brand query
+1597,1,cantu shampoo matches brand query
+1598,1,cantu comb matches brand query
+1599,1,cantu kids cream matches brand query
+1600,1,keramika breakfast set matches query
+1601,1,keramika breakfast set matches query
+1602,1,keramika breakfast set matches query
+1603,1,keramika bowl set matches brand query
+1604,1,keramika breakfast set matches query
+1605,1,bag organizer matches poşetlik query
+1606,1,bag organizer matches poşetlik query
+1607,1,bag organizer matches poşetlik query
+1608,1,bag organizer matches poşetlik query
+1609,1,bag organizer matches poşetlik query
+1610,1,instax camera matches brand query
+1611,1,instax camera matches brand query
+1612,1,instax film matches brand query
+1613,1,instax camera matches brand query
+1614,1,instax camera matches brand query
+1615,1,maggi product matches brand query
+1616,1,maggi soup matches brand query
+1617,1,maggi sauce matches brand query
+1618,1,maggi soup matches brand query
+1619,1,maggi soup matches brand query
+1620,1,mixup nail oil matches brand query
+1621,1,mixup brow wax matches brand query
+1622,1,mixup cuticle oil matches brand query
+1623,1,mixup nail care set matches brand query
+1624,1,mixup nail treatment matches brand query
+1625,1,battery wall lamp matches pilli query
+1626,1,battery wall lamp matches pilli query
+1627,1,battery wall lamp matches pilli query
+1628,1,battery wall lamp matches pilli query
+1629,1,battery wall lamp matches pilli query
+1630,1,carraro bicycle matches brand query
+1631,1,carraro bicycle matches brand query
+1632,1,carraro bicycle matches brand query
+1633,1,carraro bicycle matches brand query
+1634,1,carraro bicycle matches brand query
+1635,1,kiehls skincare set matches brand query
+1636,1,kiehls skincare set matches brand query
+1637,1,kiehls eye cream matches brand query
+1638,1,kiehls skincare set matches brand query
+1639,1,kiehls skincare set matches brand query
+1640,1,kalyon nail product matches brand query
+1641,1,kalyon nail product matches brand query
+1642,1,kalyon nail product matches brand query
+1643,1,kalyon nail polish matches brand query
+1644,1,kalyon nail polish matches brand query
+1645,1,sarebaby baby set matches brand query
+1646,1,sarebaby baby socks matches brand query
+1647,1,sarebaby baby set matches brand query
+1648,1,sarebaby sleep sack matches brand query
+1649,1,sarebaby baby bodysuit matches brand query
+1650,1,pioneer car audio matches brand query
+1651,1,pioneer speaker matches brand query
+1652,1,pioneer speaker matches brand query
+1653,1,pioneer speaker matches brand query
+1654,1,pioneer speaker matches brand query
+1655,1,evonox dryer ball matches evonoks query
+1656,0,evvano lint roller brand mismatch
+1657,0,going zeero dryer ball brand mismatch
+1658,0,qlaris dryer ball brand mismatch
+1659,0,biz class dryer ball brand mismatch
+1660,1,geberit bathroom part matches brand query
+1661,1,geberit control panel matches brand query
+1662,1,geberit faucet matches brand query
+1663,1,geberit toilet matches brand query
+1664,1,geberit drain grate matches brand query
+1665,1,contour glucose strip matches brand query
+1666,1,contour glucose strip matches brand query
+1667,0,accu chek different brand strip
+1668,0,palette hair color unrelated to contour
+1669,0,hair dye brand mismatch unrelated
+1670,1,lip makeup set matches dudak query
+1671,1,lip care oil matches dudak query
+1672,1,lip balm matches dudak query
+1673,1,lip gloss matches dudak query
+1674,1,lip moisturizer matches dudak query
+1675,0,phone case unrelated to fc26 query
+1676,0,football jersey wrong season not fc26 game
+1677,0,football jersey wrong season not fc26 game
+1678,0,football jersey wrong season not fc26 game
+1679,0,football jersey wrong season not fc26 game
+1680,1,bearing matches rulman query
+1681,1,bearing matches rulman query
+1682,1,bearing matches rulman query
+1683,1,bearing matches rulman query
+1684,1,bearing matches rulman query
+1685,1,dried madımak matches query
+1686,1,madımak canned matches query
+1687,1,madımak canned matches query
+1688,1,madımak canned matches query
+1689,1,madımak canned matches query
+1690,1,fleece lined sweatshirt matches şardonlu query
+1691,0,sweatshirt no fleece lining mentioned
+1692,1,fleece lined sweatshirt matches şardonlu query
+1693,0,soft textured sweatshirt not explicitly fleece lined
+1694,0,sweatshirt no fleece lining mentioned
+1695,1,traditional jug matches güğüm query
+1696,1,decorative mini jug matches güğüm query
+1697,1,decorative mini jug matches güğüm query
+1698,1,aluminum jug matches güğüm query
+1699,1,antique milk jug matches güğüm query
+1700,1,ceiling paint matches tavan query
+1701,1,ceiling paint matches tavan query
+1702,1,ceiling paint matches tavan query
+1703,1,ceiling light fixture matches tavan query
+1704,1,ceiling wall paint matches tavan query
+1705,0,antivirus license unrelated to mipo
+1706,0,external hard disk unrelated to mipo
+1707,0,xiaomi phone case unrelated to mipo
+1708,0,iphone case unrelated to mipo
+1709,0,car part hose unrelated to mipo
+1710,1,ocuvite vitamin matches brand query
+1711,1,ocuvite vitamin matches brand query
+1712,1,ocuvite vitamin matches brand query
+1713,1,ocuvite vitamin matches brand query
+1714,1,ocuvite vitamin matches brand query
+1715,1,cake base matches pasta query
+1716,0,fake decorative cake not edible pasta
+1717,0,fake decorative cake not edible pasta
+1718,1,profiterole cake matches pasta query
+1719,1,regional cake matches pasta query
+1720,1,bounty chocolate matches brand query
+1721,1,bounty chocolate matches brand query
+1722,1,bounty biscuits matches brand query
+1723,1,bounty chocolate matches brand query
+1724,1,bounty rolls matches brand query
+1725,1,igloo book matches brand query
+1726,1,igloo book matches brand query
+1727,1,igloo book matches brand query
+1728,1,igloo camp mat matches brand query
+1729,1,igloo book matches brand query
+1730,1,bağlama saz matches query
+1731,1,bağlama saz matches query
+1732,1,bağlama saz set matches query
+1733,1,bağlama saz matches query
+1734,1,small bağlama saz matches query
+1735,1,lenaderm skincare matches brand query
+1736,1,lenaderm sunscreen matches brand query
+1737,1,lenaderm skincare kit matches brand query
+1738,0,bioderma sunscreen brand mismatch
+1739,0,mineaderm hair set brand mismatch
+1740,1,derma factory cream matches brand query
+1741,0,village 11 factory cream brand mismatch
+1742,1,derma factory serum matches brand query
+1743,1,derma factory eye cream matches brand query
+1744,1,derma factory sunscreen matches brand query
+1745,1,caudalie skincare set matches brand query
+1746,1,caudalie serum matches brand query
+1747,1,caudalie skincare set matches brand query
+1748,1,caudalie face cream matches brand query
+1749,1,caudalie face mask matches brand query

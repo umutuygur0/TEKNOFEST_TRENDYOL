@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+350,1,vinoclean product exact brand match
+351,1,vinoclean product exact brand match
+352,1,vinoclean product exact brand match
+353,1,vinoclean product exact brand match
+354,1,vinoclean product exact brand match
+355,1,aloe vera product matches query
+356,1,aloe vera product matches query
+357,1,aloe vera product matches query
+358,1,aloe vera product line match
+359,1,aloe vera product matches query
+360,1,berberis supplement matches berberx query
+361,1,berberis supplement matches berberx query
+362,0,different brand berberix clay mask not berberis supplement
+363,1,berberis vulgaris supplement matches query
+364,1,berberis vulgaris supplement matches query
+365,1,numbuzin brand exact match
+366,1,numbuzin brand exact match
+367,0,unrelated supplement different brand
+368,0,unrelated supplement different brand
+369,0,unrelated supplement different brand
+370,1,corn product matches mısır query
+371,1,popcorn corn matches query
+372,1,popcorn corn matches query
+373,1,corn granule product matches query
+374,1,corn granule product matches query
+375,1,mavaux brand exact match
+376,1,mavaux brand exact match
+377,1,mavaux brand exact match
+378,1,mavaux brand exact match
+379,1,mavaux brand exact match
+380,1,türkçe exam book matches query
+381,1,türkçe dictionary matches query
+382,1,türkçe soru bankası matches query
+383,1,türkçe soru bankası matches query
+384,1,türkçe ders kitabı matches query
+385,1,radix brand exact match
+386,1,radix brand exact match
+387,1,radix brand exact match
+388,1,radix brand exact match
+389,1,radix brand exact match
+390,0,aveeno brand not avene
+391,0,avon brand not avene
+392,0,avon brand not avene
+393,0,aveeno brand not avene
+394,0,aveeno brand not avene
+395,1,puf furniture matches query
+396,1,puf furniture category matches query
+397,1,puf furniture matches query
+398,1,puf furniture matches query
+399,1,puf furniture matches query
+400,0,different brand olab hair care not olalab
+401,0,different brand ph lab not olalab
+402,0,different brand ph lab not olalab
+403,0,different brand ph lab not olalab
+404,1,olalab brand exact match
+405,1,gengar pokemon figure matches query
+406,0,different pokemon card not gengar
+407,0,unrelated brainrot figure
+408,0,unrelated board game
+409,0,unrelated jenga game
+410,1,soğanlık onion holder matches query
+411,1,onion basket matches query
+412,1,soğanlık onion holder matches query
+413,1,onion holder matches query
+414,1,onion holder matches query
+415,1,papara card sticker matches query
+416,1,papara card sticker matches query
+417,1,papara card sticker matches query
+418,1,papara card sticker matches query
+419,0,passport case not card sticker
+420,1,canson brand exact match
+421,1,bundle includes canson product
+422,1,bundle includes canson product
+423,1,canson brand exact match
+424,1,canson brand exact match
+425,1,welder watch matches welch query typo
+426,1,welder watch matches welch query typo
+427,1,welder watch matches welch query typo
+428,1,welder watch matches welch query typo
+429,1,welder watch matches welch query typo
+430,1,vagonlife brand exact match
+431,1,vagonlife brand exact match
+432,1,vagonlife brand exact match
+433,1,vagonlife brand exact match
+434,1,vagonlife brand exact match
+435,1,pearl jewelry matches query
+436,1,pearl jewelry matches query
+437,1,pearl jewelry matches query
+438,1,pearl jewelry matches query
+439,1,pearl jewelry matches query
+440,1,wide leg attribute matches geniş query
+441,1,wide cut attribute matches geniş query
+442,1,wide collar attribute matches geniş query
+443,0,no wide attribute mentioned
+444,1,wide leg pants matches geniş query
+445,1,loccitane brand exact match
+446,1,loccitane brand exact match
+447,1,loccitane brand exact match
+448,1,loccitane brand exact match
+449,1,loccitane brand exact match
+450,1,welder watch matches weller query typo
+451,1,welder watch matches weller query typo
+452,1,welder watch matches weller query typo
+453,1,welder watch matches weller query typo
+454,1,welder watch matches weller query typo
+455,1,note pad matches not query
+456,1,note pad matches not query
+457,1,sticky note matches not query
+458,1,sticky note set matches not query
+459,1,notepad matches not query
+460,1,drill matches matkap query
+461,1,drill matches matkap query
+462,1,drill matches matkap query
+463,1,drill matches matkap query
+464,1,drill matches matkap query
+465,1,print product matches baskı query
+466,1,print product matches baskı query
+467,1,print product matches baskı query
+468,1,photo print matches baskı query
+469,1,print paper matches baskı query
+470,1,tirtir brand exact match
+471,1,tirtir brand exact match
+472,1,tirtir brand exact match
+473,1,tirtir brand exact match
+474,1,tirtir brand exact match
+475,1,harras brand exact match
+476,1,harras brand exact match
+477,1,harras brand exact match
+478,1,harras brand exact match
+479,1,harras product matches query
+480,1,clinique matches klinik query
+481,1,clinique matches klinik query
+482,0,generic clinic brand not clinique
+483,0,dr clinic brand not clinique
+484,1,clinique matches klinik query
+485,1,clear brand exact match
+486,1,clear brand exact match
+487,1,clear brand exact match
+488,0,clean and clear different brand
+489,1,clear brand exact match
+490,0,product code 156 not 151
+491,0,product code 139 not 151
+492,0,product code 133 not 151
+493,0,product code 154 not 151
+494,0,product code 155 not 151
+495,1,bread matches ekmek query
+496,1,bread matches ekmek query
+497,1,bread matches ekmek query
+498,1,bread matches ekmek query
+499,1,bread matches ekmek query
+500,1,uni-ball brand matches uni query
+501,1,uni-ball brand matches uni query
+502,1,uni-ball brand matches uni query
+503,1,uni pen product matches query
+504,1,uni-ball brand matches uni query
+505,1,uhlsport brand exact match
+506,1,uhlsport brand exact match
+507,1,uhlsport brand exact match
+508,1,uhlsport brand exact match
+509,1,uhlsport brand exact match
+510,1,postit note matches query
+511,1,postit note matches query
+512,1,postit note matches query
+513,1,postit note matches query
+514,1,postit note matches query
+515,1,botox themed serum matches query
+516,1,botox themed serum matches query
+517,1,botox themed serum matches query
+518,1,botox effect cream matches query
+519,1,botox themed serum matches query
+520,1,spice rack matches baharatlık query
+521,1,spice rack matches baharatlık query
+522,1,spice rack matches baharatlık query
+523,1,spice rack matches baharatlık query
+524,1,spice rack matches baharatlık query
+525,1,router tool matches freze query
+526,1,milling machine matches freze query
+527,1,milling machine matches freze query
+528,1,router bit set matches freze query
+529,0,nail drill bit wrong product category
+530,0,eczema cream unrelated to eksozom
+531,0,motorcycle exhaust not exosome skincare
+532,0,motorcycle exhaust not exosome skincare
+533,0,motorcycle exhaust not exosome skincare
+534,0,motorcycle exhaust not exosome skincare
+535,1,retodesign brand exact match
+536,1,retodesign brand exact match
+537,1,retodesign brand exact match
+538,1,retodesign brand exact match
+539,1,retodesign brand exact match
+540,1,isonem brand exact match
+541,1,isonem brand exact match
+542,1,isonem brand exact match
+543,1,isonem brand exact match
+544,1,isonem brand exact match
+545,1,peros brand exact match
+546,1,peros brand exact match
+547,1,peros brand exact match
+548,1,peros brand exact match
+549,1,peros brand exact match
+550,1,organizer matches query
+551,1,organizer matches query
+552,1,organizer matches query
+553,1,organizer matches query
+554,1,organizer matches query
+555,1,organizer matches query
+556,1,organizer matches query
+557,1,organizer matches query
+558,1,organizer matches query
+559,1,organizer matches query
+560,1,concealer matches concelar query
+561,1,concealer matches concelar query
+562,1,concealer matches concelar query
+563,1,concealer matches concelar query
+564,1,concealer matches concelar query
+565,1,fruit basket matches meyvelik query
+566,1,fruit basket matches meyvelik query
+567,1,fruit basket matches meyvelik query
+568,1,fruit basket matches meyvelik query
+569,1,fruit basket matches meyvelik query
+570,1,saftirik greg book series match
+571,1,saftirik greg book series match
+572,1,saftirik greg book series match
+573,1,saftirik greg book series match
+574,0,unrelated religious book different title
+575,1,pressure cooker matches düdüklü query
+576,1,pressure cooker matches düdüklü query
+577,1,pressure cooker matches düdüklü query
+578,1,pressure cooker set matches düdüklü query
+579,1,pressure cooker matches düdüklü query
+580,1,keycaps matches query
+581,1,keycaps matches query
+582,1,keycaps matches query
+583,1,keycaps matches query
+584,1,keycaps matches query
+585,1,quaresma jersey matches query
+586,1,quaresma jersey matches query
+587,1,quaresma poster matches query
+588,1,quaresma themed mug matches query
+589,1,quaresma themed shirt matches query
+590,1,posca marker matches poska query
+591,1,posca marker matches poska query
+592,1,posca marker matches poska query
+593,1,posca marker matches poska query
+594,1,posca marker matches poska query
+595,1,arginine supplement matches query
+596,1,arginine powder matches query
+597,1,arginine complex matches query
+598,1,arginine capsule matches query
+599,1,l-arginine powder matches query
+600,1,panduf slipper matches query
+601,1,panduf slipper matches query
+602,1,panduf slipper matches query
+603,1,panduf slipper matches query
+604,1,panduf slipper matches query
+605,1,ags exam book matches agt query
+606,0,unrelated magazine not exam prep
+607,1,ags exam book matches agt query
+608,1,ags exam book matches agt query
+609,1,ags exam book matches agt query
+610,1,door stopper matches stoper query
+611,1,door stopper matches stoper query
+612,1,door stopper matches stoper query
+613,1,door stopper matches stoper query
+614,1,door stopper matches stoper query
+615,1,floor lamp matches lambeder query
+616,1,floor lamp matches lambeder query
+617,1,floor lamp matches lambeder query
+618,1,floor lamp matches lambeder query
+619,1,floor lamp matches lambeder query
+620,1,kuromi figure matches query
+621,1,kuromi tshirt matches query
+622,1,kuromi figure set matches query
+623,1,kuromi backpack matches query
+624,1,kuromi wallet matches query
+625,1,bond repair shampoo matches query
+626,1,bond repair hair oil matches query
+627,1,bond repair hair cream matches query
+628,1,bond repair hair set matches query
+629,1,bond repair hair set matches query
+630,1,lnb satellite matches elenbi query
+631,1,lnb satellite matches elenbi query
+632,1,lnb satellite matches elenbi query
+633,1,lnb satellite matches elenbi query
+634,1,lnb satellite matches elenbi query
+635,1,motorcycle winglet accessory matches query
+636,1,motorcycle winglet accessory matches query
+637,0,full motorcycle model not winglet accessory
+638,0,full motorcycle model not winglet accessory
+639,1,motorcycle winglet accessory matches query
+640,1,vestel brand exact match
+641,1,vestel brand exact match
+642,1,vestel brand exact match
+643,1,vestel brand exact match
+644,1,vestel brand exact match
+645,1,mason product name matches query
+646,0,book about freemasonry different intent
+647,0,unrelated kitchen tongs no mason connection
+648,1,mason jean model matches query
+649,0,manon not mason different product
+650,1,celleanser brand exact match
+651,1,celleanser brand exact match
+652,1,celleanser brand exact match
+653,0,torriden brand not celleanser
+654,0,celenes brand not celleanser
+655,1,telkari jewelry matches query
+656,1,telkari jewelry matches query
+657,1,telkari jewelry matches query
+658,1,telkari jewelry matches query
+659,1,telkari jewelry matches query
+660,1,zigon sehpa matches query
+661,1,zigon sehpa matches query
+662,1,zigon sehpa matches query
+663,1,zigon sehpa matches query
+664,1,zigon sehpa matches query
+665,1,air jordan sneaker matches query
+666,1,jordan sneaker matches query
+667,1,air jordan sneaker matches query
+668,1,air jordan sneaker matches query
+669,1,air jordan sneaker matches query
+670,1,jam dish matches reçellik query
+671,1,jam dish matches reçellik query
+672,1,jam dish matches reçellik query
+673,1,jam dish matches reçellik query
+674,1,jam dish matches reçellik query
+675,1,imprime brand exact match
+676,0,ixora brand not imprime
+677,1,imprime brand exact match
+678,1,imprime brand exact match
+679,0,farmasi brand not imprime
+680,1,dambılcım brand exact match
+681,0,ecg brand not dambılcım
+682,1,dambılcım brand exact match
+683,1,dambılcım brand exact match
+684,0,besinistanbul brand not dambılcım
+685,1,halı carpet matches hal query
+686,1,halı carpet matches hal query
+687,0,halhal ankle jewelry not carpet
+688,0,decorative object not actual carpet
+689,1,exhibition carpet matches hal query
+690,0,ear tips accessory not full headphone
+691,1,bluetooth headphone matches kulaklık query
+692,1,bluetooth headphone matches kulaklık query
+693,1,bluetooth headphone matches kulaklık query
+694,1,bluetooth headphone matches kulaklık query
+695,0,esen not esdeh unrelated
+696,0,esen not esdeh unrelated
+697,0,estiva not esdeh unrelated
+698,0,esra not esdeh unrelated
+699,0,esra bottle opener unrelated

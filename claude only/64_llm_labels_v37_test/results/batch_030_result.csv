@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10500,1,puffy wedding dress match
+10501,1,puffy wedding dress match
+10502,0,child costume dress category abiye not gelinlik
+10503,0,child costume dress category abiye not gelinlik
+10504,0,child costume dress category abiye not gelinlik
+10505,1,stwd branded sweatshirt matches
+10506,0,wrong brand not stwd
+10507,0,wrong brand not stwd
+10508,0,wrong brand not stwd
+10509,0,wrong brand not stwd
+10510,1,lumberjack women's sneaker
+10511,1,lumberjack women's sneaker
+10512,1,lumberjack women's sneaker
+10513,1,lumberjack women's sneaker
+10514,1,lumberjack women's sneaker
+10515,1,men's rain jacket
+10516,1,unisex rain/wind jacket suits men
+10517,1,men's rain jacket
+10518,1,unisex rain/wind jacket
+10519,1,unisex rain/wind jacket
+10520,1,adidas kids tracksuit bottom
+10521,1,adidas kids tracksuit bottom
+10522,1,adidas kids tracksuit bottom
+10523,1,adidas kids tracksuit bottom
+10524,1,adidas kids tracksuit bottom
+10525,1,philips avent pacifier
+10526,1,philips avent pacifier
+10527,1,philips avent pacifier
+10528,1,philips avent pacifier
+10529,1,philips avent pacifier
+10530,0,jersey not sweatshirt - weak match
+10531,0,blazer jacket not sweat
+10532,0,windbreaker not sweat
+10533,0,hoodie cardigan not clearly forma sweat
+10534,0,kids blazer not sweat
+10535,1,jump turf football shoe
+10536,1,jump turf football shoe
+10537,1,jump turf football shoe
+10538,1,jump turf football shoe
+10539,1,jump turf football shoe
+10540,0,baby outfit set not standalone kazak
+10541,0,tunic not kazak
+10542,0,unrelated slippers
+10543,0,unrelated winter boots
+10544,0,unrelated winter boots
+10545,1,linen skirt match
+10546,1,linen skirt match
+10547,1,linen skirt match
+10548,1,linen skirt match
+10549,1,linen skirt match
+10550,1,nike air force sneaker
+10551,1,nike air force sneaker
+10552,1,nike air force sneaker
+10553,1,nike air force sneaker
+10554,1,nike air force sneaker
+10555,1,desk pad set match
+10556,1,desk pad product
+10557,1,desk pad match
+10558,1,desk pad match
+10559,1,desk pad set match
+10560,0,unrelated jersey sweatshirt
+10561,0,unrelated polar hoodie
+10562,1,brand gfb exact match
+10563,0,unrelated smartwatch
+10564,0,unrelated sweatshirt
+10565,1,led light tulle party crown
+10566,1,led light tulle party crown
+10567,1,led light tulle party crown
+10568,1,led tutu skirt tulle costume
+10569,0,tulle curtain no led light
+10570,1,archaeological dig set
+10571,1,archaeological dig set
+10572,1,archaeological dig set
+10573,1,archaeological dig set
+10574,1,archaeological dig set
+10575,1,ltb brand coat
+10576,1,ltb brand coat
+10577,1,ltb brand coat
+10578,1,ltb brand coat
+10579,1,ltb brand coat
+10580,1,colins men's pants
+10581,1,colins men's pants
+10582,1,colins men's pants
+10583,1,colins men's pants
+10584,1,colins men's pants
+10585,1,short coat match
+10586,1,short coat match
+10587,1,short coat match
+10588,1,short coat match
+10589,1,short coat match
+10590,1,loafer women's shoe
+10591,1,loafer women's shoe
+10592,1,loafer women's shoe
+10593,1,loafer women's shoe
+10594,1,loafer women's shoe
+10595,1,wee baby fruit feeder
+10596,1,wee baby fruit feeder
+10597,1,wee brand fruit feeder
+10598,0,different brand bibs
+10599,0,different brand mycey feeding set
+10600,1,long puffer jacket women
+10601,1,long puffer jacket women
+10602,1,long puffer jacket women
+10603,1,long puffer jacket women
+10604,1,full length puffer jacket
+10605,1,post-it bookmark notes
+10606,1,post-it bookmark notes
+10607,1,post-it bookmark notes
+10608,1,post-it sticky notes
+10609,1,post-it sticky notes
+10610,1,tudors brand suit
+10611,1,tudors brand suit
+10612,1,tudors brand suit
+10613,1,tudors brand suit
+10614,0,different brand kigili
+10615,1,labubu stitch plush
+10616,1,labubu stitch plush set
+10617,1,stitch labubu themed plush
+10618,1,labubu stitch plush
+10619,1,labubu stitch keychain themed
+10620,1,trench coat match
+10621,1,trench coat match
+10622,1,trench coat match
+10623,1,trench coat match
+10624,1,trench coat match
+10625,1,adidas runfalcon shoe
+10626,1,adidas runfalcon shoe
+10627,1,adidas runfalcon shoe
+10628,1,adidas runfalcon shoe
+10629,1,adidas runfalcon shoe
+10630,1,lace tesettür evening dress
+10631,1,lace tesettür evening dress
+10632,1,lace tesettür evening dress
+10633,1,lace tesettür evening dress
+10634,1,lace tesettür dress
+10635,1,pull-up bar match
+10636,1,pull-up bar match
+10637,1,pull-up bar match
+10638,1,pull-up bar match
+10639,1,pull-up bar match
+10640,1,plush coat match
+10641,1,plush coat match
+10642,1,plush fur baby coat
+10643,0,cashmere coat no plush
+10644,0,quilted coat not plush material
+10645,1,foam ball match
+10646,1,foam ball match
+10647,1,foam ball match
+10648,1,foam ball match
+10649,1,foam ball match
+10650,1,fulla moda men's sweatshirt
+10651,1,fulla moda men's sweatshirt
+10652,1,fulla moda men's sweatshirt
+10653,1,fulla moda men's sweater
+10654,1,fulla moda men's pants
+10655,1,men's turtleneck sweater
+10656,1,men's turtleneck sweater
+10657,1,men's turtleneck sweater
+10658,1,men's turtleneck sweater
+10659,1,men's turtleneck sweater
+10660,0,no gtx mention
+10661,0,no gtx mention
+10662,0,wrong brand puma
+10663,0,no gtx mention
+10664,0,wrong brand gamelu
+10665,1,avva men's pants
+10666,1,avva men's pants
+10667,1,avva men's pants
+10668,1,avva men's pants
+10669,1,avva men's pants
+10670,1,breathing sleep buddy plush
+10671,1,breathing sleep buddy plush
+10672,1,breathing sleep buddy plush
+10673,1,breathing sleep buddy plush
+10674,1,breathing sleep buddy plush
+10675,1,fitted waist shirt
+10676,1,fitted waist shirt
+10677,1,fitted slim shirt
+10678,1,body fitting shirt
+10679,0,dress not shirt
+10680,1,nike women's white shoe
+10681,1,nike women's white shoe
+10682,1,nike white shoe for women
+10683,1,nike women's white shoe
+10684,1,nike women's white shoe
+10685,1,plus size two-piece set
+10686,1,plus size two-piece set
+10687,1,plus size two-piece set
+10688,1,plus size two-piece set title match
+10689,1,plus size two-piece suit
+10690,1,alvina tunic
+10691,1,alvina tunic
+10692,1,alvina tunic
+10693,1,alvina tunic
+10694,1,alvina tunic
+10695,1,lumberjack coat
+10696,1,lumberjack coat
+10697,1,lumberjack coat
+10698,1,lumberjack coat
+10699,1,lumberjack coat
+10700,1,plaid pants women
+10701,1,plaid pants women
+10702,1,plaid pants women
+10703,1,plaid pants women
+10704,1,plaid pants women
+10705,1,mavi brand sweatshirt women
+10706,1,mavi brand sweatshirt women
+10707,0,dress not sweatshirt mavi is color
+10708,0,mavi bag not sweatshirt
+10709,0,different brand deocept
+10710,0,unrelated car spray
+10711,0,ugg boot not spray
+10712,0,not ugg brand not spray
+10713,0,not ugg brand not spray
+10714,0,not ugg brand not spray
+10715,1,leather coat match
+10716,1,leather coat match
+10717,1,leather coat match
+10718,1,leather coat match
+10719,0,trench pardesu not kaban
+10720,1,unisex baby bodysuit
+10721,0,girl gender mismatch
+10722,1,boy baby bodysuit exact match
+10723,0,girl gender mismatch
+10724,1,unisex bodysuit
+10725,1,outdoor boot
+10726,1,outdoor trekking boot
+10727,1,outdoor boot
+10728,0,outdoor shoe not boot
+10729,0,outdoor shoe not boot
+10730,1,letoon walking shoe
+10731,1,letoon walking shoe
+10732,1,letoon walking shoe
+10733,1,letoon walking shoe
+10734,1,letoon walking shoe
+10735,1,adidas spezial shoe
+10736,1,adidas spezial shoe
+10737,1,adidas spezial shoe
+10738,1,adidas spezial shoe
+10739,1,adidas spezial shoe
+10740,1,painting spatula set
+10741,1,painting spatula set
+10742,1,painting spatula set
+10743,1,painting spatula
+10744,1,painting spatula set
+10745,1,toy fruit vegetable cutting set
+10746,1,toy fruit vegetable cutting set
+10747,1,toy fruit vegetable cutting set
+10748,1,toy fruit vegetable cutting set
+10749,1,toy fruit vegetable cutting set
+10750,1,laser toy gun
+10751,1,laser toy gun
+10752,1,laser toy gun
+10753,1,laser toy gun
+10754,0,no laser feature mentioned
+10755,1,plush coat women
+10756,1,plush coat women
+10757,1,plush coat women
+10758,1,plush coat women
+10759,1,plush coat women
+10760,0,kazak not hırka
+10761,0,kazak not hırka wrong age
+10762,0,sweatshirt not hırka
+10763,0,kazak not hırka
+10764,0,kazak not hırka
+10765,1,baby activity toy
+10766,1,baby activity toy
+10767,1,baby activity toy
+10768,1,baby activity toy
+10769,1,baby activity toy
+10770,1,women's navy coat
+10771,1,women's navy coat
+10772,1,women's navy coat
+10773,1,women's navy coat
+10774,1,women's navy coat
+10775,0,color mismatch haki not kahve
+10776,0,skirt not belt
+10777,0,color mismatch bordo not kahve
+10778,0,dress not belt
+10779,0,skirt not belt
+10780,1,ipekyol shorts
+10781,1,ipekyol shorts
+10782,1,ipekyol shorts
+10783,1,ipekyol shorts
+10784,1,ipekyol shorts
+10785,0,short jacket not long
+10786,0,short jacket not long
+10787,0,bomber jacket not long
+10788,0,slim jacket not long
+10789,0,hooded jacket not long
+10790,1,columbia men's outdoor shoe
+10791,1,columbia men's outdoor shoe
+10792,1,columbia men's outdoor shoe
+10793,1,columbia men's outdoor shoe
+10794,1,columbia men's outdoor shoe
+10795,1,on running men's shoe
+10796,1,on running men's shoe
+10797,1,on running men's shoe
+10798,0,wrong brand puma
+10799,0,wrong brand puma unisex
+10800,1,helly hansen women's coat
+10801,0,title says men's coat
+10802,0,men's coat gender mismatch
+10803,1,helly hansen women's coat
+10804,1,helly hansen women's coat
+10805,0,heeled shoe not boot
+10806,0,heeled shoe not boot
+10807,0,heeled shoe not boot
+10808,0,heeled shoe not boot
+10809,0,heeled shoe not boot
+10810,0,plush cardigan not triko material
+10811,0,baby age group mismatch
+10812,0,scuba jacket not triko
+10813,0,diver fabric jacket not triko
+10814,1,knit cardigan matches triko
+10815,0,cotton not wool material
+10816,0,acrylic not wool no uzun
+10817,0,acrylic not wool no uzun
+10818,0,no wool material specified
+10819,0,polyester not wool
+10820,1,lotto men's sneaker
+10821,0,gender mismatch women's
+10822,1,lotto men's sneaker
+10823,1,lotto men's walking shoe
+10824,1,lotto men's running shoe
+10825,1,winter cape coat match
+10826,0,dress not kap
+10827,0,light thin fabric not winter
+10828,0,takim not kap category
+10829,0,dress not kap
+10830,1,ugg sandal
+10831,1,ugg sandal
+10832,1,ugg sandal
+10833,1,ugg sandal
+10834,1,ugg sandal
+10835,1,burgundy sweatshirt
+10836,1,burgundy sweatshirt
+10837,1,burgundy sweatshirt
+10838,1,burgundy sweatshirt
+10839,1,burgundy sweatshirt
+10840,1,benroma t-shirt
+10841,1,benroma t-shirt
+10842,1,benroma t-shirt
+10843,1,benroma t-shirt
+10844,1,benroma t-shirt
+10845,1,avva sneaker
+10846,1,avva sneaker
+10847,1,avva sneaker
+10848,1,avva sneaker
+10849,1,avva sneaker

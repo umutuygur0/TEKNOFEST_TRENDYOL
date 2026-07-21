@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+6300,0,"no hood - dik yaka not kapuşonlu"
+6301,0,no hood mentioned
+6302,0,kids item not women's
+6303,1,women's hooded fleece jacket match
+6304,0,no hood mentioned
+6305,1,children's rain boot match
+6306,1,children's rain boot match
+6307,1,children's rain boot match
+6308,1,children's rain boot match
+6309,1,children's rain boot match
+6310,1,exact redmi buds 6 lite match
+6311,0,wrong model - buds 3 lite
+6312,0,different brand not redmi
+6313,0,different brand not redmi
+6314,0,different brand not redmi
+6315,1,galatasaray football jersey match
+6316,1,galatasaray football jersey match
+6317,1,galatasaray retro jersey match
+6318,1,galatasaray football jersey match
+6319,1,galatasaray training jersey match
+6320,1,explicit şişme mont match
+6321,0,manto not şişme mont
+6322,0,manto not şişme mont
+6323,0,manto not şişme mont
+6324,0,kaban not şişme mont
+6325,1,lucia branded product match
+6326,1,lucia branded product match
+6327,1,lucia branded product match
+6328,1,lucia branded product match
+6329,1,lucia branded product match
+6330,1,genuine leather coat match
+6331,1,genuine leather coat match
+6332,1,leather material product match
+6333,1,genuine leather coat match
+6334,1,genuine leather coat match
+6335,1,jump men's shoe match
+6336,1,jump men's shoe match
+6337,1,jump men's shoe match
+6338,1,jump men's shoe match
+6339,1,jump men's shoe match
+6340,1,zühre brand kaban match
+6341,1,zühre brand kaban match
+6342,1,zühre brand kaban match
+6343,1,zühre brand kaban match
+6344,0,mont not kaban type
+6345,1,nike children's sport shoe match
+6346,1,nike children's sport shoe match
+6347,1,nike children's sport shoe match
+6348,1,nike children's sport shoe match
+6349,1,nike children's sport shoe match
+6350,1,unisex tracksuit suits men's search
+6351,1,men's tracksuit set match
+6352,1,men's tracksuit set match
+6353,1,men's tracksuit set match
+6354,1,men's tracksuit set match
+6355,1,beşiktaş jersey match
+6356,1,beşiktaş jersey match
+6357,1,beşiktaş jersey match
+6358,1,beşiktaş jersey match
+6359,1,beşiktaş jersey match
+6360,1,fenerbahçe branded toy puzzle
+6361,1,fenerbahçe branded card game
+6362,0,not fenerbahçe branded actual toy
+6363,0,no fenerbahçe relation
+6364,0,no fenerbahçe relation
+6365,1,baby vest match
+6366,1,baby vest match
+6367,1,baby vest match
+6368,1,child vest close match
+6369,0,adult vest not baby
+6370,1,baby bib match
+6371,1,baby bib match
+6372,1,baby bib match
+6373,1,baby bib match
+6374,1,baby bib match
+6375,1,defacto women's blazer match
+6376,1,defacto women's blazer match
+6377,1,defacto women's blazer match
+6378,1,defacto women's blazer match
+6379,1,defacto women's blazer match
+6380,1,serve deep 0.7 pencil match
+6381,1,serve deep 0.7 pencil match
+6382,1,serve deep 0.7 pencil match
+6383,1,serve deep 0.7 pencil match
+6384,1,serve deep 0.7 pencil match
+6385,1,colin's jean match
+6386,1,colin's jean match
+6387,1,colin's jean match
+6388,1,colin's jean match
+6389,1,colin's jean match
+6390,1,hooded fleece jacket match
+6391,1,hooded fleece jacket match
+6392,0,wrong gender - erkek not kadın
+6393,1,exact women's hooded jacket match
+6394,1,hooded jacket match
+6395,0,wrong gender/age - kız çocuk not erkek bebek
+6396,0,plush toy not coat
+6397,0,plush toy not coat
+6398,0,toy figure not coat
+6399,0,plush toy not coat
+6400,1,hot wheels toy car match
+6401,1,hot wheels toy car match
+6402,1,hot wheels toy car match
+6403,1,hot wheels toy car match
+6404,1,hot wheels toy car match
+6405,0,adult unisex not teen girl
+6406,0,child age not genç/teen
+6407,0,child age not genç/teen
+6408,0,child age not genç/teen
+6409,0,adult unisex not teen girl
+6410,1,winter coat match
+6411,1,winter coat match
+6412,1,winter coat match
+6413,1,winter coat match
+6414,1,winter coat match
+6415,0,jean pantolon not sport line
+6416,0,jean pantolon not sport line
+6417,0,jean pantolon not sport line
+6418,0,jean pantolon not sport line
+6419,0,jean pantolon not sport line
+6420,1,melike tatar set match
+6421,1,melike tatar set match
+6422,1,melike tatar set match
+6423,1,melike tatar set match
+6424,1,melike tatar set match
+6425,1,two-piece tracksuit set match
+6426,1,tracksuit set match
+6427,1,tracksuit set match
+6428,1,explicit ikili takım match
+6429,1,tracksuit set match
+6430,1,children's scooter match
+6431,1,children's scooter match
+6432,1,children's scooter match
+6433,1,children's scooter match
+6434,1,children's scooter match
+6435,1,societa dress match
+6436,1,societa dress match
+6437,1,societa dress match
+6438,1,societa dress match
+6439,1,societa dress match
+6440,1,open-toe heel match
+6441,1,open-toe heel match
+6442,1,open-toe heel match
+6443,1,open-toe heel match
+6444,1,open-toe heel match
+6445,1,women's plush slipper match
+6446,1,women's plush slipper match
+6447,1,women's plush slipper match
+6448,1,women's plush slipper match
+6449,1,women's plush slipper match
+6450,1,taekwondo kuki groin guard match
+6451,1,taekwondo kuki groin guard match
+6452,0,craft set not taekwondo kuki
+6453,0,dobok uniform not kuki guard
+6454,0,tampon unrelated product
+6455,1,versace men's shoe match
+6456,1,versace men's shoe match
+6457,1,versace men's shoe match
+6458,0,wrong brand - emporio armani
+6459,0,wrong brand - dgn
+6460,1,women's polo knit match
+6461,0,wrong gender - erkek
+6462,0,dress not polo top
+6463,0,dress not polo top
+6464,0,wrong gender - erkek
+6465,1,us polo assn men's clothing
+6466,1,us polo assn men's clothing
+6467,1,us polo assn men's clothing
+6468,1,us polo assn men's clothing
+6469,1,us polo assn men's clothing
+6470,0,wrong gender - kadın
+6471,1,unisex roller shoe for boys ok
+6472,1,unisex roller shoe for boys ok
+6473,0,wrong gender - kadın
+6474,1,unspecified gender roller shoe ok
+6475,0,loafer not boot
+6476,0,sandal not boot
+6477,1,boot category match
+6478,0,babet not boot
+6479,0,terlik not boot
+6480,1,water bottle match
+6481,1,water bottle match
+6482,1,water bottle match
+6483,1,water bottle match
+6484,1,water bottle match
+6485,1,new year themed slipper
+6486,1,novelty animal panduf match
+6487,1,novelty animal panduf match
+6488,1,novelty animal panduf match
+6489,1,novelty animal panduf match
+6490,1,plush lined plus size coat
+6491,1,fiber lined plus size coat
+6492,0,oversize not büyük beden/not plush
+6493,0,no büyük beden size specified
+6494,0,regular fit not büyük beden
+6495,1,mom jeans match
+6496,1,mom jeans match
+6497,1,mom jeans match
+6498,1,mom jeans match
+6499,1,mom jeans match
+6500,1,lc waikiki women's cardigan match
+6501,1,lc waikiki women's cardigan match
+6502,1,lc waikiki women's cardigan match
+6503,1,lc waikiki women's cardigan match
+6504,1,lc waikiki women's cardigan match
+6505,1,stumble guys figure match
+6506,1,stumble guys figure match
+6507,1,stumble guys figure match
+6508,1,stumble guys branded merch
+6509,1,stumble guys figure match
+6510,1,adl brand kaban match
+6511,1,adl brand kaban match
+6512,1,adl brand kaban match
+6513,1,adl brand kaban match
+6514,1,adl brand kaban match
+6515,1,shoeberry stiletto match
+6516,1,shoeberry stiletto match
+6517,1,shoeberry stiletto match
+6518,1,shoeberry stiletto match
+6519,1,shoeberry stiletto match
+6520,1,heqa brand kaban match
+6521,1,heqa brand kaban match
+6522,1,heqa brand kaban match
+6523,1,heqa brand kaban match
+6524,1,heqa brand kaban match
+6525,1,baby girl blanket exact match
+6526,1,baby blanket pink color fits girl
+6527,1,baby blanket suits girl use
+6528,1,baby girl blanket exact match
+6529,0,blue color conflicts with girl intent
+6530,1,columbia boot match
+6531,1,columbia boot match
+6532,1,columbia boot match
+6533,1,columbia boot match
+6534,1,columbia boot match
+6535,1,arthur morgan figure match
+6536,1,arthur morgan shirt match
+6537,1,arthur morgan figure match
+6538,1,arthur morgan shirt match
+6539,0,different character not arthur morgan
+6540,0,category mismatch - actually t-shirt
+6541,0,t-shirt not sweater
+6542,0,slim fit t-shirt not loose sweater
+6543,0,regular fit not loose sweater
+6544,0,slim fit not loose sweater
+6545,0,unrelated brand not koray
+6546,0,unrelated brand not koray
+6547,0,unrelated brand not koray
+6548,0,unrelated brand not koray
+6549,0,unrelated brand not koray
+6550,1,baby comb/brush match
+6551,1,baby comb/brush match
+6552,1,baby comb/brush match
+6553,1,baby comb/brush match
+6554,1,baby comb/brush set match
+6555,1,baby carrier bassinet match
+6556,1,baby carrier bassinet match
+6557,1,baby carrier bassinet match
+6558,1,baby carrier bassinet match
+6559,1,baby stroller match
+6560,1,baby boy overalls match
+6561,1,baby boy overalls match
+6562,1,baby boy overalls exact match
+6563,1,baby boy overalls match
+6564,1,baby boy overalls match
+6565,1,spiderman toy match
+6566,1,spiderman toy match
+6567,1,spiderman toy match
+6568,1,spiderman toy match
+6569,1,spiderman toy match
+6570,1,women's home slipper match
+6571,1,women's home slipper match
+6572,1,women's home slipper match
+6573,1,women's home slipper match
+6574,1,women's home slipper match
+6575,1,pişti playing card deck match
+6576,1,pişti playing card deck match
+6577,1,pişti playing card deck match
+6578,0,meme character cards not pişti deck
+6579,0,meme character cards not pişti deck
+6580,1,baby mevlüt gift match
+6581,1,baby mevlüt gift match
+6582,1,baby mevlüt gift match
+6583,1,baby mevlüt gift match
+6584,1,mevlüt/celebration gift match
+6585,1,adidas superstar black match
+6586,1,adidas superstar black match
+6587,1,adidas superstar black match
+6588,1,adidas superstar black match
+6589,1,adidas superstar black match
+6590,1,plush turtle toy match
+6591,1,plush turtle toy match
+6592,1,plush turtle toy match
+6593,1,plush turtle toy match
+6594,1,plush turtle toy match
+6595,1,ipekyol shoe match
+6596,1,ipekyol shoe match
+6597,1,ipekyol shoe match
+6598,1,ipekyol shoe match
+6599,1,ipekyol shoe match
+6600,1,organic tahini match
+6601,1,organic tahini match
+6602,1,organic tahini match
+6603,1,organic tahini match
+6604,1,organic tahini match
+6605,1,madmext men's clothing match
+6606,1,madmext men's clothing match
+6607,1,madmext men's clothing match
+6608,1,madmext men's clothing match
+6609,1,madmext men's clothing match
+6610,0,unrelated art print
+6611,0,unrelated baby cream
+6612,0,unrelated toy
+6613,0,unrelated bedding
+6614,0,unrelated sweatpants
+6615,1,luvishoes heel shoe match
+6616,1,luvishoes heel shoe match
+6617,1,luvishoes heel shoe match
+6618,1,luvishoes heel shoe match
+6619,1,luvishoes heel shoe match
+6620,1,adidas kids coat match
+6621,1,adidas kids coat match
+6622,1,adidas kids jacket match
+6623,1,adidas baby coat close match
+6624,1,adidas kids padded jacket match
+6625,1,locco tunic match
+6626,1,locco tunic match
+6627,1,locco tunic match
+6628,1,locco tunic match
+6629,1,locco tunic match
+6630,1,besafe brand car seat exact match
+6631,0,wrong brand - britax römer
+6632,0,wrong brand - britax römer
+6633,0,wrong brand - bebe confort
+6634,0,wrong brand - baby plus
+6635,1,women's high sole sneaker match
+6636,1,women's high sole sneaker match
+6637,1,unisex high sole sneaker ok
+6638,1,women's high sole sneaker match
+6639,1,women's high sole sneaker match
+6640,1,star sequin earring match
+6641,1,star sequin keychain match
+6642,1,star sequin bracelet match
+6643,1,star sequin bracelet match
+6644,1,star sequin hair clip match
+6645,0,pants not hırka/cardigan
+6646,0,jacket not hırka/cardigan
+6647,0,vest not hırka/cardigan
+6648,0,sweatshirt not hırka/cardigan
+6649,0,jacket not hırka/cardigan

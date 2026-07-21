@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+0,1,dog birthday hat matches query
+1,1,dog birthday party set
+2,1,dog birthday balloon set
+3,1,dog birthday cake topper
+4,0,shark theme not dog
+5,1,caykur rize turist tea 500g x3
+6,1,caykur rize turist tea 500g
+7,1,caykur rize turist edt tea 1kg
+8,1,caykur rize turist tea 12kg box
+9,1,caykur rize turist black tea
+10,0,car/laptop sticker not printer device
+11,0,off road decal sticker not device
+12,0,metal name sticker not device
+13,0,tent sticker not device
+14,0,pikachu sticker not device
+15,1,football training set
+16,1,football training belt
+17,1,football training ladder set
+18,1,football training equipment set
+19,1,football training equipment set
+20,1,women black shirt
+21,1,women black shirt
+22,1,women black shirt
+23,1,women black shirt
+24,1,women black shirt
+25,1,glass demijohn 15l
+26,1,glass demijohn 15l with pump
+27,1,empty glass demijohn 15l
+28,1,glass demijohn 2l
+29,1,glass demijohn 19l
+30,1,cat/dog toothpaste
+31,1,cat/dog toothpaste
+32,1,cat/dog toothpaste
+33,0,oral gel not toothpaste
+34,0,toothbrush not toothpaste
+35,1,speedo swim goggles
+36,1,speedo swim goggles
+37,1,speedo swim goggles
+38,1,speedo swim goggles
+39,1,speedo swim goggles
+40,0,wrong brand makeup bag not valent
+41,1,valent brand storage basket
+42,1,valent brand organizer
+43,0,vans shoes wrong brand
+44,1,valent brand organizer
+45,1,patterned chiffon shawl
+46,1,patterned chiffon shawl
+47,1,patterned chiffon shawl
+48,1,patterned chiffon shawl
+49,1,patterned chiffon shawl - crepe chiffon
+50,1,sharpie brand highlighters
+51,1,sharpie permanent markers
+52,1,sharpie permanent markers
+53,1,sharpie permanent markers
+54,1,sharpie permanent marker
+55,0,zebra blind not jaluzi
+56,0,aluminum jaluzi not fabric
+57,0,wood jaluzi not fabric
+58,0,wood jaluzi not fabric
+59,1,polyester jaluzi fabric-like
+60,1,serum concealer kiko
+61,1,serum concealer kiko
+62,0,concealer but not serum type
+63,1,serum concealer note
+64,1,serum concealer kiko
+65,1,entrance hallway rug
+66,1,entrance hallway rug
+67,1,entrance hallway rug
+68,1,entrance hallway rug
+69,1,corridor rug close match
+70,1,philips 7000 series product
+71,1,philips 7000 series product
+72,1,philips 7000 series product
+73,1,philips 7000 series product
+74,1,philips 7000 series product
+75,0,hairdryer shaped necklace not actual dryer
+76,0,trimmer not hairdryer
+77,0,trimmer set not hairdryer
+78,0,trimmer not hairdryer
+79,0,shaver not hairdryer
+80,1,forever living brand
+81,1,forever living brand
+82,1,forever living brand
+83,1,forever living brand
+84,1,forever living brand
+85,1,atomy brand shampoo
+86,0,wrong brand aveeno
+87,0,wrong brand hairextrem
+88,0,wrong brand natucare
+89,0,wrong brand otaci
+90,1,jacquard pants
+91,1,jacquard pants
+92,1,jacquard pants
+93,1,jacquard pants
+94,1,jacquard pants
+95,0,wrong size 5.5 not 3
+96,0,wrong size 8 not 3
+97,0,wrong size 5.5 not 3
+98,1,set includes size 3mm hook
+99,0,set sizes 4-5mm no size 3
+100,1,canon laser printer
+101,1,canon laser printer
+102,1,canon laser printer
+103,1,canon laser printer
+104,0,hp brand not canon
+105,1,english home mug
+106,1,english home mug
+107,1,english home mug
+108,1,english home mug
+109,1,english home mug
+110,1,facial wax strips
+111,1,facial wax strips
+112,1,facial wax strips
+113,1,facial wax strips
+114,1,facial wax strips
+115,1,off shoulder madonna neck sweater
+116,1,madonna neck sweater
+117,1,open shoulder sweater
+118,0,boat neck not dropped shoulder
+119,0,crew neck not dropped shoulder
+120,1,cosmetic organizer
+121,1,cosmetic organizer
+122,1,cosmetic organizer
+123,1,cosmetic organizer
+124,1,cosmetic organizer
+125,1,cream puffer vest
+126,1,cream puffer vest
+127,1,cream puffer vest
+128,1,beige puffer vest close to cream
+129,1,beige puffer vest close to cream
+130,1,eklips makeup brush
+131,1,eklips makeup brush
+132,1,eklips makeup brush
+133,1,eklips makeup brush set
+134,1,eklips makeup brush
+135,1,refurbished iphone
+136,1,refurbished iphone
+137,1,refurbished iphone
+138,1,refurbished iphone
+139,1,refurbished iphone
+140,1,ac&co altinyildiz mens pants
+141,1,ac&co altinyildiz mens pants
+142,1,ac&co altinyildiz mens pants
+143,1,ac&co altinyildiz mens pants
+144,1,ac&co altinyildiz mens pants
+145,1,pencil eyeshadow
+146,1,pencil eyeshadow
+147,1,pencil eyeshadow
+148,1,pencil eyeshadow
+149,1,pencil eyeshadow
+150,1,girls coat
+151,1,girls coat
+152,1,girls coat
+153,1,girls coat
+154,1,girls coat
+155,1,elle mens shoes
+156,1,elle mens shoes
+157,1,elle mens shoes
+158,1,elle mens shoes
+159,1,elle mens shoes
+160,1,serving tongs
+161,1,serving tongs
+162,1,serving tongs
+163,1,serving tongs
+164,1,serving tongs
+165,1,elif vav necklace
+166,1,elif vav necklace
+167,1,elif vav necklace
+168,1,elif vav necklace
+169,1,elif vav necklace
+170,1,baby amber necklace
+171,1,baby amber necklace
+172,1,baby amber necklace
+173,1,baby amber necklace
+174,1,baby amber necklace
+175,1,shaped mug panda
+176,1,shaped mug dog
+177,1,shaped mug heart handle
+178,0,plain mug not shaped
+179,1,shaped 3d poo emoji mug
+180,1,karaca toaster
+181,1,karaca toaster
+182,1,karaca toaster
+183,1,karaca toaster
+184,1,karaca toaster
+185,1,makeup mirror light
+186,1,makeup mirror light set
+187,1,makeup mirror light set
+188,1,led makeup mirror
+189,1,makeup mirror light set
+190,1,white plush rug
+191,1,white plush rug
+192,1,white plush rug
+193,1,white plush rug
+194,1,white plush rug
+195,1,cafe curtain rod
+196,1,cafe curtain rod
+197,1,cafe curtain rod
+198,1,cafe curtain rod
+199,1,cafe curtain rod
+200,1,casper brand laptop
+201,1,casper brand laptop
+202,1,casper brand laptop
+203,1,casper brand laptop
+204,1,casper brand laptop
+205,1,enamel teapot
+206,1,enamel teapot
+207,1,enamel teapot
+208,1,enamel teapot
+209,1,enamel teapot
+210,1,isbir brand mattress
+211,1,isbir brand mattress
+212,1,isbir brand pillow
+213,1,isbir brand pillow
+214,1,isbir brand mattress
+215,1,fabrika brand tshirt
+216,1,fabrika brand tshirt
+217,1,fabrika brand tshirt
+218,1,fabrika brand tshirt
+219,1,fabrika brand tshirt
+220,1,antique white paint exact match
+221,1,antique white paint exact match
+222,0,antique bone not antique white
+223,0,antique bronze not antique white
+224,0,antique beige not antique white
+225,0,wrong model 11.5s not 11.5 2025
+226,0,wrong model matepad 12x
+227,0,wrong model matepad se 11 2024
+228,0,wrong brand honor pad
+229,0,wrong brand xiaomi
+230,1,slim cabinet explicit ince
+231,1,slim cabinet explicit ince
+232,0,no ince mention regular cabinet
+233,0,bathroom shelf not slim cabinet
+234,0,60cm width not marketed as slim
+235,1,pierre cardin tracksuit
+236,1,pierre cardin tracksuit
+237,1,pierre cardin tracksuit
+238,1,pierre cardin tracksuit
+239,1,pierre cardin tracksuit
+240,1,adult sleep suit unisex
+241,1,adult sleeping bag
+242,1,adult sleeping bag
+243,1,adult camping sleeping bag
+244,0,bear costume jumpsuit not sleeping bag
+245,1,makeup setting spray
+246,1,makeup setting spray
+247,1,makeup setting spray
+248,1,makeup setting spray
+249,1,makeup setting spray
+250,1,aydogan brand pajama set
+251,1,aydogan brand pajama set
+252,0,wrong brand jiber
+253,0,wrong brand jiber
+254,0,wrong brand pijamoni
+255,1,labubu chocolate actual candy
+256,0,phone case not chocolate
+257,0,phone case not chocolate
+258,0,phone case not chocolate
+259,0,phone case not chocolate
+260,1,repairing hair serum matches onarici
+261,1,repairing hair oil matches onarici
+262,0,anti-brass not repairing
+263,1,repairing hair treatment
+264,0,moisturizing not repairing
+265,1,computer accessory mousepad
+266,1,computer accessory mousepad
+267,1,computer accessory mousepad
+268,1,computer accessory mousepad
+269,1,computer accessory mousepad
+270,1,personalized baby pillow
+271,1,personalized baby pillow
+272,1,personalized baby door sign
+273,1,personalized baby memory cube
+274,1,personalized baby bedding set
+275,1,ac&co altinyildiz mens shirt
+276,1,ac&co altinyildiz mens shirt
+277,1,ac&co altinyildiz mens shirt
+278,1,ac&co altinyildiz mens shirt
+279,1,ac&co altinyildiz mens shirt
+280,0,drawing set not canvas holder
+281,0,tabletop picture not canvas holder
+282,0,decorative stone plaque not canvas holder
+283,0,unrelated book
+284,0,wall art not canvas holder
+285,1,mad v102 exact perfume code
+286,0,different perfume code h105
+287,0,different perfume code w190
+288,0,different perfume line bruno gold
+289,0,wrong brand muscent
+290,1,calvin klein mens bag
+291,1,calvin klein mens bag
+292,1,calvin klein mens bag
+293,1,calvin klein mens bag
+294,1,calvin klein mens bag
+295,1,bella maison breakfast set
+296,1,bella maison breakfast set
+297,1,bella maison breakfast set
+298,1,bella maison breakfast set
+299,1,bella maison breakfast set
+300,1,small portable fan
+301,1,small portable fan
+302,1,small portable fan
+303,1,small portable fan
+304,1,small portable fan
+305,1,womens coat jacket style
+306,1,womens coat jacket style
+307,1,womens coat jacket style
+308,1,womens coat jacket style
+309,1,womens coat jacket style
+310,1,multipurpose pegboard
+311,1,multipurpose pegboard
+312,1,multipurpose pegboard organizer
+313,1,multipurpose pegboard organizer
+314,1,multipurpose pegboard ikea
+315,0,tefal brand not philips
+316,0,silter brand not philips
+317,0,generic brand not philips
+318,0,silter brand not philips
+319,1,philips brand iron water tank
+320,1,coffee brown bag
+321,1,coffee brown bag
+322,1,coffee brown bag
+323,1,coffee brown bag
+324,1,coffee brown bag
+325,1,cat scratching house
+326,1,cat scratching house
+327,1,cat scratching house
+328,1,cat scratching house
+329,1,cat scratching house
+330,1,quilted womens coat
+331,1,quilted womens coat
+332,1,quilted womens coat
+333,1,quilted womens coat
+334,1,quilted womens coat
+335,1,large flower pot
+336,1,large flower pot
+337,1,large flower pot
+338,1,large flower pot
+339,1,large flower pot
+340,1,roborock qrevo s exact model
+341,0,qrevo pro different model
+342,0,generic q revo not s variant
+343,0,generic q revo not s variant
+344,0,vague title no model confirmed
+345,1,piercing pillow exact match
+346,1,piercing pillow exact match
+347,0,piercing jewelry not pillow
+348,0,piercing jewelry not pillow
+349,0,piercing jewelry not pillow

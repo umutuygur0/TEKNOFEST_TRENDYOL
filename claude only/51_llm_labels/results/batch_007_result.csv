@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2450,1,zeynep tekstil duvet+pillow set matches query
+2451,1,duvet+pillow set matches query
+2452,0,storage organizer box not bedding set
+2453,0,storage organizer box not bedding set
+2454,1,duvet+pillow set matches query
+2455,1,mahmood brand coffee product
+2456,1,mahmood brand coffee product
+2457,1,mahmood brand coffee product
+2458,1,mahmood brand coffee product
+2459,1,mahmood brand coffee product
+2460,1,empera brand carpet
+2461,1,empera brand carpet
+2462,0,brand is crea hali not empera
+2463,1,empera brand carpet
+2464,1,empera brand carpet
+2465,1,wall mounted shelf matches
+2466,1,wall mounted shelf/bookcase matches
+2467,1,wall mounted shelf/bookcase matches
+2468,1,wall mounted bookshelf matches
+2469,1,wall mounted wooden bookshelf matches
+2470,1,canon camera matches query
+2471,1,canon camera matches query
+2472,1,canon camera matches query
+2473,1,canon camera matches query
+2474,1,canon camera matches query
+2475,1,tadelle brand chocolate
+2476,1,tadelle brand chocolate
+2477,1,tadelle brand chocolate
+2478,1,tadelle brand chocolate
+2479,0,chocolate spread not chocolate bar
+2480,1,nehir brand pot set
+2481,1,nehir brand pot set
+2482,1,nehir brand pot set
+2483,1,nehir brand pot set
+2484,1,nehir brand pot set
+2485,1,packaging/cardboard box matches
+2486,1,packaging/cardboard box matches
+2487,1,packaging/cardboard box matches
+2488,1,packaging/cardboard box matches
+2489,1,cardboard shipping box matches
+2490,1,xuping steel earring matches
+2491,1,xuping steel earring matches
+2492,1,xuping steel earring matches
+2493,1,xuping steel earring matches
+2494,1,xuping steel earring matches
+2495,1,girl baby zip romper matches
+2496,1,girl baby zip romper matches
+2497,1,girl baby zip romper matches
+2498,1,girl baby zip romper matches
+2499,1,girl baby zip romper matches
+2500,1,almond press-on nails match
+2501,1,almond press-on nails match
+2502,1,almond press-on nails match
+2503,1,almond press-on nails match
+2504,1,almond press-on nails set match
+2505,1,reflex dog treat matches
+2506,1,reflex dog treat matches
+2507,1,reflex dog treat matches
+2508,1,reflex dog treat matches
+2509,1,reflex dog treat matches
+2510,1,illusion perfume matches query name
+2511,0,different perfume line (idole, lancome)
+2512,0,different perfume line (idole, lancome)
+2513,0,different perfume line (idole, lancome)
+2514,0,different perfume line (idole, lancome)
+2515,1,filorga eye cream matches
+2516,1,filorga eye cream matches
+2517,1,filorga cleansing gel matches
+2518,0,solgar brand, not filorga
+2519,0,solgar brand, not filorga
+2520,1,furniture drawer handle matches
+2521,1,furniture drawer handle matches
+2522,1,furniture drawer handle matches
+2523,1,furniture handle matches
+2524,1,furniture drawer handle matches
+2525,0,leave-in conditioner, not styling cream
+2526,0,liquid hair care cream, not styling
+2527,0,leave-in care cream, not styling
+2528,0,curl care cream, not styling
+2529,1,actual styling wax/cream matches
+2530,1,clarks brand shoe matches
+2531,1,clarks brand shoe matches
+2532,0,brand is crocs, not clarks
+2533,0,brand is crocs, not clarks
+2534,1,clarks brand boot matches
+2535,1,interdental brush matches
+2536,1,interdental brush matches
+2537,1,interdental brush matches
+2538,1,interdental brush matches
+2539,1,interdental brush matches
+2540,1,green artificial flower matches
+2541,1,green artificial flower matches
+2542,1,green artificial flower matches
+2543,1,green artificial flower matches
+2544,1,green artificial flower matches
+2545,1,car modification sticker matches
+2546,1,car modification wrap sticker matches
+2547,0,bumper protector, not a mod product
+2548,1,car mod sticker matches
+2549,1,car mod bodykit grille matches
+2550,1,attack shark model mouse matches
+2551,1,attack shark brand mouse matches
+2552,1,attack shark brand mouse matches
+2553,1,attack shark brand mouse matches
+2554,1,attack shark brand mouse matches
+2555,1,makita impact drill matches
+2556,1,makita impact drill matches
+2557,1,impact drill matches
+2558,1,makita impact drill matches
+2559,1,impact drill matches
+2560,1,agiss brand wax matches
+2561,1,agiss brand wax matches
+2562,1,agiss brand wax matches
+2563,1,agiss brand wax matches
+2564,1,agiss brand wax matches
+2565,1,daxi brand calculator matches
+2566,1,daxi brand calculator matches
+2567,0,brand is casio, not daxi
+2568,0,brand mismatch and wrong category
+2569,0,brand is hane216, not daxi
+2570,1,small kids backpack matches
+2571,1,small kids backpack matches
+2572,1,small kids backpack matches
+2573,1,small kids backpack matches
+2574,1,small kids backpack matches
+2575,1,turkish coffee cup set matches
+2576,1,turkish coffee cup set matches
+2577,1,turkish coffee cup set matches
+2578,1,turkish coffee cup set matches
+2579,1,turkish coffee cup set matches
+2580,1,bosch built-in hob matches
+2581,1,bosch built-in hob matches
+2582,1,bosch built-in hob matches
+2583,1,bosch built-in hob matches
+2584,1,bosch built-in hob matches
+2585,1,roller blind mount bracket matches
+2586,1,roller blind mount bracket matches
+2587,1,roller blind mount bracket matches
+2588,1,roller blind mount bracket matches
+2589,1,roller blind mount bracket matches
+2590,1,lee cooper women jeans match
+2591,1,lee cooper women jeans match
+2592,1,lee cooper women jeans match
+2593,0,watch, not jeans
+2594,1,lee cooper women jeans match
+2595,1,bunk bed matches
+2596,1,bunk bed matches
+2597,1,bunk bed matches
+2598,1,bunk bed matches
+2599,1,bunk bed matches
+2600,1,plastic tray matches
+2601,1,plastic tray matches
+2602,1,plastic tray matches
+2603,1,plastic tray matches
+2604,0,melamine tray, wrong category/material
+2605,1,bluetooth earbuds match
+2606,1,bluetooth earbuds match
+2607,1,bluetooth earbuds match
+2608,1,bluetooth earbuds match
+2609,1,bluetooth earbuds match
+2610,1,22cm rice pot exact match
+2611,0,28cm pot, wrong specified size
+2612,0,26cm pot, wrong specified size
+2613,0,26cm pot, wrong specified size
+2614,0,40cm pot, wrong specified size
+2615,1,piranha bluetooth earbuds match
+2616,1,piranha bluetooth earbuds match
+2617,1,piranha bluetooth earbuds match
+2618,1,piranha bluetooth earbuds match
+2619,1,piranha bluetooth earbuds match
+2620,1,salomon women shoe matches
+2621,1,salomon women shoe matches
+2622,1,salomon women shoe matches
+2623,1,salomon women shoe matches
+2624,1,salomon women shoe matches
+2625,1,nehir serving tongs set matches
+2626,1,nehir serving set matches
+2627,1,nehir serving tongs set matches
+2628,1,nehir serving set matches
+2629,1,nehir serving tongs set matches
+2630,1,yves rocher body cream matches
+2631,1,yves rocher body lotion matches
+2632,1,yves rocher body lotion matches
+2633,1,yves rocher body lotion matches
+2634,1,yves rocher body lotion matches
+2635,1,vienev fridge organizer matches
+2636,1,vienev fridge organizer matches
+2637,1,vienev fridge organizer matches
+2638,1,vienev fridge organizer matches
+2639,1,vienev fridge organizer matches
+2640,1,amla hair oil matches
+2641,1,amla hair oil matches
+2642,1,amla hair oil set matches
+2643,1,amla complex oil matches
+2644,0,no amla, different oil serum
+2645,1,zeynep tekstil brand duvet matches
+2646,1,zeynep tekstil brand towel set
+2647,1,zeynep tekstil brand towel set
+2648,1,zeynep tekstil brand duvet matches
+2649,1,zeynep tekstil brand towel set
+2650,1,adidas samba sneaker matches
+2651,1,adidas samba sneaker matches
+2652,1,adidas samba sneaker matches
+2653,1,adidas samba sneaker matches
+2654,1,adidas samba sneaker matches
+2655,1,bingo color detergent matches
+2656,1,bingo color detergent matches
+2657,1,bingo color detergent matches
+2658,1,bingo color detergent matches
+2659,1,bingo color detergent matches
+2660,1,wedding glove matches
+2661,1,wedding glove matches
+2662,1,wedding glove matches
+2663,1,wedding glove matches
+2664,1,wedding glove matches
+2665,1,work trousers match
+2666,1,work trousers match
+2667,1,work trousers match
+2668,1,work trousers match
+2669,1,work trousers match
+2670,1,lighter matches
+2671,1,lighter matches
+2672,1,lighter matches
+2673,1,lighter matches
+2674,1,lighter matches
+2675,1,water-based face cream matches
+2676,1,water-based face cream matches
+2677,1,water-based face cream matches
+2678,1,water-based face cream matches
+2679,1,water-based face cream matches
+2680,1,kids school bag matches
+2681,1,kids school bag matches
+2682,1,kids school bag matches
+2683,1,kids school bag matches
+2684,1,kids school bag matches
+2685,1,rms zeitmeister watch matches
+2686,1,rms zeitmeister watch matches
+2687,1,rms zeitmeister watch title matches
+2688,1,rms zeitmeister watch title matches
+2689,1,rms zeitmeister watch title matches
+2690,1,avene tinted sunscreen matches
+2691,1,avene tinted sunscreen matches
+2692,1,avene tinted sunscreen matches
+2693,1,avene tinted sunscreen matches
+2694,1,avene tinted sunscreen matches
+2695,1,filtered shower head matches
+2696,1,filtered shower head matches
+2697,1,filtered shower head matches
+2698,1,filtered shower head matches
+2699,1,filtered shower head matches
+2700,1,adidas sport t-shirt matches
+2701,1,adidas sport t-shirt matches
+2702,1,adidas sport t-shirt matches
+2703,1,adidas sport t-shirt matches
+2704,1,adidas sport t-shirt matches
+2705,1,anti-acne serum matches
+2706,1,anti-acne cream matches
+2707,1,anti-acne serum matches
+2708,1,anti-acne cream matches
+2709,1,anti-acne serum matches
+2710,1,pendant chandelier matches
+2711,1,pendant chandelier matches
+2712,0,table lamp, not ceiling chandelier
+2713,1,pendant chandelier matches
+2714,1,pendant chandelier matches
+2715,1,bofigo coffee/side table matches
+2716,1,bofigo coffee/side table matches
+2717,1,bofigo coffee/side table matches
+2718,1,bofigo coffee/side table matches
+2719,1,bofigo coffee/side table matches
+2720,1,tesettür tunic matches modest wear
+2721,1,tesettür tunic matches modest wear
+2722,1,tesettür tunic matches modest wear
+2723,1,tesettür set matches modest wear
+2724,1,tesettür tunic matches modest wear
+2725,1,turntable stand matches
+2726,1,turntable stand matches
+2727,1,turntable stand matches
+2728,1,turntable stand matches
+2729,1,turntable stand matches
+2730,1,loris men's perfume matches
+2731,1,loris men's perfume matches
+2732,1,loris men's perfume matches
+2733,1,loris men's perfume matches
+2734,1,loris men's perfume matches
+2735,1,ice-tip laser hair removal matches
+2736,1,ice-tip laser hair removal matches
+2737,1,ice-tip laser hair removal matches
+2738,1,ice-tip laser hair removal matches
+2739,1,ice-tip laser hair removal device matches
+2740,1,static cling board matches
+2741,1,static cling board matches
+2742,1,static cling board matches
+2743,1,static cling board matches
+2744,1,static cling board matches
+2745,0,hy300 model, not hy320
+2746,1,hy320 model projector matches
+2747,0,hy300 model, not hy320
+2748,1,hy320 model projector matches
+2749,1,hy320 model projector matches
+2750,1,baby ash blonde hair dye matches
+2751,1,baby ash blonde hair dye matches
+2752,1,baby ash blonde hair dye matches
+2753,1,baby ash blonde hair dye matches
+2754,0,baby yellow shade, not ash blonde
+2755,1,pink eyeshadow matches
+2756,1,pink eyeshadow matches
+2757,1,pink eyeshadow matches
+2758,1,pink eyeshadow palette matches
+2759,1,pink eyeshadow matches
+2760,1,large wooden bowl matches
+2761,0,small 9cm bowl, not large
+2762,1,wooden serving bowl matches
+2763,1,large wooden bowl matches
+2764,1,wooden multipurpose bowl matches
+2765,1,bigdart tesettür dress matches
+2766,1,bigdart tesettür dress matches
+2767,1,bigdart tesettür dress matches
+2768,1,bigdart tesettür dress matches
+2769,1,bigdart tesettür dress matches
+2770,1,kids football matches
+2771,1,kids football goal matches
+2772,1,kids football shin guard matches
+2773,1,kids football boots match
+2774,1,kids football matches
+2775,1,cenk plain headscarf matches
+2776,1,cenk plain headscarf matches
+2777,1,cenk headscarf matches
+2778,1,cenk plain headscarf matches
+2779,1,cenk headscarf matches
+2780,1,profilo tv matches
+2781,1,profilo tv matches
+2782,1,profilo tv matches
+2783,1,profilo tv matches
+2784,1,profilo tv matches
+2785,0,scarf, not a bag
+2786,0,scarf, not a bag
+2787,0,shawl, not a bag
+2788,0,shawl, not a bag
+2789,0,shawl, not a bag
+2790,1,black suede heels match
+2791,1,black suede heels match
+2792,1,black suede heels match
+2793,1,black suede heels match
+2794,1,black suede heels match
+2795,1,letter ö necklace matches
+2796,1,letter ö necklace matches
+2797,1,letter ö necklace matches
+2798,1,letter ö necklace matches
+2799,1,letter ö necklace matches

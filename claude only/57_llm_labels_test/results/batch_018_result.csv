@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+6300,1,avize yatak odası salon eşleşiyor
+6301,1,yatak odası avize eşleşiyor
+6302,1,yatak odası avize eşleşiyor
+6303,1,yatak odası avize eşleşiyor
+6304,1,yatak odası avize eşleşiyor
+6305,0,göz farı - kremi değil
+6306,0,güneş gözlüğü - kozmetik değil
+6307,0,makyaj temizleme suyu - göz kremi değil
+6308,0,güneş gözlüğü - göz kremi değil
+6309,0,yüz kremi - mia markası değil
+6310,1,gourmet marka kedi konservesi
+6311,1,gourmet marka kedi konservesi
+6312,1,gourmet marka kedi konservesi
+6313,1,gourmet ürün hattı ton balıklı
+6314,0,farklı marka schesir
+6315,1,kadın kışlık eşofman takımı
+6316,1,kadın kışlık eşofman takımı
+6317,1,kadın kışlık eşofman takımı
+6318,1,kadın kışlık eşofman takımı
+6319,1,kadın kışlık alt üst takım
+6320,1,boks lapası eşleşiyor
+6321,1,boks lapası eşleşiyor
+6322,1,boks lapası eşleşiyor
+6323,1,boks lapası eşleşiyor
+6324,1,boks lapası eşleşiyor
+6325,1,döküm kuzine soba eşleşiyor
+6326,1,döküm kuzine soba eşleşiyor
+6327,1,döküm kuzine soba eşleşiyor
+6328,1,döküm kuzine soba eşleşiyor
+6329,1,döküm kuzine soba eşleşiyor
+6330,1,redmi note 14 tam eşleşme
+6331,1,redmi note 14 pro varyantı
+6332,0,farklı model redmi 10c
+6333,0,farklı marka model omix
+6334,0,farklı marka model reeder
+6335,1,camlı mutfak dolabı benzeri ürün
+6336,1,camlı mutfak - banyo dolabı
+6337,0,banyo ecza dolabı - mutfak değil
+6338,1,camlı mutfak - banyo dolabı
+6339,0,camlı belirtilmemiş kiler dolabı
+6340,1,conti marka süpürge
+6341,1,conti marka süpürge
+6342,1,conti marka süpürge
+6343,1,conti marka süpürge
+6344,0,farklı marka hyundai
+6345,1,söz tepsisi eşleşiyor
+6346,1,söz nişan tepsisi eşleşiyor
+6347,1,söz tepsisi eşleşiyor
+6348,1,söz nişan tepsisi eşleşiyor
+6349,1,söz nişan tepsisi eşleşiyor
+6350,1,kore yüz maskesi
+6351,1,kore markası missha yaprak maske
+6352,1,kore markası missha göz maskesi
+6353,0,tişört - maske ürünü değil
+6354,0,kore ürünü belirtilmemiş
+6355,1,arko marka tıraş köpüğü
+6356,1,arko marka tıraş köpüğü
+6357,1,arko marka tıraş köpüğü
+6358,1,arko marka tıraş köpüğü
+6359,1,arko marka tıraş köpüğü
+6360,0,yoğurt çökelek - bazlama değil
+6361,0,közlenmiş salata - bazlama değil
+6362,0,pişirme kalıbı - bazlama değil
+6363,0,zeytin - bazlama değil
+6364,0,duş takımı - alakasız
+6365,1,schafer marka mutfak şefi mikser
+6366,1,schafer marka mutfak şefi mikser
+6367,1,schafer marka mutfak şefi mikser
+6368,0,farklı marka bosch
+6369,0,farklı marka emsan
+6370,1,bilgi sarmal edebiyat denemesi
+6371,1,bilgi sarmal edebiyat denemesi
+6372,0,edebiyata özel değil genel set
+6373,0,matematik-biyoloji - edebiyat değil
+6374,0,farklı yayınevi kpss
+6375,1,stitch temalı pelüş oyuncak
+6376,1,stitch labubu seti eşleşiyor
+6377,1,stitch labubu pelüş eşleşiyor
+6378,1,labubu stitch pelüş eşleşiyor
+6379,1,stitch labubu anahtarlık eşleşiyor
+6380,1,pull & bear marka etek
+6381,0,farklı marka stradivarius
+6382,0,farklı marka mango woman
+6383,0,farklı marka h&m
+6384,0,farklı marka mango woman
+6385,1,nurgaz marka kamp ocağı
+6386,1,nurgaz marka kamp ocağı
+6387,1,nurgaz marka kamp ocağı
+6388,1,nurgaz marka kamp ocağı
+6389,1,nurgaz marka kamp ocağı
+6390,1,4g taşınabilir modem eşleşiyor
+6391,1,4g taşınabilir modem eşleşiyor
+6392,1,4g taşınabilir modem eşleşiyor
+6393,1,4g taşınabilir modem eşleşiyor
+6394,1,4g taşınabilir modem eşleşiyor
+6395,1,pomodoro öğrenci saati eşleşiyor
+6396,1,pomodoro öğrenci saati eşleşiyor
+6397,1,pomodoro öğrenci kronometresi eşleşiyor
+6398,1,pomodoro zamanlayıcı eşleşiyor
+6399,0,pomodoro/kronometre özelliği yok
+6400,0,dekoratif obje - kamera değil
+6401,0,duvar sticker - kamera değil
+6402,0,duvar sticker - kamera değil
+6403,0,duvar sticker - kamera değil
+6404,0,fon perde - kamera değil
+6405,1,tesettür düğünlük abiye
+6406,1,tesettür düğünlük abiye
+6407,1,tesettür düğünlük abiye
+6408,1,tesettür düğünlük abiye
+6409,1,tesettür düğünlük abiye
+6410,1,2li duvar rafı eşleşiyor
+6411,1,2li duvar rafı eşleşiyor
+6412,1,2li duvar rafı eşleşiyor
+6413,1,2li duvar rafı eşleşiyor
+6414,1,2li duvar rafı eşleşiyor
+6415,0,renk hardal - yeşil değil
+6416,0,renk belirtilmemiş - yeşil değil
+6417,0,renk belirtilmemiş - yeşil değil
+6418,0,renk açık sarı - yeşil değil
+6419,0,renk sarı - yeşil değil
+6420,1,vileda üçgen yedek paspas
+6421,1,vileda üçgen yedek paspas
+6422,0,üçgen belirtilmemiş
+6423,0,farklı marka flora - üçgen değil
+6424,0,üçgen belirtilmemiş
+6425,1,bulaşık kurutma sepeti eşleşiyor
+6426,1,bulaşık kurutma sepeti eşleşiyor
+6427,1,bulaşık kurutma sepeti eşleşiyor
+6428,1,bulaşık kurutma sepeti eşleşiyor
+6429,1,bulaşık kurutma sepeti eşleşiyor
+6430,0,motosiklet çamurluğu - oto değil
+6431,1,fiat oto çamurluk takımı
+6432,1,oto çamurluk eşleşiyor
+6433,0,motosiklet çamurluğu - oto değil
+6434,0,motosiklet çamurluğu - oto değil
+6435,1,regal marka kurutma makinesi
+6436,1,regal marka kurutma makinesi
+6437,1,regal marka kurutma makinesi
+6438,1,regal marka kurutma makinesi
+6439,1,regal marka kurutma makinesi
+6440,1,kahve yanı su bardağı eşleşiyor
+6441,1,kahve yanı su bardağı eşleşiyor
+6442,1,kahve yanı su bardağı eşleşiyor
+6443,1,kahve yanı su bardağı eşleşiyor
+6444,1,kahve yanı su bardağı eşleşiyor
+6445,1,samsung marka şarj kablosu
+6446,1,samsung marka şarj kablosu
+6447,1,samsung marka şarj kablosu
+6448,1,samsung marka şarj kablosu
+6449,1,samsung marka type c kablo
+6450,1,l köşe koltuk takımı
+6451,1,l köşe koltuk takımı
+6452,1,l köşe koltuk takımı
+6453,1,l köşe koltuk takımı
+6454,1,l köşe koltuk takımı
+6455,0,mutfak havlusu - çarşaf değil
+6456,0,mutfak önlüğü - çarşaf değil
+6457,0,mutfak havlusu - çarşaf değil
+6458,0,seccade - çarşaf değil
+6459,0,peçete - çarşaf değil
+6460,1,columbia erkek tişört eşleşiyor
+6461,1,columbia erkek tişört eşleşiyor
+6462,1,columbia erkek tişört eşleşiyor
+6463,1,columbia erkek tişört eşleşiyor
+6464,1,columbia erkek tişört eşleşiyor
+6465,1,kadın iş önlüğü eşleşiyor
+6466,1,kadın takım elbise iş kıyafeti
+6467,0,mini elbise - iş kıyafeti değil
+6468,0,günlük elbise - iş kıyafeti değil
+6469,1,kadın doktor iş önlüğü
+6470,1,tıraş köpüğü eşleşiyor
+6471,1,tıraş köpüğü eşleşiyor
+6472,1,tıraş köpüğü eşleşiyor
+6473,1,tıraş köpüğü eşleşiyor
+6474,1,tıraş köpüğü eşleşiyor
+6475,1,denim tears baskılı sweat
+6476,1,denim tears jean ürünü
+6477,1,denim tears baskılı sweatshirt
+6478,0,denim tears ile ilgisi yok
+6479,0,denim tears ile ilgisi yok
+6480,1,rivaistanbul marka nevresim
+6481,1,rivaistanbul marka nevresim
+6482,1,rivaistanbul marka nevresim
+6483,0,farklı marka cotton box
+6484,0,farklı marka enlora home
+6485,1,anna karenina tolstoy eşleşiyor
+6486,1,anna karenina tolstoy eşleşiyor
+6487,1,anna karenina roman eşleşiyor
+6488,1,anna karenina tolstoy çocuk versiyonu
+6489,0,farklı kitaplar - anna karenina değil
+6490,1,kiwi marka hava nemlendirici
+6491,1,kiwi marka hava nemlendirici
+6492,0,farklı marka robeve
+6493,0,farklı marka h2o humidifier
+6494,0,farklı marka hifu
+6495,1,bebek kundak havlusu eşleşiyor
+6496,1,bebek kundak havlusu eşleşiyor
+6497,1,bebek kundak havlusu eşleşiyor
+6498,1,bebek kundak havlusu eşleşiyor
+6499,1,bebek kundak havlusu eşleşiyor
+6500,1,mango kadın çanta eşleşiyor
+6501,1,mango kadın çanta eşleşiyor
+6502,1,mango kadın çanta eşleşiyor
+6503,1,mango kadın çanta eşleşiyor
+6504,1,mango kadın çanta eşleşiyor
+6505,0,hot wheels marka - vtech değil
+6506,0,hot wheels marka - vtech değil
+6507,0,hot wheels marka - vtech değil
+6508,0,hot wheels marka - vtech değil
+6509,0,hot wheels marka - vtech değil
+6510,1,nike air zoom eşleşiyor
+6511,1,nike air zoom eşleşiyor
+6512,1,nike air zoom eşleşiyor
+6513,1,nike air zoom eşleşiyor
+6514,1,nike air zoom eşleşiyor
+6515,1,tens elektrot pedi eşleşiyor
+6516,1,tens elektrot pedi eşleşiyor
+6517,1,tens elektrot pedi eşleşiyor
+6518,1,tens elektrot pedi eşleşiyor
+6519,1,tens elektrot pedi eşleşiyor
+6520,1,moringa tozu eşleşiyor
+6521,1,moringa tozu eşleşiyor
+6522,1,moringa tozu çayı eşleşiyor
+6523,0,kahve ürünü - moringa değil
+6524,0,farklı bitkisel karışım kapsül
+6525,1,halı saha ayakkabısı eşleşiyor
+6526,1,halı saha ayakkabısı eşleşiyor
+6527,1,halı saha futbol ayakkabısı
+6528,1,halı saha ayakkabısı eşleşiyor
+6529,1,halı saha ayakkabısı eşleşiyor
+6530,1,oto çizik giderici eşleşiyor
+6531,1,oto çizik giderici eşleşiyor
+6532,1,oto çizik giderici pasta bezi
+6533,1,oto çizik giderici eşleşiyor
+6534,1,oto çizik giderici pasta eşleşiyor
+6535,1,çamaşır sodası eşleşiyor
+6536,1,çamaşır sodası eşleşiyor
+6537,1,çamaşır sodası eşleşiyor
+6538,1,çamaşır sodası eşleşiyor
+6539,1,çamaşır sodası eşleşiyor
+6540,1,fenerbahçe lisanslı ürün
+6541,1,fenerbahçe lisanslı ürün
+6542,1,fenerbahçe lisanslı ürün
+6543,1,fenerbahçe lisanslı ürün
+6544,1,fenerbahçe lisanslı ürün
+6545,1,tane sumak eşleşiyor
+6546,1,tane sumak eşleşiyor
+6547,1,tane sumak eşleşiyor
+6548,1,tane sumak eşleşiyor
+6549,1,tane sumak eşleşiyor
+6550,1,gri çift kişilik yatak örtüsü
+6551,1,gri çift kişilik yatak örtüsü
+6552,1,gri çift kişilik yatak örtüsü
+6553,1,gri çift kişilik yatak örtüsü
+6554,1,gri çift kişilik yatak örtüsü
+6555,1,xb9155 model tam eşleşme
+6556,0,farklı model xb9185
+6557,0,model kodu belirtilmemiş farklı
+6558,0,model kodu belirtilmemiş farklı
+6559,0,model kodu belirtilmemiş farklı
+6560,1,bosch dikey şarjlı süpürge
+6561,1,bosch dikey şarjlı süpürge
+6562,1,bosch dikey şarjlı süpürge
+6563,1,bosch dikey şarjlı süpürge
+6564,1,bosch dikey şarjlı süpürge
+6565,1,örgü şişi eşleşiyor
+6566,1,örgü şişi eşleşiyor
+6567,1,örgü şişi eşleşiyor
+6568,1,örgü şişi eşleşiyor
+6569,1,örgü şişi eşleşiyor
+6570,1,ipl lazer epilasyon aleti
+6571,1,ipl lazer epilasyon aleti
+6572,1,ipl lazer epilasyon aleti
+6573,1,ipl lazer epilasyon aleti
+6574,0,lazer yazıcı - epilasyon değil
+6575,0,ayakkabı - kutu değil
+6576,0,ayakkabı - kutu değil
+6577,0,ayakkabı - kutu değil
+6578,0,ayakkabı - kutu değil
+6579,0,ayakkabı - kutu değil
+6580,1,1.sınıf materyali eşleşiyor
+6581,1,1.sınıf materyali eşleşiyor
+6582,1,1.sınıf materyali eşleşiyor
+6583,1,1.sınıf materyali eşleşiyor
+6584,0,4.sınıf - 1.sınıf değil
+6585,0,kaşe kumaş - hazır kaban değil
+6586,1,kaşe kaban eşleşiyor
+6587,0,peluş ceket - kaşe kaban değil
+6588,1,kaşe mont eşleşiyor
+6589,0,düz ceket - kaşe değil
+6590,1,capitone mont eşleşiyor
+6591,1,capitone mont eşleşiyor
+6592,1,kapitone mont eşleşiyor
+6593,0,kapitone belirtilmemiş
+6594,1,kapitoneli mont eşleşiyor
+6595,1,işıltılı yüz kremi glow etkisi
+6596,1,skin glow ürünü eşleşiyor
+6597,1,glow serumu eşleşiyor
+6598,1,dewy glow serum eşleşiyor
+6599,0,glow ile ilgisi yok
+6600,1,yazılı kupa bardak eşleşiyor
+6601,1,yazılı kupa bardak eşleşiyor
+6602,1,yazılı kupa bardak eşleşiyor
+6603,1,yazılı kupa bardak eşleşiyor
+6604,1,yazılı kupa bardak eşleşiyor
+6605,1,kappa eşofman altı eşleşiyor
+6606,1,kappa eşofman altı eşleşiyor
+6607,1,kappa eşofman altı eşleşiyor
+6608,1,kappa eşofman altı eşleşiyor
+6609,1,kappa eşofman altı eşleşiyor
+6610,1,kadın hakiki deri çanta
+6611,1,kadın hakiki deri çanta
+6612,1,kadın hakiki deri çanta
+6613,1,kadın hakiki deri çanta
+6614,1,kadın hakiki deri çanta
+6615,1,prego concorde travel sistem
+6616,1,prego concorde travel sistem
+6617,1,prego concorde travel sistem
+6618,0,farklı model solo - concorde değil
+6619,0,farklı model mios - concorde değil
+6620,0,farklı sınıf - 6.sınıf değil
+6621,1,6.sınıf ingilizce test kitabı
+6622,0,farklı sınıf ve genel set
+6623,0,karışık sınıf seti belirsiz
+6624,0,8.sınıf - 6.sınıf değil
+6625,0,kız çocuk odası - erkek değil
+6626,0,pembe - erkek çocuk değil
+6627,0,pembe kız odası - erkek değil
+6628,1,arabalı tema erkek çocuğa uygun
+6629,0,kız bebek odası - erkek değil
+6630,1,erkek polo yaka triko eşleşiyor
+6631,1,erkek polo yaka triko eşleşiyor
+6632,1,erkek polo yaka triko eşleşiyor
+6633,1,erkek polo yaka triko eşleşiyor
+6634,1,erkek polo yaka triko eşleşiyor
+6635,1,yulaf sütü eşleşiyor
+6636,1,yulaf sütü eşleşiyor
+6637,1,yulaf sütü eşleşiyor
+6638,1,yulaf sütü eşleşiyor
+6639,1,yulaf sütü eşleşiyor
+6640,1,espressolab termos eşleşiyor
+6641,1,espressolab termos eşleşiyor
+6642,1,espressolab termos eşleşiyor
+6643,1,espressolab termos eşleşiyor
+6644,1,espressolab termos eşleşiyor
+6645,1,fakir halı yıkama makinesi
+6646,1,fakir halı yıkama makinesi
+6647,1,fakir halı yıkama makinesi
+6648,1,fakir halı yıkama makinesi
+6649,1,fakir halı yıkama makinesi

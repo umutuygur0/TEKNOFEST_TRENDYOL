@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+350,1,footed glass serving plate matches query
+351,1,footed glass cake stand matches
+352,1,footed glass display stand matches
+353,1,footed glass patisserie stand matches
+354,1,footed glass serving plate paşabahçe
+355,0,huawei compatible not airpods
+356,1,airpods 4th gen compatible case
+357,0,wrong model - airpods pro not 4
+358,0,wrong model - airpods pro 2 not 4
+359,0,wrong brand - samsung galaxy buds
+360,1,stradivarius topuklu bot match
+361,1,stradivarius topuklu bot match
+362,0,wrong brand - riccon not stradivarius
+363,0,wrong brand - divolya not stradivarius
+364,0,wrong brand and age - mango kids
+365,0,running shoe not boot
+366,0,wrong brand lumberjack not uspa boot
+367,0,wrong brand kinetix not uspa boot
+368,0,wrong brand m.p. not uspa boot
+369,0,wrong brand kinetix not uspa boot
+370,1,carmen boya malzemesi match
+371,1,carmen boya malzemesi match
+372,1,carmen boya malzemesi match
+373,1,carmen boya malzemesi match
+374,1,carmen boya malzemesi match
+375,1,yarasa kol ferace match
+376,1,yarasa kol ferace match
+377,1,yarasa kol ferace match
+378,1,title matches yarasa ferace
+379,1,yarasa kol ferace match
+380,1,pet wet wipes match
+381,1,pet wet wipes match
+382,1,pet wet wipes match
+383,1,pet wet wipes match
+384,1,pet wet wipes match
+385,1,rabo craft brand match
+386,1,rabo craft brand match
+387,1,rabo craft brand match
+388,1,rabo craft brand match
+389,1,rabo craft brand match
+390,1,hanging artificial flower match
+391,1,hanging artificial plant match
+392,1,hanging artificial plant match
+393,1,hanging artificial flower match
+394,1,hanging artificial flower match
+395,1,gray blackout curtain match
+396,1,gray blackout curtain match
+397,1,gray blackout curtain match
+398,1,gray blackout curtain match
+399,1,gray blackout curtain match
+400,1,ipanema brand sandal match
+401,1,ipanema brand slipper match
+402,1,ipanema brand slide match
+403,1,ipanema brand slide match
+404,1,ipanema brand sandal match
+405,1,textured plaster wall art match
+406,1,textured plaster wall art match
+407,1,textured plaster wall art match
+408,1,textured plaster wall art match
+409,1,textured plaster wall art match
+410,1,puma girls sport shoe match
+411,1,puma girls sport shoe match
+412,1,puma girls sport shoe match
+413,1,puma girls sneaker match
+414,1,puma girls sneaker match
+415,1,tonguc 5th grade book match
+416,1,tonguc 5th grade book match
+417,1,tonguc 5th grade title match
+418,1,tonguc 5th grade book match
+419,1,tonguc 5th grade book match
+420,1,gerber knife accessory match
+421,1,gerber knife accessory match
+422,1,gerber tool accessory match
+423,1,gerber knife accessory match
+424,1,gerber tool accessory match
+425,0,dress not boot
+426,0,dress not boot
+427,0,swimsuit not boot
+428,0,dress not boot
+429,0,t-shirt wrong gender not boot
+430,1,author nermin yildirim match
+431,1,author nermin yildirim match
+432,0,wrong author besir ayvazoglu
+433,0,wrong author alisan kapaklikaya
+434,0,wrong author ayse kulin
+435,1,roborock compatible accessory
+436,1,roborock accessory match
+437,1,roborock accessory match
+438,1,roborock accessory match
+439,1,roborock accessory match
+440,1,women home slipper match
+441,0,wrong gender erkek
+442,1,women home slipper match
+443,1,women home slipper match
+444,1,women home slipper match
+445,1,3 iplik erkek sweatshirt match
+446,0,no 3 iplik spec mentioned
+447,0,no 3 iplik spec mentioned
+448,0,wrong gender kadin
+449,0,no 3 iplik spec mentioned
+450,1,ayt kimya soru bankasi match
+451,1,ayt kimya content match
+452,1,ayt kimya soru bankasi match
+453,1,ayt kimya soru bankasi match
+454,1,ayt kimya soru bankasi match
+455,1,tesettur spor takim match
+456,1,tesettur spor takim match
+457,1,tesettur spor takim match
+458,1,tesettur spor takim match
+459,1,tesettur spor takim match
+460,1,atelier rebul istanbul line match
+461,1,atelier rebul istanbul line match
+462,1,atelier rebul istanbul line match
+463,1,atelier rebul istanbul line match
+464,1,atelier rebul istanbul line match
+465,0,wrong model astra g not h
+466,0,wrong model astra f-era not h
+467,0,wrong model astra g not h
+468,0,wrong model astra k not h
+469,0,wrong model astra j not h
+470,1,madame coco tabak match
+471,1,madame coco tabak match
+472,1,madame coco tabak match
+473,1,madame coco tabak match
+474,1,madame coco tabak match
+475,1,bedroom stor perde match
+476,1,bedroom stor perde match
+477,1,bedroom stor perde match
+478,1,bedroom stor perde match
+479,1,stor perde match
+480,1,sink strainer match
+481,1,sink strainer match
+482,1,sink strainer match
+483,1,sink strainer match
+484,1,sink strainer match
+485,1,medipeel brand match
+486,1,medipeel brand match
+487,1,medipeel brand match
+488,1,medipeel brand match
+489,1,medipeel brand match
+490,1,walnut vinegar match
+491,1,walnut vinegar match
+492,1,walnut vinegar match
+493,1,walnut vinegar match
+494,1,walnut vinegar match
+495,0,shorts not sweatshirt
+496,0,wrong gender kadin
+497,0,childrens not adult sweatshirt
+498,0,baby not adult sweatshirt
+499,1,us polo erkek sweatshirt match
+500,1,goose down pillow match
+501,1,goose down pillow match
+502,1,goose down topper match
+503,1,goose down coat material match
+504,1,goose down pillow match
+505,1,raw linen fabric match
+506,1,title matches raw linen fabric
+507,1,raw linen fabric match
+508,0,finished tablecloth not fabric
+509,0,not linen fabric
+510,0,dress not skirt
+511,0,dress not skirt
+512,0,dress not skirt
+513,0,dress not skirt
+514,0,dress not skirt
+515,1,wrangler mens pants match
+516,1,wrangler mens pants match
+517,1,wrangler mens pants match
+518,1,wrangler mens pants match
+519,1,wrangler mens pants match
+520,1,bueno brand shoe match
+521,1,bueno brand shoe match
+522,1,bueno brand shoe match
+523,1,bueno brand shoe match
+524,1,bueno brand shoe match
+525,1,black clothes detergent match
+526,1,black clothes detergent match
+527,1,black clothes detergent match
+528,1,black clothes detergent match
+529,1,black clothes detergent match
+530,1,glass panel door bookshelf match
+531,0,not glass door material
+532,0,not glass door material
+533,0,not glass door material
+534,0,not glass door material
+535,1,hose connector fitting match
+536,1,hose connector fitting match
+537,1,hose accessory match
+538,1,hose accessory match
+539,1,hose connector fitting match
+540,1,la roche posay toleriane match
+541,1,la roche posay toleriane match
+542,1,la roche posay toleriane match
+543,1,la roche posay toleriane match
+544,1,la roche posay toleriane match
+545,0,wrong brand mango woman not zara
+546,0,wrong brand modaadam not zara
+547,0,wrong brand saltopik not zara
+548,0,wrong brand not zara
+549,0,wrong brand rissoli not zara
+550,1,tepe brand oral care match
+551,1,tepe brand oral care match
+552,1,tepe brand oral care match
+553,1,tepe brand oral care match
+554,1,tepe brand oral care match
+555,1,gray womens jeans match
+556,1,dark gray womens jeans match
+557,1,anthracite womens jeans match
+558,1,gray womens jeans match
+559,1,anthracite womens jeans match
+560,1,toy story woody figure match
+561,1,toy story figures match
+562,1,toy story themed game match
+563,1,toy story ps3 game match
+564,1,toy story puzzle match
+565,1,cote blanc bedding match
+566,1,cote blanc bedding match
+567,1,cote blanc bedding match
+568,1,cote blanc bedding match
+569,1,cote blanc bedding match
+570,0,unrelated juice product
+571,0,unrelated gold coin product
+572,0,unrelated milkshake powder
+573,0,unrelated plus size dress
+574,0,unrelated sprayer tool
+575,1,mac brand makeup brush match
+576,0,wrong brand oriflame not mac
+577,0,wrong brand nascita not mac
+578,0,wrong brand artskin not mac
+579,0,wrong brand not mac
+580,1,steel pocketknife match
+581,0,steel necklace not knife
+582,0,steel bracelet not knife
+583,0,unrelated guitar accessory
+584,0,steel necklace not knife
+585,1,yasin serif gift set match
+586,1,yasin serif gift set match
+587,1,yasin serif gift set match
+588,1,yasin serif gift set match
+589,1,yasin serif gift set match
+590,1,shoe cabinet match
+591,1,shoe cabinet match
+592,1,shoe cabinet match
+593,1,shoe cabinet match
+594,1,shoe cabinet match
+595,1,newborn baby towel match
+596,1,newborn baby towel match
+597,1,newborn baby towel match
+598,1,newborn baby towel match
+599,1,newborn baby towel match
+600,1,kiko makeup bag match
+601,1,kiko makeup bag match
+602,1,kiko makeup bag match
+603,1,kiko makeup bag match
+604,1,kiko makeup bag match
+605,0,mug not kara kalem art
+606,1,kara kalem style wall art match
+607,1,kara kalem style wall art match
+608,1,kara kalem style wall art match
+609,0,phone case not wall art
+610,1,puma mens running shoe match
+611,1,puma unisex running shoe match
+612,1,puma mens running shoe match
+613,1,puma mens running shoe match
+614,1,puma mens running shoe match
+615,1,msi laptop brand match
+616,1,msi laptop brand match
+617,1,msi laptop brand match
+618,1,msi laptop brand match
+619,1,msi laptop brand match
+620,1,roborock robot vacuum match
+621,1,roborock robot vacuum match
+622,1,roborock robot vacuum match
+623,1,roborock robot vacuum match
+624,0,unrelated phone case
+625,1,scotch brite brand match
+626,1,scotch brite brand match
+627,1,scotch brite brand match
+628,1,scotch brite brand match
+629,1,scotch brite brand match
+630,0,wrong brand fujitsu general not fujiplus
+631,1,fujiplus brand match
+632,0,wrong brand sigma not fujiplus
+633,0,wrong brand vals not fujiplus
+634,0,wrong brand sigma not fujiplus
+635,1,waxed canvas bag match
+636,1,waxed canvas bag match
+637,1,waxed canvas bag match
+638,1,waxed canvas bag match
+639,1,waxed canvas bag match
+640,1,outdoor protection cover match
+641,1,outdoor protection cover match
+642,1,outdoor protection cover match
+643,1,outdoor protection cover match
+644,1,outdoor protection cover match
+645,1,footed presentation stand match
+646,1,footed presentation stand match
+647,1,footed presentation stand match
+648,1,footed presentation stand match
+649,1,footed presentation stand match
+650,0,not semolina product
+651,0,not semolina product
+652,0,not semolina product
+653,0,not semolina product
+654,0,not semolina product
+655,1,hummel sweatpants match
+656,1,hummel sweatpants match
+657,1,hummel sweatpants match
+658,1,hummel sweatpants match
+659,1,hummel sweatpants match
+660,1,9th grade physics book match
+661,1,9th grade physics book match
+662,0,wrong subject biology not physics
+663,0,wrong subject biology not physics
+664,0,wrong subject biology not physics
+665,1,bosch nut driver match
+666,1,bosch nut driver match
+667,1,bosch nut driver match
+668,1,bosch nut driver match
+669,1,bosch nut driver match
+670,1,pants suspender match
+671,1,pants suspender match
+672,1,pants suspender match
+673,1,pants suspender match
+674,1,pants suspender match
+675,0,generic brown not taba shade
+676,1,camel color matches taba
+677,0,dark coffee brown not taba
+678,0,generic brown not taba shade
+679,0,black color not taba
+680,1,korkmaz perla pot match
+681,1,korkmaz perla pot set match
+682,1,korkmaz perla pot match
+683,1,korkmaz perla pot set match
+684,1,korkmaz perla pot match
+685,1,royal canin sterilized cat food match
+686,1,royal canin sterilized cat food match
+687,1,royal canin sterilized cat food match
+688,0,wrong brand molly not royal canin
+689,0,wrong brand pro line not royal canin
+690,1,lego spiderman set match
+691,1,lego spiderman minifigure match
+692,1,lego spiderman brickheadz match
+693,0,avengers not spiderman themed
+694,1,lego spiderman set match
+695,1,silver single stone ring match
+696,1,silver single stone ring match
+697,1,silver single stone ring match
+698,1,silver single stone ring match
+699,1,silver single stone ring match

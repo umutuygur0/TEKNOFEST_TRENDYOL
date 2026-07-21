@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+1750,1,metal/aluminum şekerlik matches
+1751,1,metal şekerlik exact match
+1752,0,generic bowl no confirmed metal material
+1753,1,metal şekerlik exact match
+1754,1,metal şekerlik exact match
+1755,1,title explicitly says olta kazığı
+1756,1,title explicitly says olta kazığı
+1757,1,title explicitly says olta kazığı
+1758,0,fishing lure not rod holder
+1759,0,fishing lure not rod holder
+1760,1,yumoş amber çamaşır yumuşatıcısı match
+1761,0,room spray not fabric softener
+1762,1,contains yumoş amber softener
+1763,0,room spray not fabric softener
+1764,1,yumoş amber çamaşır yumuşatıcısı match
+1765,1,tergan kadın sneaker match
+1766,1,tergan kadın sneaker match
+1767,1,tergan kadın sneaker match
+1768,1,tergan kadın sneaker match
+1769,1,tergan kadın sneaker match
+1770,1,isana saç kremi match
+1771,1,isana saç kremi match
+1772,1,isana saç kremi match
+1773,1,isana hair treatment same brand
+1774,1,isana saç kremi match
+1775,1,slazenger parfüm deodorant set match
+1776,1,slazenger parfüm deodorant set match
+1777,1,slazenger parfüm deodorant set match
+1778,1,slazenger parfüm deodorant set match
+1779,1,slazenger parfüm deodorant set match
+1780,1,erkek çocuk sırt çantası match
+1781,1,erkek çocuk sırt çantası match
+1782,1,erkek çocuk sırt çantası match
+1783,1,erkek çocuk sırt çantası match
+1784,1,erkek çocuk sırt çantası match
+1785,1,şeffaf kahve sunum tepsisi match
+1786,1,şeffaf kahve sunum tepsisi match
+1787,1,şeffaf kahve sunum tepsisi match
+1788,1,şeffaf sunum tepsisi match
+1789,1,şeffaf kahve sunum tepsisi match
+1790,0,wrong brand lumberjack shoe named yamaha
+1791,1,yamaha brand guitar
+1792,1,yamaha brand motorcycle gear
+1793,1,yamaha brand motorcycle gear
+1794,0,third-party keychain not yamaha brand
+1795,1,schafer kahvaltı takımı match
+1796,1,schafer kahvaltı takımı match
+1797,1,schafer kahvaltı takımı match
+1798,1,schafer kahvaltı takımı match
+1799,1,schafer kahvaltı takımı match
+1800,1,evpanya bebek nevresim takımı match
+1801,1,evpanya bebek nevresim takımı match
+1802,1,evpanya bebek nevresim takımı match
+1803,1,evpanya bebek nevresim takımı match
+1804,1,evpanya bebek nevresim takımı match
+1805,1,narenciye sıkacağı match
+1806,1,portakal sıkacağı match industrial
+1807,1,portakal & limon sıkacağı match
+1808,1,portakal sıkma makinası match
+1809,1,portakal limon sıkacağı match
+1810,1,şeffaf masa koruyucu örtü match
+1811,1,masa örtüsü koruyucu match
+1812,1,masa koruyucu örtü match
+1813,1,masa koruma örtüsü match
+1814,1,masa koruyucu örtü match
+1815,1,pierre cardin bordo omuz çantası match
+1816,1,pierre cardin bordo omuz çantası match
+1817,1,pierre cardin bordo omuz çantası match
+1818,1,pierre cardin bordo omuz çantası match
+1819,1,pierre cardin bordo omuz çantası match
+1820,1,halı örtüsü match
+1821,1,halı örtüsü match
+1822,1,halı örtüsü match
+1823,1,halı örtüsü match
+1824,1,halı örtüsü match
+1825,1,duvar apliği matches duvar avize intent
+1826,1,duvar apliği matches duvar avize intent
+1827,1,duvar apliği matches duvar avize intent
+1828,1,duvar apliği matches duvar avize intent
+1829,1,duvar apliği matches duvar avize intent
+1830,1,bahçe lambası solar match
+1831,1,bahçe aydınlatma armatürü match
+1832,1,güneş enerjili bahçe lambası match
+1833,1,bahçe aydınlatması solar lamba match
+1834,1,bahçe aydınlatma match
+1835,1,stradivarius pantolon match
+1836,1,stradivarius pantolon match
+1837,1,stradivarius pantolon match
+1838,1,stradivarius pantolon match
+1839,1,stradivarius pantolon match
+1840,1,iş ayakkabısı match
+1841,1,iş ayakkabısı match
+1842,1,iş ayakkabısı match
+1843,1,iş ayakkabısı match
+1844,1,iş ayakkabısı match
+1845,1,erkek gri gömlek match
+1846,1,erkek gri gömlek match
+1847,1,erkek gri gömlek match
+1848,1,erkek gri gömlek match
+1849,1,erkek gri gömlek match
+1850,0,different brand olab vs olalab
+1851,0,ph lab brand not olalab
+1852,0,ph lab brand not olalab
+1853,0,ph lab brand not olalab
+1854,1,olalab brand exact match
+1855,1,madmext sweatshirt match
+1856,1,madmext sweatshirt match
+1857,1,madmext sweatshirt match
+1858,1,madmext sweatshirt match
+1859,1,madmext sweatshirt match
+1860,1,conzaliza çift kişilik nevresim match
+1861,1,conzaliza çift kişilik nevresim match
+1862,1,conzaliza çift kişilik nevresim match
+1863,1,conzaliza çift kişilik nevresim match
+1864,1,conzaliza çift kişilik nevresim match
+1865,1,hakke pantolon match
+1866,1,hakke pantolon match
+1867,1,hakke pantolon match
+1868,1,hakke pantolon match
+1869,1,hakke pantolon match
+1870,1,elbise/dolap düzenleyici match
+1871,1,elbise/dolap düzenleyici match
+1872,1,elbise/dolap düzenleyici match
+1873,1,kıyafet saklama organizer match
+1874,1,kıyafet saklama organizer match
+1875,1,samsung no frost buzdolabı match
+1876,1,samsung no frost buzdolabı match
+1877,1,samsung no frost buzdolabı match
+1878,1,samsung no frost buzdolabı match
+1879,1,samsung no frost buzdolabı match
+1880,1,epilasyon seti match
+1881,1,epilasyon seti match
+1882,1,epilasyon cihazı match
+1883,1,epilasyon cihazı match
+1884,1,ipl epilasyon match
+1885,1,irmik match
+1886,1,irmik match
+1887,1,irmik match
+1888,1,irmik match
+1889,1,irmik match
+1890,1,hava üflemeli saç maşası match
+1891,1,hava üflemeli air styler match
+1892,1,hava üflemeli saç maşası match
+1893,1,hava üflemeli saç maşası match
+1894,1,hava üflemeli air styler match
+1895,1,masa üstü dekoratif süs match
+1896,1,masa üstü dekoratif süs match
+1897,1,masaüstü dekoratif obje match
+1898,1,masaüstü dekoratif obje match
+1899,1,masaüstü dekoratif süs match
+1900,1,keçe bakım çantası organizer match
+1901,1,keçe bakım çantası organizer match
+1902,1,keçe bakım çantası organizer match
+1903,1,keçe bakım çantası organizer match
+1904,1,keçe bakım çantası organizer match
+1905,1,derimod kadın spor ayakkabı match
+1906,1,derimod kadın spor ayakkabı match
+1907,1,derimod kadın spor ayakkabı match
+1908,1,derimod kadın spor ayakkabı match
+1909,1,derimod kadın spor ayakkabı match
+1910,1,exact size 185/65r15 4 mevsim
+1911,0,yaz lastiği not 4 mevsim
+1912,0,wrong size 185/60 not 185/65
+1913,0,wrong size 185/60 not 185/65
+1914,0,wrong size 185/60 not 185/65
+1915,1,damla sakızlı dibek kahvesi match
+1916,1,damla sakızlı dibek kahvesi match
+1917,1,damla sakızlı dibek kahvesi match
+1918,1,damla sakızlı dibek kahvesi match
+1919,1,damla sakızlı dibek kahvesi match
+1920,1,marlux şemsiye match
+1921,1,marlux şemsiye match
+1922,1,marlux model şemsiye match
+1923,1,marlux model şemsiye match
+1924,1,marlux model şemsiye match
+1925,1,hyundai chainsaw for pruning
+1926,1,hyundai chainsaw for pruning
+1927,1,hyundai chainsaw for pruning
+1928,1,hyundai chainsaw for pruning
+1929,1,hyundai chainsaw for pruning
+1930,1,orijinal erkek kol saati match
+1931,1,orijinal erkek kol saati match
+1932,1,orijinal erkek kol saati match
+1933,1,orijinal erkek kol saati match
+1934,1,orijinal erkek kol saati match
+1935,1,jada puma kadın ayakkabı match
+1936,1,jada puma kadın ayakkabı match
+1937,1,jada puma kadın ayakkabı match
+1938,1,jada puma sneaker match
+1939,1,jada puma ayakkabı match
+1940,1,kiraz küpe match
+1941,1,kiraz küpe match
+1942,1,kiraz küpe match
+1943,1,kiraz küpe match
+1944,1,kiraz küpe match
+1945,1,tablet deterjan saklama kutusu match
+1946,1,tablet deterjan saklama kutusu match
+1947,1,tablet deterjan saklama kutusu match
+1948,1,tablet deterjan saklama kutusu match
+1949,1,tablet deterjan saklama kutusu match
+1950,1,kadın el ve omuz çantası match
+1951,1,kadın el ve omuz çantası match
+1952,1,kadın el ve omuz çantası match
+1953,1,kadın el ve omuz çantası match
+1954,1,kadın el ve omuz çantası match
+1955,1,kreatin monohidrat match
+1956,1,kreatin monohidrat match
+1957,1,kreatin monohidrat match
+1958,1,kreatin monohidrat match
+1959,1,kreatin monohidrat match
+1960,1,reçellik match
+1961,1,reçellik/kase set match
+1962,1,reçellik sosluk match
+1963,1,mini reçellik kase match
+1964,1,mini sosluk reçellik match
+1965,1,macbook air m2 exact chip match
+1966,0,m3 chip not m2
+1967,0,m3 chip not m2
+1968,0,m3 chip not m2
+1969,1,macbook air m2 exact chip match
+1970,1,soul brand tunik match
+1971,1,soul brand tunik match
+1972,1,soul brand tunik match
+1973,0,aker brand not soul/scl
+1974,0,kayra brand not soul/scl
+1975,1,taba terlik match
+1976,1,taba terlik match
+1977,1,taba terlik match
+1978,1,taba terlik match
+1979,1,taba terlik match
+1980,1,erkek yüzük match
+1981,1,erkek yüzük match
+1982,1,erkek yüzük match
+1983,1,erkek yüzük match
+1984,1,erkek yüzük match
+1985,1,döküm tencere match
+1986,1,döküm tencere match
+1987,1,döküm tencere match
+1988,1,döküm tencere match
+1989,1,döküm tencere match
+1990,1,hotwheels diorama garaj match
+1991,1,diecast diorama garaj match
+1992,1,hot wheels araba garajı match
+1993,0,ps3 video game not toy garage
+1994,1,diecast diorama garaj match
+1995,1,franke ankastre set match
+1996,1,franke ankastre set match
+1997,1,franke ankastre set match
+1998,0,single dishwasher not full set
+1999,0,single oven not full set
+2000,1,taç fon perde match
+2001,1,taç fon perde match
+2002,1,taçhome fon perde takımı match
+2003,1,taç fon perde match
+2004,1,taçhome fon takım match
+2005,1,marla home tek kişilik uyku seti match
+2006,1,marla home tek kişilik uyku seti match
+2007,1,marla home tek kişilik uyku seti match
+2008,1,marla home tek kişilik uyku seti match
+2009,1,marla home tek kişilik uyku seti match
+2010,1,diş taşı temizleme cihazı match
+2011,1,diş taşı tartar temizleme match
+2012,0,water flosser not tartar remover
+2013,0,water flosser not tartar remover
+2014,1,tartar sökücü match
+2015,1,bargello 575 exact model match
+2016,0,model 567 not 575
+2017,0,model 567 not 575
+2018,0,model 580 not 575
+2019,1,bargello 575 exact model match
+2020,1,oto yıkama köpük pompası match
+2021,0,face wash foamer not car foam machine
+2022,0,toy bubble gun not foam machine
+2023,1,araç yıkama köpük makinası match
+2024,0,bathroom foam soap dispenser different device
+2025,1,mollers balık yağı match
+2026,1,mollers balık yağı match
+2027,1,mollers balık yağı match
+2028,1,mollers balık yağı match
+2029,1,mollers balık yağı match
+2030,1,titiz brand product match
+2031,0,brand is single not titiz
+2032,1,titiz plastik brand match
+2033,1,titiz plastik brand match
+2034,1,titiz brand match
+2035,1,not kağıdı match
+2036,1,not kağıdı match
+2037,1,not kağıdı match
+2038,1,not kağıdı match
+2039,1,not kağıdı match
+2040,1,4 mevsim lastik match
+2041,1,4 mevsim lastik match
+2042,1,4 mevsim lastik match
+2043,1,4 mevsim lastik match
+2044,1,4 mevsim lastik match
+2045,1,karaca espresso cappuccino makinesi match
+2046,1,karaca cappuccino makinesi match
+2047,1,karaca espresso cappuccino makinesi match
+2048,1,karaca cappuccino makinesi match
+2049,1,karaca espresso cappuccino makinesi match
+2050,1,çocuk abiye elbise match
+2051,1,çocuk abiye elbise match
+2052,1,çocuk abiye elbise match
+2053,1,çocuk abiye elbise match
+2054,1,çocuk abiye elbise match
+2055,1,mavi brand kaban match
+2056,1,mavi brand kaban match
+2057,1,mavi brand kaban match
+2058,1,mavi brand kaban match
+2059,0,brand is be blue not mavi
+2060,1,harry potter kitap match
+2061,1,harry potter kitap match
+2062,1,harry potter kitap match
+2063,1,harry potter kitap match
+2064,1,harry potter kitap match
+2065,1,elektrikli şömine tipi ısıtıcı match
+2066,1,elektrikli şömine tipi ısıtıcı match
+2067,1,elektrikli şömine tipi ısıtıcı match
+2068,1,elektrikli şömine ısıtıcı match
+2069,1,elektrikli şömine ısıtıcı match
+2070,1,erkek hemşire forması match
+2071,1,erkek hemşire forması match
+2072,1,erkek hemşire forması top match
+2073,1,erkek hemşire forması bottom match
+2074,1,erkek hemşire forması match
+2075,1,roborock brand robot vacuum match
+2076,0,actual brand dreame not roborock
+2077,1,roborock brand robot vacuum match
+2078,1,roborock brand robot vacuum match
+2079,1,roborock brand robot vacuum match
+2080,1,kupa rafı match
+2081,1,kupa rafı match
+2082,1,kupa rafı match
+2083,1,kupa rafı match
+2084,1,kupa rafı match
+2085,1,bingo matik deterjan match
+2086,1,bingo matik deterjan match
+2087,1,bingo matik deterjan match
+2088,1,bingo matik deterjan match
+2089,1,bingo matik deterjan match
+2090,1,güvenal bornoz set match
+2091,1,güvenal bornoz set match
+2092,1,güvenal bornoz set match
+2093,1,güvenal bornoz set match
+2094,1,güvenal bornoz set match
+2095,1,termal etiket match
+2096,1,termal etiket match
+2097,1,termal barkod etiketi match
+2098,1,termal barkod etiketi match
+2099,1,termal barkod etiketi match

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+350,1,pleksi stand organizer matches query
+351,1,pleksi stand for napkins still a stand
+352,1,pleksi display stand matches
+353,1,pleksi riser stand matches
+354,1,pleksi stand with feet matches
+355,1,salicylic acid toner matches
+356,1,salicylic acid toner matches
+357,1,salicylic acid toner matches
+358,1,salicylic acid toner matches
+359,1,salicylic acid toner matches
+360,1,electric trousseau set matches
+361,1,electric trousseau set matches
+362,1,electric trousseau set matches
+363,1,electric trousseau set matches
+364,1,electric trousseau set matches
+365,1,womens training shoe matches
+366,1,womens fitness shoe matches
+367,1,womens training shoe matches
+368,1,title says womens despite gender field
+369,1,womens fitness shoe matches
+370,1,Fakir small appliance set matches
+371,1,Fakir small appliance set matches
+372,1,Fakir small appliance set matches
+373,1,Fakir small appliance set matches
+374,1,Fakir small appliance set matches
+375,1,womens tesettur shirt matches
+376,1,womens tesettur shirt matches
+377,1,womens tesettur shirt matches
+378,1,womens tesettur shirt matches
+379,1,tunic shirt same category
+380,1,MSI gaming keyboard matches
+381,1,MSI gaming keyboard matches
+382,1,MSI keyboard mouse combo includes keyboard
+383,1,MSI keyboard mouse combo includes keyboard
+384,1,MSI gaming keyboard matches
+385,1,Bad Bear mens t-shirt matches
+386,1,Bad Bear t-shirt matches
+387,1,Bad Bear sport t-shirt matches
+388,1,Bad Bear t-shirt per title text
+389,1,Bad Bear sport t-shirt matches
+390,1,dog and cat toothpaste matches
+391,1,dog and cat toothpaste matches
+392,1,dog and cat toothpaste matches
+393,1,dog toothpaste matches
+394,1,dog and cat toothpaste matches
+395,1,air pump compressor matches
+396,1,car tire air pump matches
+397,1,tire air pump matches
+398,1,air pump matches
+399,1,rechargeable air pump matches
+400,1,esrahelvaci evening dress brand match
+401,1,esrahelvaci dress brand match
+402,1,esrahelvaci evening dress brand match
+403,1,esrahelvaci dress brand match
+404,1,esrahelvaci dress brand match
+405,1,Puma Roma mens shoe matches
+406,1,Puma Roma mens sneaker matches
+407,1,Puma Roma mens sneaker matches
+408,1,Puma Roma mens shoe matches
+409,1,Puma Roma unisex compatible with men
+410,1,piping bag matches
+411,1,piping bag matches
+412,1,piping bag matches
+413,1,piping bag matches
+414,1,piping bag matches
+415,1,cherry cup set matches
+416,1,cherry patterned cup matches
+417,1,cherry patterned cup set matches
+418,1,cherry coffee cup set matches
+419,1,cherry handle coffee cup matches
+420,1,Bien wallpaper brand match
+421,1,Bien wallpaper brand match
+422,1,Bien wallpaper brand match
+423,1,Bien wallpaper brand match
+424,1,Bien wallpaper brand match
+425,1,Rosefield watch brand match
+426,1,Rosefield watch brand match
+427,1,Rosefield watch brand match
+428,1,Rosefield watch brand match
+429,1,Rosefield watch brand match
+430,1,evening high heels match
+431,1,evening high heels match
+432,1,evening high heels match
+433,1,evening high heels match
+434,1,evening high heels match
+435,1,closed-toe slipper matches
+436,1,closed-toe slipper matches
+437,1,closed-toe slipper matches
+438,1,closed-toe slipper matches
+439,1,closed-toe slipper matches
+440,1,Rebul cologne brand match
+441,1,Rebul cologne brand match
+442,1,Rebul cologne brand match
+443,1,Rebul cologne brand match
+444,1,Rebul cologne brand match
+445,1,facial hair removal device matches
+446,1,facial hair removal device matches
+447,1,facial hair removal device matches
+448,1,facial hair removal device matches
+449,1,facial hair removal device matches
+450,1,tasseled runner matches
+451,1,tasseled runner matches
+452,1,tasseled runner matches
+453,1,tasseled runner matches
+454,1,tasseled runner matches
+455,1,Lumberjack casual shoe matches
+456,1,Lumberjack casual style sneaker
+457,1,Lumberjack casual style sneaker
+458,1,Lumberjack casual style sneaker
+459,1,Lumberjack casual sneaker matches
+460,1,Elvan snack brand matches
+461,1,Elvan snack brand matches
+462,1,Elvan snack brand matches
+463,1,Elvan snack brand matches
+464,1,Elvan chocolate snack matches
+465,1,Asus TUF gaming laptop matches
+466,1,Asus TUF gaming laptop matches
+467,1,Asus TUF gaming laptop matches
+468,1,Asus TUF gaming laptop matches
+469,1,Asus TUF gaming laptop matches
+470,1,shoe ramp organizer matches
+471,1,shoe ramp organizer matches
+472,1,shoe ramp organizer matches
+473,1,shoe ramp organizer matches
+474,1,shoe ramp organizer matches
+475,1,mens steel watch matches
+476,1,mens steel watch matches
+477,1,mens steel watch matches
+478,1,mens steel watch matches
+479,1,mens steel watch matches
+480,1,standing oil dispenser matches
+481,1,standing oil dispenser matches
+482,1,standing oil dispenser matches
+483,1,standing oil dispenser matches
+484,1,standing oil dispenser matches
+485,1,womens tracksuit set matches
+486,1,unisex tracksuit set includes women
+487,1,womens tracksuit set matches
+488,1,unisex tracksuit set includes women
+489,1,unisex tracksuit set includes women
+490,1,generic perfume matches query
+491,1,generic perfume matches query
+492,1,original perfume explicit match
+493,0,category is bracelet jewelry not perfume
+494,1,original perfume matches query
+495,1,shoe cabinet minor door count diff
+496,1,triple shoe rack category match
+497,1,3-door shoe cabinet exact match
+498,1,shoe cabinet minor door count diff
+499,1,3-door shoe cabinet exact match
+500,1,universal gear knob matches
+501,1,universal gear knob matches
+502,1,universal gear knob matches
+503,1,gearshift lever spring related part
+504,1,gear knob set generic gear query
+505,1,tesettur shawl matches
+506,1,tesettur shawl matches
+507,1,shawl model matches
+508,1,tesettur shawl matches
+509,1,shawl scarf model matches
+510,1,hand soap holder matches
+511,1,hand soap holder matches
+512,1,hand soap holder matches
+513,1,wall soap dispenser matches
+514,1,foam soap dispenser matches
+515,1,living room seating set matches
+516,1,living room seating set matches
+517,1,living room seating set matches
+518,1,living room seating set matches
+519,1,living room seating set matches
+520,1,jockey motorcycle helmet matches
+521,1,jockey motorcycle helmet matches
+522,1,jockey motorcycle helmet matches
+523,0,explicitly a visor not a helmet
+524,1,half motorcycle helmet matches
+525,1,English Home salt pepper shaker matches
+526,1,English Home salt pepper shaker matches
+527,1,English Home salt pepper shaker matches
+528,1,English Home salt pepper shaker matches
+529,1,English Home salt pepper shaker matches
+530,1,whey protein matches
+531,1,whey protein matches
+532,1,whey protein matches
+533,1,whey protein matches
+534,1,whey protein matches
+535,1,straight fit jean matches
+536,1,straight fit jean matches
+537,1,straight jean matches
+538,1,straight jean matches
+539,0,slim fit mom jean not straight cut
+540,1,2-person table chair set matches
+541,1,2-person table chair set matches
+542,1,2-person table chair set matches
+543,1,2-person table chair set matches
+544,1,2-person table chair set matches
+545,1,Soho boot brand match
+546,1,Soho boot brand match
+547,1,Soho boot brand match
+548,1,Soho boot brand match
+549,1,Soho boot brand match
+550,1,Olivos liquid soap brand match
+551,1,Olivos liquid soap brand match
+552,1,Olivos liquid soap brand match
+553,1,Olivos liquid soap brand match
+554,1,Olivos liquid soap brand match
+555,0,64GB not 128GB wrong capacity
+556,1,128GB micro SD exact match
+557,1,128GB micro SD exact match
+558,0,64GB and explicitly not micro
+559,0,64GB wrong capacity requested
+560,1,RTX 5070 Ti exact match
+561,0,RTX 5070 not Ti different model
+562,1,RTX 5070 Ti exact match
+563,0,RTX 5070 not Ti different model
+564,0,RTX 5070 not Ti different model
+565,1,body foam matches foam body lotion
+566,1,body foam matches foam body lotion
+567,1,body foam matches foam body lotion
+568,0,bath foam not body lotion
+569,0,bath foam not body lotion
+570,1,Airpods case matches
+571,1,Airpods case matches
+572,1,Airpods case matches
+573,1,Airpods case matches
+574,1,Airpods case matches
+575,1,shower curtain matches
+576,1,shower curtain matches
+577,1,shower curtain matches
+578,1,shower curtain matches
+579,1,shower curtain matches
+580,1,eyebrow razor matches
+581,1,eyebrow razor matches
+582,1,eyebrow razor per title text
+583,1,eyebrow razor matches
+584,1,eyebrow razor matches
+585,1,Jenny Willy diaper exact brand match
+586,0,wrong brand Sleepy not Jenny Willy
+587,0,wrong brand Sleepy not Jenny Willy
+588,0,wrong brand Sleepy not Jenny Willy
+589,0,wrong brand Sleepy not Jenny Willy
+590,1,Massimo Dutti t-shirt matches
+591,1,Massimo Dutti t-shirt matches
+592,1,Massimo Dutti t-shirt matches
+593,1,Massimo Dutti t-shirt matches
+594,1,Massimo Dutti t-shirt matches
+595,1,Blade deodorant brand matches
+596,1,Blade deodorant brand matches
+597,1,Blade deodorant brand matches
+598,1,Blade deodorant brand matches
+599,1,Blade brand perfume generic query
+600,0,Astragalus not ashwagandha
+601,0,Astragalus not ashwagandha
+602,0,saffron not ashwagandha
+603,0,generic detox not ashwagandha
+604,0,Astragalus not ashwagandha
+605,1,world map wallpaper matches
+606,1,world map wallpaper matches
+607,1,world map wallpaper matches
+608,1,world map wallpaper matches
+609,1,world map wallpaper matches
+610,1,adult diaper matches
+611,1,adult diaper matches
+612,1,adult diaper matches
+613,1,adult diaper matches
+614,1,adult diaper matches
+615,1,monitor bias lighting matches
+616,0,gaming desk LED strip not monitor light
+617,0,this is a monitor display not a light
+618,1,monitor backlight strip matches
+619,1,monitor backlight strip matches
+620,1,Smeg filter coffee maker matches
+621,1,Smeg filter coffee maker matches
+622,1,Smeg filter coffee maker matches
+623,1,Smeg filter coffee maker per title
+624,1,Smeg filter coffee maker matches
+625,1,wireless gaming headset matches
+626,1,wireless gaming headset matches
+627,0,actually photocopy paper category
+628,1,wireless gaming headset matches
+629,1,wireless gaming headset matches
+630,1,Samsung Galaxy Watch matches
+631,1,Samsung Galaxy Watch matches
+632,1,Samsung Galaxy Watch matches
+633,1,Samsung Galaxy Watch matches
+634,1,Samsung Galaxy Watch matches
+635,1,short leather trench coat matches
+636,1,short leather trench coat matches
+637,1,short leather trench coat matches
+638,1,short leather trench coat matches
+639,1,short leather trench coat matches
+640,0,wrong brand matmazel not mathilda
+641,1,Mathilda store bag brand match
+642,0,wrong brand matthew cox not mathilda
+643,1,Mathilda store bag brand match
+644,0,wrong brand matmazel not mathilda
+645,1,coffee table legs matches
+646,1,coffee table legs matches
+647,1,coffee table legs matches
+648,1,coffee table legs matches
+649,1,coffee table legs matches
+650,1,living room decor accessory matches
+651,1,living room decor accessory matches
+652,1,living room decor accessory matches
+653,1,living room decor accessory matches
+654,1,living room decor vase matches
+655,1,black cashmere feel jacket matches
+656,1,black cashmere feel jacket matches
+657,1,black cashmere feel jacket matches
+658,1,black cashmere bomber jacket matches
+659,1,black cashmere jacket matches
+660,1,plum colored shirt matches
+661,1,plum colored shirt matches
+662,1,plum colored shirt matches
+663,1,plum colored shirt matches
+664,0,color is lilac not plum
+665,1,electric pizza pot matches
+666,1,electric pizza pot matches
+667,1,electric pizza pot matches
+668,1,electric pizza pot matches
+669,1,electric pizza pot matches
+670,1,Network sweater brand match
+671,1,Network sweater brand match
+672,1,Network sweater brand match
+673,1,Network sweater brand match
+674,1,Network sweater brand match
+675,1,Galatasaray bag bundled with pencil case
+676,0,pen set not a pencil case
+677,0,mechanical pencil not a case
+678,0,backpack not pencil case
+679,0,wrong team Kocaelispor not Galatasaray
+680,1,Bella Maison dinner set matches
+681,1,Bella Maison dinner set matches
+682,1,Bella Maison dinner set matches
+683,1,Bella Maison dinner set matches
+684,1,Bella Maison dinner set matches
+685,0,wrong brand not Ouai
+686,0,wrong brand not Ouai
+687,0,wrong brand not Ouai
+688,0,wrong brand not Ouai
+689,0,wrong brand not Ouai
+690,1,wheel rim paint matches
+691,1,wheel rim paint matches
+692,1,wheel rim paint matches
+693,1,wheel rim paint matches
+694,1,wheel rim paint matches
+695,1,study desk with cabinet matches
+696,1,study desk with cabinet matches
+697,1,study desk with cabinet matches
+698,1,study desk with cabinet matches
+699,1,study desk with cabinet matches

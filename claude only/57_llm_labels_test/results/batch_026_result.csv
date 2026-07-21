@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9100,1,fibaks brand watch strap matches
+9101,1,fibaks brand watch strap matches
+9102,1,fibaks brand watch strap matches
+9103,1,fibaks brand watch strap matches
+9104,1,fibaks brand watch strap matches
+9105,1,fec reklam brand askılık matches
+9106,1,fec reklam brand askılık matches
+9107,1,fec reklam brand askılık matches
+9108,1,fec reklam brand askılık matches
+9109,1,fec reklam brand askılık matches
+9110,1,jbl brand oto hoparlör
+9111,0,brand jvc not jbl
+9112,1,jbl brand oto hoparlör
+9113,1,jbl brand oto hoparlör subwoofer
+9114,0,brand kenwood not jbl
+9115,1,metallica themed tshirt
+9116,1,metalica themed tshirt
+9117,1,metalica print tshirt
+9118,0,rap kanye west theme - not metalica
+9119,0,plain tshirt no metalica reference
+9120,1,autoglym brand car care
+9121,1,autoglym brand car care
+9122,1,autoglym brand car care
+9123,1,autoglym brand car care
+9124,1,autoglym brand car care
+9125,1,erkek bomber ceket
+9126,1,erkek bomber ceket
+9127,1,erkek bomber style jacket
+9128,1,erkek bomber ceket
+9129,1,unisex bomber ceket incl erkek
+9130,1,kakao tozu match
+9131,1,kakao tozu match
+9132,1,kakao tozu match
+9133,1,kakao tozu match
+9134,1,kakao tozu match
+9135,1,nike bag unisex incl women
+9136,1,nike bag unisex incl women
+9137,1,nike bag unisex incl women
+9138,1,nike kadın çanta direct match
+9139,1,nike bag unisex incl women
+9140,1,3d yapboz match
+9141,1,3d yapboz match
+9142,1,3d yapboz match
+9143,1,3d yapboz match
+9144,1,3d yapboz match
+9145,1,kelebek balon match
+9146,1,kelebek balon match
+9147,1,kelebek balon match
+9148,1,kelebek balon match
+9149,1,kelebek balon match
+9150,1,burenze brand aplik
+9151,1,burenze brand aplik
+9152,1,burenze brand aplik
+9153,1,burenze brand aplik
+9154,1,burenze brand aplik
+9155,1,bounty brand product
+9156,1,bounty brand product
+9157,1,bounty brand product
+9158,1,bounty brand product
+9159,1,bounty brand product
+9160,1,forcapil brand product
+9161,1,forcapil brand product
+9162,1,forcapil sub-brand product
+9163,1,forcapil brand product
+9164,1,forcapil sub-brand product
+9165,1,kututr brand duvar saati
+9166,1,kututr brand duvar saati
+9167,1,kututr brand duvar saati
+9168,1,kututr brand duvar saati
+9169,1,kututr brand duvar saati
+9170,0,title is w210 not w124
+9171,0,title is w222 not w124
+9172,0,title is s serisi w221 not w124
+9173,0,title is w222 not w124
+9174,0,title is b serisi w246 not w124
+9175,1,adenz brand bohça
+9176,1,adenz brand bohça set
+9177,1,adenz brand hediye kutusu
+9178,1,adenz brand çeyiz kutusu
+9179,1,adenz brand hediye kutusu
+9180,1,yumurta haşlama tencere match
+9181,1,yumurta haşlama kabı direct match
+9182,1,yumurta haşlama tenceresi match
+9183,1,yumurta haşlama tenceresi match
+9184,1,yumurta haşlama makinesi direct match
+9185,1,yaya by hotiç brand topuklu
+9186,1,yaya by hotiç brand topuklu
+9187,1,yaya by hotiç brand topuklu
+9188,0,brand soho not yaya by hotiç
+9189,0,brand deripabuc not yaya by hotiç
+9190,1,bosch brand silecek
+9191,1,bosch brand silecek
+9192,1,bosch brand silecek
+9193,1,bosch brand silecek
+9194,1,bosch brand silecek
+9195,1,schweppes brand product
+9196,1,schweppes brand product
+9197,1,schweppes brand product
+9198,1,schweppes brand product
+9199,1,schweppes brand product
+9200,0,sunglasses not magnetic - no mıknatıslı match
+9201,0,mask not glasses
+9202,0,mask not glasses
+9203,0,mask not glasses
+9204,0,mask not glasses
+9205,1,addax brand cüzdan
+9206,1,addax brand cüzdan
+9207,1,addax brand cüzdan
+9208,1,addax brand cüzdan
+9209,1,addax brand cüzdan
+9210,1,coğrafyanın kodları title match
+9211,1,coğrafyanın kodları title match
+9212,1,coğrafyanın kodları title match
+9213,0,no kodları reference - different book
+9214,0,tarih not coğrafya - wrong subject
+9215,1,bosch brand kurutma makinesi
+9216,1,bosch brand kurutma makinesi
+9217,1,bosch brand kurutma makinesi
+9218,1,bosch brand kurutma makinesi
+9219,1,bosch brand kurutma makinesi
+9220,1,oda aydınlatma sistemi direct match
+9221,1,gece lambası room lighting
+9222,1,led şerit oda aydınlatma
+9223,1,led şerit aydınlatma
+9224,1,avize room lighting
+9225,1,paragraf soru bankası covers tyt
+9226,1,paragraf tyt ayt match
+9227,1,paragraf soru match
+9228,1,paragraf soru bankası match
+9229,1,paragraf tyt ayt match
+9230,0,brand baby&baby not baby me
+9231,1,brand baby&me exact match
+9232,0,brand daycare not baby me
+9233,0,brand canbebe not baby me
+9234,0,brand giggles not baby me
+9235,1,gözlük kabı match
+9236,1,gözlük kabı match
+9237,1,gözlük kabı match
+9238,1,gözlük kabı match
+9239,1,gözlük kabı match
+9240,1,zade vital brand product
+9241,1,zade vital brand product
+9242,1,zade vital brand product
+9243,1,zade vital brand product
+9244,1,zade vital brand product
+9245,1,sahne işığı direct match
+9246,0,kar küresi music box not stage light
+9247,1,led par sahne işığı match
+9248,1,led par sahne işığı match
+9249,1,bluetooth speaker with sahne işığı feature
+9250,1,delonghi brand kahve makinesi
+9251,1,delonghi brand kahve makinesi
+9252,1,delonghi brand kahve makinesi
+9253,1,delonghi brand kahve makinesi
+9254,1,delonghi brand kahve makinesi
+9255,1,contains l-arjinin
+9256,1,contains l-arjinin
+9257,1,contains l-arjinin
+9258,1,contains l-arjinin
+9259,1,contains l-arjinin
+9260,1,swarovski brand küpe
+9261,1,swarovski brand küpe
+9262,1,swarovski brand küpe
+9263,1,swarovski brand küpe
+9264,1,swarovski brand küpe
+9265,0,fabric bootie not plastic boot
+9266,0,boat paddle - wrong meaning of bot
+9267,0,sandal not plastic boot
+9268,0,home shoe not plastic boot
+9269,0,fabric patik not plastic boot
+9270,1,nike run defy match
+9271,1,nike run defy match
+9272,1,nike run defy match
+9273,1,nike run defy match
+9274,1,nike run defy match
+9275,1,gold çanta match
+9276,1,gold çanta match
+9277,1,gold çanta match
+9278,1,gold çanta match
+9279,1,gold çanta match
+9280,1,skin1004 brand product
+9281,1,skin1004 brand product
+9282,1,skin1004 brand product
+9283,1,skin1004 brand product
+9284,1,skin1004 brand product
+9285,1,kadın parfüm match
+9286,1,kadın parfüm match
+9287,1,kadın parfüm match
+9288,1,kadın parfüm match
+9289,1,kadın parfüm match
+9290,1,beko brand kurutma makinesi
+9291,1,beko brand kurutma makinesi
+9292,1,beko brand kurutma makinesi
+9293,1,beko brand kurutma makinesi
+9294,1,beko brand kurutma makinesi
+9295,0,suede boot - no agg brand match
+9296,0,necklace not boot
+9297,0,hiking boot - not agg brand low match
+9298,0,necklace not boot
+9299,0,necklace not boot
+9300,1,skyjet brand elektrikli motosiklet
+9301,0,brand marka not skyjet
+9302,0,brand apec not skyjet
+9303,0,brand volta not skyjet
+9304,0,brand motolux not skyjet
+9305,1,yargıcı brand şal
+9306,1,yargıcı brand şal
+9307,1,yargıcı brand şal
+9308,1,yargıcı brand şal
+9309,1,yargıcı brand şal
+9310,1,fotoğraf baskısı match
+9311,1,fotoğraf baskısı match
+9312,1,fotoğraf baskısı match
+9313,1,fotoğraf baskısı match
+9314,1,fotoğraf baskısı match
+9315,1,madame coco brand çay fincanı
+9316,1,madame coco brand çay fincanı
+9317,1,madame coco brand tea glass set
+9318,1,madame coco brand çay fincanı
+9319,1,madame coco brand tea glass set
+9320,1,bluetooth kulaklık match
+9321,1,bluetooth kulaklık match
+9322,1,bluetooth kulaklık match
+9323,1,bluetooth kulaklık match
+9324,1,bluetooth kulaklık match
+9325,1,slazenger brand product
+9326,1,slazenger brand product
+9327,1,slazenger brand product
+9328,1,slazenger brand product
+9329,1,slazenger brand product
+9330,0,oysho brand but single jacket not ikili takım
+9331,0,brand network not oysho
+9332,0,brand w collection not oysho
+9333,0,brand h&m not oysho
+9334,0,brand bipantolon not oysho
+9335,1,dekor ağaç artificial tree match
+9336,1,dekor ağaç artificial tree match
+9337,0,tree painting not decor tree object
+9338,0,tree painting not decor tree object
+9339,0,tree painting not decor tree object
+9340,0,ear piercing tool not earring insertion aid
+9341,0,piercing earring jewelry not tool
+9342,0,magnetic fake piercing not insertion aid
+9343,0,piercing earring jewelry not tool
+9344,0,piercing jewelry not tool
+9345,1,moda pie brand babet
+9346,1,moda pie brand babet
+9347,1,moda pie brand babet
+9348,1,moda pie brand babet
+9349,1,moda pie brand babet
+9350,1,araç cam sileceği match
+9351,1,araç cam sileceği match
+9352,1,araç cam sileceği match
+9353,1,araç cam sileceği match
+9354,1,araç cam sileceği match
+9355,1,farmasi brand ruj
+9356,1,farmasi brand ruj
+9357,1,farmasi brand ruj
+9358,1,farmasi brand ruj
+9359,1,farmasi brand ruj
+9360,1,xiaomi redmi watch 5 match
+9361,1,xiaomi redmi watch 5 match
+9362,1,redmi watch 5 active variant match
+9363,1,redmi watch 5 lite variant match
+9364,0,watch s4 not watch 5 - wrong model
+9365,1,puf minder match
+9366,1,puf minder match
+9367,1,puf minder match
+9368,0,chair cushion not floor pouf
+9369,1,puf bench match
+9370,1,anne bakım çantası match
+9371,1,anne bakım çantası match
+9372,1,anne bakım çantası match
+9373,1,anne bakım çantası match
+9374,1,anne bakım çantası match
+9375,1,bej topuklu ayakkabı match
+9376,1,bej topuklu ayakkabı match
+9377,1,bej topuklu ayakkabı match
+9378,1,bej topuklu ayakkabı match
+9379,1,bej topuklu ayakkabı match
+9380,1,philips brand lazer epilasyon
+9381,1,philips brand lazer epilasyon
+9382,1,philips brand lazer epilasyon
+9383,1,philips brand lazer epilasyon
+9384,1,philips brand lazer epilasyon
+9385,1,tahta sunum match
+9386,1,tahta sunum match
+9387,1,tahta sunum match
+9388,1,tahta sunum match
+9389,1,tahta sunum match
+9390,1,kpss tarih deneme match
+9391,1,kpss tarih deneme match
+9392,1,kpss tarih deneme match
+9393,1,kpss tarih deneme match
+9394,0,coğrafya not tarih - wrong subject
+9395,1,stanley aerolight match
+9396,1,stanley aerolight match
+9397,1,stanley aerolight match
+9398,1,stanley aerolight match
+9399,1,stanley aerolight match
+9400,1,kiperin brand product
+9401,1,kiperin brand product
+9402,1,kiperin brand product
+9403,1,kiperin brand product
+9404,1,kiperin brand product
+9405,1,calvin klein erkek mont
+9406,1,calvin klein erkek mont
+9407,1,calvin klein erkek mont
+9408,1,calvin klein erkek mont
+9409,1,calvin klein erkek mont
+9410,1,kiwi brand kahve öğütücü
+9411,1,kiwi brand kahve öğütücü
+9412,1,kiwi brand kahve öğütücü
+9413,1,kiwi brand kahve öğütücü
+9414,1,kiwi brand kahve öğütücü
+9415,1,pamuklu material ceket type
+9416,1,pamuklu ceket title match
+9417,0,kaşe fabric not pamuklu
+9418,0,no pamuklu material specified
+9419,0,kot denim not pamuklu
+9420,0,food cover net not pink mosquito net
+9421,0,food cover net not pink mosquito net
+9422,0,pacifier clip unrelated
+9423,0,cat scratching post unrelated
+9424,0,screws dowels unrelated
+9425,1,erkek bebek takım match
+9426,1,erkek bebek takım match
+9427,0,gender kadın wrong - not erkek
+9428,1,erkek bebek takım match
+9429,1,erkek bebek takım match
+9430,0,terlik slipper not bot boot
+9431,0,terlik slipper not bot boot
+9432,0,terlik slipper not bot boot
+9433,0,terlik slipper not bot boot
+9434,0,terlik slipper not bot boot
+9435,1,nehir lalezar brand match
+9436,1,nehir lalezar brand match
+9437,1,nehir lalezar brand match
+9438,1,nehir lalezar brand match
+9439,1,nehir lalezar brand match
+9440,1,tefal brand düdüklü tencere
+9441,1,tefal brand düdüklü tencere
+9442,1,tefal brand düdüklü tencere
+9443,1,tefal brand düdüklü tencere
+9444,1,tefal brand düdüklü tencere
+9445,1,mks design brand ayna
+9446,1,mks design brand ayna
+9447,1,mks design brand ayna
+9448,1,mks design brand ayna
+9449,1,mks design brand ayna

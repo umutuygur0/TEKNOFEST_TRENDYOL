@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2450,1,brand match pandamkee peluş oyuncak
+2451,1,brand match pandamkee peluş panda
+2452,1,brand match pandamkee peluş tavşan
+2453,1,brand match pandamkee peluş tavşan
+2454,1,brand match pandamkee peluş penguen
+2455,1,crocs brand terlik
+2456,1,crocs brand terlik
+2457,1,crocs brand terlik
+2458,1,crocs brand terlik
+2459,1,crocs brand sandalet
+2460,1,versace eros parfüm matches versage
+2461,1,versace eros parfüm
+2462,1,versace eros parfüm
+2463,1,versace eros parfüm
+2464,1,versace eros parfüm
+2465,1,anlas brand motosiklet lastiği
+2466,1,anlas brand motosiklet lastiği
+2467,1,anlas brand motosiklet lastiği
+2468,1,anlas brand motosiklet lastiği
+2469,1,anlas brand motosiklet lastiği
+2470,1,sürme kalem göz kalemi eşleşmesi
+2471,1,eyeliner sürme eşdeğeri ürün
+2472,1,eyeliner sürme eşdeğeri ürün
+2473,1,kalem sürmesi direkt eşleşme
+2474,0,makyaj aplikatörü - sürme ürünü değil
+2475,1,tüfek şeklinde oyuncak eşleşmesi
+2476,1,zıpkın tüfeği dalış ürünü
+2477,0,tüfek şeklinde çakmak - gerçek tüfek değil
+2478,0,tüfek kılıfı - aksesuar tüfek değil
+2479,1,su altı tüfeği direkt eşleşme
+2480,1,reeder brand cep telefonu
+2481,1,reeder brand cep telefonu
+2482,1,reeder brand cep telefonu
+2483,1,reeder brand cep telefonu
+2484,1,reeder brand cep telefonu
+2485,1,sjcam brand aksiyon kamera
+2486,1,başlıkta sjcam model adı geçiyor
+2487,1,sjcam brand aksiyon kamera
+2488,0,marka bakeey - sjcam değil
+2489,0,marka imextech - sjcam değil
+2490,1,avenir brand kablosuz kamera
+2491,0,shiseido serum - avenir ile alakasız
+2492,0,estee lauder fondöten - avenir ile alakasız
+2493,0,estee lauder fondöten - avenir ile alakasız
+2494,0,shiseido göz kremi - avenir ile alakasız
+2495,1,sarkap brand kavanoz kapağı
+2496,1,sarkap brand kavanoz kapağı
+2497,1,sarkap brand kavanoz kapağı
+2498,1,sarkap brand kavanoz kapağı
+2499,1,sarkap brand kavanoz kapağı
+2500,1,poster ürünü direkt eşleşme
+2501,1,poster seti direkt eşleşme
+2502,1,poster seti direkt eşleşme
+2503,1,ahşap poster direkt eşleşme
+2504,1,sanatsal poster direkt eşleşme
+2505,1,irmik ürünü direkt eşleşme
+2506,1,irmik ürünü direkt eşleşme
+2507,1,irmik ürünü direkt eşleşme
+2508,1,irmik ürünü direkt eşleşme
+2509,1,irmik ürünü direkt eşleşme
+2510,1,l'oreal paris brand eşleşmesi
+2511,1,l'oreal paris brand eşleşmesi
+2512,1,l'oreal paris brand eşleşmesi
+2513,1,l'oreal paris brand eşleşmesi
+2514,1,l'oreal paris brand eşleşmesi
+2515,0,intim bakım ürünü - pikas ile alakasız
+2516,0,farklı ürün tipi - pikas markası değil
+2517,0,farklı ürün tipi - pikas markası değil
+2518,0,pikachu tişört - pikas değil
+2519,0,pikachu şeker - pikas değil
+2520,1,volkswagen uyumlu multimedya sistemi
+2521,1,volkswagen uyumlu anahtarlık
+2522,1,volkswagen brand logolu anahtarlık
+2523,1,volkswagen uyumlu paspas
+2524,1,volkswagen uyumlu paspas
+2525,1,ostwint brand peeling jel
+2526,1,ostwint brand peeling jel
+2527,1,ostwint brand toz açıcı
+2528,1,başlıkta ostwint ürün adı geçiyor
+2529,1,ostwint brand scrub jel
+2530,1,trambolin ürünü direkt eşleşme
+2531,1,trambolin ürünü direkt eşleşme
+2532,1,trambolin ürünü direkt eşleşme
+2533,1,trambolin ürünü direkt eşleşme
+2534,1,trambolin ürünü direkt eşleşme
+2535,1,bargello 709 parfüm direkt eşleşme
+2536,1,bargello 709 parfüm direkt eşleşme
+2537,1,bargello 709 deodorant direkt eşleşme
+2538,1,bargello 709 set direkt eşleşme
+2539,1,bargello 709 parfüm direkt eşleşme
+2540,1,şömine ürünü direkt eşleşme
+2541,1,masaüstü şömine direkt eşleşme
+2542,1,elektrikli şömine ısıtıcı direkt eşleşme
+2543,1,elektrikli şömine ısıtıcı direkt eşleşme
+2544,1,dekoratif elektrikli şömine direkt eşleşme
+2545,1,creatine ürünü direkt eşleşme
+2546,1,creatine ürünü direkt eşleşme
+2547,1,creatine ürünü direkt eşleşme
+2548,1,creatine ürünü direkt eşleşme
+2549,1,creatine ürünü direkt eşleşme
+2550,1,aplik ürünü direkt eşleşme
+2551,1,aplik ürünü direkt eşleşme
+2552,1,aplik ürünü direkt eşleşme
+2553,1,aplik ürünü direkt eşleşme
+2554,1,aplik ürünü direkt eşleşme
+2555,1,nbl nobel brand probiyotik
+2556,1,nbl nobel brand probiyotik
+2557,1,nbl brand probiyotik
+2558,1,nbl brand probiyotik
+2559,1,nbl brand probiyotik
+2560,1,gram altın ürünü direkt eşleşme
+2561,1,gram altın ürünü direkt eşleşme
+2562,1,gram altın ürünü direkt eşleşme
+2563,1,gram altın ürünü direkt eşleşme
+2564,1,gram altın ürünü direkt eşleşme
+2565,1,berserk temalı hoodie eşleşmesi
+2566,1,berserk temalı hoodie eşleşmesi
+2567,1,berserk temalı hoodie eşleşmesi
+2568,1,berserk temalı hoodie eşleşmesi
+2569,1,berserk temalı hoodie eşleşmesi
+2570,1,şura mutfak brand direkt eşleşme
+2571,0,farklı marka keramika
+2572,0,farklı marka keramika
+2573,0,farklı marka keramika
+2574,0,farklı marka keramika
+2575,1,evye ürünü direkt eşleşme
+2576,1,evye ürünü direkt eşleşme
+2577,1,evye ürünü direkt eşleşme
+2578,1,evye ürünü direkt eşleşme
+2579,1,mutfak eviyesi direkt eşleşme
+2580,1,tübitak yayını direkt eşleşme
+2581,1,tübitak yayını direkt eşleşme
+2582,1,tübitak yayını direkt eşleşme
+2583,1,tübitak yayını direkt eşleşme
+2584,1,tübitak yayını direkt eşleşme
+2585,1,michelin brand lastik
+2586,1,michelin brand lastik
+2587,1,michelin brand motosiklet lastiği
+2588,1,michelin brand lastik
+2589,1,michelin brand motosiklet lastiği
+2590,1,dündar brand çorap
+2591,1,dündar brand çorap
+2592,1,dündar brand çorap
+2593,1,dündar brand çorap
+2594,1,dündar brand çorap
+2595,0,farklı marka - funbody değil
+2596,0,farklı marka - funbody değil
+2597,0,farklı marka - funbody değil
+2598,0,farklı marka - funbody değil
+2599,0,farklı marka - funbody değil
+2600,1,armatür ürünü direkt eşleşme
+2601,1,armatür ürünü direkt eşleşme
+2602,1,banyo bataryası armatür eşleşmesi
+2603,1,lavabo bataryası armatür eşleşmesi
+2604,1,armatür ürünü direkt eşleşme
+2605,1,airfryer ürünü direkt eşleşme
+2606,1,airfryer ürünü direkt eşleşme
+2607,1,airfryer ürünü direkt eşleşme
+2608,1,airfryer ürünü direkt eşleşme
+2609,1,airfryer ürünü direkt eşleşme
+2610,1,herschel brand sırt çantası
+2611,1,herschel brand sırt çantası
+2612,1,herschel brand sırt çantası
+2613,1,herschel brand sırt çantası
+2614,1,herschel brand sırt çantası
+2615,1,tv ünitesi direkt eşleşme
+2616,1,tv ünitesi direkt eşleşme
+2617,1,tv ünitesi direkt eşleşme
+2618,1,tv ünitesi direkt eşleşme
+2619,1,tv ünitesi direkt eşleşme
+2620,1,omuz çantası - çanta eşleşmesi
+2621,1,el çantası - çanta eşleşmesi
+2622,1,el çantası - çanta eşleşmesi
+2623,1,omuz çantası - çanta eşleşmesi
+2624,1,omuz çantası - çanta eşleşmesi
+2625,0,carrera brand - cardo ile alakasız
+2626,0,carraro brand - cardo ile alakasız
+2627,0,carrera brand - cardo ile alakasız
+2628,0,carraro brand - cardo ile alakasız
+2629,0,carraro brand - cardo ile alakasız
+2630,1,kontür ürünü direkt eşleşme
+2631,1,kontür ürünü direkt eşleşme
+2632,1,kontür ürünü direkt eşleşme
+2633,1,kontür ürünü direkt eşleşme
+2634,1,contour stick kontür eşleşmesi
+2635,1,nike dunk model direkt eşleşme
+2636,1,nike dunk model direkt eşleşme
+2637,1,nike dunk model direkt eşleşme
+2638,1,nike dunk model direkt eşleşme
+2639,1,nike dunk model direkt eşleşme
+2640,1,pazuband direkt eşleşme
+2641,1,kaptanlık pazubandı direkt eşleşme
+2642,1,pazu bandı bileklik direkt eşleşme
+2643,1,pazu bandı bileklik direkt eşleşme
+2644,1,pazu bandı bileklik direkt eşleşme
+2645,1,5n1k kitap serisi direkt eşleşme
+2646,1,5n1k kitap serisi direkt eşleşme
+2647,0,5n1k ile alakasız ingilizce kitap
+2648,0,5n1k ile alakasız ingilizce kitap
+2649,0,5n1k ile alakasız ders kitabı
+2650,1,şahmeran ürünü direkt eşleşme
+2651,1,şahmeran ürünü direkt eşleşme
+2652,1,şahmeran ürünü direkt eşleşme
+2653,1,şahmeran ürünü direkt eşleşme
+2654,1,şahmeran ürünü direkt eşleşme
+2655,1,nobbystar brand çerçeve
+2656,1,nobbystar brand çerçeve
+2657,1,nobbystar brand çerçeve
+2658,1,nobbystar brand çerçeve
+2659,1,nobbystar brand çerçeve
+2660,1,ocak ürünü direkt eşleşme
+2661,1,ocak ürünü direkt eşleşme
+2662,1,elektrikli ocak direkt eşleşme
+2663,1,ocak ürünü direkt eşleşme
+2664,1,ocak ürünü direkt eşleşme
+2665,1,overgrip ürünü direkt eşleşme
+2666,1,overgrip ürünü direkt eşleşme
+2667,1,overgrip ürünü direkt eşleşme
+2668,1,overgrip ürünü direkt eşleşme
+2669,1,overgrip ürünü direkt eşleşme
+2670,1,holder ürünü direkt eşleşme
+2671,1,kart tutucu holder eşleşmesi
+2672,1,memo holder direkt eşleşme
+2673,1,havluluk tutucu holder eşleşmesi
+2674,1,havlu tutacağı holder eşleşmesi
+2675,1,şerit metre ürünü direkt eşleşme
+2676,1,mezura şerit metre direkt eşleşme
+2677,1,şerit metre ürünü direkt eşleşme
+2678,1,mezura metre ürünü direkt eşleşme
+2679,1,arazi metresi direkt eşleşme
+2680,1,kahve fincanı direkt eşleşme
+2681,1,kahve fincanı direkt eşleşme
+2682,1,kahve fincanı direkt eşleşme
+2683,1,kahve fincanı direkt eşleşme
+2684,1,kahve fincanı direkt eşleşme
+2685,1,sitikolin içerikli ürün direkt eşleşme
+2686,1,sitikolin içerikli ürün direkt eşleşme
+2687,1,sitikolin cognizin direkt eşleşme
+2688,1,sitikolin ürünü direkt eşleşme
+2689,1,sitikolin cognizin direkt eşleşme
+2690,1,cetvel ürünü direkt eşleşme
+2691,1,cetvel ürünü direkt eşleşme
+2692,1,cetvel ürünü direkt eşleşme
+2693,1,cetvel ürünü direkt eşleşme
+2694,1,cetvel ürünü direkt eşleşme
+2695,1,pvc kiremit direkt eşleşme
+2696,0,halı ürünü - kiremit sadece renk adı
+2697,0,kiremit altı yalıtım aksesuarı - kiremit değil
+2698,0,kilim ürünü - kiremit sadece renk adı
+2699,0,halı ürünü - kiremit sadece renk adı
+2700,1,öksürük şurubu direkt eşleşme
+2701,1,öksürük için bitkisel şurup eşleşmesi
+2702,0,akçağaç şurubu gıda ürünü - öksürük ilacı değil
+2703,0,genel bağışıklık şurubu - öksürüğe özel değil
+2704,0,genel sağlık macunu - öksürük ürünü değil
+2705,0,pingu peluş - piglet karakteri değil
+2706,1,piglet baskılı kupa direkt eşleşme
+2707,0,pingu peluş - piglet karakteri değil
+2708,1,piglet baskılı kupa direkt eşleşme
+2709,1,piglet baskılı kupa direkt eşleşme
+2710,1,televizyon ürünü direkt eşleşme
+2711,1,televizyon ürünü direkt eşleşme
+2712,1,televizyon ürünü direkt eşleşme
+2713,1,televizyon ürünü direkt eşleşme
+2714,1,televizyon ürünü direkt eşleşme
+2715,1,hoverboard ürünü direkt eşleşme
+2716,1,hoverboard ürünü direkt eşleşme
+2717,1,hoverboard ürünü direkt eşleşme
+2718,1,hoverboard ürünü direkt eşleşme
+2719,1,hoverboard ürünü direkt eşleşme
+2720,1,dyson brand süpürge
+2721,1,dyson brand saç maşası
+2722,1,dyson brand saç maşası
+2723,1,dyson brand saç kurutma makinesi
+2724,1,dyson brand saç maşası
+2725,1,ayakkabılık ürünü direkt eşleşme
+2726,1,ayakkabılık ürünü direkt eşleşme
+2727,1,ayakkabılık ürünü direkt eşleşme
+2728,1,ayakkabılık ürünü direkt eşleşme
+2729,1,ayakkabılık ürünü direkt eşleşme
+2730,1,rcr brand su bardağı
+2731,1,rcr brand su bardağı seti
+2732,1,başlıkta rcr etna geçiyor
+2733,1,başlıkta rcr etna geçiyor
+2734,1,rcr brand su bardağı
+2735,1,tart kalıbı direkt eşleşme
+2736,1,tart kalıbı direkt eşleşme
+2737,1,tart kalıbı direkt eşleşme
+2738,1,tart kalıbı direkt eşleşme
+2739,1,tart kalıbı direkt eşleşme
+2740,1,merrell brand outdoor ayakkabı
+2741,1,merrell brand outdoor ayakkabı
+2742,1,merrell brand outdoor ayakkabı
+2743,1,merrell brand ayakkabı kategorisi
+2744,1,merrell brand outdoor ayakkabı
+2745,1,brit brand kedi maması
+2746,1,brit brand kedi maması
+2747,0,burberry brit parfüm - farklı ürün ve marka
+2748,1,brit care brand kedi maması
+2749,1,brit care brand kedi maması
+2750,1,eymense brand puf
+2751,1,eymense brand kanepe
+2752,0,lucky bees çanta - eymense değil
+2753,1,eymense brand kanepe
+2754,1,eymense brand köşe koltuk
+2755,1,adidas court model ayakkabı
+2756,1,adidas court model ayakkabı
+2757,1,adidas court model ayakkabı
+2758,1,nike courtshot model ayakkabı
+2759,1,nike court model ayakkabı
+2760,1,dalin brand bebek kolonyası
+2761,1,dalin brand bebek şampuanı
+2762,1,dalin brand bebek yağı kolonya
+2763,0,çamaşır deterjanı - bebek bakım ürünü değil
+2764,0,round lab brand - dalin değil
+2765,1,nuk brand alıştırma bardağı
+2766,1,nuk brand biberon
+2767,1,nuk brand alıştırma bardağı
+2768,1,nuk brand alıştırma bardağı
+2769,0,mininor brand emzik - nuk değil
+2770,1,şaraplık ürünü direkt eşleşme
+2771,1,şaraplık ürünü direkt eşleşme
+2772,1,şaraplık ürünü direkt eşleşme
+2773,1,şaraplık ürünü direkt eşleşme
+2774,1,şaraplık ürünü direkt eşleşme
+2775,1,wag saç maşası direkt eşleşme
+2776,1,wag saç maşası direkt eşleşme
+2777,1,wag saç maşası direkt eşleşme
+2778,1,wag saç maşası direkt eşleşme
+2779,1,wag saç maşası direkt eşleşme
+2780,0,tesettür bone - tory ile alakasız
+2781,0,duvar tablosu - tory ile alakasız
+2782,0,atlet ürünü - tory ile alakasız
+2783,0,çorap ürünü - tory ile alakasız
+2784,0,fanila ürünü - tory ile alakasız
+2785,1,sütaş brand süt ürünü
+2786,1,sütaş brand krema
+2787,1,sütaş brand süt
+2788,1,sütaş brand krem peynir
+2789,1,sütaş brand üçgen peynir
+2790,1,missha chogongjin serisi direkt eşleşme
+2791,1,missha chogongjin serisi direkt eşleşme
+2792,1,missha chogongjin serisi direkt eşleşme
+2793,1,missha chogongjin serisi direkt eşleşme
+2794,1,missha chogongjin serisi direkt eşleşme
+2795,1,tbrush brand ürün
+2796,1,tbrush brand ürün
+2797,1,tbrush brand ürün
+2798,1,tbrush brand ürün
+2799,1,tbrush brand ürün

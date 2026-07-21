@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9450,0,unrelated manga not itoshi rin character
+9451,0,unrelated book not itoshi rin
+9452,1,adl brand hırka matches
+9453,1,adl brand hırka matches
+9454,1,adl brand hırka matches
+9455,1,adl brand hırka matches
+9456,1,adl brand hırka matches
+9457,0,hırka not ceket
+9458,1,hello kitty printed ceket matches
+9459,0,sweatshirt not ceket
+9460,0,hırka not ceket
+9461,0,no hello kitty reference
+9462,1,kapüşonlu mont matches
+9463,1,kapüşonlu mont matches
+9464,1,kapüşonlu mont matches
+9465,1,kapüşonlu mont matches
+9466,1,kapüşonlu mont matches
+9467,1,nike dunk panda colorway
+9468,1,nike dunk panda colorway
+9469,1,nike dunk panda named sneaker
+9470,0,not nike not panda colorway
+9471,1,nike dunk panda colorway
+9472,0,brand not brother toys
+9473,1,brother toys brand toy
+9474,0,brand not brother toys
+9475,0,brand not brother toys
+9476,1,brother toys brand toy
+9477,1,decathlon yağmurluk matches
+9478,1,decathlon yağmurluk matches
+9479,1,decathlon yağmurluk matches
+9480,1,decathlon yağmurluk matches
+9481,1,decathlon yağmurluk matches
+9482,1,vintage deri ceket matches
+9483,1,vintage deri ceket matches
+9484,1,vintage deri ceket matches
+9485,1,vintage deri ceket matches
+9486,1,vintage deri ceket matches
+9487,1,büyük beden abiye ikili takım matches
+9488,0,single bluz not ikili takım
+9489,1,ikili takım abiye matches
+9490,1,bluz pantolon takım matches
+9491,1,büyük beden abiye takım 2li matches
+9492,1,ipli kartlık matches
+9493,1,ipli kartlık matches
+9494,1,ipli kartlık matches
+9495,1,ipli kartlık matches
+9496,1,ipli kartlık matches
+9497,1,kışlık terlik matches
+9498,1,kışlık terlik matches
+9499,1,kışlık terlik matches
+9500,1,kışlık terlik matches
+9501,1,kışlık terlik matches
+9502,1,çocuk etkinlik kitabı matches
+9503,1,çocuk etkinlik seti matches
+9504,1,çocuk etkinlik seti matches
+9505,1,çocuk etkinlik setleri matches
+9506,1,çocuk boyama kitabı - activity related
+9507,1,lego ev seti matches
+9508,1,lego ev seti matches
+9509,1,lego evler seti matches
+9510,0,wrong category work glove not lego set
+9511,1,lego ev seti matches
+9512,1,su geçirmez çizme matches
+9513,1,su geçirmez çizme matches
+9514,1,su geçirmez çizme matches
+9515,1,su geçirmez çizme matches
+9516,1,su geçirmez çizme matches
+9517,1,loft brand pantolon matches
+9518,1,loft brand pantolon matches
+9519,1,loft brand pantolon matches
+9520,1,loft brand pantolon matches
+9521,1,loft brand pantolon matches
+9522,1,polo assn kazak matches
+9523,1,polo assn kazak matches
+9524,1,polo assn kazak matches
+9525,1,polo assn kazak matches
+9526,1,polo assn triko kazak matches
+9527,1,ea7 erkek sweatshirt matches
+9528,1,ea7 erkek sweatshirt matches
+9529,0,kadın not erkek
+9530,0,kadın not erkek
+9531,0,t-shirt not sweatshirt
+9532,0,erkek not kadın cortez
+9533,1,nike cortez kadın matches
+9534,1,nike cortez unisex includes kadın
+9535,1,nike cortez unisex includes kadın
+9536,1,nike cortez unisex includes kadın
+9537,1,gri kaşe kaban matches
+9538,1,gri kaşe kaban matches
+9539,1,gri kaşe kaban matches
+9540,0,no kaşe fabric mentioned
+9541,0,no kaşe fabric mentioned
+9542,1,bebek fotoğraf albümü matches
+9543,1,bebek fotoğraf albümü matches
+9544,1,bebek fotoğraf albümü matches
+9545,1,bebek fotoğraf albümü matches
+9546,1,bebek fotoğraf albümü matches
+9547,1,kız çocuğu abiye matches
+9548,1,kız çocuğu abiye matches
+9549,1,kız çocuğu abiye matches
+9550,1,kız çocuğu abiye matches
+9551,1,kız çocuğu abiye matches
+9552,1,adidas flat sole shoe matches
+9553,1,adidas flat sole shoe matches
+9554,1,adidas sneaker matches
+9555,1,adidas sneaker matches
+9556,1,adidas düz taban sneaker matches
+9557,1,skechers max cushioning matches
+9558,1,skechers max cushioning matches
+9559,1,skechers max cushioning matches
+9560,1,skechers max cushioning matches
+9561,1,skechers max cushioning matches
+9562,1,robalı tesettür elbise matches
+9563,0,kap not elbise category
+9564,1,robalı tesettür elbise matches
+9565,0,ferace not elbise
+9566,0,ferace not elbise
+9567,1,reebok ayakkabı matches
+9568,1,reebok ayakkabı matches
+9569,1,reebok ayakkabı matches
+9570,1,reebok ayakkabı matches
+9571,1,reebok ayakkabı matches
+9572,1,sallanan oyuncak at matches
+9573,1,sallanan at toy matches
+9574,1,sallanan at toy matches
+9575,1,sallanan at toy matches
+9576,1,sallanan at toy matches
+9577,1,gece abiye ayakkabı matches
+9578,1,gece abiye ayakkabı matches
+9579,1,gece abiye ayakkabı matches
+9580,1,gece abiye ayakkabı matches
+9581,1,gece abiye ayakkabı matches
+9582,1,siyane pattern şal matches
+9583,0,no siyane reference
+9584,0,no siyane reference
+9585,1,siyane pattern şal matches
+9586,0,no siyane reference
+9587,1,paçası yırtmaçlı pantolon matches
+9588,1,yırtmaçlı pantolon matches
+9589,1,yırtmaçlı pantolon matches
+9590,1,yırtmaçlı pantolon matches
+9591,1,yırtmaçlı pantolon matches
+9592,1,kadın yeşil spor ayakkabı matches
+9593,1,kadın yeşil spor ayakkabı matches
+9594,1,kadın yeşil spor ayakkabı matches
+9595,1,kadın yeşil spor ayakkabı matches
+9596,1,kadın yeşil spor ayakkabı matches
+9597,1,sihirli defter matches
+9598,1,sihirli kazıma defteri matches
+9599,1,sihirli defter matches
+9600,1,sihirli defter matches
+9601,0,magic trick game not scratch notebook
+9602,1,ispanyol paça eşofman altı matches
+9603,1,ispanyol paça eşofman altı matches
+9604,1,ispanyol paça eşofman altı matches
+9605,1,ispanyol paça eşofman altı matches
+9606,1,ispanyol paça eşofman altı matches
+9607,1,tesettür sweatshirt matches
+9608,1,tesettür sweatshirt matches
+9609,1,tesettür sweatshirt matches
+9610,1,tesettür sweatshirt matches
+9611,1,tesettür sweatshirt matches
+9612,1,rami şal title match
+9613,1,rami viskon şal matches
+9614,1,rami viskon şal matches
+9615,1,rami şal matches
+9616,1,rami şal matches
+9617,1,uzun kollu bebek zıbın matches
+9618,1,uzun kollu bebek zıbın matches
+9619,1,uzun kollu bebek zıbın matches
+9620,1,uzun kollu bebek zıbın matches
+9621,1,uzun kollu bebek zıbın matches
+9622,1,bigdart trençkot matches
+9623,1,bigdart trençkot matches
+9624,1,bigdart trençkot matches
+9625,1,bigdart trençkot matches
+9626,1,bigdart trençkot matches
+9627,1,kadın kırmızı spor ayakkabı matches
+9628,1,kadın kırmızı spor ayakkabı matches
+9629,1,kadın kırmızı spor ayakkabı matches
+9630,1,kadın kırmızı sneaker matches
+9631,1,kadın kırmızı spor ayakkabı matches
+9632,1,kruvaze kaban matches
+9633,1,kruvaze kaban matches
+9634,1,kruvaze kaban matches
+9635,1,kruvaze kaban matches
+9636,1,kruvaze kaban matches
+9637,1,igor yağmur botu matches
+9638,1,igor yağmur botu matches
+9639,1,igor yağmur botu matches
+9640,1,igor yağmur botu matches
+9641,1,igor yağmur botu matches
+9642,1,blazer yelek matches
+9643,1,blazer yelek matches
+9644,1,blazer yelek matches
+9645,1,blazer yelek matches
+9646,1,blazer yelek matches
+9647,1,yeni doğan hastane çıkışı set matches
+9648,1,yeni doğan hastane çıkışı set matches
+9649,1,yeni doğan hastane çıkışı set matches
+9650,1,yeni doğan hastane çıkışı set matches
+9651,1,yeni doğan hastane çıkışı set matches
+9652,1,işılay brand pijama takımı matches
+9653,0,brand not işılay
+9654,0,brand not işılay
+9655,0,brand not işılay
+9656,0,brand not işılay
+9657,1,traktör toy matches
+9658,1,traktör toy matches
+9659,1,traktör toy matches
+9660,1,traktör toy matches
+9661,1,traktör toy matches
+9662,0,no alaska brand reference
+9663,0,no alaska brand reference
+9664,1,tupperware alaska set matches
+9665,1,tupperware alaska set matches
+9666,0,unrelated pants no alaska reference
+9667,1,kırmızı deri ceket matches
+9668,1,kırmızı deri ceket matches
+9669,1,kırmızı deri ceket matches
+9670,1,kırmızı deri ceket matches
+9671,1,kırmızı deri ceket matches
+9672,1,tutku brand boxer matches
+9673,0,brand not tutku
+9674,0,külot not boxer
+9675,1,tutku brand boxer matches
+9676,0,külot not boxer
+9677,1,erkek bisiklet yaka kazak matches
+9678,1,erkek bisiklet yaka kazak matches
+9679,1,erkek bisiklet yaka kazak matches
+9680,1,erkek bisiklet yaka kazak matches
+9681,1,erkek bisiklet yaka kazak matches
+9682,0,color white not confirmed
+9683,0,color white not confirmed
+9684,0,color white not confirmed
+9685,0,color white not confirmed
+9686,0,color white not confirmed
+9687,1,toy cap gun matches küçük silah
+9688,1,small scale toy gun model matches
+9689,0,lighter keychain not a weapon toy
+9690,1,small water gun matches
+9691,0,full size replica not küçük
+9692,1,tommy hilfiger babet matches
+9693,0,brand deripabuc not tommy hilfiger
+9694,0,brand deripabuc not tommy hilfiger
+9695,0,terlik not babet
+9696,0,loafer not babet
+9697,1,altınyıldız classics gömlek matches
+9698,1,altınyıldız classics gömlek matches
+9699,1,altınyıldız classics gömlek matches
+9700,1,altınyıldız classics gömlek matches
+9701,1,ac&co altınyıldız gömlek exact brand match
+9702,0,category salopet not elbise
+9703,1,category elbise denim kot matches
+9704,1,çocuk kot elbise matches
+9705,1,çocuk kot denim elbise matches
+9706,1,çocuk kot elbise matches
+9707,1,kız bebek fermuarlı tulum matches
+9708,1,kız bebek fermuarlı tulum matches
+9709,0,uyku tulumu not day romper
+9710,0,category body zıbın not tulum
+9711,1,kız bebek fermuarlı tulum matches
+9712,1,gap mont matches
+9713,1,gap mont matches
+9714,1,gap mont matches
+9715,1,gap mont matches
+9716,1,gap mont matches
+9717,0,erkek not kadın massimo dutti
+9718,1,massimo dutti kadın ayakkabı matches
+9719,1,massimo dutti kadın ayakkabı matches
+9720,0,erkek not kadın massimo dutti
+9721,1,massimo dutti kadın ayakkabı matches
+9722,1,erkek düz paça eşofman altı matches
+9723,0,paça lastikli not düz gender unisex
+9724,1,erkek düz paça eşofman altı matches
+9725,1,erkek düz paça eşofman altı matches
+9726,1,erkek düz paça eşofman altı matches
+9727,1,erkek kısa kollu pijama takımı matches
+9728,1,erkek kısa kollu pijama takımı matches
+9729,1,erkek kısa kollu pijama takımı matches
+9730,1,erkek kısa kollu pijama takımı title matches
+9731,1,erkek kısa kollu pijama takımı title matches
+9732,1,erkek ayakkabı sneaker matches
+9733,1,erkek ayakkabı sneaker matches
+9734,1,erkek ayakkabı sneaker matches
+9735,0,gender field kadın not erkek
+9736,1,erkek ayakkabı sneaker matches
+9737,1,kumandalı oyuncak araba matches
+9738,1,kumandalı oyuncak araba matches
+9739,1,kumandalı oyuncak araba matches
+9740,1,kumandalı oyuncak araba matches
+9741,1,kumandalı oyuncak araba matches
+9742,1,pencere sticker matches
+9743,1,pencere sticker matches
+9744,1,pencere sticker matches
+9745,1,pencere sticker matches
+9746,1,pencere sticker matches
+9747,1,mor kazak matches
+9748,0,body category not kazak
+9749,1,lila kazak close to mor matches
+9750,1,lila kazak close to mor matches
+9751,1,lila kazak close to mor matches
+9752,0,gender kadın category heels not erkek shoe
+9753,1,erkek kışlık bot matches
+9754,1,erkek kışlık bot matches
+9755,1,erkek kışlık bot matches
+9756,1,erkek kışlık ayakkabı matches
+9757,1,lescon çocuk ayakkabı matches
+9758,1,lescon çocuk ayakkabı matches
+9759,1,lescon çocuk ayakkabı matches
+9760,0,age yetişkin not çocuk
+9761,0,age yetişkin not çocuk
+9762,1,tesettür abiye ceket matches
+9763,1,tesettür abiye ceket matches
+9764,1,tesettür abiye ceket matches
+9765,1,tesettür abiye ceket matches
+9766,1,tesettür abiye ceket matches
+9767,1,doridorca brand abiye matches
+9768,1,doridorca brand abiye matches
+9769,0,brand dori not doridorca
+9770,0,brand giyzamila not doridorca
+9771,1,doridorca brand abiye matches
+9772,1,ritnice brand pantolon matches
+9773,1,ritnice brand pantolon matches
+9774,1,ritnice brand pantolon matches
+9775,1,ritnice brand pantolon matches
+9776,1,ritnice brand pantolon matches
+9777,0,brand mokşa not fahhar
+9778,0,brand byemir not fahhar wrong category
+9779,1,fahhar brand ceket matches
+9780,1,fahhar kids brand ceket matches
+9781,0,brand ijan giyim not fahhar
+9782,1,kız çocuk converse matches
+9783,1,kız çocuk converse matches
+9784,1,kız çocuk converse matches
+9785,1,kız çocuk converse matches
+9786,0,age yetişkin not çocuk
+9787,1,erkek kadife pantolon matches
+9788,1,erkek kadife pantolon matches
+9789,1,kadife görünümlü pantolon matches
+9790,1,erkek kadife pantolon matches
+9791,1,erkek kadife pantolon matches
+9792,1,adidas tenis ayakkabısı matches
+9793,1,adidas tenis ayakkabısı title matches
+9794,1,adidas tenis ayakkabısı title matches
+9795,1,adidas tenis ayakkabısı matches
+9796,1,adidas tenis ayakkabısı matches
+9797,1,oyuncak beşik matches
+9798,1,oyuncak beşik matches
+9799,1,oyuncak beşik matches

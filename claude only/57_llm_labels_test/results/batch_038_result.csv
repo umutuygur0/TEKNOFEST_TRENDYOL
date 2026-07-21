@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+13300,1,doğrudan bisiklet zincir yağı ürünü
+13301,1,bisiklet zincir yağlayıcı sprey eşleşiyor
+13302,1,bisiklet zincir yağı wet islak eşleşiyor
+13303,1,chain lube zincir yağı bisiklet/motosiklet uyumlu
+13304,1,motosiklet bisiklet zincir yağlama ürünü
+13305,1,adidas marka cüzdan
+13306,1,adidas marka cüzdan
+13307,1,adidas marka cüzdan
+13308,1,adidas marka cüzdan
+13309,1,adidas marka spor cüzdan
+13310,1,karaca marka türk kahve makinesi
+13311,1,karaca marka türk kahve makinesi
+13312,1,karaca marka türk kahve makinesi
+13313,1,karaca marka türk kahve makinesi
+13314,1,karaca marka türk kahve makinesi
+13315,1,egecan mobilya marka ürünü
+13316,1,egecan mobilya marka ürünü
+13317,1,egecan mobilya marka ürünü
+13318,1,egecan mobilya marka ürünü
+13319,1,egecan mobilya marka ürünü
+13320,0,başlıkta yetişkin ibaresi var - çocuk değil
+13321,0,başlıkta yetişkin ibaresi var - çocuk değil
+13322,1,çocuk botu bebek ayakkabısı açıkça belirtilmiş
+13323,1,kız bebek ilk adım botu açıkça belirtilmiş
+13324,0,yetişkin kadın botu - çocuk değil
+13325,1,brother marka dikiş makinesi
+13326,1,brother marka dikiş makinesi
+13327,1,brother marka dikiş makinesi
+13328,1,brother marka dikiş makinesi
+13329,1,brother marka dikiş ve nakış makinesi
+13330,1,air wick marka oda kokusu yedek
+13331,1,air wick marka oda spreyi
+13332,1,air wick marka oda parfümü seti
+13333,1,air wick marka oda kokusu yedek
+13334,1,air wick marka freshmatic yedek
+13335,1,grek desen tül perde eşleşiyor
+13336,1,grek desen tül perde eşleşiyor
+13337,1,grek desen tül perde eşleşiyor
+13338,1,grek desen tül perde eşleşiyor
+13339,1,grek desen tül perde eşleşiyor
+13340,1,metal materyalli anahtarlık
+13341,0,ahşap askılık - metal anahtarlık değil
+13342,1,metal anahtarlık çelik materyal
+13343,1,çelik kromaj anahtarlık
+13344,0,deri anahtarlık - metal değil
+13345,1,acar marka emaye ürün
+13346,1,acar marka emaye ürün
+13347,1,acar marka emaye ürün
+13348,1,acar marka emaye ürün
+13349,1,acar marka emaye ürün
+13350,1,inek süt sağma makinesi
+13351,1,inek süt sağma makinesi
+13352,1,inek süt sağma makinesi
+13353,1,inek süt sağma makinesi
+13354,1,inek süt sağma makinesi
+13355,1,bilgisayar koltuğu olarak tanımlanmış
+13356,1,bilgisayar çalışma koltuğu
+13357,1,bilgisayar ve çalışma koltuğu
+13358,1,bilgisayar koltuğu
+13359,1,bilgisayar ders çalışma koltuğu
+13360,0,tek kişilik battaniye - yatak değil
+13361,0,battaniye - yatak değil
+13362,0,çocuk aktivite masası - alakasız
+13363,0,tv battaniyesi - yatak değil
+13364,0,tek kişilik battaniye - yatak değil
+13365,1,yüzey temizlik ürünü
+13366,1,yüzey temizleyici temizlik ürünü
+13367,1,çok amaçlı temizleme spreyi
+13368,1,yüzey temizleyici
+13369,1,yüzey temizleyici temizlik ürünü
+13370,0,12+ yaş lego seti - bebek değil
+13371,0,5+ yaş puzzle seti - bebek değil
+13372,1,lego duplo bebek yaş grubu uygun
+13373,1,duplo 1.5+ yaş bebek uygun ürün
+13374,0,4+ yaş lego friends - bebek değil
+13375,1,versace eros erkek parfümü
+13376,1,versace eros erkek parfümü
+13377,1,versace eros erkek parfümü
+13378,1,versace eros erkek parfümü
+13379,1,versace eros flame erkek parfümü
+13380,1,adl marka kadın ürünü
+13381,1,adl marka kadın ürünü
+13382,1,adl marka kadın ürünü
+13383,1,adl marka kadın ürünü
+13384,1,adl marka kadın ürünü
+13385,1,korkmaz marka küçük ev aleti seti
+13386,1,korkmaz marka elektrikli çeyiz seti
+13387,1,korkmaz marka elektro set
+13388,1,korkmaz marka elektro set
+13389,1,korkmaz marka blender seti
+13390,1,mama sandalyesi minderi doğrudan eşleşiyor
+13391,0,döşemelik kumaş - mama sandalyesi minderi değil
+13392,0,yüzücü bebek bezi - minder değil
+13393,0,bebek bezi - minder değil
+13394,0,bebek bezi - minder değil
+13395,1,kadın topuklu yarım bot
+13396,1,ince topuklu yarım bot
+13397,1,kadeh topuklu yarım bot/çizme
+13398,0,düz topuklu erkek bot - topuklu değil
+13399,0,ortopedik erkek bot - topuklu belirtilmemiş
+13400,1,şarjlı el feneri
+13401,1,usb şarjlı el feneri
+13402,1,şarjlı el feneri
+13403,1,usb şarjlı el feneri
+13404,1,usb şarjlı el feneri
+13405,1,kablosuz bluetooth kulaklık
+13406,1,kablosuz bluetooth kulaklık
+13407,1,kablosuz bluetooth kulaklık
+13408,1,kablosuz bluetooth kulaklık
+13409,1,kablosuz bluetooth kulaklık
+13410,1,oz racing marka jant
+13411,1,oz racing marka jant
+13412,1,oz racing marka jant
+13413,0,marka r1 - oz racing değil
+13414,0,marka cms - oz racing değil
+13415,1,dertsiz leke tutmaz masa örtüsü
+13416,1,leke kir tutmaz masa örtüsü
+13417,1,dertsiz leke tutmaz masa örtüsü
+13418,1,dertsiz leke tutmaz masa örtüsü
+13419,1,dijital baskılı leke tutmaz masa örtüsü
+13420,0,kategori sanatsal kalıp ürünü - duvar rafı değil
+13421,1,küçük duvar rafı
+13422,1,küçük dal raf/kitaplık
+13423,1,küçük duvar rafı
+13424,1,küçük duvar rafı
+13425,1,madame coco tek kişilik nevresim takımı
+13426,1,madame coco tek kişilik nevresim takımı
+13427,1,madame coco tek kişilik nevresim takımı
+13428,1,madame coco tek kişilik nevresim takımı
+13429,1,madame coco tek kişilik nevresim takımı
+13430,1,bonhair marka wax ürünü
+13431,1,bonhair marka wax ürünü
+13432,1,bonhair marka wax ürünü
+13433,1,bonhair marka wax ürünü
+13434,1,bonhair marka wax ürünü
+13435,1,hamsi ve balık tavası
+13436,1,balık tavası
+13437,1,balık tavası
+13438,0,pizza kızartma tavası - balık tavası değil
+13439,0,gözleme tavası - balık tavası değil
+13440,1,tamer tanca marka topuklu ayakkabı
+13441,1,tamer tanca marka topuklu ayakkabı
+13442,1,tamer tanca marka topuklu ayakkabı
+13443,1,tamer tanca marka klasik ayakkabı
+13444,1,tamer tanca marka klasik ayakkabı
+13445,1,yüz boyası ürünü
+13446,1,yüz boyası ürünü
+13447,1,yüz boyası ürünü
+13448,1,yüz boyası ürünü
+13449,1,yüz boyası ürünü
+13450,1,çöp kovası
+13451,1,çöp kovası
+13452,1,çöp kovası
+13453,1,pedallı çöp kovası
+13454,1,çöp kovası
+13455,1,büyük avize
+13456,1,büyük boy avize
+13457,1,büyük sarkıt salon avizesi
+13458,1,büyük boy dekoratif avize
+13459,1,büyük salon avizesi
+13460,1,plastik gonyometre
+13461,1,plastik gonyometre
+13462,1,başlıkta gonyometre eşleşiyor
+13463,1,başlıkta gonyometre eşleşiyor
+13464,1,gonyometre ürünü
+13465,1,gaz lambası
+13466,1,gaz lambası
+13467,1,gaz lambası
+13468,1,gaz lambası
+13469,1,gaz lambası retro tasarım
+13470,0,renk kırmızı siyah belirtilmemiş
+13471,0,renk kırmızı siyah belirtilmemiş
+13472,0,renk kırmızı siyah belirtilmemiş
+13473,0,gri siyah renk - kırmızı değil
+13474,0,renk kırmızı siyah belirtilmemiş
+13475,1,lovelyistanbul marka alt-üst takım
+13476,1,lovelyistanbul marka alt-üst takım
+13477,1,lovelyistanbul marka alt-üst takım
+13478,1,lovelyistanbul marka alt-üst takım
+13479,1,lovelyistanbul marka alt-üst takım
+13480,1,sevdeugur marka ürün
+13481,1,sevdeugur marka ürün
+13482,1,sevdeugur marka ürün
+13483,1,sevdeugur marka ürün
+13484,1,sevdeugur marka ürün
+13485,1,jordan marka çorap
+13486,1,jordan marka çorap
+13487,1,jordan marka çorap
+13488,1,jordan marka çorap
+13489,1,jordan marka çorap
+13490,0,renk yeşil belirtilmiş takım ürünü - krem pantolon değil
+13491,0,kahverengi renk takım - krem değil
+13492,0,pembe renk takım - krem değil
+13493,0,pantolon yeşil renkte belirtilmiş - krem değil
+13494,0,renk krem belirtilmemiş takım ürünü
+13495,1,araç boyun yastığı
+13496,1,araç boyun yastığı
+13497,1,araç boyun yastığı seti
+13498,1,oto koltuk boyun yastığı seti
+13499,1,araç boyun yastığı
+13500,1,çelik çoklu kolye
+13501,1,çelik çoklu kolye
+13502,1,çelik çoklu charm kolye
+13503,1,çelik çoklu kolye
+13504,1,çelik çoklu kolye
+13505,1,tarz cool marka bluz
+13506,1,tarz cool marka bluz
+13507,0,marka escada - tarz cool değil
+13508,0,marka modayakamoz - tarz cool değil
+13509,0,marka utopian - tarz cool değil
+13510,1,kız çocuk küçük sırt çantası
+13511,1,unisex çocuk küçük sırt çantası
+13512,0,orta boy - küçük boy değil
+13513,0,erkek çocuk sırt çantası - kız değil
+13514,1,kız çocuk küçük sırt çantası
+13515,1,islak zemin paspası
+13516,1,islak zemin kaydırmaz paspas
+13517,1,islak zemin banyo paspası
+13518,1,islak zemin paspası
+13519,1,islak zeminlerde kaydırmaz paspas
+13520,1,mini fırın
+13521,1,mini fırın
+13522,1,mini fırın
+13523,1,mini fırın
+13524,1,mini fırın
+13525,1,woohoobox marka kalem
+13526,1,woohoobox marka kalem
+13527,0,marka touch - woohoobox değil
+13528,0,marka dodocool - woohoobox değil
+13529,0,marka storemax - woohoobox değil
+13530,1,yarım takma kirpik
+13531,1,yarım köşe takma kirpik
+13532,1,yarım boy takma kirpik
+13533,1,yarım ay takma kirpik
+13534,1,yarım boy takma kirpik
+13535,1,seyahat şişe seti
+13536,1,seyahat tipi şişe seti
+13537,1,seyahat boy çanta seti
+13538,1,seyahat valiz düzenleyici set
+13539,0,seyahat temalı sticker - seyahat seti değil
+13540,1,erkek kalın kışlık gömlek
+13541,1,erkek kalın kışlık gömlek
+13542,1,erkek kalın gömlek
+13543,1,erkek kalın kışlık gömlek
+13544,1,erkek kalın yünlü gömlek
+13545,0,sorgu ile zayıf anlamsal eşleşme
+13546,0,sorgu ile zayıf anlamsal eşleşme
+13547,0,sorgu ile zayıf anlamsal eşleşme
+13548,0,sorgu ile zayıf anlamsal eşleşme
+13549,0,sorgu ile zayıf anlamsal eşleşme
+13550,1,maca kökü tozu
+13551,1,maca kökü tozu
+13552,1,maca root powder
+13553,0,matcha çayı - maca tozu değil
+13554,1,maca tozu
+13555,1,saten fular
+13556,1,saten fular
+13557,1,saten fular
+13558,1,saten bandana fular
+13559,1,saten fular bandana
+13560,1,çelik gold bileklik
+13561,1,çelik gold bileklik
+13562,1,çelik gold bilezik
+13563,1,çelik gold bilezik
+13564,1,çelik gold bileklik
+13565,1,asics erkek koşu ayakkabısı
+13566,1,asics erkek koşu ayakkabısı
+13567,1,asics erkek koşu ayakkabısı
+13568,1,asics erkek koşu ayakkabısı
+13569,1,asics erkek koşu ayakkabısı
+13570,1,maybelline fit me kapatıcı
+13571,1,maybelline fit me kapatıcı
+13572,1,maybelline fit me concealer
+13573,0,instant age eraser serisi - fit me değil
+13574,0,instant eraser serisi - fit me değil
+13575,1,paşabahçe marka tabak
+13576,1,paşabahçe marka servis tabağı
+13577,1,paşabahçe marka tabak
+13578,1,paşabahçe marka tabak seti
+13579,1,paşabahçe marka servis tabağı
+13580,1,paragrafın şifresi yayınları ürünü
+13581,1,paragrafın şifresi serisi ürünü
+13582,1,paragrafın şifresi yayınları ürünü
+13583,0,merkez yayınları - farklı yayınevi
+13584,0,gizli yayınları farklı konu - alakasız
+13585,1,kadın tote çanta
+13586,1,kadın tote çanta
+13587,1,kadın tote bag
+13588,1,kadın tote çanta
+13589,1,kadın tote çanta
+13590,1,el vinci
+13591,1,el vinci
+13592,1,el vinci
+13593,1,el vinci irgat
+13594,1,el vinci
+13595,1,3'lü ankastre set
+13596,1,3'lü ankastre set
+13597,1,3'lü ankastre set
+13598,1,3'lü ankastre set
+13599,1,3'lü ankastre set
+13600,1,nivea traş jeli
+13601,1,nivea traş jeli
+13602,1,nivea traş jeli
+13603,1,nivea traş jeli
+13604,1,nivea traş jeli
+13605,1,locco marka elbise
+13606,1,locco marka elbise
+13607,1,locco marka elbise
+13608,1,locco marka elbise
+13609,1,locco marka elbise
+13610,1,şık baharatlık seti
+13611,1,şık dekoratif baharatlık seti
+13612,1,şık baharat takımı
+13613,1,şık baharatlık seti
+13614,1,şık tepsili baharatlık seti
+13615,1,raf seti aksesuarı
+13616,1,duvar raf seti
+13617,1,raf aksesuarı
+13618,1,duvar rafı aksesuarı
+13619,1,duvar rafı aksesuarı
+13620,1,immunace marka vitamin
+13621,1,immunace marka vitamin
+13622,1,immunace marka vitamin
+13623,1,immunace marka vitamin
+13624,1,immunace marka vitamin
+13625,1,emsan marka bıçak seti
+13626,1,emsan marka bıçak
+13627,1,emsan marka bıçak seti
+13628,1,emsan marka bıçak seti
+13629,1,emsan marka bıçak
+13630,1,airfel marka klima
+13631,1,airfel marka klima
+13632,1,airfel marka ürün
+13633,1,airfel marka klima
+13634,1,airfel marka klima
+13635,1,goorin bros marka şapka
+13636,1,goorin bros marka şapka
+13637,1,goorin bros marka şapka
+13638,1,goorin bros marka şapka
+13639,1,goorin bros marka bere
+13640,1,philips 9000 serisi dik süpürge
+13641,1,philips 9000 serisi dik süpürge
+13642,1,philips 9000 serisi dik süpürge
+13643,1,philips 9000 serisi dik süpürge
+13644,1,philips 9000 serisi dik süpürge
+13645,1,gold renk bileklik
+13646,1,gold renk bileklik
+13647,1,gold renk bileklik
+13648,1,gold renk bileklik
+13649,1,gold renk bileklik

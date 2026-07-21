@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9100,1,cotton pajama bottoms women match
+9101,1,cotton pajama bottoms women match
+9102,1,cotton pajama bottoms women match
+9103,1,cotton pajama bottoms women match
+9104,1,cotton pajama bottoms women match
+9105,1,madmext blouse match
+9106,1,madmext blouse match
+9107,0,actually a t-shirt not blouse
+9108,0,actually a t-shirt not blouse
+9109,0,actually a t-shirt not blouse
+9110,1,chicco car seat match
+9111,1,chicco car seat match
+9112,1,chicco car seat match
+9113,1,chicco car seat match
+9114,1,chicco car seat match
+9115,0,hoodie wording implies hood - contradicts hoodless
+9116,0,explicitly kapüşonlu - contradicts hoodless
+9117,1,bisiklet yaka - no hood matches
+9118,0,explicitly kapüşonlu
+9119,0,explicitly kapüşonlu
+9120,1,black white striped sweater match
+9121,1,black white striped sweater match
+9122,1,black white striped sweater match
+9123,0,color not specified as black white
+9124,0,only black mentioned not white stripe
+9125,1,summer modest two piece set
+9126,1,summer modest two piece set
+9127,1,summer modest two piece set
+9128,1,summer modest two piece set
+9129,0,knit fabric not summer material
+9130,1,adidas hooded brand match
+9131,0,wrong brand nike
+9132,0,wrong brand wrangler
+9133,0,wrong brand jack jones
+9134,0,wrong brand guess
+9135,1,eşofman altı match
+9136,1,eşofman altı match
+9137,1,eşofman altı match
+9138,1,eşofman altı match
+9139,1,eşofman altı match
+9140,1,yazma scarf match
+9141,1,yazma scarf match
+9142,1,yazma scarf match
+9143,1,yazma tülbent yemeni match
+9144,1,yazma eşarp match
+9145,1,penti men pajama match
+9146,1,penti men pajama match
+9147,1,penti men pajama match
+9148,1,penti men pajama match
+9149,1,penti men pajama match
+9150,0,single car not a set
+9151,0,single car explicitly tekli
+9152,0,single car not a set
+9153,1,actual play set 11 pieces
+9154,0,single car not a set
+9155,0,kids line product not women item
+9156,0,kids line product not women item
+9157,0,kids product no zipper mentioned
+9158,0,wrong brand not lcw
+9159,0,wrong brand not lcw
+9160,1,unisex child boot suitable
+9161,0,explicitly girl boot
+9162,1,unisex child boot suitable
+9163,0,explicitly girl boot
+9164,0,adult item not child
+9165,1,süvari brand coat match
+9166,1,süvari brand coat match
+9167,1,süvari brand coat match
+9168,1,süvari brand coat match
+9169,1,süvari brand coat match
+9170,1,men long sleeve tshirt match
+9171,0,women child item wrong gender
+9172,1,men long sleeve tshirt match
+9173,0,short sleeve not long
+9174,0,sleeve length unspecified likely not long
+9175,1,maxi cosi car seat match
+9176,1,maxi cosi car seat match
+9177,1,maxi cosi car seat match
+9178,1,maxi cosi car seat match
+9179,1,maxi cosi car seat match
+9180,1,jump men sport shoe match
+9181,1,jump men sport shoe match
+9182,1,jump men sport shoe match
+9183,1,jump men sport shoe match
+9184,1,jump men sport shoe match
+9185,1,puma trinity 2 model match
+9186,0,different model
+9187,0,different model
+9188,0,wrong brand premiata
+9189,0,wrong brand under armour
+9190,1,women beige trench coat match
+9191,1,women beige trench coat match
+9192,1,women beige trench coat match
+9193,1,women beige trench coat match
+9194,1,women beige trench coat match
+9195,1,men plus size jeans match
+9196,1,men plus size jeans match
+9197,1,men plus size jeans match
+9198,1,men plus size jeans match
+9199,1,men plus size jeans match
+9200,1,title mentions deichmann
+9201,1,title mentions deichmann
+9202,0,no deichmann mention
+9203,0,no deichmann mention
+9204,0,no deichmann mention
+9205,1,unisex teen boot suitable
+9206,0,adult age not teen
+9207,0,adult age not teen
+9208,0,explicitly girl child not teen boy
+9209,0,adult age not teen
+9210,1,nike krampon match
+9211,0,turf shoe not krampon category
+9212,1,nike krampon match
+9213,1,nike krampon match
+9214,1,nike krampon match
+9215,1,pierre cardin men sweatshirt match
+9216,1,pierre cardin men sweatshirt match
+9217,1,pierre cardin men sweatshirt match
+9218,1,pierre cardin men sweatshirt match
+9219,1,pierre cardin men sweatshirt match
+9220,1,sementa women sweater match
+9221,1,sementa women sweater match
+9222,1,sementa women sweater match
+9223,1,sementa women cardigan match
+9224,1,sementa women cardigan match
+9225,1,kiğılı jacket match
+9226,1,kiğılı jacket match
+9227,1,kiğılı jacket match
+9228,1,kiğılı jacket match
+9229,1,kiğılı jacket match
+9230,1,oversize tshirt unisex match
+9231,1,women oversize tshirt match
+9232,1,oversize tshirt unisex match
+9233,1,oversize tshirt unisex match
+9234,1,oversize tshirt unisex match
+9235,1,penti pajama top match
+9236,1,penti pajama top match
+9237,1,penti pajama top match
+9238,1,penti pajama top match
+9239,1,penti pajama top match
+9240,1,engagement gift basket match
+9241,1,engagement gift basket match
+9242,1,engagement gift basket match
+9243,1,engagement gift basket match
+9244,1,engagement gift basket match
+9245,1,carmen paint set match
+9246,1,carmen paint set match
+9247,1,carmen paint set match
+9248,1,carmen paint set match
+9249,1,carmen paint set match
+9250,1,waist tie shirt match
+9251,1,waist tie shirt match
+9252,1,waist tie shirt match
+9253,1,waist tie shirt match
+9254,1,waist tie shirt match
+9255,1,new balance shoe match
+9256,1,new balance shoe match
+9257,1,new balance shoe match
+9258,1,new balance shoe match
+9259,1,new balance shoe match
+9260,1,men black jeans match
+9261,1,men black jeans match
+9262,1,men black jeans match
+9263,1,men black jeans match
+9264,1,men black jeans match
+9265,1,suud brand jacket match
+9266,1,suud brand jacket match
+9267,1,suud brand jacket match
+9268,1,suud brand jacket match
+9269,1,suud brand jacket match
+9270,1,women oversize sweatshirt match
+9271,1,unisex oversize sweatshirt match
+9272,1,unisex oversize sweatshirt match
+9273,1,unisex oversize sweatshirt match
+9274,1,women oversize sweatshirt match
+9275,1,koton men sweatpants match
+9276,1,koton men sweatpants match
+9277,1,koton men sweatpants match
+9278,1,koton men sweatpants match
+9279,1,koton men sweatpants match
+9280,0,fabric roll not finished coat
+9281,1,kaşe coat match
+9282,0,not kaşe material - plain plush jacket
+9283,0,child size mont not kaban coat
+9284,0,not kaşe material - plain jacket
+9285,1,men fabric pants match
+9286,1,men fabric pants match
+9287,1,men fabric pants match
+9288,1,men fabric pants match
+9289,1,men fabric pants match
+9290,1,rengin evening dress match
+9291,1,rengin evening dress match
+9292,1,rengin evening dress match
+9293,1,rengin evening dress match
+9294,1,rengin evening dress match
+9295,1,black colored scarf match
+9296,1,gray colored scarf match
+9297,1,gray-smoky colored scarf match
+9298,0,multicolor not black or gray
+9299,1,light gray mentioned in title
+9300,1,nine west heels match
+9301,1,nine west heels match
+9302,1,nine west heels match
+9303,1,nine west heels match
+9304,1,nine west heels match
+9305,1,title explicitly says cross
+9306,1,title explicitly says cross
+9307,0,crocs brand not cross
+9308,0,no cross mention
+9309,0,crocs brand not cross
+9310,1,cigit two piece set match
+9311,1,cigit two piece set match
+9312,1,cigit two piece set match
+9313,1,cigit two piece set match
+9314,1,cigit two piece set match
+9315,1,football base layer match
+9316,1,sport base layer body match
+9317,1,football thermal base layer match
+9318,1,football base layer tights match
+9319,1,football base layer tights match
+9320,1,köstebek sweater match
+9321,1,köstebek sweater match
+9322,1,köstebek sweater match
+9323,0,wrong brand benetton
+9324,0,wrong brand mango teen
+9325,1,nike outdoor shoe match
+9326,1,nike outdoor shoe match
+9327,1,nike outdoor shoe match
+9328,1,nike outdoor shoe match
+9329,1,nike outdoor shoe match
+9330,1,women shirt match
+9331,1,women shirt match
+9332,1,women shirt match
+9333,1,women shirt match
+9334,1,women shirt match
+9335,1,rhinestone denim jacket match
+9336,1,rhinestone denim jacket match
+9337,1,rhinestone denim jacket match
+9338,1,rhinestone denim jacket match
+9339,1,rhinestone denim jacket match
+9340,1,stabilo boss 23 exact match
+9341,0,different model number
+9342,0,different model number
+9343,0,different model number
+9344,0,different model not 23
+9345,1,h&m kids body match
+9346,1,h&m kids body match
+9347,1,h&m kids body match
+9348,0,wrong brand not h&m
+9349,0,wrong brand not h&m
+9350,1,puma men sneaker match
+9351,1,puma men sneaker match
+9352,1,puma men sneaker match
+9353,1,puma men sneaker match
+9354,1,puma men sneaker match
+9355,0,pet clothing not human sweatshirt
+9356,0,pet clothing not human sweatshirt
+9357,0,pet clothing not human sweatshirt
+9358,0,pet clothing not human sweatshirt
+9359,0,pet clothing not human sweatshirt
+9360,1,light-up kids bluetooth headphone match
+9361,1,light-up kids bluetooth headphone match
+9362,1,light-up kids bluetooth headphone match
+9363,0,no light-up feature mentioned
+9364,0,no light-up feature mentioned
+9365,1,lescon sweatpants match
+9366,1,lescon sweatpants match
+9367,1,lescon sweatpants match
+9368,1,lescon sweatpants match
+9369,1,lescon sweatpants match
+9370,1,new balance 550 model match
+9371,1,new balance 550 model match
+9372,1,new balance 550 model match
+9373,0,different model 878 not 550
+9374,0,wrong brand vans
+9375,1,women modest pants match
+9376,1,women modest pants match
+9377,1,women modest pants match
+9378,1,women modest pants match
+9379,1,women modest pants match
+9380,1,tutku girl underwear match
+9381,1,tutku girl underwear match
+9382,1,tutku girl underwear match
+9383,1,tutku girl underwear match
+9384,1,tutku girl underwear match
+9385,1,girl child shoe match
+9386,1,girl child shoe match
+9387,1,girl child shoe match
+9388,1,unisex child shoe suitable
+9389,1,unisex child shoe suitable
+9390,1,skechers men sneaker match
+9391,1,skechers men sneaker match
+9392,1,skechers men sneaker match
+9393,1,skechers men sneaker match
+9394,1,skechers men sneaker match
+9395,1,müslim fabric set match
+9396,1,müslim fabric set match
+9397,1,müslim fabric set match
+9398,1,müslim fabric set match
+9399,0,no müslim fabric mentioned
+9400,0,anti-slip sole not flat sole
+9401,1,flat sole shoe match
+9402,1,flat sole shoe match
+9403,1,flat sole shoe match
+9404,1,flat sole shoe match
+9405,1,mermaid costume match
+9406,1,mermaid costume match
+9407,1,mermaid costume match
+9408,1,mermaid costume match
+9409,0,owl themed not mermaid
+9410,1,ayakkabi prensi stiletto match
+9411,1,ayakkabi prensi stiletto match
+9412,1,ayakkabi prensi stiletto match
+9413,1,ayakkabi prensi stiletto match
+9414,1,ayakkabi prensi stiletto match
+9415,1,winter tracksuit set match
+9416,1,winter tracksuit set match
+9417,1,winter tracksuit set match
+9418,1,winter tracksuit set match
+9419,1,winter tracksuit set match
+9420,1,lc waikiki women vest match
+9421,1,lc waikiki women vest match
+9422,1,lc waikiki women vest match
+9423,1,lc waikiki women vest match
+9424,1,lc waikiki women vest match
+9425,1,girl short coat match
+9426,1,girl short coat match
+9427,1,girl short coat match
+9428,1,girl short coat match
+9429,1,girl short coat match
+9430,1,bootless baby romper match
+9431,1,bootless baby romper match
+9432,1,bootless baby romper match
+9433,1,bootless baby romper match
+9434,1,bootless baby romper match
+9435,1,e-bebek hello baby brand match
+9436,1,e-bebek hello baby brand match
+9437,1,e-bebek hello baby brand match
+9438,0,wrong brand not ebebek
+9439,1,e-bebek hello baby brand match
+9440,0,no brown color specified
+9441,0,no brown color specified
+9442,0,no brown color specified
+9443,0,no brown color specified
+9444,0,no brown color specified
+9445,1,fenerbahçe shorts match
+9446,1,fenerbahçe shorts match
+9447,1,fenerbahçe shorts match
+9448,1,fenerbahçe shorts match
+9449,1,fenerbahçe shorts match

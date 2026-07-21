@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4200,1,same brand d-c-fix and product type (yapışkanlı folyo)
+4201,1,same brand d-c-fix and product type (yapışkanlı folyo)
+4202,1,same brand d-c-fix and product type (yapışkanlı folyo)
+4203,1,same brand d-c-fix and product type (yapışkanlı folyo)
+4204,1,same brand d-c-fix and product type (yapışkanlı folyo)
+4205,0,AAA battery not the 27A 12V type queried
+4206,0,CR2450 3V button cell not 27A 12V
+4207,0,CR123A 3V battery not 27A 12V
+4208,0,AAA battery not 27A 12V
+4209,0,AAA battery not 27A 12V
+4210,1,stanley brand tape measure matches query
+4211,1,stanley brand tape measure matches query
+4212,1,stanley brand tape measure matches query
+4213,0,wrong brand spelt not stanley
+4214,0,stanley brand but a tumbler/thermos not a tape measure
+4215,1,xiaomi (redmi) earbuds match xaomi kulaklık query
+4216,1,xiaomi (redmi) earbuds match xaomi kulaklık query
+4217,1,xiaomi (redmi) earbuds match xaomi kulaklık query
+4218,1,xiaomi (redmi) earbuds match xaomi kulaklık query
+4219,1,xiaomi (redmi) earbuds match xaomi kulaklık query
+4220,1,pompom detailed fon perde matches query
+4221,1,pompom detailed fon perde matches query
+4222,1,pompom detailed fon perde matches query
+4223,1,pompom detailed fon perde matches query
+4224,1,pompom detailed fon perde matches query
+4225,1,car wash sponge matches query
+4226,1,car wash sponge matches query
+4227,1,car wash sponge matches query
+4228,1,car wash sponge matches query
+4229,1,car wash sponge matches query
+4230,1,terzi ayhan brand suit matches query
+4231,1,terzi ayhan brand suit matches query
+4232,1,terzi ayhan brand suit matches query
+4233,1,terzi ayhan brand suit matches query
+4234,1,terzi ayhan brand suit matches query
+4235,1,bioxcin brand hair vitamin/supplement matches query
+4236,1,bioxcin brand hair vitamin/supplement matches query
+4237,1,bioxcin brand hair vitamin/supplement matches query
+4238,1,bioxcin brand hair vitamin/supplement matches query
+4239,0,bioxcin brand but a hair serum not a vitamin/supplement
+4240,1,serstil brand storage hurç matches query
+4241,1,serstil brand storage hurç matches query
+4242,1,serstil brand storage hurç matches query
+4243,1,serstil brand storage hurç matches query
+4244,1,serstil brand storage hurç matches query
+4245,1,stainless steel bracelet matches query
+4246,1,stainless steel bracelet matches query
+4247,1,title explicitly says çelik bileklik, matches query
+4248,1,stainless steel bracelet matches query
+4249,1,stainless steel bracelet matches query
+4250,1,footballer-themed book matches query
+4251,1,footballer-themed book matches query
+4252,1,footballer-themed book matches query
+4253,1,footballer-themed book matches query
+4254,1,footballer-themed book matches query
+4255,1,titanium cookware matches generic titanyum query
+4256,0,wax product unrelated to titanium intent of query
+4257,1,titanium cookware matches query
+4258,1,titanium cookware matches query
+4259,1,titanium cookware matches query
+4260,1,braun series 3 epilator matches query
+4261,1,braun series 3 epilator matches query
+4262,1,braun series 3 ipl device matches query
+4263,1,braun series 3 ipl device matches query
+4264,1,braun series 3 shaver matches query
+4265,1,paşabahçe brand sugar bowl matches query
+4266,1,paşabahçe brand sugar bowl matches query
+4267,1,paşabahçe brand sugar bowl matches query
+4268,1,paşabahçe brand sugar bowl matches query
+4269,1,paşabahçe brand sugar bowl matches query
+4270,1,fiskos table topper matches query
+4271,1,fiskos table topper matches query
+4272,1,fiskos table topper matches query
+4273,1,fiskos table topper matches query
+4274,1,fiskos table topper matches query
+4275,1,tandirim brand bread maker matches query
+4276,1,tandirim brand bread maker matches query
+4277,1,tandirim brand bread maker matches query
+4278,0,spare basket/filter part for a bread maker not the machine itself
+4279,1,tandirim brand bread maker matches query
+4280,1,masalsı concept brand engagement tray matches query
+4281,1,masalsı concept brand engagement tray matches query
+4282,1,masalsı concept brand engagement tray matches query
+4283,1,masalsı concept brand engagement tray matches query
+4284,1,masalsı concept brand engagement tray matches query
+4285,1,pink mouse pad matches query
+4286,1,pink mouse pad matches query
+4287,1,pink patterned mouse pad matches query
+4288,1,pink mouse pad matches query
+4289,1,pink mouse pad matches query
+4290,1,baguette style bag matches query
+4291,1,baguette style bag matches query
+4292,1,baguette style bag matches query
+4293,1,baguette style shoulder bag matches query
+4294,1,baguette style bag matches query
+4295,1,wheeled tv stand matches query
+4296,0,tv stand but no wheels mentioned
+4297,0,tv stand but no wheels mentioned
+4298,0,wheeled clothes hanger stand, not a tv stand
+4299,0,tv stand but no wheels mentioned
+4300,1,ankle-high sports shoe/sneaker matches query
+4301,1,ankle-high sports shoe matches query
+4302,1,ankle-high sports shoe matches query
+4303,1,ankle-high sports shoe matches query
+4304,1,ankle-high sports shoe matches query
+4305,1,groom coffee cup matches query
+4306,1,groom coffee cup set matches query
+4307,1,groom coffee cup matches query
+4308,1,groom coffee cup matches query
+4309,1,groom coffee cup matches query
+4310,1,corner cabinet matches query
+4311,1,corner cabinet matches query
+4312,1,corner wardrobe module matches query
+4313,1,corner cabinet matches query
+4314,1,corner cabinet matches query
+4315,1,cat scratching post matches query
+4316,1,cat scratching post matches query
+4317,1,cat scratching post matches query
+4318,1,cat scratching post matches query
+4319,1,cat scratching post matches query
+4320,1,romand juicy lasting tint line matches query
+4321,1,romand juicy lasting tint line matches query
+4322,1,romand juicy lasting tint line matches query
+4323,1,romand juicy lasting tint line matches query
+4324,1,romand juicy lasting tint line (gloss variant) matches query
+4325,1,beko brand robot vacuum matches query
+4326,1,beko brand robot vacuum matches query
+4327,1,beko brand robot vacuum matches query
+4328,1,beko brand robot vacuum matches query
+4329,1,beko brand robot vacuum matches query
+4330,1,men's plus size tracksuit set matches query
+4331,1,men's plus size tracksuit set matches query
+4332,1,men's plus size tracksuit set matches query
+4333,0,only tracksuit bottoms, not the full takım set
+4334,0,women's tesettür tracksuit, wrong gender (query specifies erkek)
+4335,1,bluetooth party speaker matches generic hoparlör query
+4336,1,bluetooth party speaker matches query
+4337,1,bluetooth party speaker matches query
+4338,1,bluetooth party speaker matches query
+4339,1,bluetooth party speaker matches query
+4340,1,sonax brand car care set matches query
+4341,1,sonax brand car care set matches query
+4342,1,sonax brand car care set matches query
+4343,0,sonax single polish product, not a care set
+4344,0,sonax single polish product, not a care set
+4345,1,matches brand good & health
+4346,0,wrong brand brit, unrelated dog food
+4347,0,wrong brand betterhumz, unrelated dog food
+4348,0,different brand goodcare, not good & health
+4349,0,wrong brand unique, unrelated dog food
+4350,1,flormar brand nail polish matches query
+4351,1,flormar brand nail polish matches query
+4352,1,flormar brand nail polish matches query
+4353,1,flormar brand nail polish matches query
+4354,1,flormar brand nail polish matches query
+4355,1,nike kids sports shoe matches query
+4356,1,nike boys running shoe matches query
+4357,1,nike kids sneaker matches query
+4358,1,nike boys walking shoe matches query
+4359,1,nike kids sneaker matches query
+4360,0,honor pad x9, wrong model (not v9)
+4361,0,honor pad x9a, wrong model (not v9)
+4362,0,case/cover accessory for pad v9, not the tablet itself
+4363,0,honor pad x9a, wrong model (not v9)
+4364,0,honor pad x9, wrong model (not v9)
+4365,1,full-length mirror matches query
+4366,1,full-length mirror matches query
+4367,1,full-length mirror matches query
+4368,1,full-length mirror matches query
+4369,1,full-length mirror matches query
+4370,1,kiwi brand vertical steam iron matches query
+4371,1,kiwi brand vertical steam iron matches query
+4372,1,kiwi brand vertical steam iron matches query
+4373,1,kiwi brand vertical steam iron matches query
+4374,1,kiwi brand vertical steam iron matches query
+4375,1,led-lit wall art matches query
+4376,1,led-lit wall decoration matches query
+4377,1,led-lit wall art (labeled tablo) matches query
+4378,1,led-lit wall art matches query
+4379,1,led-lit wall art matches query
+4380,1,detergent storage box matches query
+4381,1,detergent storage box matches query
+4382,1,detergent storage box matches query
+4383,1,detergent storage box matches query
+4384,1,detergent storage box matches query
+4385,1,fropie brand peanut butter matches query
+4386,1,fropie brand peanut butter matches query
+4387,0,fropie brand granola, not peanut butter
+4388,0,fropie brand granola, not peanut butter
+4389,0,fropie brand granola, not peanut butter
+4390,0,orjinall brand charger using apple store phrase, not an actual apple product
+4391,1,app store/itunes gift card is an apple ecosystem product
+4392,1,apple brand ipad matches query
+4393,1,app store/itunes gift card is an apple ecosystem product
+4394,1,apple brand iphone matches query
+4395,1,school bag set matches generic okul query
+4396,1,water bottle explicitly for school use matches generic okul query
+4397,1,school bag set matches query
+4398,1,school stationery set matches query
+4399,1,school bag set matches query
+4400,1,mood-themed party card game matches query
+4401,1,mood-themed party card game matches query
+4402,1,mood-themed party card game matches query
+4403,1,mood-themed party card game (moodun) matches query
+4404,1,bundle includes the exact moodun hangisi game
+4405,1,kids headphones match query
+4406,1,kids headphones match query
+4407,1,kids headphones match query
+4408,1,kids headphones match query
+4409,1,kids headphones match query
+4410,0,generic camel-colored dress, no clear match to specific kameya query
+4411,0,generic basic dress, no clear match to kameya query
+4412,0,generic dress, no clear match to kameya query
+4413,1,creality brand 3d printer matches query
+4414,1,creality brand 3d printer matches query
+4415,1,creality brand 3d printer matches query
+4416,1,creality brand 3d printer matches query
+4417,0,3d pen, not a 3d printer
+4418,1,kitchen sink matches query
+4419,1,kitchen sink matches query
+4420,1,kitchen sink matches query
+4421,1,kitchen sink (granite) matches query
+4422,1,kitchen sink matches query
+4423,1,bread cutting board matches query
+4424,1,bread cutting board matches query
+4425,1,bread/food cutting board matches query
+4426,1,bread cutting board set matches query
+4427,0,dough/general cutting board, not specifically a bread board
+4428,1,hair clipper matches query
+4429,1,hair and beard trimmer matches query
+4430,1,hair and beard clipper matches query
+4431,1,hair and beard clipper matches query
+4432,1,hair and beard clipper matches query
+4433,1,dambılcım brand dumbbell set matches query
+4434,0,wrong brand ecg, not dambılcım
+4435,1,dambılcım brand dumbbell set matches query
+4436,1,dambılcım brand dumbbell set matches query
+4437,0,wrong brand besinistanbul, not dambılcım
+4438,1,car care kit matches generic query
+4439,1,car care kit matches query
+4440,1,car care kit matches query
+4441,1,car care kit matches query
+4442,1,car care kit matches query
+4443,1,wallet/cüzdan matches generic query
+4444,1,wallet matches generic query
+4445,1,wallet matches generic query
+4446,1,wallet matches generic query
+4447,1,wallet matches generic query
+4448,1,kiko brand blush matches query
+4449,1,kiko brand blush matches query
+4450,1,kiko brand blush matches query
+4451,1,kiko brand blush matches query
+4452,1,kiko brand blush matches query
+4453,1,table tennis set matches query
+4454,1,table tennis set matches query
+4455,1,table tennis set matches query
+4456,1,table tennis set matches query
+4457,1,table tennis set matches query
+4458,1,lumberjack brand women's bag matches query
+4459,1,lumberjack brand women's bag matches query
+4460,1,lumberjack brand women's bag matches query
+4461,1,lumberjack brand women's bag matches query
+4462,1,lumberjack brand women's bag (backpack variant) matches query
+4463,1,mini oven matches generic fırın query
+4464,1,mini oven matches query
+4465,1,mini oven matches query
+4466,1,mini oven matches query
+4467,1,mini oven matches query
+4468,1,plush giraffe toy matches query
+4469,1,plush giraffe toy matches query
+4470,1,plush giraffe toy matches query
+4471,1,plush giraffe toy matches query
+4472,1,plush giraffe toy matches query
+4473,1,gamebooster brand gaming monitor matches query
+4474,1,gamebooster brand gaming monitor matches query
+4475,1,gamebooster brand gaming monitor matches query
+4476,1,gamebooster brand gaming monitor matches query
+4477,0,different brand power boost, a psu not a monitor
+4478,1,plastic presentation bowl matches query
+4479,1,plastic presentation bowl matches query
+4480,1,plastic presentation bowl matches query
+4481,1,plastic presentation bowl matches query
+4482,1,plastic presentation bowl matches query
+4483,1,ocean brand (orzax) multivitamin matches query
+4484,1,ocean brand (orzax) supplement matches query
+4485,1,ocean brand (orzax) supplement matches query
+4486,1,ocean brand (orzax) supplement matches query
+4487,1,ocean brand supplement matches query
+4488,1,us polo assn brand sweater matches query
+4489,1,us polo assn brand sweater matches query
+4490,1,us polo assn brand sweater matches query
+4491,1,us polo assn brand sweater matches query
+4492,1,us polo assn brand sweater matches query
+4493,1,artificial olive tree matches query
+4494,1,artificial olive tree matches query
+4495,1,artificial olive tree matches query
+4496,1,artificial olive tree matches query
+4497,1,artificial olive tree matches query
+4498,1,bathroom towel set matches query
+4499,1,bathroom towel set matches query
+4500,1,bathroom towel set matches query
+4501,1,bathroom towel set matches query
+4502,1,bathroom towel set matches query
+4503,1,kids formal/prom dress matches query
+4504,1,kids formal dress matches query
+4505,1,kids formal/prom dress matches query
+4506,1,kids formal dress matches query
+4507,1,kids formal dress matches query
+4508,1,armchair cover matches query
+4509,1,armchair cover matches query
+4510,1,armchair cover matches query
+4511,1,armchair cover matches query
+4512,1,armchair cover matches query
+4513,1,title explicitly says kadın (women's) shoe, matches query
+4514,1,women's stylish sneaker matches query
+4515,1,women's stylish sneaker matches query
+4516,1,women's stylish sneaker matches query
+4517,1,women's stylish sneaker matches query
+4518,1,five love languages book matches query
+4519,1,five love languages book (set) matches query
+4520,1,five love languages book (teen edition) matches query
+4521,0,different book series (four agreements), not five love languages
+4522,0,unrelated novel (east of eden), not five love languages
+4523,1,asymmetric full-length mirror matches query
+4524,1,asymmetric full-length mirror matches query
+4525,1,asymmetric full-length mirror matches query
+4526,1,asymmetric full-length mirror matches query
+4527,1,asymmetric full-length mirror matches query
+4528,1,tea set with cake plates matches query
+4529,1,tea set with cake plates matches query
+4530,1,tea set with cake plates matches query
+4531,1,tea set with cake plates matches query
+4532,1,porcelain plated tea set matches query
+4533,0,squid fishing lure, no clear match to zingo query
+4534,0,fishing lure, no clear match to zingo query
+4535,0,jenga balance game, not zingo
+4536,0,knitting needle set named zing, wrong product category
+4537,0,jenga balance game, not zingo
+4538,1,coffee/brown colored pants matches query
+4539,1,coffee/brown colored pants matches query
+4540,1,coffee/brown colored pants matches query
+4541,1,coffee/brown colored pants matches query
+4542,1,coffee/brown colored pants matches query
+4543,1,bathroom decoration item matches query
+4544,1,bathroom decoration item matches query
+4545,1,bathroom decoration item matches query
+4546,1,bathroom decoration item matches query
+4547,1,bathroom decoration sticker matches query
+4548,1,sulfate-free shampoo matches query
+4549,1,sulfate-free shampoo matches query

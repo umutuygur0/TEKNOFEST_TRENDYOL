@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9450,1,paraffin candle wax matches query
+9451,1,paraffin candle wax matches query
+9452,1,paraffin candle wax matches query
+9453,1,paraffin candle wax matches query
+9454,1,paraffin wax product for spa use
+9455,1,nascita fake nail product
+9456,1,nascita fake nail product
+9457,1,nascita fake nail product
+9458,1,nascita fake nail product
+9459,1,nascita fake nail product
+9460,1,4-piece nesting table matches
+9461,1,4-piece table matches
+9462,1,4-piece wooden nesting table
+9463,1,4-piece wooden nesting table
+9464,1,4-piece wooden nesting table
+9465,1,acrylic paint brush set
+9466,1,acrylic paint brush set
+9467,1,acrylic paint brush set
+9468,1,acrylic paint brush
+9469,1,acrylic paint brush
+9470,1,dinnerware set matches
+9471,1,dinnerware set matches
+9472,1,dinnerware set matches
+9473,1,dinnerware set matches
+9474,1,dinnerware set matches
+9475,1,gift magnet for engagement
+9476,1,personalized gift magnet
+9477,1,epoxy engagement magnet
+9478,1,engagement gift magnet
+9479,1,epoxy wedding magnet set
+9480,1,kitty character kids watch
+9481,1,kitty character kids watch
+9482,1,kitty character kids watch
+9483,1,hello kitty themed clock
+9484,0,generic smart watch no hello kitty theme
+9485,0,not velvet material - pants
+9486,0,not velvet material - pants
+9487,0,not velvet material - blouse
+9488,0,not velvet material - pants
+9489,0,not velvet material - pants
+9490,0,unrelated car motor mount
+9491,0,unrelated coffee filter
+9492,0,unrelated car door cable
+9493,0,unrelated pumpkin fabric
+9494,0,unrelated game console
+9495,1,fantom turbo vacuum head
+9496,1,fantom turbo head compatible
+9497,1,fantom turbo head compatible
+9498,0,generic floor head not turbo
+9499,0,pipe set not turbo head
+9500,1,defacto kids tracksuit set
+9501,1,defacto kids tracksuit set
+9502,1,defacto baby tracksuit set
+9503,0,wrong brand kilic not defacto
+9504,0,only pants not full tracksuit set
+9505,1,h&m brand shoe
+9506,1,h&m brand shoe
+9507,1,h&m brand shoe
+9508,1,h&m brand boot footwear
+9509,1,h&m brand shoe
+9510,1,mih book series exact match
+9511,0,different book miho not mih series
+9512,1,mih 2 same book series
+9513,0,unrelated mihail bulgakov book
+9514,0,unrelated mihail bulgakov book
+9515,1,metallic edible dust matches
+9516,1,metallic edible dust matches
+9517,1,metallic edible dust matches
+9518,1,metallic spray matches
+9519,1,metallic edible dust matches
+9520,0,skirt not shorts wrong type
+9521,0,suede skirt not shorts
+9522,0,skirt not shorts not suede
+9523,0,skirt not shorts
+9524,0,faux leather skirt not shorts
+9525,0,coffee cup set not tea
+9526,0,keychain not tea
+9527,0,canvas art not tea
+9528,0,paint kit not tea
+9529,0,canvas art not tea
+9530,1,flying tiger board game
+9531,1,flying tiger board game
+9532,1,flying tiger board game
+9533,1,flying tiger board game
+9534,1,flying tiger board game
+9535,1,garden soil product
+9536,1,garden soil product
+9537,1,garden soil product
+9538,1,garden soil product
+9539,1,garden soil product
+9540,1,avon concealer match
+9541,1,avon concealer match
+9542,1,avon concealer match
+9543,1,avon concealer match
+9544,1,avon concealer match
+9545,1,solgar biotin exact match
+9546,1,solgar biotin exact match
+9547,1,solgar biotin exact match
+9548,0,wrong brand nutraxin not solgar
+9549,0,b-complex not biotin specific
+9550,1,humble co toothpaste exact match
+9551,0,wrong brand arm&hammer
+9552,0,wrong brand himalaya
+9553,0,wrong brand prokudent
+9554,0,wrong brand rocs
+9555,0,rug not lighting
+9556,0,rug not lighting
+9557,0,coat rack not lighting
+9558,0,shoe rack not lighting
+9559,0,rug not lighting
+9560,1,ns moda brand set match
+9561,1,ns moda brand set match
+9562,1,ns moda brand set match
+9563,0,wrong brand modabirsen
+9564,0,wrong brand modaensarbutik
+9565,1,linens brand bedspread match
+9566,1,linens brand bedspread match
+9567,1,linens brand bedspread match
+9568,1,linens brand bedspread match
+9569,1,linens brand bedspread match
+9570,1,crib with drawer match
+9571,1,crib with drawer match
+9572,1,crib with drawer match
+9573,1,crib with drawer match
+9574,1,crib with drawer match
+9575,1,karaca home bedding set match
+9576,1,karaca home bedding set match
+9577,1,karaca home bedding set match
+9578,1,karaca home bedding set match
+9579,1,karaca home bedding set match
+9580,0,mismatched product not montessori toy
+9581,0,keychain not montessori toy
+9582,0,fingerboard toy not montessori
+9583,0,musical instrument not montessori
+9584,0,decorative figure not montessori
+9585,1,doorbell match
+9586,1,doorbell match
+9587,1,doorbell match
+9588,1,doorbell match
+9589,1,doorbell match
+9590,1,new balance 1906 model match
+9591,1,new balance 1906 model match
+9592,1,new balance 1906 model match
+9593,1,new balance 1906 model match
+9594,1,new balance 1906 model match
+9595,1,yonex tennis shoe match
+9596,1,yonex tennis shoe match
+9597,1,yonex tennis shoe match
+9598,1,yonex tennis shoe match
+9599,1,yonex tennis shoe match
+9600,1,small bear decor item
+9601,0,mold tool not bear item
+9602,0,mold tool not bear item
+9603,1,mini plush bear item
+9604,0,phone case with bear print not bear item
+9605,1,trendalisse brand match
+9606,1,trendalisse brand match
+9607,1,trendalisse brand match
+9608,1,trendalisse brand match
+9609,1,trendalisse brand match
+9610,1,bosch serie 6 model match
+9611,1,bosch serie 6 model match
+9612,1,bosch serie 6 model match
+9613,0,not serie 6 model
+9614,0,not serie 6 model
+9615,0,wrong gender girl not boy
+9616,0,wrong gender girl not boy
+9617,0,wrong gender girl not boy
+9618,0,adult unisex not baby boy
+9619,0,wrong gender girl not boy
+9620,0,toy washing machine not real appliance
+9621,0,toy washing machine not real appliance
+9622,0,dishwasher not washing machine
+9623,0,refrigerator not washing machine
+9624,0,toy washing machine not real appliance
+9625,1,kiwi steam cleaner match
+9626,1,kiwi steam cleaner match
+9627,1,kiwi steam cleaner match
+9628,0,steam iron not steam cleaner
+9629,0,humidifier not steam cleaner
+9630,1,macrame runner exact match
+9631,1,macrame runner match
+9632,1,macrame runner match
+9633,1,macrame runner match
+9634,1,macrame runner match
+9635,0,puzzle depicting antiques not antique item
+9636,0,mug with antique print not antique item
+9637,0,craft paper not antique item
+9638,0,new decor object not actual antique
+9639,0,new decor object not actual antique
+9640,1,adidas response model match
+9641,1,adidas response model match
+9642,1,adidas response model match
+9643,1,adidas response model match
+9644,1,adidas response model match
+9645,1,soft-close hinge match
+9646,1,soft-close hinge match
+9647,1,soft-close hinge match
+9648,1,soft-close hinge match
+9649,1,soft-close hinge match
+9650,1,chainsaw wood cutting motor match
+9651,1,chainsaw wood cutting motor match
+9652,1,chainsaw wood cutting motor match
+9653,1,chainsaw wood cutting motor match
+9654,1,chainsaw wood cutting motor match
+9655,1,lego brand match
+9656,1,lego brand match
+9657,0,legion phone case not lego
+9658,0,legion phone case not lego
+9659,0,legion phone case not lego
+9660,1,tablecloth match
+9661,1,tablecloth match
+9662,1,tablecloth match
+9663,1,tablecloth match
+9664,1,tablecloth match
+9665,1,mini balcony set match
+9666,1,mini balcony set match
+9667,1,balcony furniture set match
+9668,0,larger set not small
+9669,1,balcony corner set match
+9670,1,countertop stand match
+9671,1,countertop stand match
+9672,1,countertop stand match
+9673,1,countertop stand match
+9674,1,countertop stand match
+9675,1,photocell lamp match
+9676,1,photocell lamp match
+9677,1,photocell lamp match
+9678,1,photocell lamp match
+9679,1,photocell lamp match
+9680,1,white kids t-shirt exact match
+9681,0,color not specified as white
+9682,0,color not specified as white
+9683,0,color not specified as white
+9684,0,light grey not white
+9685,1,lelas brand match
+9686,1,lelas brand match
+9687,1,lelas brand match
+9688,1,lelas brand match
+9689,1,lelas brand match
+9690,1,polaris casual shoe match
+9691,1,polaris casual shoe match
+9692,1,polaris casual shoe match
+9693,1,polaris casual shoe match
+9694,1,polaris casual shoe match
+9695,0,wrong brand not addax
+9696,0,wrong brand not addax
+9697,0,wrong brand not addax
+9698,0,wrong brand not addax
+9699,0,wrong brand not addax
+9700,1,tofu exact match
+9701,1,tofu exact match
+9702,1,tofu exact match
+9703,1,tofu exact match
+9704,0,corn grits not tofu
+9705,1,valet pro brand match
+9706,1,valet pro brand match
+9707,1,valet pro brand match
+9708,1,valet pro brand match
+9709,1,valet pro brand match
+9710,1,ataturk portrait match
+9711,1,ataturk portrait match
+9712,1,ataturk portrait match
+9713,1,ataturk portrait match
+9714,1,ataturk portrait match
+9715,0,crew neck not fisherman collar
+9716,1,half fisherman collar match
+9717,0,crew neck not fisherman collar
+9718,0,crew neck not fisherman collar
+9719,0,crew neck not fisherman collar
+9720,1,proposal bouquet exact match
+9721,1,isteme flower gift exact title match
+9722,1,proposal flower exact match
+9723,1,isteme flower gift exact title match
+9724,1,isteme flower gift exact title match
+9725,1,coffee colored boot match
+9726,1,coffee colored boot match
+9727,1,coffee colored boot match
+9728,1,brown boot matches coffee color
+9729,1,coffee colored boot match
+9730,1,skechers kids shoe match
+9731,1,skechers kids shoe match
+9732,1,skechers kids shoe match
+9733,1,skechers kids shoe match
+9734,1,skechers kids shoe match
+9735,1,kraft box match
+9736,1,kraft box match
+9737,1,kraft box match
+9738,1,kraft colored box match
+9739,1,kraft box match
+9740,1,5-piece bathroom set match
+9741,1,5-piece bathroom set match
+9742,1,5-piece bathroom set match
+9743,1,5-piece bathroom set match
+9744,1,5-piece bathroom set match
+9745,1,satin blackout curtain match
+9746,1,satin style blackout curtain match
+9747,1,satin textured curtain match
+9748,1,satin blackout curtain match
+9749,1,satin curtain match
+9750,1,vino product line match
+9751,1,vino product line match
+9752,1,vino product line match
+9753,1,vino product line match
+9754,1,vino product line match
+9755,1,sketchbook match
+9756,1,sketchbook match
+9757,1,sketchbook match
+9758,1,sketchbook match
+9759,1,sketchbook match
+9760,1,baby bouncer match
+9761,1,baby bouncer match
+9762,1,baby bouncer match
+9763,1,baby bouncer match
+9764,1,baby bouncer match
+9765,1,shoehorn match
+9766,1,shoehorn match
+9767,1,shoehorn match
+9768,1,shoehorn match
+9769,1,shoehorn match
+9770,1,karaca vintage rose line match
+9771,1,karaca vintage rose line match
+9772,0,wrong brand and line
+9773,0,wrong brand and line
+9774,0,karaca but different product line
+9775,1,ayran pitcher match
+9776,1,ayran pitcher match
+9777,1,ayran pitcher match
+9778,1,ayran pitcher match
+9779,1,ayran pitcher match
+9780,1,sewing needle box match
+9781,1,needle box match
+9782,0,fish hooks not needle box
+9783,0,sewing kit not needle box
+9784,0,brooch not needle box
+9785,1,alveus oven brand match
+9786,1,alveus oven brand match
+9787,1,alveus oven brand match
+9788,1,alveus oven brand match
+9789,1,alveus oven brand match
+9790,1,rearview mirror match
+9791,1,rearview mirror match
+9792,1,rearview mirror match
+9793,1,rearview mirror match
+9794,1,rearview mirror match
+9795,1,tommy hilfiger bag match
+9796,1,tommy hilfiger bag match
+9797,1,tommy hilfiger bag match
+9798,1,tommy hilfiger bag match
+9799,1,tommy hilfiger bag match

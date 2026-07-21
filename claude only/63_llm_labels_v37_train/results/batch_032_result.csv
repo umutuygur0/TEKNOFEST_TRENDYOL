@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11200,1,matches eşofman altı category
+11201,1,cotton jogger sweatpants match
+11202,1,exact tendre jasmin edp match
+11203,1,tendre jasmin edp match
+11204,0,different fragrance line comme une evidence
+11205,0,different brand not yves rocher
+11206,0,different product jasmine tea cologne
+11207,1,permanent makeup pigment
+11208,1,permanent makeup pigment
+11209,1,permanent makeup dipliner pigment
+11210,1,permanent makeup kit set
+11211,0,long-lasting foundation not permanent makeup
+11212,1,men's regular shirt match
+11213,1,men's regular fit shirt
+11214,1,men's regular fit shirt
+11215,1,men's regular fit shirt
+11216,1,men's regular fit shirt
+11217,1,children's toy match
+11218,1,children's toy match
+11219,1,children's toy match
+11220,1,children's toy match
+11221,1,children's toy match
+11222,1,personalized name wallet
+11223,1,personalized name wallet
+11224,1,personalized name wallet
+11225,1,personalized name card wallet
+11226,1,personalized wallet set
+11227,1,aquarium heater match
+11228,1,aquarium heater match
+11229,1,aquarium heater match
+11230,1,aquarium heater match
+11231,1,aquarium heater match
+11232,1,macrame bag cord match
+11233,1,macrame bag cord match
+11234,1,macrame bag cord match
+11235,1,macrame bag cord match
+11236,1,macrame bag cord match
+11237,1,claderm brand mask
+11238,1,claderm brand mask
+11239,1,claderm brand mask
+11240,1,claderm brand mask
+11241,1,claderm brand mask
+11242,1,artificial ivy fence match
+11243,1,artificial ivy fence match
+11244,1,artificial ivy fence match
+11245,1,artificial ivy fence match
+11246,1,artificial ivy fence match
+11247,1,floor covering match
+11248,1,floor covering panel
+11249,1,floor covering panel
+11250,1,floor covering panel
+11251,1,floor covering match
+11252,1,hair styling set match
+11253,1,hair styling set match
+11254,1,hair styling set match
+11255,1,hair styling set match
+11256,1,hair styling set match
+11257,1,security camera system
+11258,1,security camera system
+11259,1,security camera system
+11260,1,security recording body cam
+11261,1,security camera system
+11262,1,GoT book set
+11263,1,GoT themed t-shirt
+11264,1,GoT themed mug
+11265,1,GoT themed poster
+11266,1,GoT themed figure
+11267,1,GAP sweatpants match
+11268,1,GAP sweatpants match
+11269,1,GAP sweatpants match
+11270,1,GAP sweatpants match
+11271,1,GAP sweatpants match
+11272,1,Reflex wet cat food
+11273,1,Reflex wet cat food
+11274,1,Reflex wet canned food
+11275,1,Reflex wet cat food
+11276,1,Reflex wet canned cat food
+11277,1,twill silk scarf match
+11278,1,twill silk scarf match
+11279,1,twill silk scarf match
+11280,1,twill silk scarf match
+11281,1,twill silk scarf match
+11282,1,brand gold bracelet match
+11283,1,brand gold bracelet match
+11284,1,brand gold bracelet match
+11285,1,brand gold bracelet match
+11286,1,brand gold bracelet match
+11287,1,white gaming mouse match
+11288,1,white gaming mouse match
+11289,1,white gaming mouse match
+11290,1,white gaming mouse match
+11291,1,white gaming mouse match
+11292,1,sleep buddy plush toy
+11293,1,sleep buddy plush toy
+11294,1,sleep buddy plush toy
+11295,1,sleep buddy plush toy title match
+11296,1,sleep buddy plush toy
+11297,1,hair clip set match
+11298,1,hair clip set match
+11299,1,hair clip set match
+11300,1,hair clip set match
+11301,1,hair clip set match
+11302,1,xiaomi vacuum brush match
+11303,1,xiaomi vacuum brush match
+11304,1,xiaomi vacuum brush match
+11305,1,xiaomi vacuum brush match
+11306,1,xiaomi vacuum brush match
+11307,1,kayra brand tunic
+11308,1,kayra brand tunic
+11309,0,two-piece set not tunic
+11310,0,trench coat not tunic
+11311,1,kitchen chair match
+11312,1,kitchen chair match
+11313,1,kitchen chair match
+11314,1,kitchen chair match
+11315,1,kitchen chair match
+11316,1,makeup brush accessory
+11317,1,makeup brush accessory
+11318,1,makeup accessory bag
+11319,1,makeup brush accessory
+11320,1,makeup brush accessory
+11321,1,Braun Silk-epil 3 match
+11322,1,Braun Silk-epil 3 match
+11323,1,Braun Silk Expert Pro 3
+11324,1,Braun Silk Expert Pro 3
+11325,1,Braun Series 3 shaver
+11326,1,exact product match
+11327,1,bundle includes exact product
+11328,0,different Ravla product kahvaltılık
+11329,0,different Ravla product altın karışım
+11330,0,different Ravla product honey mix
+11331,1,goodyear tire match
+11332,1,goodyear tire match
+11333,1,goodyear tire match
+11334,1,goodyear tire match
+11335,1,goodyear tire match
+11336,1,cordless vacuum match
+11337,1,cordless vacuum match
+11338,1,cordless vacuum match
+11339,1,cordless vacuum match
+11340,1,cordless vacuum match
+11341,1,human body book
+11342,1,human body educational book
+11343,1,human body themed book
+11344,1,human body themed book
+11345,1,human body anatomy play set
+11346,1,Xiaomi Watch 5 exact match
+11347,1,Xiaomi Watch 5 exact match
+11348,0,Huawei Watch GT5 not Watch 5
+11349,1,Huawei Watch 5 exact match
+11350,1,Samsung Galaxy Watch5 match
+11351,1,Noki folder match
+11352,1,Noki folder match
+11353,1,Noki folder match
+11354,1,Noki folder match
+11355,1,Noki folder match
+11356,1,makeup set match
+11357,1,makeup set match
+11358,1,makeup set match
+11359,1,makeup set match
+11360,1,makeup set match
+11361,0,video game not a toy
+11362,0,tote bag not a toy
+11363,0,mug not a toy
+11364,0,different franchise zombicide
+11365,0,mug not a toy
+11366,1,gel food coloring match
+11367,1,gel food coloring match
+11368,1,gel food coloring match
+11369,1,gel food coloring match
+11370,1,gel food coloring match
+11371,1,large wooden bowl match
+11372,0,small 9cm bowl not large
+11373,1,large wooden serving bowl
+11374,1,large wooden bowl match
+11375,1,wooden multipurpose bowl
+11376,1,3rd grade book match
+11377,1,3rd grade book match
+11378,0,attribute says 5th grade
+11379,1,3rd grade book match
+11380,1,3rd grade book match
+11381,1,fur bag match
+11382,1,fur bag match
+11383,1,fur bag match
+11384,1,fur bag match
+11385,1,fur bag match
+11386,1,GM-Design car seat cover
+11387,1,GM-Design car seat cover
+11388,1,GM-Design car seat cover
+11389,1,GM-Design car seat cover
+11390,1,GM-Design car seat cover
+11391,1,shoe polish match
+11392,1,shoe polish sponge match
+11393,1,shoe polish sponge match
+11394,1,shoe care set with polish
+11395,1,shoe care set with polish
+11396,1,PC headset match
+11397,1,PC headset match
+11398,1,PC headset match
+11399,1,PC gaming headset match
+11400,1,PC gaming headset match
+11401,1,glass stained film match
+11402,1,glass stained film match
+11403,1,glass stained film match
+11404,1,glass stained film match
+11405,1,glass stained film match
+11406,1,chandelier match
+11407,1,chandelier match
+11408,1,chandelier match
+11409,1,chandelier match
+11410,1,chandelier match
+11411,1,body scrub match
+11412,1,body scrub match
+11413,0,hand cream not body scrub
+11414,1,body scrub match
+11415,1,body scrub match
+11416,0,collection of 1-3 not part 4
+11417,0,uncharted 2 not 4
+11418,0,collection of 1-3 not part 4
+11419,1,uncharted 4 exact match
+11420,0,uncharted 2 not 4
+11421,1,Gant t-shirt match
+11422,1,Gant t-shirt match
+11423,0,sweatshirt not t-shirt
+11424,0,sweatshirt not t-shirt
+11425,0,sweatshirt not t-shirt
+11426,1,Bosch cordless upright vacuum
+11427,1,Bosch cordless upright vacuum
+11428,1,Bosch cordless vacuum
+11429,1,Bosch cordless upright vacuum
+11430,1,Bosch cordless upright vacuum
+11431,1,Anker in-ear earbuds
+11432,0,over-ear not in-ear
+11433,1,Anker in-ear earbuds
+11434,0,over-ear not in-ear
+11435,1,Anker in-ear earbuds
+11436,1,pizza lahmacun maker match
+11437,1,pizza lahmacun maker match
+11438,1,pizza lahmacun maker match
+11439,1,pizza lahmacun maker match
+11440,1,pizza lahmacun maker match
+11441,1,TH women's jean match
+11442,1,TH women's jean match
+11443,1,TH women's denim match
+11444,1,TH women's jean match
+11445,1,TH women's denim match
+11446,0,unrelated pants product
+11447,0,unrelated watch product
+11448,0,unrelated boat motor
+11449,0,unrelated vitamin supplement
+11450,0,unrelated keychain product
+11451,1,aesthetic standing mirror
+11452,1,influencer standing mirror match
+11453,1,aesthetic standing mirror
+11454,1,aesthetic standing mirror
+11455,1,aesthetic standing mirror
+11456,1,middle school reading set
+11457,1,middle school reading set
+11458,0,elementary grades not middle school
+11459,0,1st grade not middle school
+11460,0,3rd grade not middle school
+11461,1,bathroom faucet match
+11462,1,bathroom faucet set match
+11463,1,bathroom faucet set match
+11464,1,bathroom faucet set match
+11465,1,bathroom faucet set match
+11466,1,youth room bedding set
+11467,1,youth room bedding set
+11468,1,youth room bedding set
+11469,1,youth room bedding set
+11470,1,youth room bedding set
+11471,1,Lacoste men's sneaker
+11472,0,women's sneaker not men's
+11473,1,Lacoste men's sneaker
+11474,1,Lacoste men's sneaker
+11475,1,Lacoste men's sneaker
+11476,1,Canon G7X exact match
+11477,1,Canon G7X exact match
+11478,1,Canon G7X exact match
+11479,1,Canon G7X exact match
+11480,0,printer not camera
+11481,1,English Home cutlery set
+11482,1,English Home cutlery set
+11483,1,English Home cutlery set
+11484,0,dessert spoon only not full set
+11485,0,different brand arthur price
+11486,1,AirPods Pro case match
+11487,1,AirPods Pro case match
+11488,1,AirPods Pro case match
+11489,1,AirPods Pro case match
+11490,1,AirPods Pro 3 case match
+11491,1,Bosch built-in stove
+11492,1,Bosch built-in stove
+11493,1,Bosch built-in cooktop
+11494,1,Bosch built-in stove
+11495,1,Bosch built-in stove
+11496,1,Arzum blender set
+11497,1,Arzum blender set
+11498,1,Arzum blender set
+11499,1,Arzum blender set
+11500,1,Arzum blender set
+11501,1,hand bag match
+11502,1,hand and shoulder bag
+11503,1,hand bag match
+11504,1,hand bag match
+11505,1,hand and shoulder bag
+11506,1,scented steam diffuser match
+11507,1,scented steam diffuser match
+11508,1,scented steam diffuser match
+11509,1,scented steam diffuser match
+11510,1,scented steam diffuser match
+11511,1,Styling Park evening dress
+11512,1,Styling Park dress match
+11513,0,different brand estilo wedding dress
+11514,0,different brand ottawe
+11515,0,different brand pullimm
+11516,1,car neck pillow match
+11517,1,car neck pillow match
+11518,1,car neck pillow match
+11519,1,car neck pillow match
+11520,1,car seat neck pillow match
+11521,1,Wet n Wild lipstick match
+11522,1,Wet n Wild lipstick match
+11523,0,foundation not lipstick
+11524,0,foundation not lipstick
+11525,0,foundation not lipstick
+11526,1,openable pendant necklace
+11527,1,openable pendant necklace
+11528,1,openable pendant necklace
+11529,1,openable heart pendant
+11530,1,openable pendant necklace
+11531,1,makeup vanity chair
+11532,1,makeup vanity chair
+11533,1,makeup chair match
+11534,1,makeup chair title match
+11535,1,makeup chair title match
+11536,1,navy blue eyeliner match
+11537,1,navy blue eyeliner match
+11538,0,blue not navy shade
+11539,0,blue not navy shade
+11540,0,toner not eyeliner category
+11541,1,Cerruti 1881 watch match
+11542,1,Cerruti 1881 watch match
+11543,1,Cerruti 1881 watch match
+11544,1,Cerruti 1881 watch match
+11545,1,Cerruti 1881 watch match
+11546,1,balcony curtain match
+11547,1,balcony curtain match
+11548,1,balcony curtain match
+11549,1,balcony curtain match

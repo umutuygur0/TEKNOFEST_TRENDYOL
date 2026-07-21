@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11550,1,Dalin brand baby care set matches query
+11551,1,Dalin brand baby care set matches query
+11552,1,Dalin brand baby care set matches query
+11553,1,Dalin brand baby care set matches query
+11554,1,Hazelnut spread matches generic query
+11555,1,Hazelnut spread matches generic query
+11556,1,Hazelnut spread matches generic query
+11557,1,Hazelnut cream/spread matches generic query
+11558,1,Title explicitly hazelnut spread despite different category label
+11559,1,Artificial banana tree matches query
+11560,1,Artificial banana tree matches query
+11561,1,Artificial banana tree matches query
+11562,1,Artificial banana tree matches query
+11563,1,Artificial banana tree matches query
+11564,1,Swan-themed necklace matches query
+11565,1,Swan-themed necklace matches query
+11566,1,Swan-themed steel necklace matches query
+11567,1,Swan-themed steel necklace matches query
+11568,0,Steel swan jewelry set, not specifically a necklace
+11569,1,White eyeliner pencil matches query
+11570,1,White eyeliner pencil matches query
+11571,1,White eyeliner pencil matches query
+11572,1,4-piece set explicitly includes a white eyeliner pencil
+11573,1,White smoke eyeliner matches query
+11574,1,Anker Soundcore headphone, generic brand query
+11575,1,Anker Soundcore headphone, generic brand query
+11576,1,Anker Soundcore headphone, generic brand query
+11577,1,Anker Soundcore headphone, generic brand query
+11578,1,Anker Soundcore headphone, generic brand query
+11579,1,Giorgio Armani brand product, generic brand query
+11580,1,Giorgio Armani brand product, generic brand query
+11581,1,Giorgio Armani brand product, generic brand query
+11582,1,Giorgio Armani brand product, generic brand query
+11583,1,Giorgio Armani brand product, generic brand query
+11584,1,Dog vitamin matches query
+11585,1,Dog biotin/collagen supplement fits vitamin intent
+11586,1,Dog vitamin/hair supplement matches query
+11587,1,Dog vitamin matches query
+11588,1,Dog vitamin matches query
+11589,1,iPhone 11 compatible camera lens protector matches
+11590,1,iPhone 11 compatible camera lens protector matches
+11591,1,iPhone 11 compatible camera lens protector matches
+11592,1,Compatible with iPhone 11 among listed models
+11593,1,Compatible with iPhone 11 among listed models
+11594,1,Black TV unit matches query
+11595,1,Black/silver TV unit matches query
+11596,0,Product is white despite name, wrong color for black TV unit request
+11597,1,Black TV unit matches query
+11598,1,Black TV unit matches query
+11599,1,Braun Silk-expert Pro5 IPL device exactly matches
+11600,0,Silk-epil 5 epilator, different model line than Pro 5
+11601,0,Series 5b1000s shaver, wrong product/model
+11602,0,Series 5 beard trimmer, wrong product/model
+11603,1,Braun IPL PL5137 likely same Pro5 IPL family
+11604,1,Güvenal bathrobe set matches query
+11605,1,Güvenal bathrobe set matches query
+11606,1,Güvenal bathrobe set matches query
+11607,1,Güvenal bathrobe set matches query
+11608,1,Güvenal bathrobe set matches query
+11609,1,Storage cabinet matches query
+11610,1,Storage cabinet matches query
+11611,1,Storage cabinet matches query
+11612,1,Storage cabinet matches query
+11613,1,Multi-purpose plastic cabinet matches query
+11614,1,Teknetstore branded tablet case matches
+11615,1,Teknetstore branded tablet case matches
+11616,1,Teknetstore branded tablet case matches
+11617,0,Wrong brand, case is by Undeplus not Teknetstore
+11618,1,Teknetstore branded tablet case matches
+11619,1,Apple iPhone matches generic query
+11620,1,Apple iPhone matches generic query
+11621,1,Apple iPhone matches generic query
+11622,1,Apple iPhone matches generic query
+11623,1,Apple iPhone matches generic query
+11624,1,Case compatible with Huawei tablet matches query
+11625,0,This is the Huawei tablet itself, not a case
+11626,1,Case compatible with Huawei tablet matches query
+11627,1,Case compatible with Huawei tablet matches query
+11628,1,Case compatible with Huawei tablet matches query
+11629,1,Car fuse box cover matches query
+11630,1,Fuse hiding/cover box matches query intent
+11631,1,Fuse box cover matches query intent
+11632,1,Fuse box matches query (same domain)
+11633,1,Fuse box matches query (same domain)
+11634,1,Monstera deliciosa (deve tabanı) plant matches query
+11635,1,Monstera deliciosa (deve tabanı) plant matches query
+11636,1,Monstera deliciosa (deve tabanı) plant matches query
+11637,1,Monstera deliciosa (deve tabanı) plant matches query
+11638,0,Artificial plant, likely unwanted variant vs real plant intent
+11639,1,Scissors match generic query
+11640,1,Scissors match generic query
+11641,1,Scissors match generic query
+11642,1,Scissors match generic query
+11643,1,Scissors match generic query
+11644,1,Gaming desktop PC matches generic query
+11645,1,Gaming desktop PC matches generic query
+11646,1,Gaming desktop PC matches generic query
+11647,1,Gaming desktop PC matches generic query
+11648,1,Gaming desktop PC matches generic query
+11649,1,Face toner matches query
+11650,1,Face toner matches query
+11651,1,Face toner matches query
+11652,1,Face toner matches query
+11653,1,Face toner matches query
+11654,1,Hijab surgical bonnet matches query
+11655,1,Title explicitly hijab surgical bonnet
+11656,1,Hijab surgical bonnet matches query
+11657,1,Hijab surgical bonnet matches query
+11658,1,Hijab surgical bonnet matches query
+11659,1,Floral wall sticker matches query
+11660,1,Floral wall sticker matches query
+11661,1,Floral wall sticker matches query
+11662,1,Floral wall sticker matches query
+11663,1,Floral wall sticker matches query
+11664,0,Wrong brand, Bianchi not Arnica
+11665,0,Wrong brand, Geotech not Arnica
+11666,0,Wrong brand, Sarissa not Arnica
+11667,0,Wrong brand, Belderia not Arnica
+11668,0,Wrong brand, Belderia not Arnica
+11669,1,Electric grill matches query
+11670,1,Electric grill matches query
+11671,1,Electric grill matches query
+11672,1,Electric cast iron grill matches query
+11673,1,Electric grill matches query
+11674,1,Beeswax matches query
+11675,1,Beeswax matches query
+11676,1,Beeswax matches query
+11677,1,Beeswax pieces match query
+11678,1,Beeswax matches query
+11679,1,Odor eliminator/air purifier matches query
+11680,1,Odor eliminator/air purifier matches query
+11681,1,Odor eliminator matches query
+11682,1,Odor eliminator/air purifier matches query
+11683,1,Odor eliminator/air purifier matches query
+11684,1,Stainless steel strainer matches query
+11685,1,Stainless steel strainer matches query
+11686,1,Stainless steel strainer matches query
+11687,1,Stainless steel strainer matches query
+11688,1,Stainless steel strainer matches query
+11689,1,Golden Rose makeup base/primer exactly matches
+11690,0,Golden Rose brand but powder, not a makeup base
+11691,0,Wrong brand, Dermacol not Golden Rose
+11692,0,Golden Rose brand but powder, not a makeup base
+11693,0,Wrong brand, Beaulis not Golden Rose
+11694,1,Moisturizing face cream matches query
+11695,1,Moisturizing face cream matches query
+11696,1,Moisturizing face cream matches query
+11697,1,Moisturizing face cream matches query
+11698,1,Moisturizer set matches query
+11699,1,Imannoor brand shawl matches query
+11700,1,Imannoor brand shawl matches query
+11701,1,Imannoor brand shawl matches query
+11702,1,Imannoor brand shawl matches query
+11703,1,Imannoor brand shawl matches query
+11704,1,Reed diffuser room scent matches query
+11705,1,Reed diffuser room scent matches query
+11706,1,Reed diffuser room scent matches query
+11707,1,Reed diffuser room scent matches query
+11708,1,Reed diffuser room scent matches query
+11709,1,Dumbbell/weight set matches query
+11710,1,Dumbbell/weight set matches query
+11711,1,Dumbbell/weight set matches query
+11712,1,Dumbbell/weight set matches query
+11713,1,Dumbbell/weight set matches query
+11714,1,Davines brand hair dye matches query
+11715,1,Davines brand hair dye matches query
+11716,1,Davines brand hair dye matches query
+11717,1,Davines brand hair dye matches query
+11718,1,Davines brand hair dye matches query
+11719,1,Story book set matches query
+11720,1,Story book set matches query
+11721,1,Story book set matches query
+11722,1,Story book set matches query
+11723,1,Story book set matches query
+11724,1,Paragraph question bank matches query
+11725,1,Paragraph question bank matches query
+11726,1,Paragraph question bank matches query
+11727,1,Paragraph question bank matches query
+11728,1,Paragraph question bank matches query
+11729,1,Clio Kill Cover concealer matches query
+11730,1,Clio Kill Cover concealer matches query
+11731,1,Clio Kill Cover concealer matches query
+11732,1,Clio Kill Cover concealer matches query
+11733,0,Clio cushion foundation, not a concealer
+11734,1,Çeyiz Diyarı double bedspread matches query
+11735,1,Çeyiz Diyarı double bedspread matches query
+11736,1,Çeyiz Diyarı double bedspread matches query
+11737,1,Çeyiz Diyarı double bedspread matches query
+11738,1,Title explicitly double bedspread from same brand
+11739,1,Kiwi brand toaster matches query
+11740,1,Kiwi brand toaster/grill matches query
+11741,0,Wrong brand, King not Kiwi
+11742,1,Kiwi brand waffle maker includes toast plate
+11743,0,Kiwi brand but pure waffle maker, no toast function
+11744,1,Long chandelier matches query
+11745,1,Long chandelier matches query
+11746,1,Long chandelier matches query
+11747,1,Long chandelier matches query
+11748,1,Long chandelier matches query
+11749,1,Electrolux vertical vacuum matches query
+11750,1,Electrolux vertical vacuum matches query
+11751,0,Electrolux bagless vacuum, not specifically vertical/stick type
+11752,0,Electrolux bagless vacuum, not specifically vertical/stick type
+11753,1,Electrolux vertical vacuum matches query
+11754,1,Title explicitly men's walking/running shoe from Adidas
+11755,0,Unisex/child walking shoe, not men's as specified
+11756,0,Unisex/child sneaker, not men's walking shoe as specified
+11757,1,Adidas men's walking shoe matches query
+11758,1,Adidas men's walking shoe matches query
+11759,1,Calvin Klein sneaker matches generic query
+11760,1,Calvin Klein sneaker matches generic query
+11761,1,Calvin Klein sneaker matches generic query
+11762,1,Calvin Klein sneaker matches generic query
+11763,1,Calvin Klein sneaker matches generic query
+11764,1,Apple iPad matches generic query
+11765,1,Apple iPad matches generic query
+11766,1,Apple iPad matches generic query
+11767,1,Apple iPad matches generic query
+11768,1,Apple iPad matches generic query
+11769,1,Belted/fitted waist jacket matches query
+11770,1,Belted/fitted waist jacket matches query
+11771,1,Belted/fitted waist jacket matches query
+11772,1,Belted/fitted waist jacket matches query
+11773,1,Fitted waist blazer matches query
+11774,1,White women's shoulder bag matches query
+11775,1,White women's shoulder bag matches query
+11776,1,White women's shoulder bag matches query
+11777,1,White women's shoulder bag matches query
+11778,1,White women's shoulder bag matches query
+11779,1,Homepack brand wall art matches query
+11780,1,Homepack brand wall art matches query
+11781,1,Homepack brand wall art matches query
+11782,1,Homepack brand wall art matches query
+11783,1,Homepack brand wall art matches query
+11784,1,US Polo Assn women's dress matches query
+11785,1,US Polo Assn women's dress matches query
+11786,1,US Polo Assn women's dress matches query
+11787,1,US Polo Assn women's dress matches query
+11788,1,US Polo Assn women's dress matches query
+11789,1,Type-C to Type-C cable matches query
+11790,1,Type-C to Type-C cable matches query
+11791,1,Type-C to Type-C cable matches query
+11792,1,Type-C to Type-C cable matches query
+11793,0,USB to Type-C adapter/converter, not a cable
+11794,0,Acoustic-electric guitar, not a true electric guitar set
+11795,1,Electric guitar set with amp matches query
+11796,0,Primarily an amplifier, not a guitar set
+11797,1,Electric guitar full set matches query
+11798,1,Title explicitly electric guitar set
+11799,1,WMF knife set matches query
+11800,0,WMF kitchen scissors, not a knife set
+11801,0,WMF single knife, not a set
+11802,0,WMF single knife, not a set
+11803,0,WMF serving spoon, not a knife set
+11804,1,Samsonite brand product, generic brand query
+11805,1,Samsonite brand product, generic brand query
+11806,1,Samsonite brand product, generic brand query
+11807,1,Samsonite brand product, generic brand query
+11808,1,Samsonite brand product, generic brand query
+11809,1,Dr. Pedical adult diaper matches query
+11810,1,Dr. Pedical adult diaper matches query
+11811,0,Wrong brand, Dr.Comfort not Dr. Pedical
+11812,0,Wrong brand, Dermaped not Dr. Pedical
+11813,0,Wrong brand, Dr.Comfort not Dr. Pedical
+11814,1,Farbateks-style tulle curtain matches query
+11815,1,Farbateks brand tulle curtain matches query
+11816,1,Farbateks-style tulle curtain matches query
+11817,1,Farbateks-style tulle curtain matches query
+11818,1,Farbateks brand tulle curtain matches query
+11819,1,360 degree rotating organizer matches query
+11820,1,360 degree rotating organizer matches query
+11821,1,360 degree rotating organizer matches query
+11822,1,360 degree rotating organizer matches query
+11823,1,360 degree rotating organizer matches query
+11824,1,Kaşbaşı Home brand product, generic brand query
+11825,1,Kaşbaşı Home brand product, generic brand query
+11826,1,Kaşbaşı Home brand product, generic brand query
+11827,1,Kaşbaşı Home brand product, generic brand query
+11828,0,Wrong brand, Berev not Kaşbaşı Home
+11829,1,Modal fabric sweatshirt matches query
+11830,1,Modal fabric sweatshirt matches query
+11831,1,Modal fabric sweatshirt matches query
+11832,1,Modal fabric sweatshirt matches query
+11833,1,Modal fabric sweatshirt matches query
+11834,1,Domol surface cleaner matches query
+11835,1,Domol surface cleaner matches query
+11836,1,Domol surface cleaner matches query
+11837,1,Domol surface cleaner matches query
+11838,1,Domol brand oven/grill surface cleaner matches
+11839,1,Plastic dustpan/broom matches query
+11840,1,Plastic dustpan/broom matches query
+11841,1,Plastic dustpan/broom matches query
+11842,0,Scrub tool (gırgır), not a broom/dustpan
+11843,1,Plastic dustpan/broom matches query
+11844,1,Phone repair kit matches query
+11845,1,Phone/tablet repair kit matches query
+11846,1,Phone repair screwdriver kit matches query
+11847,0,Primarily a replacement screen, repair kit is only a bonus
+11848,1,Precision screwdriver repair kit matches query
+11849,1,Asus ROG Strix gaming laptop matches query
+11850,1,Asus ROG Strix gaming laptop matches query
+11851,1,Asus ROG Strix gaming laptop matches query
+11852,1,Asus ROG Strix gaming laptop matches query
+11853,1,Asus ROG Strix Scar gaming laptop matches query
+11854,1,Amber bracelet matches query
+11855,0,Natural stone bracelet but not amber specifically
+11856,1,Amber bracelet matches query
+11857,0,Agate stone bracelet, not amber
+11858,0,Prayer beads with jet stone, not an amber bracelet
+11859,1,Men's brown sneaker matches query
+11860,1,Men's brown sneaker matches query
+11861,1,Men's brown sneaker matches query
+11862,1,Men's brown sneaker matches query
+11863,1,Men's brown sneaker matches query
+11864,1,Manual chopper matches query
+11865,1,Manual chopper matches query
+11866,1,Manual chopper matches query
+11867,1,Manual chopper matches query
+11868,1,Manual chopper matches query
+11869,1,Bonacure shampoo matches query
+11870,1,Bonacure shampoo matches query
+11871,1,Bonacure shampoo matches query
+11872,1,Bonacure shampoo matches query
+11873,0,Bonacure hair mask/treatment, not shampoo
+11874,1,Resistance band matches query
+11875,1,Resistance band matches query
+11876,1,Resistance band matches query
+11877,1,Resistance band matches query
+11878,1,Resistance band matches query
+11879,1,Washing machine cleaner matches query
+11880,1,Washing machine cleaner matches query
+11881,1,Washing machine cleaner matches query
+11882,1,Washing machine cleaner matches query
+11883,1,Washing machine cleaner matches query
+11884,1,Teen girl's shoulder bag matches query
+11885,1,Teen girl's bag matches query
+11886,1,Teen girl's bag matches query
+11887,1,Teen girl's bag matches query
+11888,0,Child's bag (age group çocuk), not teen as specified
+11889,1,Spider-Man figure matches query
+11890,1,Spider-Man figure matches query
+11891,1,Spider-Man figure matches query
+11892,1,Spider-Man figure matches query
+11893,1,Spider-Man figure matches query
+11894,1,Sucuk (sausage) matches query
+11895,1,Sucuk (sausage) matches query
+11896,1,Sucuk (sausage) matches query
+11897,1,Sucuk (sausage) matches query
+11898,1,Sucuk (sausage) matches query
+11899,1,Girl's leggings set matches query

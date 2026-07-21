@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9800,1,büyük beden şişme yelek kadın kapüşonlu eşleşiyor
+9801,1,aynı ürün tipi ve marka eşleşiyor
+9802,1,aynı ürün tipi ve marka eşleşiyor
+9803,1,aynı ürün tipi ve marka eşleşiyor
+9804,1,UCB omuz çantası marka ve kategori eşleşiyor
+9805,1,UCB omuz çantası eşleşiyor
+9806,1,UCB kategori omuz çantası eşleşiyor
+9807,1,UCB kategori omuz çantası eşleşiyor
+9808,1,UCB omuz çantası eşleşiyor
+9809,1,playstation genel sorgu tüm PS ürünleri uygun
+9810,1,playstation genel sorgu PS3 de uygun
+9811,1,playstation genel sorgu uygun
+9812,1,playstation genel sorgu uygun
+9813,1,playstation genel sorgu uygun
+9814,1,ayhanhome hurç marka ve kategori eşleşiyor
+9815,1,ayhanhome hurç eşleşiyor
+9816,1,ayhanhome hurç eşleşiyor
+9817,1,ayhanhome hurç eşleşiyor
+9818,1,ayhanhome hurç eşleşiyor
+9819,1,mikrofiber havlu eşleşiyor
+9820,1,mikrofiber havlu eşleşiyor
+9821,1,mikrofiber havlu eşleşiyor
+9822,1,mikrofiber havlu eşleşiyor
+9823,1,mikrofiber havlu eşleşiyor
+9824,0,60 lt istenen 30 lt ile uyuşmuyor
+9825,1,30 litre çöp kovası tam eşleşiyor
+9826,0,25 litre farklı hacim ve kategori çöp torbası
+9827,0,60l/36l farklı hacim
+9828,0,2 litre çok küçük farklı hacim
+9829,1,eastpak marka sorgusu her ürün uygun
+9830,1,eastpak marka eşleşiyor
+9831,1,eastpak marka eşleşiyor
+9832,1,eastpak marka eşleşiyor
+9833,1,eastpak marka eşleşiyor
+9834,1,bargello/bergallo parfüm marka eşleşiyor
+9835,1,bargello parfüm eşleşiyor
+9836,1,bargello parfüm eşleşiyor
+9837,1,bargello parfüm eşleşiyor
+9838,1,bargello parfüm eşleşiyor
+9839,1,clinique cilt bakım eşleşiyor
+9840,1,clinique cilt bakım eşleşiyor
+9841,0,tto markası clinique değil
+9842,0,dr. clinic farklı marka
+9843,1,clinique ürünü eşleşiyor
+9844,1,tefal doğrayıcı eşleşiyor
+9845,1,tefal doğrayıcı eşleşiyor
+9846,1,tefal doğrayıcı eşleşiyor
+9847,1,tefal doğrayıcı eşleşiyor
+9848,1,tefal doğrayıcı eşleşiyor
+9849,1,bioderma yüz temizleyici aynı marka kategori
+9850,1,bioderma foaming gel eşleşiyor
+9851,1,bioderma foaming gel eşleşiyor
+9852,1,bioderma foaming gel eşleşiyor
+9853,1,bioderma foaming gel eşleşiyor
+9854,1,dekoratif kırlent kılıfı eşleşiyor
+9855,1,dekoratif kırlent kılıfı eşleşiyor
+9856,1,dekoratif kırlent kılıfı eşleşiyor
+9857,1,dekoratif kırlent eşleşiyor
+9858,1,dekoratif kırlent kılıfı eşleşiyor
+9859,1,çamaşır kurutma askısı eşleşiyor
+9860,1,çamaşır kurutma askısı eşleşiyor
+9861,1,çamaşır kurutma askısı eşleşiyor
+9862,1,çamaşır kurutma askısı eşleşiyor
+9863,1,çamaşır kurutmalık eşleşiyor
+9864,1,nyx kaş kalemi eşleşiyor
+9865,1,nyx kaş kalemi kategorisi eşleşiyor
+9866,1,nyx kaş kalemi kategorisi eşleşiyor
+9867,1,nyx kaş kalemi eşleşiyor
+9868,1,nyx kaş kalemi eşleşiyor
+9869,1,erkek çocuk mont eşleşiyor
+9870,1,erkek çocuk mont eşleşiyor
+9871,1,erkek çocuk mont eşleşiyor
+9872,1,erkek çocuk mont eşleşiyor
+9873,1,erkek çocuk mont eşleşiyor
+9874,1,puma ferrari resmi lisanslı ürün
+9875,1,scuderia ferrari f1 baskılı ürün
+9876,1,puma ferrari ürünü
+9877,1,puma ferrari ayakkabı serisi
+9878,1,puma ferrari ayakkabı serisi
+9879,1,avon kadın parfüm seti eşleşiyor
+9880,1,avon üçlü parfüm seti eşleşiyor
+9881,1,avon parfüm paketi eşleşiyor
+9882,1,avon hediye seti eşleşiyor
+9883,1,avon parfüm seti eşleşiyor
+9884,1,saç kesme makinesi eşleşiyor
+9885,1,saç kesme makinesi eşleşiyor
+9886,1,saç kesme makinesi eşleşiyor
+9887,1,saç kesim makinesi eşleşiyor
+9888,1,saç kesme makinesi eşleşiyor
+9889,1,önü açık ev terliği eşleşiyor
+9890,1,önü yanı açık ev terliği eşleşiyor
+9891,1,önü açık ev terliği eşleşiyor
+9892,1,önü yanı açık ev terliği eşleşiyor
+9893,1,önü açık ev terliği eşleşiyor
+9894,1,ekmek dolabı eşleşiyor
+9895,1,ekmeklik dolap eşleşiyor
+9896,1,ekmeklik dolap eşleşiyor
+9897,1,ekmek dolabı eşleşiyor
+9898,1,ekmek dolabı eşleşiyor
+9899,1,paşabahçe cam kek fanusu eşleşiyor
+9900,1,paşabahçe cam kek fanusu eşleşiyor
+9901,1,paşabahçe cam kek fanusu eşleşiyor
+9902,1,paşabahçe cam kek fanusu eşleşiyor
+9903,1,paşabahçe kek fanusu eşleşiyor
+9904,1,akıllı saat genel sorgu eşleşiyor
+9905,1,akıllı saat eşleşiyor
+9906,1,akıllı saat eşleşiyor
+9907,1,akıllı saat eşleşiyor
+9908,1,akıllı saat eşleşiyor
+9909,1,prenses stilinde abiye ayakkabı eşleşiyor
+9910,1,kız çocuk prenses ayakkabısı eşleşiyor
+9911,0,prenses teması yok farklı ürün
+9912,1,kız çocuk prenses ayakkabı eşleşiyor
+9913,1,prenses abiye ayakkabı eşleşiyor
+9914,1,bambu kapaklı cam baharatlık eşleşiyor
+9915,1,bambu kapaklı cam baharatlık seti eşleşiyor
+9916,1,bambu kapaklı cam baharatlık eşleşiyor
+9917,1,bambu kapaklı cam baharatlık eşleşiyor
+9918,1,bambu kapaklı cam baharatlık eşleşiyor
+9919,1,armani stronger with you eşleşiyor
+9920,1,armani stronger with you eşleşiyor
+9921,1,armani stronger with you eşleşiyor
+9922,1,armani stronger with you intensely eşleşiyor
+9923,1,emporio armani stronger with you eşleşiyor
+9924,1,bebek ayakkabı eşleşiyor
+9925,1,bebek ayakkabı eşleşiyor
+9926,1,bebek ayakkabı eşleşiyor
+9927,1,bebek ayakkabı eşleşiyor
+9928,1,bebek ayakkabı eşleşiyor
+9929,1,nostaljik mini radyo eşleşiyor
+9930,1,nostaljik mini radyo eşleşiyor
+9931,1,nostaljik gramofon radyo eşleşiyor
+9932,1,nostaljik radyo eşleşiyor
+9933,1,mini radyo kategori eşleşiyor
+9934,1,signal diş macunu eşleşiyor
+9935,1,signal diş macunu eşleşiyor
+9936,1,signal diş macunu eşleşiyor
+9937,1,signal diş macunu eşleşiyor
+9938,1,signal diş macunu eşleşiyor
+9939,1,kalça/popo maskesi eşleşiyor
+9940,0,kar maskesi bere farklı ürün
+9941,0,cerrahi yüz maskesi farklı ürün
+9942,0,popo kapatıcı giysi farklı ürün
+9943,1,buttoks vücut maskesi eşleşiyor
+9944,0,çelik pandora farklı/taklit marka
+9945,1,pandora charm eşleşiyor
+9946,0,pandora kolye ucu farklı ürün tipi
+9947,1,pandora charm eşleşiyor
+9948,0,pandora küpe farklı ürün tipi
+9949,1,çocuk çizim tableti eşleşiyor
+9950,1,çocuk çizim tableti eşleşiyor
+9951,1,çocuk çizim tableti eşleşiyor
+9952,1,çocuk çizim tableti eşleşiyor
+9953,1,çocuk çizim tableti eşleşiyor
+9954,1,dambıl seti eşleşiyor
+9955,1,dambıl seti eşleşiyor
+9956,1,dambıl seti eşleşiyor
+9957,1,dambıl seti eşleşiyor
+9958,1,dambıl seti eşleşiyor
+9959,1,projeksiyon perdesi eşleşiyor
+9960,1,projeksiyon perdesi eşleşiyor
+9961,1,projeksiyon perdesi eşleşiyor
+9962,1,projeksiyon perdesi eşleşiyor
+9963,1,projeksiyon perdesi eşleşiyor
+9964,1,avon oje eşleşiyor
+9965,1,avon oje eşleşiyor
+9966,1,avon tırnak cilası eşleşiyor
+9967,1,avon oje eşleşiyor
+9968,0,oje kurutucu sprey aksesuar farklı ürün
+9969,1,erkek siyah sweatshirt eşleşiyor
+9970,1,erkek siyah sweatshirt eşleşiyor
+9971,1,erkek siyah sweatshirt eşleşiyor
+9972,1,erkek siyah sweatshirt eşleşiyor
+9973,1,erkek siyah sweatshirt eşleşiyor
+9974,1,paşabahçe meze tabağı eşleşiyor
+9975,1,paşabahçe meze tabağı eşleşiyor
+9976,0,meyve tabağı meze tabağı değil
+9977,0,meyve kasesi meze tabağı değil
+9978,0,meyve kasesi meze tabağı değil
+9979,1,kalorifer dolabı/petek kaplama dresuar eşleşiyor
+9980,1,kalorifer petek kaplama dresuar eşleşiyor
+9981,1,kalorifer petek kaplama dresuar eşleşiyor
+9982,1,kalorifer petek kaplama dresuar eşleşiyor
+9983,1,kalorifer petek kaplama dresuar eşleşiyor
+9984,1,arora benzinli motosiklet eşleşiyor
+9985,1,arora benzinli motosiklet eşleşiyor
+9986,0,elektrikli motosiklet benzinli değil
+9987,1,arora benzinli motosiklet eşleşiyor
+9988,1,arora benzinli motosiklet eşleşiyor
+9989,1,motosiklet botu eşleşiyor
+9990,1,motosiklet botu eşleşiyor
+9991,1,motosiklet botu eşleşiyor
+9992,1,motosiklet botu eşleşiyor
+9993,1,motosiklet botu eşleşiyor
+9994,1,zühre mont eşleşiyor
+9995,1,zühre marka dış giyim eşleşiyor
+9996,1,zühre şişme mont eşleşiyor
+9997,1,zühre marka kaban eşleşiyor
+9998,1,zühre marka kaban eşleşiyor
+9999,1,kalpli açılabilir kolye eşleşiyor
+10000,1,kalpli açılabilir kolye eşleşiyor
+10001,1,kalpli açılabilir kolye eşleşiyor
+10002,1,kalpli açılabilir kolye eşleşiyor
+10003,1,kalpli açılabilir kolye eşleşiyor
+10004,1,kadın şal atkı eşleşiyor
+10005,1,kadın şal atkı eşleşiyor
+10006,1,kadın şal atkı eşleşiyor
+10007,1,kadın şal atkı eşleşiyor
+10008,1,kadın şal atkı eşleşiyor
+10009,1,puma erkek ayakkabı eşleşiyor
+10010,1,puma erkek spor ayakkabı eşleşiyor
+10011,1,puma erkek sneaker eşleşiyor
+10012,1,puma erkek sneaker eşleşiyor
+10013,1,puma erkek sneaker eşleşiyor
+10014,1,lumberjack erkek tişört eşleşiyor
+10015,1,lumberjack erkek tişört eşleşiyor
+10016,1,lumberjack erkek tişört eşleşiyor
+10017,1,lumberjack erkek tişört eşleşiyor
+10018,1,lumberjack erkek tişört eşleşiyor
+10019,1,spectrum kedi maması eşleşiyor
+10020,0,spectrum vitamin seti mama değil
+10021,1,spectrum kedi maması eşleşiyor
+10022,1,spectrum kedi maması eşleşiyor
+10023,0,pro performance farklı marka
+10024,1,domol oda kokusu eşleşiyor
+10025,1,domol oda kokusu eşleşiyor
+10026,1,domol kokulu çubuk oda kokusu eşleşiyor
+10027,0,çamaşır parfümü oda kokusu değil
+10028,0,çamaşır parfümü oda kokusu değil
+10029,1,ahşap ev dekorasyonu eşleşiyor
+10030,1,ahşap vazo ev dekorasyonu eşleşiyor
+10031,1,ahşap duvar dekoru eşleşiyor
+10032,1,ahşap duvar dekoru eşleşiyor
+10033,1,ahşap duvar dekoru eşleşiyor
+10034,1,bebek arabası organizer eşleşiyor
+10035,1,bebek arabası organizer eşleşiyor
+10036,1,bebek arabası organizer eşleşiyor
+10037,1,bebek arabası organizer eşleşiyor
+10038,1,bebek arabası organizer eşleşiyor
+10039,0,bissell markası philips değil
+10040,0,empressco markası philips değil
+10041,0,dekoranla markası philips değil
+10042,0,torima markası philips değil
+10043,0,dekoranla markası philips değil
+10044,1,ahşap koltuk ayağı eşleşiyor
+10045,1,ahşap koltuk ayağı eşleşiyor
+10046,1,ahşap desenli koltuk ayağı eşleşiyor
+10047,1,ahşap koltuk ayağı eşleşiyor
+10048,1,ahşap koltuk ayağı eşleşiyor
+10049,1,guess erkek t-shirt eşleşiyor
+10050,1,guess erkek t-shirt eşleşiyor
+10051,1,guess erkek t-shirt eşleşiyor
+10052,1,guess erkek t-shirt eşleşiyor
+10053,0,kadın çocuk ürünü erkek sorgusuna uymuyor
+10054,1,komili zeytinyağı eşleşiyor
+10055,1,komili zeytinyağı eşleşiyor
+10056,1,komili zeytinyağı eşleşiyor
+10057,1,komili zeytinyağı eşleşiyor
+10058,1,komili zeytinyağı eşleşiyor
+10059,1,çeşmeli bidon eşleşiyor
+10060,1,musluklu bidon eşleşiyor
+10061,1,musluklu bidon eşleşiyor
+10062,1,musluklu bidon eşleşiyor
+10063,1,musluklu bidon eşleşiyor
+10064,1,nike kadın eşofman altı eşleşiyor
+10065,1,nike kadın eşofman altı eşleşiyor
+10066,1,nike kadın eşofman altı eşleşiyor
+10067,1,nike kadın eşofman altı eşleşiyor
+10068,1,nike kadın eşofman altı eşleşiyor
+10069,1,mercedes araç aksesuarı eşleşiyor
+10070,1,mercedes araç aksesuarı eşleşiyor
+10071,1,mercedes araç aksesuarı eşleşiyor
+10072,1,mercedes uyumlu ürün eşleşiyor
+10073,1,mercedes araç aksesuarı eşleşiyor
+10074,1,araç lastiği genel sorgu eşleşiyor
+10075,1,araç lastiği eşleşiyor
+10076,1,araç lastiği eşleşiyor
+10077,1,araç lastiği eşleşiyor
+10078,1,araç lastiği eşleşiyor
+10079,1,nokia cep telefonu eşleşiyor
+10080,1,nokia cep telefonu eşleşiyor
+10081,1,nokia model telefon eşleşiyor
+10082,1,nokia cep telefonu eşleşiyor
+10083,1,nokia cep telefonu eşleşiyor
+10084,1,hy320 projeksiyon eşleşiyor
+10085,1,hy320 projeksiyon eşleşiyor
+10086,0,hy300 farklı model
+10087,1,hy320 projeksiyon eşleşiyor
+10088,0,hy300t farklı model
+10089,1,karaca saklama kabı eşleşiyor
+10090,1,karaca saklama kabı eşleşiyor
+10091,1,karaca saklama kabı eşleşiyor
+10092,1,karaca saklama kabı eşleşiyor
+10093,1,karaca saklama kabı eşleşiyor
+10094,1,lacoste erkek eşofman altı eşleşiyor
+10095,1,lacoste erkek eşofman altı eşleşiyor
+10096,1,lacoste erkek eşofman altı eşleşiyor
+10097,1,lacoste erkek eşofman altı eşleşiyor
+10098,1,lacoste erkek eşofman altı eşleşiyor
+10099,1,kız çocuk yağmurluk mont eşleşiyor
+10100,1,kız çocuk yağmurluk eşleşiyor
+10101,1,kız çocuk yağmurluk eşleşiyor
+10102,1,kız çocuk yağmurluk eşleşiyor
+10103,1,kız çocuk yağmurluk eşleşiyor
+10104,1,toyota corolla paspas eşleşiyor
+10105,1,toyota corolla paspas eşleşiyor
+10106,1,toyota corolla paspas eşleşiyor
+10107,1,toyota corolla paspas eşleşiyor
+10108,1,toyota corolla paspas eşleşiyor
+10109,1,çocuk oyun parkı eşleşiyor
+10110,1,çocuk oyun parkı eşleşiyor
+10111,1,çocuk oyun parkı/park yatağı eşleşiyor
+10112,1,çocuk oyun parkı eşleşiyor
+10113,1,çocuk oyun parkı eşleşiyor
+10114,1,molfix 3 beden bebek bezi eşleşiyor
+10115,1,molfix 3 beden bebek bezi eşleşiyor
+10116,1,molfix 3 beden bebek bezi eşleşiyor
+10117,1,molfix 3 beden bebek bezi eşleşiyor
+10118,1,molfix 3 numara bebek bezi eşleşiyor
+10119,1,kinder temalı bebek takımı eşleşiyor
+10120,1,kinder temalı bebek takımı eşleşiyor
+10121,0,kinder çikolata bebek ürünü değil
+10122,0,kinder çikolata bebek ürünü değil
+10123,0,marka kinder değil farklı ürün
+10124,1,pancar tozu eşleşiyor
+10125,1,pancar tozu eşleşiyor
+10126,1,pancar tozu eşleşiyor
+10127,1,pancar tozu eşleşiyor
+10128,1,pancar tozu eşleşiyor
+10129,1,lastik pompası eşleşiyor
+10130,1,lastik pompası eşleşiyor
+10131,1,lastik pompası eşleşiyor
+10132,1,lastik pompası eşleşiyor
+10133,1,lastik pompası eşleşiyor
+10134,1,yenilebilir pasta kağıdı eşleşiyor
+10135,1,yenilebilir pasta kağıdı eşleşiyor
+10136,1,yenilebilir pasta kağıdı eşleşiyor
+10137,1,yenilebilir pasta kağıdı eşleşiyor
+10138,1,yenilebilir pasta kağıdı eşleşiyor
+10139,1,atelier rebul oda kokusu eşleşiyor
+10140,1,atelier rebul oda kokusu eşleşiyor
+10141,1,atelier rebul oda spreyi eşleşiyor
+10142,1,atelier rebul oda kokusu refill eşleşiyor
+10143,1,atelier rebul oda kokusu eşleşiyor
+10144,1,çocuk altın künye eşleşiyor
+10145,1,çocuk altın künye eşleşiyor
+10146,1,çocuk altın künye eşleşiyor
+10147,1,çocuk altın künye eşleşiyor
+10148,1,çocuk altın künye eşleşiyor
+10149,1,rustik ampul eşleşiyor

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2450,1,matte liquid lipstick matches query
+2451,1,matte liquid lipstick despite stick attribute
+2452,1,matte liquid lipstick liquid form
+2453,1,matte liquid lipstick matches
+2454,1,matte liquid lipstick matches
+2455,1,exact imari perfume avon
+2456,1,exact imari perfume avon
+2457,0,different perfume line oriflame
+2458,0,different avon perfume not imari
+2459,0,different perfume brand vocal
+2460,1,ajda gold bracelet investment
+2461,1,ajda gold bracelet 14 ayar real gold
+2462,1,ajda gold bracelet 22 ayar
+2463,0,gold-plated brass not real gold
+2464,0,gold-plated brass not real gold
+2465,1,car tire inflation pump
+2466,1,car tire inflation pump
+2467,1,car tire inflation pump
+2468,1,car tire inflation pump
+2469,1,car tire inflation pump
+2470,1,english home tencere
+2471,1,english home tencere set
+2472,1,english home tencere set
+2473,1,english home tencere
+2474,1,english home tencere
+2475,0,camp fan not heater
+2476,0,desk fan not heater
+2477,0,air cooler not heater
+2478,0,neck fan not heater
+2479,0,radial fan not heater
+2480,1,laminta babet
+2481,1,laminta babet
+2482,1,laminta babet
+2483,1,laminta babet
+2484,1,laminta babet
+2485,1,adidas terlik
+2486,1,adidas terlik
+2487,1,adidas terlik
+2488,1,adidas terlik
+2489,1,adidas terlik
+2490,1,pink bag matches
+2491,1,fuchsia-pink bag close match
+2492,1,dusty pink bag
+2493,1,dusty pink bag
+2494,1,pink bag matches
+2495,0,mango man vest not sweatshirt
+2496,0,wrong brand and vest not sweatshirt
+2497,0,wrong brand vest not sweatshirt
+2498,0,wrong brand coat not sweatshirt
+2499,0,wrong brand fleece jacket not sweatshirt
+2500,1,koton boys coat
+2501,1,koton boys coat
+2502,1,koton boys coat
+2503,1,koton boys coat
+2504,1,koton boys coat
+2505,1,callebaut chocolate
+2506,1,callebaut chocolate
+2507,1,callebaut chocolate
+2508,1,callebaut chocolate
+2509,1,callebaut chocolate
+2510,1,ideen welt brand product
+2511,1,ideen welt brand product
+2512,1,ideen welt brand product
+2513,1,ideen welt brand product
+2514,1,ideen welt brand product
+2515,1,floor mirror boy aynasi
+2516,1,floor mirror
+2517,1,floor mirror
+2518,1,floor mirror
+2519,1,floor mirror
+2520,1,duvet cover trousseau set
+2521,1,duvet cover trousseau set
+2522,1,trousseau set includes duvet cover
+2523,1,trousseau set includes duvet cover
+2524,1,trousseau bedding set
+2525,1,sand painting set
+2526,1,sand painting set
+2527,1,sand painting set
+2528,1,sand painting set
+2529,1,sand painting set
+2530,1,non-slip slipper
+2531,1,non-slip slipper
+2532,1,non-slip slipper
+2533,1,non-slip slipper
+2534,1,non-slip slipper
+2535,0,wrong grade 6th not 7th
+2536,0,wrong grade 5th not 7th
+2537,0,wrong grade 8th not 7th
+2538,0,wrong grade 8th and different series
+2539,0,wrong grade 6th not 7th
+2540,0,full zip not half zip
+2541,0,no zip crew neck style
+2542,0,no zip crew neck style
+2543,0,full zip not half zip
+2544,0,no zip crew neck style
+2545,1,lee jeans
+2546,1,lee jeans
+2547,1,lee jeans
+2548,1,lee jeans
+2549,1,lee jeans
+2550,1,happiness istanbul sweatpants
+2551,1,happiness istanbul sweatpants
+2552,1,happiness istanbul sweatpants
+2553,1,happiness istanbul sweatpants
+2554,1,happiness istanbul sweatpants
+2555,1,spanzet tie-down strap
+2556,1,spanzet load tensioning strap
+2557,1,spanzet strap for roof rack sizing
+2558,0,different brand chain product
+2559,0,different brand unrelated lifting part
+2560,1,otaci shampoo
+2561,1,otaci shampoo
+2562,1,otaci shampoo
+2563,1,otaci shampoo
+2564,1,otaci shampoo
+2565,1,gipta planner
+2566,1,gipta planner
+2567,1,gipta planner
+2568,1,gipta planner
+2569,1,gipta planner
+2570,1,children bathrobe set
+2571,1,children bathrobe set licensed
+2572,0,baby not child; single robe not set
+2573,0,family set not child specific
+2574,0,adult family set not child
+2575,1,wardrobe closet
+2576,1,wardrobe closet
+2577,0,open hanger rack not enclosed wardrobe
+2578,1,wardrobe closet
+2579,1,wardrobe closet
+2580,1,spartek closet organizer
+2581,1,spartek closet organizer
+2582,1,spartek closet organizer
+2583,1,spartek closet organizer
+2584,0,different brand ocean home textile
+2585,1,empty gift box
+2586,1,empty gift box
+2587,1,empty gift box
+2588,1,gift box and bag combo
+2589,1,empty gift box
+2590,0,actual shoe not washing mesh bag
+2591,0,odor powder not washing mesh bag
+2592,0,actual shoe not washing mesh bag
+2593,0,actual shoe not washing mesh bag
+2594,0,actual shoe not washing mesh bag
+2595,1,lumberjack outdoor shoe
+2596,1,lumberjack outdoor shoe
+2597,1,lumberjack outdoor shoe
+2598,1,lumberjack outdoor shoe
+2599,1,lumberjack outdoor shoe
+2600,1,motion sensor led lamp
+2601,1,motion sensor led night lamp
+2602,1,motion sensor led light
+2603,1,motion sensor led bulb
+2604,1,motion sensor led lamp
+2605,1,binder folder
+2606,1,binder folder
+2607,1,binder folder
+2608,1,binder folder
+2609,1,binder folder
+2610,1,fendi women sunglasses
+2611,1,fendi women sunglasses
+2612,1,fendi women sunglasses
+2613,1,fendi women sunglasses
+2614,1,fendi women sunglasses
+2615,1,single seat armchair cover
+2616,1,single seat armchair cover
+2617,1,single seat armchair cover
+2618,1,single seat armchair cover
+2619,1,single seat armchair cover
+2620,0,decorative painting not a book
+2621,0,unrelated first aid book
+2622,0,unrelated movie poster
+2623,0,unrelated poster
+2624,0,unrelated movie poster
+2625,1,women gold earring
+2626,1,women gold earring
+2627,1,women gold earring
+2628,1,women gold earring
+2629,1,women gold earring
+2630,1,mini corner sofa l shape
+2631,0,large corner set not mini
+2632,0,not specified mini; larger sofa bed
+2633,0,large corner set not mini
+2634,0,single armchair not l shaped sofa
+2635,1,bread flour
+2636,1,bread flour rye
+2637,1,bread flour
+2638,1,bread flour
+2639,1,bread flour
+2640,1,nescafe granulated coffee
+2641,1,nescafe gold instant coffee
+2642,0,3in1 sweetened mix not plain granulated
+2643,1,nescafe gold granulated coffee jar
+2644,0,3in1 sweetened mix not plain granulated
+2645,1,tonguc yayinlari brand book
+2646,1,tonguc yayinlari brand book
+2647,1,tonguc yayinlari brand book
+2648,1,tonguc yayinlari brand book
+2649,1,tonguc yayinlari brand book
+2650,1,bag with scarf detail
+2651,1,bag with scarf detail
+2652,1,bag with scarf detail
+2653,1,bag with scarf detail
+2654,1,bag with scarf detail
+2655,1,linens brand vase
+2656,0,different brand not linens
+2657,0,different brand not linens
+2658,0,different brand not linens
+2659,0,different brand not linens
+2660,1,dough scraper
+2661,1,dough cutting scraper spatula
+2662,1,dough scraper
+2663,1,dough scraper
+2664,1,dough cutting scraper spatula
+2665,1,note cosmetics bb cream
+2666,1,note cosmetics bb cream
+2667,1,note cosmetics bb cream
+2668,1,note cosmetics bb cream
+2669,0,different brand me time
+2670,1,pirge knife set
+2671,1,pirge knife set
+2672,1,pirge knife set
+2673,1,pirge knife set
+2674,1,pirge knife set
+2675,1,white colored necklace
+2676,0,color is yellow not white
+2677,1,white colored necklace
+2678,0,color is gold not white
+2679,0,color is silver not labeled white
+2680,1,brush and roller set
+2681,1,brush and roller set
+2682,1,brush and roller set
+2683,1,brush and roller set
+2684,1,brush and roller
+2685,1,folding table
+2686,1,folding table
+2687,1,folding table
+2688,1,folding table
+2689,1,folding table
+2690,1,kpss math practice exam
+2691,1,kpss general ability includes math
+2692,1,kpss math practice exam
+2693,0,general knowledge not specifically math
+2694,0,wrong exam type ags and turkish not math
+2695,1,teapot set
+2696,1,teapot set
+2697,1,teapot set
+2698,1,teapot set
+2699,1,teapot set
+2700,1,piranha speaker
+2701,1,piranha speaker
+2702,1,piranha speaker
+2703,1,piranha speaker
+2704,1,piranha speaker
+2705,0,lapel microphone not charger
+2706,0,lapel microphone not charger
+2707,0,screen protector not charger
+2708,0,microphone cable not charger
+2709,0,pearl bracelet unrelated
+2710,1,motorcyclist bag
+2711,1,motorcyclist bag exact match
+2712,1,motorcycle chest bag
+2713,1,motorcyclist chest bag
+2714,1,leather motorcyclist bag
+2715,1,bridal luggage decoration
+2716,1,bridal luggage decoration
+2717,1,bridal luggage decoration
+2718,1,bridal luggage decoration
+2719,1,bridal luggage decoration
+2720,1,clip-in hairpiece
+2721,1,clip-in hairpiece
+2722,1,clip-in hairpiece
+2723,1,clip-in hairpiece
+2724,1,clip-in hairpiece
+2725,1,signal white now toothpaste
+2726,1,signal white now toothpaste
+2727,1,signal white now toothpaste
+2728,1,signal white now toothpaste
+2729,1,signal white now toothpaste
+2730,1,west home runner rug
+2731,1,west home runner rug
+2732,1,west home runner rug
+2733,1,west home runner rug
+2734,1,west home runner rug
+2735,0,crocheted hair clip not hook set
+2736,0,baby trousseau blanket not hook set
+2737,0,crocheted coasters not hook set
+2738,0,crocheted flower bouquet not hook set
+2739,0,baby blanket set not hook set
+2740,1,family bathrobe set
+2741,1,family bathrobe set
+2742,1,family bathrobe set
+2743,1,family bathrobe set
+2744,1,family bathrobe set
+2745,1,ergonomic pillow
+2746,1,ergonomic pillow
+2747,1,ergonomic pillow
+2748,1,ergonomic pillow
+2749,1,ergonomic pillow
+2750,1,exact book title match
+2751,1,exact book title match
+2752,1,exact book title match
+2753,1,exact book title match
+2754,1,exact book title match sequel
+2755,1,long modest tunic shirt
+2756,1,long modest tunic shirt
+2757,1,long modest tunic shirt
+2758,1,long modest tunic shirt
+2759,1,long modest tunic shirt
+2760,1,exact book cingo match
+2761,1,bundle includes cingo same author
+2762,0,different book different author
+2763,0,unrelated childrens book
+2764,0,unrelated childrens book
+2765,1,dalin brand soap
+2766,1,dalin brand soap
+2767,1,dalin brand soap
+2768,1,dalin brand soap
+2769,1,dalin brand soap
+2770,1,nova color fabric paint
+2771,1,nova color fabric paint
+2772,1,nova color fabric paint
+2773,1,nova color fabric paint
+2774,1,nova color fabric paint
+2775,1,turkish coffee maker
+2776,1,turkish coffee maker
+2777,1,turkish coffee maker
+2778,1,turkish coffee maker
+2779,1,turkish coffee maker
+2780,1,cgk brand jewelry
+2781,1,cgk brand jewelry
+2782,1,cgk brand jewelry
+2783,1,cgk brand jewelry
+2784,1,cgk brand jewelry
+2785,1,table runner
+2786,1,table runner
+2787,1,table runner
+2788,1,table runner
+2789,1,table runner
+2790,1,david guner watch
+2791,1,david guner watch
+2792,1,david guner watch
+2793,1,david guner watch
+2794,1,david guner watch
+2795,1,oral-b rechargeable toothbrush
+2796,1,oral-b rechargeable toothbrush
+2797,1,oral-b rechargeable toothbrush
+2798,1,oral-b rechargeable toothbrush
+2799,1,oral-b rechargeable toothbrush

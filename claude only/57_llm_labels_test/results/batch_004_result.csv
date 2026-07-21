@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+1400,1,mango brand bag matches query
+1401,1,mango brand bag matches query
+1402,0,brand is inci not mango
+1403,0,brand is butigo not mango
+1404,0,brand is butigo not mango
+1405,1,bueno brand shoe matches
+1406,1,bueno brand shoe matches
+1407,1,bueno brand shoe matches
+1408,1,bueno brand shoe matches
+1409,1,bueno brand shoe matches
+1410,1,homend blender set matches
+1411,1,homend blender set matches
+1412,1,homend blender set matches
+1413,1,homend personal blender set matches
+1414,1,homend blender set matches
+1415,0,pajama set not paçalı don
+1416,0,pajama set not paçalı don
+1417,0,pajama set not paçalı don
+1418,0,pajama set not paçalı don
+1419,0,pajama set not paçalı don
+1420,1,bag-size quran close to pocket size
+1421,0,meal translation without full text not full quran
+1422,0,medium size not pocket size
+1423,0,rahle boy is large lectern size not pocket
+1424,0,rahle boy large size not pocket
+1425,1,pioner brand seed product
+1426,0,not pioner brand
+1427,0,not pioner brand
+1428,0,not pioner brand
+1429,0,not pioner brand
+1430,1,arduino brand starter kit
+1431,1,arduino brand starter kit
+1432,1,arduino starter kit matches
+1433,1,arduino uno starter kit matches
+1434,1,arduino starter kit matches
+1435,1,book about islamic history
+1436,1,book about islamic history
+1437,1,book about islamic history
+1438,1,book about islamic history
+1439,1,book about islamic history
+1440,1,jagermeister branded tshirt
+1441,1,jagermeister branded wall clock
+1442,0,plain tshirt no jagermeister reference
+1443,0,sweetener unrelated to jagermeister
+1444,0,silver medallion unrelated
+1445,1,ipl laser unlimited flashes matches
+1446,1,ipl laser unlimited flashes matches
+1447,1,ipl laser unlimited flashes matches
+1448,1,ipl laser near unlimited flashes matches
+1449,1,ipl laser unlimited flashes matches
+1450,1,bathroom organizer matches
+1451,1,bathroom organizer matches
+1452,1,bathroom organizer matches
+1453,1,bathroom organizer matches
+1454,1,bathroom organizer matches
+1455,1,adidas campus shoe unisex fits women query
+1456,1,adidas campus shoe unisex fits women query
+1457,1,adidas campus womens sneaker exact match
+1458,1,adidas campus womens sneaker exact match
+1459,1,adidas campus unisex fits women query
+1460,1,diafon intercom system matches
+1461,1,diafon intercom system matches
+1462,1,diafon intercom system matches
+1463,1,diafon intercom system matches
+1464,1,diafon intercom system matches
+1465,1,mondi brand mattress matches
+1466,1,mondi brand mattress matches
+1467,1,mondi brand mattress matches
+1468,0,brand sitehome not mondi
+1469,0,unrelated mandala coloring book set
+1470,1,kitchen knife set matches
+1471,1,kitchen knife set matches
+1472,1,kitchen knife matches
+1473,1,kitchen knife matches
+1474,1,kitchen knife set matches
+1475,0,for kia soul not kia ceed
+1476,0,for kia soul not kia ceed
+1477,1,attribute states compatible with kia ceed
+1478,0,for ford not kia ceed
+1479,1,attribute states compatible with kia ceed
+1480,1,bouquet blanket exact match
+1481,1,bouquet blanket matches
+1482,1,bouquet blanket matches
+1483,1,bouquet blanket matches
+1484,1,bouquet blanket matches
+1485,1,be blue brand shirt matches
+1486,1,be blue brand shirt matches
+1487,1,be blue brand shirt matches
+1488,1,be blue brand shirt matches
+1489,1,be blue brand shirt matches
+1490,1,rexona womens deodorant matches
+1491,1,rexona womens deodorant matches
+1492,1,rexona womens deodorant matches
+1493,1,rexona womens deodorant matches
+1494,1,rexona womens deodorant matches
+1495,1,i heart revolution brand product
+1496,1,i heart revolution brand product
+1497,1,i heart revolution brand product
+1498,1,i heart revolution brand product
+1499,1,i heart revolution brand product
+1500,1,flowering dwarf plant matches
+1501,1,dwarf flowering rose plant matches
+1502,1,dwarf flowering rose plant matches
+1503,1,flowering dwarf plant matches
+1504,1,flowering dwarf plant matches
+1505,1,womens brown sport shoe matches
+1506,1,womens brown sport shoe matches
+1507,1,womens brown sport shoe matches
+1508,1,womens brown sport shoe matches
+1509,1,womens brown sport shoe matches
+1510,0,fabrika brand tshirt not boot
+1511,0,fabrika brand tshirt not boot
+1512,0,fabrika brand tshirt not boot
+1513,0,fabrika brand handbag not boot
+1514,0,fabrika brand home slipper not boot
+1515,1,bolat brand tiller matches
+1516,1,bolat brand tiller matches
+1517,1,bolat branded tiller in title
+1518,1,bolat brand tiller matches
+1519,1,bolat brand tiller matches
+1520,1,sleeveless long dress matches
+1521,1,sleeveless dress matches
+1522,1,long sleeveless dress matches
+1523,1,long sleeveless dress matches
+1524,1,long sleeveless dress matches
+1525,1,penelope brand pillow matches
+1526,1,penelope brand pillow matches
+1527,1,penelope brand pillow matches
+1528,1,penelope brand pillow matches
+1529,1,penelope brand pillow matches
+1530,1,batten pattern wallpaper matches
+1531,1,batten panel wallpaper matches
+1532,1,wall batten strip in wallpaper category
+1533,1,batten themed wallpaper matches
+1534,0,floral wallpaper no batten theme
+1535,1,battery led wall sconce matches
+1536,1,battery led wall sconce matches
+1537,1,battery led wall sconce matches
+1538,1,battery led wall sconce matches
+1539,1,battery led wall sconce matches
+1540,0,junior samba model not womens
+1541,0,superstar model not samba
+1542,0,superstar model not samba
+1543,0,court model not samba
+1544,0,gazelle model not samba
+1545,1,yatas brand mattress pad matches
+1546,1,yatas brand mattress pad matches
+1547,1,yatas mini brand mattress pad matches
+1548,0,brand doqu home not yatas
+1549,0,brand vessinohome not yatas
+1550,1,girls denim overalls matches
+1551,1,girls denim overalls matches
+1552,1,girls denim overalls matches
+1553,1,girls denim overalls matches
+1554,1,girls denim overalls matches
+1555,1,archaeological dig set for kids matches
+1556,1,archaeological dig set matches
+1557,1,archaeological dig set matches
+1558,1,archaeological dig set matches
+1559,1,archaeological dig set matches
+1560,1,gas pipe concealment channel exact match
+1561,1,gas pipe concealment channel exact match
+1562,0,cable channel not gas pipe concealment
+1563,0,cable channel not gas pipe concealment
+1564,0,cable channel not gas pipe concealment
+1565,0,dashboard cover not decorative ornament
+1566,0,seat organizer not decorative ornament
+1567,0,phone holder not decorative ornament
+1568,0,phone holder not decorative ornament
+1569,0,parking number sign not decorative ornament
+1570,1,bathroom shelf matches
+1571,1,bathroom shelf matches
+1572,1,bathroom shelf matches
+1573,1,bathroom shelf matches
+1574,1,bathroom shelf matches
+1575,0,nail polish 303 not no3
+1576,0,bb cream unrelated to no3
+1577,0,no-bite solution not no3
+1578,0,brush no0 not no3
+1579,0,hair dye shade 10n not no3
+1580,0,mug not cookie cutter mold
+1581,0,scented candle not cookie mold
+1582,0,daisy flower mold not christmas cookie
+1583,0,cookie shaped mug not cutter mold
+1584,0,incense holder not cookie mold
+1585,1,vexo brand motorcycle jacket matches
+1586,1,vexo brand motorcycle glove matches
+1587,1,vexo brand motorcycle glove matches
+1588,1,vexo brand motorcycle jacket matches
+1589,1,vexo brand motorcycle jacket matches
+1590,1,xiaomi smart band 10 matches
+1591,1,xiaomi smart band 10 matches
+1592,0,strap accessory for mi band 9 not band 10
+1593,0,strap accessory for mi band 9 not band 10
+1594,0,strap accessory for mi band 9 not band 10
+1595,1,mens tracksuit set matches
+1596,1,mens tracksuit set matches
+1597,1,mens tracksuit set matches
+1598,1,mens tracksuit set matches
+1599,1,mens tracksuit set matches
+1600,1,school uniform sweatshirt exact match
+1601,1,basic kids sweatshirt fits school wear
+1602,1,basic kids sweatshirt fits school wear
+1603,1,basic kids sweatshirt fits school wear
+1604,1,basic kids sweatshirt fits school wear
+1605,1,folding camp chair matches
+1606,1,folding camp chair matches
+1607,1,folding camp chair matches
+1608,1,folding camp chair matches
+1609,1,folding camp chair matches
+1610,0,carina street model not in street
+1611,0,midcity model not in street
+1612,0,superstar model not in street
+1613,0,cosmic street model not in street
+1614,0,roma model not in street
+1615,0,apple watch band not hermes bag
+1616,0,tablet bag not hermes
+1617,0,tablet case not hermes
+1618,0,gift paper bag not hermes
+1619,0,tablet case not hermes
+1620,1,nike tech fleece kids matches
+1621,1,nike tech fleece kids matches
+1622,1,nike tech fleece kids matches
+1623,1,nike tech fleece kids matches
+1624,1,nike tech fleece kids matches
+1625,1,white kitchen cabinet matches
+1626,1,white kitchen cabinet matches
+1627,1,white kitchen cabinet matches
+1628,1,white kitchen cabinet matches
+1629,1,white kitchen cabinet matches
+1630,1,steriball brand product matches
+1631,1,steriball brand product matches
+1632,1,steriball brand product matches
+1633,1,steriball brand product matches
+1634,1,steriball brand product matches
+1635,1,zeduva yayinlari brand book matches
+1636,1,zeduva yayinlari brand book matches
+1637,1,zeduva yayinlari brand book matches
+1638,1,zeduva yayinlari brand book matches
+1639,1,zeduva yayinlari brand book matches
+1640,1,nike off-white styled sneaker matches
+1641,0,plain white sneaker not off-white styled
+1642,0,puma sneaker no off-white reference
+1643,0,puma sneaker no off-white reference
+1644,0,tshirt not shoe
+1645,1,straw bottle matches
+1646,1,straw cup matches
+1647,1,straw cup matches
+1648,1,straw cup matches
+1649,1,straw glass cup matches
+1650,1,porcelain spice set matches
+1651,1,porcelain spice set matches title
+1652,1,porcelain spice set matches title
+1653,1,porcelain spice set matches
+1654,1,porcelain spice set matches
+1655,0,romand eyeshadow palette not blush
+1656,0,peripera brand not romand
+1657,0,revolution brand not romand
+1658,0,revolution brand not romand
+1659,0,peach c brand not romand
+1660,1,kids boxing set matches
+1661,1,kids boxing set matches
+1662,1,kids boxing set matches
+1663,1,kids boxing set matches
+1664,1,kids boxing set matches
+1665,1,100hz monitor exact match
+1666,0,50hz monitor wrong spec
+1667,0,120hz monitor wrong spec
+1668,0,240hz monitor wrong spec
+1669,0,240hz monitor wrong spec
+1670,1,pril brand dish soap matches
+1671,1,pril brand dish soap matches
+1672,1,pril brand rinse aid matches
+1673,1,pril brand dish soap matches
+1674,1,pril brand dishwasher tablets matches
+1675,1,ps5 slim console matches
+1676,1,ps5 slim console matches
+1677,1,ps5 slim console matches
+1678,1,ps5 slim console matches
+1679,1,ps5 slim console matches
+1680,1,washing machine matches
+1681,1,washing machine matches
+1682,1,washing machine matches
+1683,1,washing machine matches
+1684,1,washing machine matches
+1685,1,womens evening clutch bag matches
+1686,1,womens evening clutch bag matches
+1687,1,womens evening clutch bag matches
+1688,1,womens evening clutch bag matches
+1689,1,womens evening clutch bag matches
+1690,0,rug not duvet cover set
+1691,0,rug not duvet cover set
+1692,0,kitchen rug not duvet cover set
+1693,0,rug not duvet cover set
+1694,0,rug not duvet cover set
+1695,1,rockable cradle matches
+1696,1,rockable cradle matches
+1697,1,rockable cradle matches
+1698,1,rockable cradle matches
+1699,1,rockable cradle matches
+1700,1,inflatable mat matches
+1701,1,inflatable camp mat matches
+1702,1,inflatable camp mat matches
+1703,1,inflatable mat matches
+1704,0,inflatable cup holder not mat
+1705,0,led mirror not wall light fixture
+1706,0,led mirror not wall light fixture
+1707,0,led wall art not light fixture
+1708,0,led wall clock not light fixture
+1709,0,led wall clock not light fixture
+1710,1,mirrored tray matches
+1711,1,mirrored tray matches
+1712,1,mirrored tray matches
+1713,1,mirrored tray matches
+1714,1,mirrored presentation tray matches
+1715,1,da vinci brand coffee syrup matches
+1716,1,da vinci brand coffee syrup set matches
+1717,1,da vinci brand coffee syrup matches
+1718,1,da vinci brand syrup matches
+1719,0,brand cenova not da vinci
+1720,1,travertine stone product matches
+1721,1,travertine marble product matches
+1722,1,travertine marble tray matches
+1723,1,travertine marble bowl matches
+1724,1,travertine marble set matches
+1725,1,tommy hilfiger womens coat matches
+1726,1,tommy hilfiger womens coat matches
+1727,1,tommy hilfiger womens coat matches
+1728,1,tommy hilfiger womens coat matches
+1729,1,tommy hilfiger womens coat matches
+1730,1,velvet jacket matches
+1731,1,velvet jacket matches
+1732,1,velvet jacket matches
+1733,1,velvet jacket exact match
+1734,1,velvet jacket matches
+1735,1,pvc bathroom cabinet matches
+1736,1,pvc bathroom cabinet matches
+1737,1,pvc bathroom cabinet matches
+1738,1,pvc bathroom cabinet matches
+1739,1,pvc bathroom cabinet matches
+1740,1,deborah brand lip liner matches
+1741,1,deborah brand lip liner matches
+1742,0,brand flormar not deborah
+1743,0,brand emily not deborah
+1744,0,brand emily not deborah
+1745,1,lav brand 18 piece glass set matches
+1746,1,lav brand 18 piece glass set matches
+1747,0,brand not lav and only 6 pieces
+1748,0,brand pasabahce not lav
+1749,0,brand rakle not lav and only 4 pieces

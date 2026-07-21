@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+7700,0,"Accessory metal plate set for a magnetic holder, not the holder itself"
+7701,1,Magnetic car phone holder matching query
+7702,1,Magnetic car phone holder matching query
+7703,1,Magnetic car phone holder matching query
+7704,0,"Low pressure switch for water purifiers, not a pressure-reducing valve"
+7705,0,"A pressure sensor/transmitter, not a pressure reducer valve"
+7706,1,"Actual pressure reducer valve, matches query"
+7707,0,"Pressure transmitter device, not a pressure reducer valve"
+7708,0,"Drip irrigation emitter with pressure regulation, different product type"
+7709,1,Bluetooth boombox-style portable speaker matches query
+7710,1,Bluetooth boombox-style portable speaker matches query
+7711,1,Bluetooth boombox-style portable speaker matches query
+7712,1,Bluetooth boombox-style portable speaker matches query
+7713,1,Bluetooth boombox-style portable speaker matches query
+7714,1,"Jean-colored sequined pants in jeans category, matches query"
+7715,1,"Sequined/stoned denim pants, matches query"
+7716,0,"Sequined pants but knit fabric, not denim/kot as query specifies"
+7717,1,Sequined denim pants matching query
+7718,1,Sequined denim pants matching query
+7719,1,Car cup holder matches query directly
+7720,1,Car cup holder matches query directly
+7721,1,Car cup holder matches query directly
+7722,1,Car cup holder matches query directly
+7723,1,Car cup holder matches query directly
+7724,1,Toy storage cabinet with drawers/baskets matches query
+7725,1,Toy storage cabinet with drawers/baskets matches query
+7726,1,Toy storage cabinet with drawers/baskets matches query
+7727,1,Toy storage cabinet with drawers/baskets matches query
+7728,1,Toy storage cabinet with drawers/baskets matches query
+7729,1,Insulated thermos/bottle matches query
+7730,1,Insulated thermos/bottle matches query
+7731,1,Insulated thermos/bottle matches query
+7732,1,Insulated thermos/bottle matches query
+7733,1,Insulated thermos/bottle matches query
+7734,1,Personalized/named pacifier clip matches query
+7735,1,Personalized/named pacifier clip matches query
+7736,1,Personalized/named pacifier clip matches query
+7737,1,Personalized/named pacifier clip matches query
+7738,1,Personalized/named pacifier clip matches query
+7739,1,Raschel Carpet brand rug/runner matches brand query exactly
+7740,1,Raschel Carpet brand rug/runner matches brand query exactly
+7741,1,Raschel Carpet brand rug/runner matches brand query exactly
+7742,1,Raschel Carpet brand rug/runner matches brand query exactly
+7743,1,Raschel Carpet brand rug/runner matches brand query exactly
+7744,1,Salomon women's outdoor/hiking shoe matches query
+7745,1,Salomon women's outdoor/hiking shoe matches query
+7746,1,Salomon women's outdoor/hiking shoe matches query
+7747,1,Salomon women's outdoor/hiking shoe matches query
+7748,1,Salomon women's outdoor/hiking shoe matches query
+7749,1,Nike shoe in navy/blue color family matches query
+7750,1,Nike shoe in navy/blue color family matches query
+7751,1,Nike shoe in navy/blue color family matches query
+7752,1,Nike shoe in navy/blue color family matches query
+7753,1,Nike shoe in navy/blue color family matches query
+7754,1,Homend vertical vacuum cleaner matches query
+7755,1,Homend vertical vacuum cleaner matches query
+7756,1,Homend vertical vacuum cleaner matches query
+7757,0,"Brand field is 'homeness' not 'homend' despite title text, brand mismatch"
+7758,1,Homend vertical vacuum cleaner matches query
+7759,1,Generic t-shirt matches typo query 'thşört' (tişört)
+7760,1,Generic t-shirt matches typo query 'thşört' (tişört)
+7761,1,Generic t-shirt matches typo query 'thşört' (tişört)
+7762,1,Generic t-shirt matches typo query 'thşört' (tişört)
+7763,1,Generic t-shirt matches typo query 'thşört' (tişört)
+7764,1,Adidas Superstar sneaker matches query
+7765,1,Adidas Superstar sneaker matches query
+7766,1,Adidas Superstar sneaker matches query
+7767,1,Adidas Superstar sneaker matches query
+7768,1,Adidas Superstar sneaker matches query
+7769,1,Card skin sticker compatible with Papara card matches query
+7770,1,Card skin sticker compatible with Papara card matches query
+7771,1,Card skin sticker compatible with Papara card matches query
+7772,1,Card skin sticker compatible with Papara card matches query
+7773,0,Passport/card holder wallet unrelated to Papara card stickers
+7774,1,Men's sports watch matches query
+7775,1,Men's sports watch matches query
+7776,1,Men's sports watch matches query
+7777,1,Men's sports watch matches query
+7778,1,Men's sports watch matches query
+7779,1,Motorcycle battery matches query
+7780,1,Motorcycle battery matches query
+7781,1,Motorcycle battery matches query
+7782,1,Motorcycle battery matches query
+7783,1,Motorcycle battery matches query
+7784,1,English Home brand towel matches query
+7785,1,English Home brand towel matches query
+7786,1,English Home brand towel matches query
+7787,1,English Home brand towel matches query
+7788,1,English Home brand towel matches query
+7789,1,Puma women's coat/jacket matches query
+7790,1,Puma women's coat/jacket matches query
+7791,1,Puma women's coat/jacket matches query
+7792,1,Puma women's coat/jacket matches query
+7793,1,Puma women's coat/jacket matches query
+7794,1,Nike sports bag matches query
+7795,1,Nike sports bag matches query
+7796,1,Nike sports bag matches query
+7797,1,Nike sports bag matches query
+7798,1,Nike sports bag matches query
+7799,1,Magnetic (non-piercing) earring matches query
+7800,1,Magnetic (non-piercing) earring matches query
+7801,1,Magnetic (non-piercing) earring matches query
+7802,1,Magnetic (non-piercing) earring matches query
+7803,1,Magnetic (non-piercing) earring matches query
+7804,1,Thick-heeled women's boot matches query
+7805,1,Thick-heeled women's boot matches query
+7806,1,Thick-heeled women's boot matches query
+7807,1,Thick-heeled women's boot matches query
+7808,1,Thick-heeled women's boot matches query
+7809,1,Sas Haus brand bathroom shelf/organizer matches query
+7810,0,"Sas Haus brand hooks/hangers, not an organizer/shelf as query intends"
+7811,1,Sas Haus brand bathroom organizer/shelf matches query
+7812,1,Sas Haus brand bathroom organizer/shelf matches query
+7813,0,"Brand is 'storemax' not 'sas haus', and category is wall shelf not bathroom organizer"
+7814,0,"ADSL/VDSL wired modem router, not a 4G cellular modem as query specifies"
+7815,0,"Plain WiFi router with no SIM/4G capability, does not match '4g' requirement"
+7816,1,4G LTE router with SIM card slot matches query
+7817,1,4G LTE router with SIM card slot matches query
+7818,1,4G LTE router with SIM card slot matches query
+7819,1,Beverage/drink preparation appliance matches generic query
+7820,1,Beverage/drink preparation appliance matches generic query
+7821,1,Beverage/drink preparation appliance matches generic query
+7822,1,Beverage/drink preparation appliance matches generic query
+7823,1,Beverage/drink preparation appliance matches generic query
+7824,1,Balcony tea/seating furniture set matches query
+7825,1,Balcony tea/seating furniture set matches query
+7826,1,Balcony tea/seating furniture set matches query
+7827,1,Balcony tea/seating furniture set matches query
+7828,1,Balcony tea/seating furniture set matches query
+7829,1,Women's suede bomber jacket matches query
+7830,0,"Men's (erkek) suede bomber jacket, gender mismatch with 'kadın' query"
+7831,1,Women's suede bomber jacket matches query
+7832,1,Women's suede bomber jacket matches query
+7833,1,Women's suede bomber jacket matches query
+7834,1,Breakfast/appetizer presentation platter matches query
+7835,1,Breakfast/appetizer presentation platter matches query
+7836,1,Breakfast/appetizer presentation platter matches query
+7837,1,Breakfast/appetizer presentation platter matches query
+7838,1,Breakfast/appetizer presentation platter matches query
+7839,1,Provoq brand product matches brand-only query
+7840,1,Provoq brand product matches brand-only query
+7841,1,Provoq brand product matches brand-only query
+7842,1,Provoq brand product matches brand-only query
+7843,1,Provoq brand product matches brand-only query
+7844,1,Pokemon trading card matches query despite category mislabel
+7845,1,Pokemon trading card matches query despite category mislabel
+7846,1,Pokemon trading card matches query despite category mislabel
+7847,1,Pokemon trading card matches query despite category mislabel
+7848,1,Pokemon trading card matches query despite category mislabel
+7849,1,Madame Coco single-size duvet cover set matches query
+7850,1,Madame Coco single-size duvet cover set matches query
+7851,1,Madame Coco single-size duvet cover set matches query
+7852,1,Madame Coco single-size duvet cover set matches query
+7853,1,Madame Coco single-size duvet cover set matches query
+7854,1,Ray-Ban polarized sunglasses matches query
+7855,1,Ray-Ban polarized sunglasses matches query
+7856,1,Ray-Ban polarized sunglasses matches query
+7857,1,Ray-Ban polarized sunglasses matches query
+7858,1,Ray-Ban polarized sunglasses matches query
+7859,0,"Generic/unrelated electrical switch (vacuum accessory, appliance, industrial breaker, pressure switch) not matching 'oto şalter' automatic switch/breaker intent"
+7860,0,"Generic/unrelated electrical switch (vacuum accessory, appliance, industrial breaker, pressure switch) not matching 'oto şalter' automatic switch/breaker intent"
+7861,0,"Generic/unrelated electrical switch (vacuum accessory, appliance, industrial breaker, pressure switch) not matching 'oto şalter' automatic switch/breaker intent"
+7862,0,"Generic/unrelated electrical switch (vacuum accessory, appliance, industrial breaker, pressure switch) not matching 'oto şalter' automatic switch/breaker intent"
+7863,0,"Generic/unrelated electrical switch (vacuum accessory, appliance, industrial breaker, pressure switch) not matching 'oto şalter' automatic switch/breaker intent"
+7864,0,"Different book/author entirely, not Mustafa Kutlu's 'Uzun Hikaye'"
+7865,0,"Different book/author entirely, not Mustafa Kutlu's 'Uzun Hikaye'"
+7866,0,"Different book/author entirely, not Mustafa Kutlu's 'Uzun Hikaye'"
+7867,0,"Different book/author entirely, not Mustafa Kutlu's 'Uzun Hikaye'"
+7868,0,"Different book/author entirely, not Mustafa Kutlu's 'Uzun Hikaye'"
+7869,1,Brown women's boot matches query
+7870,1,Brown women's boot matches query
+7871,1,Brown women's boot matches query
+7872,1,Brown women's boot matches query
+7873,1,Brown women's boot matches query
+7874,1,Set of 3 nesting tables (üçlü zigon) matches query
+7875,1,Set of 3 nesting tables (üçlü zigon) matches query
+7876,1,Set of 3 nesting tables (üçlü zigon) matches query
+7877,1,Set of 3 nesting tables (üçlü zigon) matches query
+7878,1,Set of 3 nesting tables (üçlü zigon) matches query
+7879,1,Bargello 709 fragrance line product matches query
+7880,1,Bargello 709 fragrance line product matches query
+7881,1,Bargello 709 fragrance line product matches query
+7882,1,Bargello 709 fragrance line product matches query
+7883,1,Bargello 709 fragrance line product matches query
+7884,1,L'Oreal Paris mascara matches query 'rimel' (mascara)
+7885,1,L'Oreal Paris mascara matches query 'rimel' (mascara)
+7886,1,L'Oreal Paris mascara matches query 'rimel' (mascara)
+7887,1,L'Oreal Paris mascara matches query 'rimel' (mascara)
+7888,1,L'Oreal Paris mascara matches query 'rimel' (mascara)
+7889,1,Decorative cube-shaped ceramic object/vase matches query
+7890,1,Decorative cube-shaped ceramic object/vase matches query
+7891,1,Decorative cube-shaped ceramic object/vase matches query
+7892,1,Decorative cube-shaped ceramic object/vase matches query
+7893,1,Decorative cube-shaped ceramic object/vase matches query
+7894,1,Wall-mounted faucet/tap matches query
+7895,1,Wall-mounted faucet/tap matches query
+7896,1,Wall-mounted faucet/tap matches query
+7897,1,Wall-mounted faucet/tap matches query
+7898,1,Wall-mounted faucet/tap matches query
+7899,1,Explicitly a chimney flap/damper (klapeli) matching query
+7900,0,"Chimney cap/vent cover without flap-damper mechanism, different product from 'klape'"
+7901,0,"Chimney cap/vent cover without flap-damper mechanism, different product from 'klape'"
+7902,0,"Chimney cap/vent cover without flap-damper mechanism, different product from 'klape'"
+7903,0,"Chimney cap/vent cover without flap-damper mechanism, different product from 'klape'"
+7904,1,Acil Yayınları geometry exam-prep book matches query
+7905,1,Acil Yayınları geometry exam-prep book matches query
+7906,1,Acil Yayınları geometry exam-prep book matches query
+7907,1,Acil Yayınları geometry exam-prep book matches query
+7908,1,Acil Yayınları geometry exam-prep book matches query
+7909,1,Adidas men's raincoat matches query
+7910,1,Adidas men's raincoat matches query
+7911,1,Adidas men's raincoat matches query
+7912,1,Adidas men's raincoat matches query
+7913,1,Adidas men's raincoat matches query
+7914,1,Altus Turkish coffee maker matches query
+7915,1,Altus Turkish coffee maker matches query
+7916,1,Altus Turkish coffee maker matches query
+7917,1,Altus Turkish coffee maker matches query
+7918,1,Altus Turkish coffee maker matches query
+7919,1,Large pencil case matches query
+7920,1,Large pencil case matches query
+7921,1,Large pencil case matches query
+7922,1,Large pencil case matches query
+7923,1,Large pencil case matches query
+7924,1,Koleston 7/0 exact shade matches query
+7925,0,"Koleston shade 7/1, wrong specific shade variant"
+7926,1,Koleston 7/0 exact shade matches query
+7927,0,"Koleston shade 6/7, wrong specific shade variant"
+7928,1,Koleston 7/0 exact shade matches query
+7929,1,Anime-themed wall tapestry matches query
+7930,1,Anime-themed wall tapestry matches query
+7931,1,Anime-themed wall tapestry matches query
+7932,1,Anime-themed wall tapestry matches query
+7933,1,Anime-themed wall tapestry matches query
+7934,1,Necklace set matches query
+7935,1,Necklace set matches query
+7936,1,Necklace set matches query
+7937,1,Necklace set matches query
+7938,1,Necklace set matches query
+7939,1,Bluetooth wireless earbuds match typo query 'bulutut' (bluetooth)
+7940,1,Bluetooth wireless earbuds match typo query 'bulutut' (bluetooth)
+7941,1,Bluetooth wireless earbuds match typo query 'bulutut' (bluetooth)
+7942,1,Bluetooth wireless earbuds match typo query 'bulutut' (bluetooth)
+7943,1,Bluetooth wireless earbuds match typo query 'bulutut' (bluetooth)
+7944,1,Duvet cover matches query
+7945,1,Duvet cover matches query
+7946,1,Duvet cover matches query
+7947,1,Duvet cover matches query
+7948,0,"Inner duvet filling liner ('iç kılıf'), a different product from an outer duvet cover"
+7949,1,Black & Decker branded vacuum cleaner matches brand-only query
+7950,1,Black & Decker branded vacuum cleaner matches brand-only query
+7951,1,Black & Decker branded vacuum cleaner matches brand-only query
+7952,1,Black & Decker branded vacuum cleaner matches brand-only query
+7953,1,Black & Decker branded vacuum cleaner matches brand-only query
+7954,1,Friendship bracelet matches query
+7955,1,Friendship bracelet matches query
+7956,1,Friendship bracelet matches query
+7957,1,Friendship bracelet matches query
+7958,1,Friendship bracelet matches query
+7959,1,Ibanez electric guitar matches query
+7960,1,Ibanez electric guitar matches query
+7961,1,Ibanez electric guitar matches query
+7962,0,"Guitar amplifier, not the electric guitar itself"
+7963,0,"Electro-acoustic guitar, a different variant from a solid-body electric guitar"
+7964,1,Pierre Cardin dinnerware set matches query
+7965,1,Pierre Cardin dinnerware set matches query
+7966,1,Pierre Cardin dinnerware set matches query
+7967,1,Pierre Cardin dinnerware set matches query
+7968,1,Pierre Cardin dinnerware set matches query
+7969,1,Green headscarf (eşarp) matches query
+7970,1,Green headscarf (eşarp) matches query
+7971,1,Green headscarf (eşarp) matches query
+7972,1,Green headscarf (eşarp) matches query
+7973,1,Green headscarf (eşarp) matches query
+7974,1,Amazfit smartwatch matches query
+7975,0,"Amazfit smart fitness band, not a full smartwatch as query specifies"
+7976,0,"Replacement watch strap accessory, not the smartwatch itself"
+7977,1,Amazfit smartwatch matches query
+7978,0,"Replacement watch strap/band accessory, not the smartwatch itself"
+7979,1,Puane brand top-bottom set matches query
+7980,1,Puane brand top-bottom set matches query
+7981,1,Puane brand top-bottom set matches query
+7982,1,Puane brand top-bottom set matches query
+7983,0,"Single sweatshirt piece, not a full top-bottom (alt-üst) set"
+7984,1,Fenerbahçe branded official ball matches query
+7985,1,Fenerbahçe branded official ball matches query
+7986,0,"Brand field is 'nextpage' not Fenerbahçe, appears to be a generic toy ball, not the licensed product"
+7987,1,Fenerbahçe branded official ball matches query
+7988,1,Fenerbahçe branded official ball matches query
+7989,1,So Chic brand silver ring matches query
+7990,1,So Chic brand silver ring matches query
+7991,1,So Chic brand silver ring matches query
+7992,1,So Chic brand silver ring matches query
+7993,1,So Chic brand silver ring matches query
+7994,1,Crepe chiffon shawl matches query
+7995,1,Crepe chiffon shawl matches query
+7996,1,Crepe chiffon shawl matches query
+7997,1,Crepe chiffon shawl matches query
+7998,1,Crepe chiffon shawl matches query
+7999,1,Kinetix women's sneaker matches query
+8000,1,Kinetix women's sneaker matches query
+8001,1,Kinetix women's sneaker matches query
+8002,1,Kinetix women's sneaker matches query
+8003,0,"Men's (erkek) Kinetix shoe, gender mismatch with 'kadın' query"
+8004,1,Men's hair styling product matches query
+8005,1,Men's hair styling product matches query
+8006,1,Men's hair styling product matches query
+8007,1,Men's hair styling product matches query
+8008,1,Men's hair styling product matches query
+8009,1,Uzhanem brand sofa cover matches query
+8010,1,Uzhanem brand sofa cover matches query
+8011,1,Uzhanem brand sofa cover matches query
+8012,1,Uzhanem brand sofa cover matches query
+8013,1,Uzhanem brand sofa cover matches query
+8014,1,Thick/chunky chain necklace matches query
+8015,1,Thick/chunky chain necklace matches query
+8016,1,Thick/chunky chain necklace matches query
+8017,1,Thick/chunky chain necklace matches query
+8018,1,Thick/chunky chain necklace matches query
+8019,1,Modalife brand console table matches query
+8020,0,"Brand is 'modatte' not 'modalife', brand mismatch"
+8021,0,"Brand is 'modatte' not 'modalife', brand mismatch"
+8022,0,"Brand is 'modatte' not 'modalife', brand mismatch"
+8023,1,Modalife brand console table matches query
+8024,1,Floor vase matches query
+8025,1,Floor vase matches query
+8026,1,Floor vase matches query
+8027,1,Floor vase matches query
+8028,1,Floor vase matches query
+8029,1,L'Oreal Paris moisturizing cream matches query
+8030,1,L'Oreal Paris moisturizing cream matches query
+8031,1,L'Oreal Paris moisturizing cream matches query
+8032,1,L'Oreal Paris moisturizing cream matches query
+8033,0,"Aloe vera water/toner product, not a moisturizing cream as query specifies"
+8034,1,Round/circular rug matches query
+8035,1,Round/circular rug matches query
+8036,1,Round/circular rug matches query
+8037,1,Round/circular rug matches query
+8038,1,Round/circular rug matches query
+8039,1,Bonacibo brand pet food matches brand-only query
+8040,1,Bonacibo brand pet food matches brand-only query
+8041,1,Bonacibo brand pet food matches brand-only query
+8042,1,Bonacibo brand pet food matches brand-only query
+8043,0,"Brand is 'buono' chocolate product, unrelated to Bonacibo pet food brand"
+8044,1,Adidas men's running shoe matches query
+8045,1,Adidas men's running shoe matches query
+8046,1,Adidas men's running shoe matches query
+8047,1,Adidas men's running shoe matches query
+8048,1,Adidas men's running shoe matches query
+8049,1,Bigdart brand shirt matches query

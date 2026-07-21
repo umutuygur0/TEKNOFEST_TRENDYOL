@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+7350,1,hamile alt-üst takım kadın match
+7351,1,hamile lohusa takım match
+7352,1,hamile lohusa alt üst takım match
+7353,1,küçük plastik kutu matches query
+7354,1,küçük karton kutu matches
+7355,1,küçük karton kutu matches
+7356,1,küçük hediye kutusu matches
+7357,1,küçük hediyelik kutu matches
+7358,1,penti termal pijama takımı match
+7359,1,penti termal pijama takımı kız çocuk match
+7360,0,sweatshirt not pijama takımı
+7361,0,no termal mentioned
+7362,0,pijama üstü only not takım; no termal
+7363,1,koşu antrenman ayakkabısı match
+7364,1,erkek koşu antreman ayakkabısı match
+7365,1,koşu antrenman ayakkabısı match
+7366,1,koşu antreman ayakkabısı match
+7367,1,koşu antreman ayakkabısı match
+7368,1,adidas gazelle kadın match
+7369,0,gazelle çocuk unisex not kadın
+7370,1,adidas gazelle kadın match
+7371,0,gazelle erkek not kadın
+7372,1,adidas gazelle kadın match
+7373,1,chelsea kadın bot match
+7374,1,chelsea kadın bot match
+7375,0,chelsea bot erkek not kadın
+7376,1,chelsea kadın bot match
+7377,1,chelsea kadın bot match
+7378,1,erkek siyah kazak match
+7379,1,erkek siyah kazak match
+7380,1,erkek siyah kazak match
+7381,1,erkek siyah kazak match
+7382,1,erkek siyah kazak match
+7383,0,askılı nişanlık not tesettür style
+7384,1,tesettür nişan elbisesi match
+7385,1,tesettür abiye nişanlık match
+7386,1,tesettür abiye nişanlık match
+7387,1,tesettür nişanlık abiye match
+7388,1,gülşah evecen elbise match
+7389,1,gülşah evecen elbise match
+7390,1,gülşah evecen elbise match
+7391,0,tulum not elbise
+7392,0,sweat not elbise
+7393,1,kız çocuk yöresel elbise match
+7394,0,takım not elbise
+7395,0,kostüm unisex not elbise
+7396,0,kadın yetişkin not çocuk
+7397,0,kadın yetişkin not çocuk
+7398,1,erkek bebek bayramlık takım match
+7399,1,erkek bebek bayramlık takım match
+7400,1,erkek bebek bayramlık takım match
+7401,1,erkek bebek bayramlık takım match
+7402,1,erkek bebek bayramlık takım match
+7403,1,civil baby elbise match
+7404,1,civil baby line elbise match
+7405,0,brand civil girls not civil baby
+7406,1,civil baby elbise match
+7407,1,civil baby elbise match
+7408,1,erkek oversize pantolon match
+7409,1,erkek oversize baggy match
+7410,1,erkek baggy oversize pantolon match
+7411,1,erkek oversize baggy pantolon match
+7412,1,erkek oversize baggy pantolon match
+7413,0,brand jerf not los ojos
+7414,0,brand arma life not los ojos
+7415,0,brand puma not los ojos
+7416,0,brand jerf not los ojos
+7417,0,brand decathlon not los ojos
+7418,1,mercury krampon title match
+7419,1,mercury krampon title match
+7420,1,super mercury krampon title match
+7421,1,super mercury krampon title match
+7422,1,mercury krampon title match
+7423,1,kahverengi kumaş pantolon match
+7424,1,kahverengi kumaş pantolon match
+7425,1,kahverengi kumaş pantolon match
+7426,1,kahverengi kumaş pantolon match
+7427,1,kahverengi kumaş pantolon match
+7428,1,jacbag kalem kutusu match
+7429,1,jacbag kalem kutusu match
+7430,1,jacbag kalem kutusu match
+7431,1,jacbag kalem kutusu match
+7432,1,jacbag kalem kutusu match
+7433,1,defacto tunik match
+7434,1,defacto tunik match
+7435,1,defacto tunik match
+7436,1,defacto tunik match
+7437,1,defacto tunik match
+7438,1,türkiye bozkurt forması exact match
+7439,0,no bozkurt symbol mentioned
+7440,0,no bozkurt symbol mentioned
+7441,0,no bozkurt symbol mentioned
+7442,0,no bozkurt symbol mentioned
+7443,1,triko tesettür hırka match
+7444,1,triko tesettür hırka match
+7445,0,not tesettür category
+7446,1,triko tesettür hırka match
+7447,0,not tesettür category
+7448,1,fenerbahçe çocuk forma match
+7449,1,fenerbahçe çocuk forma match
+7450,1,fenerbahçe çocuk forma match
+7451,1,fenerbahçe çocuk forma match
+7452,1,fenerbahçe çocuk forma match
+7453,1,touché privé etek match
+7454,1,touché privé etek match
+7455,1,touché privé etek match
+7456,1,touché privé etek match
+7457,1,touché privé etek match
+7458,1,pijamaevi erkek pijama takımı match
+7459,1,pijamaevi erkek pijama takımı match
+7460,1,pijamaevi erkek pijama takımı match
+7461,1,pijamaevi erkek pijama takımı match
+7462,1,pijamaevi erkek pijama takımı match
+7463,1,stylo bebek bakım çantası match
+7464,1,stylo bebek bakım çantası match
+7465,1,stylo bebek bakım çantası match
+7466,1,stylo bebek bakım çantası match
+7467,1,stylo bebek bakım çantası match
+7468,1,eşofman üstü title match
+7469,1,eşofman üstü title match
+7470,1,eşofman üstü title match
+7471,1,eşofman üstü title match
+7472,1,eşofman üstü title match
+7473,1,erkek kışlık kaban mont match
+7474,1,erkek kışlık kaban match
+7475,1,erkek kışlık kaban match
+7476,1,erkek kışlık kaban match
+7477,1,erkek kışlık kaban mont match
+7478,1,kadın kısa kollu tişört match
+7479,1,kadın kısa kollu tişört match
+7480,1,unisex kısa kollu tişört includes women
+7481,1,kadın kısa kollu tişört match
+7482,1,kadın kısa kollu tişört match
+7483,1,düğmeli elbise match
+7484,1,düğmeli elbise match
+7485,1,düğmeli elbise match
+7486,1,düğmeli elbise match
+7487,1,düğmeli elbise match
+7488,0,primarily backpack not kalemlik
+7489,0,kalem seti not kalemlik
+7490,0,versatil kalem not kalemlik
+7491,0,okul çantası not kalemlik
+7492,0,wrong team kocaelispor not galatasaray
+7493,1,belden oturmalı ceket match
+7494,1,belden oturmalı ceket match
+7495,1,belden oturmalı ceket match
+7496,1,belden oturmalı ceket match
+7497,1,bele oturan blazer match
+7498,1,şönil ip match
+7499,1,şönil ip match
+7500,1,şönil ip match
+7501,1,şönil ip match
+7502,1,şönil ip match
+7503,1,fisher price eğitici oyuncak match
+7504,1,fisher price eğitici oyuncak match
+7505,1,fisher price eğlen öğren educational match
+7506,1,fisher price eğitici oyuncak match
+7507,1,fisher price aktivite oyuncak match
+7508,1,çocuk pijama takımı match
+7509,1,çocuk pijama takımı match
+7510,1,çocuk pijama takımı match
+7511,1,çocuk pijama takımı match
+7512,1,çocuk pijama takımı match
+7513,1,hummel koşu ayakkabısı match
+7514,1,hummel koşu antreman ayakkabısı match
+7515,1,hummel koşu ayakkabısı match
+7516,1,hummel koşu antrenman ayakkabısı match
+7517,0,generic sneaker not koşu ayakkabısı
+7518,1,kadın tesettür şık elbise match
+7519,1,kadın tesettür şık elbise match
+7520,1,kadın tesettür şık elbise match
+7521,1,tesettür abiye elbise match
+7522,1,kadın tesettür şık elbise match
+7523,1,brand iron athletics club match
+7524,0,brand athletic not iron athletics
+7525,0,brand top glory not iron athletics
+7526,0,brand musclecloth not iron athletics
+7527,0,brand decathlon not iron athletics
+7528,1,bordo abiye ayakkabı match
+7529,1,bordo abiye ayakkabı match
+7530,1,bordo abiye ayakkabı match
+7531,1,bordo abiye ayakkabı match
+7532,1,bordo abiye ayakkabı match
+7533,1,labubu toy match
+7534,1,labubu toy match
+7535,1,labubu toy match
+7536,1,labubu toy match
+7537,1,labubu toy match
+7538,1,kız bebek ayakkabısı match
+7539,1,kız bebek ilk adım ayakkabı match
+7540,1,kız bebek ayakkabı görünümlü patik match
+7541,1,kız bebek spor ayakkabısı match
+7542,1,kız bebek ilk adım ayakkabısı match
+7543,1,pierre cardin erkek ceket match
+7544,1,pierre cardin erkek ceket match
+7545,1,pierre cardin erkek ceket match
+7546,1,pierre cardin erkek ceket match
+7547,0,gender kadın not erkek
+7548,1,bayan uzun kot ceket match
+7549,1,bayan uzun kot ceket match
+7550,1,bayan uzun kot ceket match
+7551,1,bayan uzun kot ceket match
+7552,1,bayan uzun kot ceket match
+7553,1,kutay collection brand match
+7554,1,kutay collection brand match
+7555,1,kutay collection brand match
+7556,0,brand şahane not kutay collection
+7557,1,kutay collection brand match
+7558,1,hazır penye şal match
+7559,1,hazır penye şal match
+7560,1,hazır penye şal match
+7561,1,hazır penye şal match
+7562,1,hazır penye şal match
+7563,1,penti ev terliği match
+7564,1,penti terlik match
+7565,1,penti terlik match
+7566,1,penti terlik match
+7567,1,penti ev terliği match
+7568,1,brand ince topuk elbise match
+7569,0,shoe not elbise or ince topuk
+7570,0,thin heel shoe not elbise
+7571,0,not ince topuk related dress
+7572,0,thin heel shoe not elbise
+7573,1,çoraplı halı saha ayakkabısı match
+7574,1,çoraplı halı saha ayakkabısı match
+7575,1,çoraplı halı saha ayakkabısı match
+7576,1,çoraplı halı saha ayakkabısı match
+7577,1,çoraplı halı saha ayakkabısı match
+7578,1,anne tesettür abiye takım match
+7579,1,anne abiye takım match
+7580,1,anne tesettür etekli takım match
+7581,0,single elbise not takım
+7582,1,anne tesettür abiye takım match
+7583,1,adidas campus 00s match
+7584,1,adidas campus 00s match
+7585,1,adidas campus 00s match
+7586,1,adidas campus 00s match
+7587,1,adidas campus 00s match
+7588,1,erkek kürklü ceket match
+7589,1,erkek kürklü ceket match
+7590,1,erkek kürklü ceket match
+7591,1,erkek kürklü ceket match
+7592,1,erkek kürklü ceket match
+7593,1,posca kalem match
+7594,1,posca kalem match
+7595,1,posca kalem match
+7596,1,posca kalem match
+7597,1,posca kalem match
+7598,1,triko tunik match
+7599,1,triko tunik match
+7600,1,triko tunik match
+7601,1,triko tunik title match
+7602,1,triko tunik match
+7603,1,iç zıbın match
+7604,1,iç zıbın match
+7605,1,iç zıbın match
+7606,1,iç zıbın match
+7607,1,iç zıbın match
+7608,1,yazlık kadın terlik match
+7609,1,yazlık kadın terlik match
+7610,1,yazlık kadın terlik match
+7611,1,yazlık kadın terlik match
+7612,1,yazlık kadın terlik match
+7613,1,isimli tulum match
+7614,1,isimli tulum match
+7615,1,isimli tulum set match
+7616,1,isimli tulum set match
+7617,1,isimli tulum set match
+7618,1,pembe kız çocuk elbise match
+7619,1,pembe kız çocuk elbise match
+7620,1,pembe kız çocuk elbise match
+7621,1,pembe kız çocuk elbise match
+7622,1,pembe kız çocuk elbise match
+7623,1,floss dental floss match
+7624,1,floss dental floss match
+7625,1,floss dental floss match
+7626,1,floss dental floss match
+7627,1,floss dental floss match
+7628,1,anex bebek arabası match
+7629,1,anex bebek arabası match
+7630,1,anex bebek arabası match
+7631,1,anex bebek arabası match
+7632,1,anex bebek arabası match
+7633,1,columbia kadın ayakkabı match
+7634,1,columbia kadın ayakkabı match
+7635,1,columbia kadın ayakkabı match
+7636,1,columbia kadın ayakkabı match
+7637,1,columbia kadın ayakkabı match
+7638,1,emporio armani kadın sweatshirt match
+7639,0,erkek gözlük not kadın
+7640,0,erkek gözlük not kadın
+7641,0,erkek gözlük not kadın
+7642,0,erkek t-shirt not kadın
+7643,1,erkek slim fit ceket match
+7644,1,erkek slim fit ceket match
+7645,1,erkek slim fit ceket match
+7646,1,erkek slim fit ceket match
+7647,1,erkek slim fit ceket match
+7648,1,adidas t-shirt match
+7649,1,adidas t-shirt match
+7650,1,adidas t-shirt match
+7651,1,adidas t-shirt match
+7652,1,adidas t-shirt match
+7653,1,ortopedik ev terliği match
+7654,1,ortopedik ev terliği match
+7655,1,ortopedik terlik match
+7656,1,ortopedik terlik match
+7657,1,ortopedik terlik match
+7658,1,twist sweatshirt match
+7659,1,twist sweatshirt match
+7660,1,twist sweatshirt match
+7661,0,cardigan not sweatshirt
+7662,1,twist sweatshirt match
+7663,1,wide leg kot pantolon match
+7664,1,wide leg kot pantolon match
+7665,1,wide leg kot pantolon match
+7666,1,wide leg kot pantolon match
+7667,1,wide leg bol paça kot pantolon match
+7668,1,erkek çocuk keten pantolon match
+7669,1,erkek çocuk keten pantolon match
+7670,1,erkek çocuk keten pantolon match
+7671,1,erkek çocuk keten pantolon match
+7672,1,erkek çocuk keten pantolon match
+7673,1,koton bebek match
+7674,1,koton bebek match
+7675,1,koton bebek match
+7676,1,koton bebek match
+7677,1,koton bebek match
+7678,1,kürk ceket match
+7679,1,kürk ceket match
+7680,1,kürk ceket match
+7681,0,vague kürk no ceket mention wool knit
+7682,1,kürk peluş ceket match
+7683,1,new balance 530 match
+7684,0,kadın gender not erkek
+7685,1,new balance 530 match
+7686,1,new balance 530 match
+7687,1,new balance 530 unisex match
+7688,0,brand justin not frappoli
+7689,0,brand moda not frappoli
+7690,0,brand ars butik not frappoli
+7691,0,brand famoda not frappoli
+7692,0,brand famoda not frappoli
+7693,1,tommy hilfiger polo yaka match
+7694,1,tommy hilfiger polo yaka match
+7695,1,tommy hilfiger polo yaka title match
+7696,1,tommy hilfiger polo yaka match
+7697,1,tommy hilfiger polo yaka match
+7698,1,erkek çocuk uzun çorap match
+7699,1,erkek çocuk uzun çorap title match

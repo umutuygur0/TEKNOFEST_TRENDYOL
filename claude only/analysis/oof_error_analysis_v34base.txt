@@ -1,0 +1,268 @@
+======================================================================
+v34 TABANI — DETAYLI OOF HATA ANALİZİ (v36b arka planda çalışırken üretildi)
+======================================================================
+
+[1] GENEL ÖZET
+  Toplam OOF çift    :  1,499,998
+  False Positive (FP):     16,279 (1.09%) ← model 1 dedi, gerçek 0
+  False Negative (FN):      9,018 (0.60%) ← model 0 dedi, gerçek 1
+  Precision=0.9367 | Recall=0.9639 | OOF F1=0.96999
+
+[2] PER-QUERY F1 (sadece training sorguları, term_id bazında)
+  Sorgu sayısı: 17,968 | Ortalama query F1: 0.9716 | Medyan: 1.0000
+  F1=0.0 olan sorgu: 0 (0.0%)
+  F1<0.5 olan sorgu: 172 (1.0%)
+
+  Sorgu uzunluğuna göre ortalama F1 (Türkçe query karmaşıklığı sinyali):
+    1 kelime: F1=0.926 (n=1723)
+    2 kelime: F1=0.972 (n=7504)
+    3 kelime: F1=0.980 (n=5899)
+    4 kelime: F1=0.981 (n=2063)
+    5 kelime: F1=0.984 (n=590)
+    6 kelime: F1=0.991 (n=154)
+    7 kelime: F1=0.966 (n=30)
+
+  Ana kategoriye göre en düşük F1 (n>=30, en kötü 15):
+    ayakkabı                            F1=0.950 (n=1165)
+    kırtasiye & ofis malzemeleri        F1=0.957 (n=371)
+    anne & bebek & çocuk                F1=0.963 (n=605)
+    hobi & eğlence                      F1=0.964 (n=365)
+    giyim                               F1=0.968 (n=2798)
+    bahçe & elektrikli el aletleri      F1=0.970 (n=276)
+    kitap                               F1=0.970 (n=366)
+    kozmetik & kişisel bakım            F1=0.971 (n=1726)
+    banyo yapı & hırdavat               F1=0.972 (n=419)
+    elektronik                          F1=0.974 (n=1874)
+    otomobil & motosiklet               F1=0.974 (n=593)
+    aksesuar                            F1=0.976 (n=1501)
+    süpermarket                         F1=0.977 (n=1142)
+    ev & mobilya                        F1=0.978 (n=4421)
+    spor & outdoor                      F1=0.980 (n=346)
+
+[3] FALSE POSITIVE PROFİLİ (n=16,279) — model neye kanıyor?
+    category_phrase_match     FP=0.233  TN=-0.584  fark=+0.816
+    bert_score                FP=0.727  TN=0.005  fark=+0.722
+    token_overlap             FP=0.734  TN=0.068  fark=+0.665
+    trusted_brand_mismatch    FP=0.442  TN=-0.210  fark=+0.653
+    tyembed_cos               FP=0.609  TN=0.130  fark=+0.479
+    first_tok_brand           FP=0.493  TN=0.064  fark=+0.429
+    brand_tok_ovlp            FP=0.478  TN=0.061  fark=+0.416
+    head_in_title             FP=0.415  TN=0.029  fark=+0.385
+    product_type_cover        FP=0.386  TN=0.022  fark=+0.363
+    head_in_cat               FP=0.400  TN=0.045  fark=+0.355
+    weighted_q_cov            FP=0.384  TN=0.030  fark=+0.354
+    brand_weight              FP=0.357  TN=0.029  fark=+0.328
+
+[4] FALSE NEGATIVE PROFİLİ (n=9,018) — model neyi kaçırıyor?
+    token_overlap             FN=0.458  TP=1.340  fark=-0.883
+    bert_score                FN=0.273  TP=0.957  fark=-0.684
+    category_phrase_match     FN=-0.015  TP=0.499  fark=-0.514
+    t_len                     FN=8.284  TP=8.787  fark=-0.503
+    product_type_cover        FN=0.230  TP=0.694  fark=-0.463
+    head_in_cat               FN=0.267  TP=0.688  fark=-0.422
+    head_in_title             FN=0.269  TP=0.669  fark=-0.401
+    weighted_q_cov            FN=0.247  TP=0.641  fark=-0.394
+    q_cov_title               FN=0.186  TP=0.539  fark=-0.352
+    q_len                     FN=2.139  TP=2.487  fark=-0.348
+    first_tok_title           FN=0.175  TP=0.500  fark=-0.326
+    fuzz_set                  FN=0.358  TP=0.658  fark=-0.299
+
+[5] EN 'EMİN' YANLIŞ POZİTİFLER (model çok emindi ama yanlıştı — 20 örnek)
+  proba=1.000 bert=0.996 tyembed=0.785 fuzz=0.77 head_in_title=1.0
+    SORGU : molfix 6 bebek bezi
+    ÜRÜN  : bebek bezi 6 beden extra large avantajlı paket 114 adet
+    Marka : molfix | Kategori: süpermarket
+  proba=1.000 bert=0.996 tyembed=0.819 fuzz=0.84 head_in_title=0.0
+    SORGU : tek kişilik çarşaf takımı
+    ÜRÜN  : tek kişilik lastikli çarşaf takimi
+    Marka : serenart home | Kategori: ev & mobilya
+  proba=1.000 bert=0.996 tyembed=0.822 fuzz=0.83 head_in_title=1.0
+    SORGU : puma sırt çantası
+    ÜRÜN  : phase backpack ii unisex sırt çantası
+    Marka : puma | Kategori: aksesuar
+  proba=1.000 bert=0.995 tyembed=0.778 fuzz=0.26 head_in_title=0.8
+    SORGU : domol oda kokusu
+    ÜRÜN  : kokulu çubuk calming white beyaz çiçek 100 ml
+    Marka : domol | Kategori: ev & mobilya
+  proba=1.000 bert=0.996 tyembed=0.868 fuzz=1.00 head_in_title=1.0
+    SORGU : güler erkan kalıpları
+    ÜRÜN  : güler erkan moda-2 provasız etek giyim kalıpları no 94
+    Marka : dilem yayınları | Kategori: kitap
+  proba=1.000 bert=0.991 tyembed=0.766 fuzz=0.48 head_in_title=1.0
+    SORGU : tesettür giyim pardesü
+    ÜRÜN  : hakim yaka gizli düğmeli pardesü 1314
+    Marka : alvina | Kategori: giyim
+  proba=1.000 bert=0.995 tyembed=0.747 fuzz=1.00 head_in_title=1.0
+    SORGU : crop ceket
+    ÜRÜN  : desenli crop ceket
+    Marka : bynpol | Kategori: giyim
+  proba=1.000 bert=0.996 tyembed=0.736 fuzz=1.00 head_in_title=1.0
+    SORGU : kadın kahverengi bot
+    ÜRÜN  : kadın kahverengi fermuarlı kalın tabanlı süet deri postal bot 25wfd511510
+    Marka : derimod | Kategori: ayakkabı
+  proba=1.000 bert=0.994 tyembed=0.834 fuzz=1.00 head_in_title=1.0
+    SORGU : gebelik testi
+    ÜRÜN  : erken gebelik testi
+    Marka : prodoctor | Kategori: süpermarket
+  proba=1.000 bert=0.943 tyembed=0.785 fuzz=0.85 head_in_title=1.0
+    SORGU : kadın büyük beden ceket
+    ÜRÜN  : uzun kollu fermuarlı büyük beden süet ceket 174917
+    Marka : bz boutique | Kategori: giyim
+  proba=1.000 bert=0.986 tyembed=0.438 fuzz=0.33 head_in_title=0.8
+    SORGU : ders ve yardımcı kitaplar
+    ÜRÜN  : bilfen yayınları 8. sınıf lgs pro & test tüm dersler soru bankası seti 6 kitap + 3'lü kale
+    Marka : bilfen yayıncılık | Kategori: kitap
+  proba=1.000 bert=0.996 tyembed=0.833 fuzz=0.77 head_in_title=1.0
+    SORGU : tudors erkek gömlek
+    ÜRÜN  : erkek regular fit klasik kesim düğmeli yaka küçük kareli pamuklu gömlek
+    Marka : tudors | Kategori: giyim
+  proba=1.000 bert=0.996 tyembed=0.789 fuzz=0.67 head_in_title=1.0
+    SORGU : tesettür kot ceket
+    ÜRÜN  : cep detaylı kot ceket
+    Marka : lurex moda | Kategori: giyim
+  proba=1.000 bert=0.995 tyembed=0.776 fuzz=1.00 head_in_title=1.0
+    SORGU : anne bebek çantası
+    ÜRÜN  : oysmom termal anne bebek bakım çantası
+    Marka : kinder baby | Kategori: anne & bebek & çocuk
+  proba=1.000 bert=0.993 tyembed=0.458 fuzz=0.67 head_in_title=1.0
+    SORGU : beyaz gömlek
+    ÜRÜN  : kum oversize uzun kollu gömlek 50313596-vr085
+    Marka : pierre cardin | Kategori: giyim
+  proba=1.000 bert=0.995 tyembed=0.668 fuzz=0.62 head_in_title=1.0
+    SORGU : adidas çocuk ayakkabı
+    ÜRÜN  : summerflex kids ayakkabı
+    Marka : adidas | Kategori: ayakkabı
+  proba=1.000 bert=0.996 tyembed=0.599 fuzz=0.34 head_in_title=0.0
+    SORGU : çatal kaşık bıçak
+    ÜRÜN  : dmr life venezia gold 6 adet tatlı çatalı gold
+    Marka : demir çeyiz | Kategori: ev & mobilya
+  proba=1.000 bert=0.995 tyembed=0.731 fuzz=0.55 head_in_title=1.0
+    SORGU : adidas çocuk spor ayakkabı
+    ÜRÜN  : advantage base 2.0 kids ayakkabı
+    Marka : adidas | Kategori: ayakkabı
+  proba=1.000 bert=0.994 tyembed=0.587 fuzz=0.55 head_in_title=0.0
+    SORGU : uzun kollu bebek zıbın
+    ÜRÜN  : halasının kızçesi (uzun kollu zıbın)
+    Marka : trakya bazaar | Kategori: giyim
+  proba=1.000 bert=0.991 tyembed=0.820 fuzz=0.85 head_in_title=1.0
+    SORGU : kadın büyük beden ceket
+    ÜRÜN  : büyük beden uzun gold düğmeli siyah blazer ceket
+    Marka : ashley | Kategori: giyim
+
+[6] EN 'EMİN' YANLIŞ NEGATİFLER (model çok emin kaçırdı — 20 örnek)
+  proba=0.000 bert=0.000 tyembed=0.066 fuzz=0.12 head_in_title=0.0
+    SORGU : sütlük
+    ÜRÜN  : emily long lasting lip pencil 208 – uzun süre kalıcı, yumuşak uçlu dudak kalemi
+    Marka : trade bazaar | Kategori: kozmetik & kişisel bakım
+  proba=0.000 bert=0.000 tyembed=0.133 fuzz=0.18 head_in_title=0.0
+    SORGU : kitap okuma
+    ÜRÜN  : sallanan ahşap ayaklı kırık beyaz rengi berjer koltuk - puf hediyeli
+    Marka : webpanya | Kategori: ev & mobilya
+  proba=0.000 bert=0.000 tyembed=0.053 fuzz=0.13 head_in_title=0.0
+    SORGU : mutfak eşyası
+    ÜRÜN  : ds6-905 sürgülü aspiratör - inox
+    Marka : kumtel | Kategori: elektronik
+  proba=0.000 bert=0.000 tyembed=0.055 fuzz=0.22 head_in_title=0.0
+    SORGU : okul eşyaları
+    ÜRÜN  : kadın pudra cüzdan 50314832-vr042
+    Marka : u.s. polo assn. | Kategori: aksesuar
+  proba=0.000 bert=0.000 tyembed=0.057 fuzz=0.05 head_in_title=0.0
+    SORGU : gümüş
+    ÜRÜN  : ince tokalı lastikli kadın pantolon kemeri, ceket kemeri, elbise kemeri, gömlek kemeri
+    Marka : fiori | Kategori: aksesuar
+  proba=0.000 bert=0.000 tyembed=0.132 fuzz=0.14 head_in_title=0.0
+    SORGU : ceo
+    ÜRÜN  : haki keten etekli salopet
+    Marka : ceylan otantik | Kategori: giyim
+  proba=0.000 bert=0.009 tyembed=0.644 fuzz=0.89 head_in_title=1.0
+    SORGU : kadın erkek çift pijama takımı
+    ÜRÜN  : kadın yazlık şortlu pijama takımı çift kombini yapılabilir bir adet fiyatıdır
+    Marka : moda clubu | Kategori: giyim
+  proba=0.000 bert=0.000 tyembed=0.085 fuzz=0.07 head_in_title=0.0
+    SORGU : şap
+    ÜRÜN  : otomatik mop temizlik seti temiz&kirli su ayrımı mikrofiber kare başlık 2 adet bez
+    Marka : moppak | Kategori: süpermarket
+  proba=0.000 bert=0.000 tyembed=0.350 fuzz=0.24 head_in_title=0.0
+    SORGU : honda pcx 125 aksesuar
+    ÜRÜN  : 7 renkli rgb led motosiklet uyarı kaza önleyici mini pilli sinyal led drone led
+    Marka : sendem | Kategori: otomobil & motosiklet
+  proba=0.000 bert=0.000 tyembed=0.272 fuzz=0.21 head_in_title=0.0
+    SORGU : thanks its mac
+    ÜRÜN  : yumuşak uçlu göz kalemi - eye kohl - costa riche 1.36 g
+    Marka : m.a.c | Kategori: kozmetik & kişisel bakım
+  proba=0.000 bert=0.000 tyembed=0.287 fuzz=0.50 head_in_title=0.0
+    SORGU : yapay çiçek süs
+    ÜRÜN  : yapay sarmaşık çit 3x1.2 cm, bahçe balkon çiti ahşap akordiyon çit
+    Marka : zisayt | Kategori: bahçe & elektrikli el aletleri
+  proba=0.000 bert=0.000 tyembed=0.455 fuzz=0.29 head_in_title=0.0
+    SORGU : çelik kapı kilit göbeği
+    ÜRÜN  : 264 cec tüpten şifreli yüksek güvenlikli silindir 2'li set ortak anahtar
+    Marka : kale | Kategori: banyo yapı & hırdavat
+  proba=0.000 bert=0.000 tyembed=0.358 fuzz=0.29 head_in_title=0.0
+    SORGU : orta sehpa aksesuar
+    ÜRÜN  : servis sunum tepsisi ikramlık gold büyük lüks organizer sofra mutfak söz nişan tepsisi
+    Marka : bino | Kategori: ev & mobilya
+  proba=0.000 bert=0.000 tyembed=0.176 fuzz=0.28 head_in_title=0.0
+    SORGU : hyundai i20 aksesuar
+    ÜRÜN  : panda prestij serisi dokuma kumaş oto koltuk kilifi tam set
+    Marka : panda kılıf | Kategori: otomobil & motosiklet
+  proba=0.000 bert=0.000 tyembed=0.212 fuzz=0.25 head_in_title=0.0
+    SORGU : deniz kabukları
+    ÜRÜN  : 12 adet saç küpesi saç yüzüğü
+    Marka : gülpeşe | Kategori: aksesuar
+  proba=0.000 bert=0.000 tyembed=0.203 fuzz=0.26 head_in_title=0.0
+    SORGU : tesettür spor elbise
+    ÜRÜN  : lüx kalite haki kadın düşük omuz oversize keten cep detaylı gömlek
+    Marka : shiron sportswear&company | Kategori: giyim
+  proba=0.000 bert=0.000 tyembed=0.551 fuzz=0.19 head_in_title=0.0
+    SORGU : yaka iğnesi
+    ÜRÜN  : ay yıldız altın kaplama zirkonyum taşlı incili broş
+    Marka : fatma yaşar | Kategori: aksesuar
+  proba=0.000 bert=0.000 tyembed=0.227 fuzz=0.13 head_in_title=0.0
+    SORGU : ant home
+    ÜRÜN  : ipek saten 50x70 cm yastık kılıfı 2 adet kıvırcık saçlar siyah 2 adet çeyizlik
+    Marka : ag atölye | Kategori: ev & mobilya
+  proba=0.000 bert=0.000 tyembed=0.311 fuzz=0.61 head_in_title=1.0
+    SORGU : notebook çantası
+    ÜRÜN  : erkek portföy çantası 01pc002001-f
+    Marka : pierre cardin | Kategori: aksesuar
+  proba=0.000 bert=0.000 tyembed=0.241 fuzz=0.15 head_in_title=0.0
+    SORGU : aydın yüce
+    ÜRÜN  : 2026 kpss tarih video ders notları yayınları
+    Marka : benim hocam yayınları | Kategori: kitap
+
+[7] EN DÜŞÜK F1'Lİ 30 SORGU (Türkçe anlamlandırma en çok başarısız olduğu yerler)
+  F1=0.40 prec=0.00 rec=0.00 | "frank müller" (kat=banyo yapı & hırdavat, 1 poz/5 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "beşiktaş erkek" (kat=giyim, 2 poz/10 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "robix" (kat=elektronik, 3 poz/15 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "lavoba" (kat=banyo yapı & hırdavat, 1 poz/5 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "loral" (kat=giyim, 1 poz/5 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "isonem jel beton" (kat=banyo yapı & hırdavat, 1 poz/5 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "fakir koltuk yıkama" (kat=elektronik, 1 poz/5 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "oturma odası aksesuar" (kat=ev & mobilya, 1 poz/5 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "nokia" (kat=elektronik, 3 poz/15 neg)
+  F1=0.40 prec=0.00 rec=0.00 | "makyaj masası organizeri" (kat=elektronik, 1 poz/5 neg)
+  F1=0.43 prec=0.00 rec=0.00 | "dekatlon kadın" (kat=giyim, 2 poz/10 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "kaft kadın" (kat=aksesuar, 14 poz/70 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "345 start" (kat=kitap, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "school panda" (kat=aksesuar, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "bohem ranır" (kat=ev & mobilya, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "erkek saç şekillendirici" (kat=aksesuar, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "lc waikiki kız çocuk eşofman takımı" (kat=giyim, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "trekking" (kat=ayakkabı, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "einhell şarjlı matkap" (kat=bahçe & elektrikli el aletleri, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "loreal göz kalemi" (kat=kozmetik & kişisel bakım, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "maf" (kat=kozmetik & kişisel bakım, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "çocuk krop" (kat=giyim, 7 poz/35 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "popo maskesi" (kat=kozmetik & kişisel bakım, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "cros kask" (kat=aksesuar, 2 poz/10 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "baby brown" (kat=giyim, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "thanks its mac" (kat=hobi & eğlence, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "usa polo" (kat=giyim, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "mad c119" (kat=kozmetik & kişisel bakım, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "nike kapşonlu" (kat=giyim, 1 poz/5 neg)
+  F1=0.45 prec=0.00 rec=0.00 | "çift kişilik yorganlı nevresim takımı" (kat=ev & mobilya, 1 poz/5 neg)
+
+======================================================================
+Toplam süre: 103.2 dk (CPU-only, GPU kullanılmadı)
+======================================================================

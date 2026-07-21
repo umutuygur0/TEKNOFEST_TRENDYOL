@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+1750,1,spray bottle matches fısfıs
+1751,1,spray bottle matches fısfıs
+1752,1,spray bottle matches fısfıs
+1753,1,spray bottle matches fısfıs
+1754,1,spray bottle matches fısfıs
+1755,1,brand puklife match
+1756,1,brand puklife match
+1757,1,brand puklife match
+1758,1,brand puklife match
+1759,1,brand puklife match
+1760,1,exact grintuss product
+1761,0,succulent plant unrelated
+1762,0,dog toy unrelated
+1763,0,plush toy unrelated
+1764,0,model airplane unrelated
+1765,1,neck band product
+1766,1,neck warmer matches
+1767,1,neck shoulder pillow matches
+1768,1,travel neck pillow matches
+1769,1,neck shoulder heating pad
+1770,1,wall sconce matches aplik
+1771,1,wall sconce matches aplik
+1772,1,wall sconce matches aplik
+1773,1,wall sconce matches aplik
+1774,1,wall sconce matches aplik
+1775,1,brand desigual match
+1776,1,brand desigual match
+1777,1,brand desigual match
+1778,1,brand desigual match
+1779,1,brand desigual match
+1780,1,brand beaulis matches query
+1781,1,brand beaulis matches query
+1782,1,brand beaulis matches query
+1783,1,brand beaulis matches query
+1784,1,brand beaulis matches query
+1785,1,valentine romantic themed sweatshirt
+1786,0,band shirt not romantic themed
+1787,0,band name not romantic style
+1788,0,band name not romantic style
+1789,0,vintage rose print not clearly romantic
+1790,1,fabric softener matches yumuş
+1791,1,fabric softener matches yumuş
+1792,1,fabric softener matches yumuş
+1793,1,fabric softener matches yumuş
+1794,1,fabric softener matches yumuş
+1795,1,carpet matches halı
+1796,1,rug matches halı
+1797,1,carpet matches halı
+1798,1,rug matches halı
+1799,1,rug matches halı
+1800,1,welcome door ornament
+1801,1,welcome door ornament
+1802,1,welcome door ornament
+1803,1,welcome door ornament
+1804,1,welcome door ornament
+1805,1,title contains lavin
+1806,1,title contains lavin
+1807,1,brand lavin giyim
+1808,1,title contains lavin
+1809,1,title contains lavin
+1810,1,sauce matches soslar
+1811,1,sauce matches soslar
+1812,1,sauce matches soslar
+1813,1,sauce matches soslar
+1814,1,sauce matches soslar
+1815,1,brand ervalina match
+1816,1,brand ervalina match
+1817,1,brand ervalina match
+1818,1,brand ervalina match
+1819,1,brand ervalina match
+1820,1,teacher gift item
+1821,1,teacher gift item
+1822,1,teacher gift item
+1823,1,teacher gift item
+1824,1,teacher gift item
+1825,1,pressure cooker matches
+1826,1,pressure cooker matches
+1827,1,pressure cooker matches
+1828,1,pressure cooker matches
+1829,1,pressure cooker matches
+1830,1,brand goodal match
+1831,1,brand goodal match
+1832,1,brand goodal match
+1833,1,brand goodal match
+1834,1,brand goodal match
+1835,1,spice set matches
+1836,1,spice set matches
+1837,1,spice rack matches
+1838,1,spice set matches
+1839,1,spice set matches
+1840,1,punch needle kit
+1841,1,punch needle hoop kit
+1842,1,punch needle kit
+1843,1,punch needle kit
+1844,1,punch needle kit
+1845,1,astrology book
+1846,1,astrology book
+1847,1,astrology book
+1848,1,astrology book
+1849,1,astrology book
+1850,1,shade 03 product
+1851,1,shade 03 product
+1852,1,shade 03 product
+1853,1,shade 03 product
+1854,1,shade 03 product
+1855,1,keyboard matches klavye
+1856,1,keyboard matches klavye
+1857,1,keyboard matches klavye
+1858,1,keyboard matches klavye
+1859,1,keyboard mouse set matches
+1860,1,yazma headscarf match
+1861,1,yazma headscarf match
+1862,1,yazma headscarf match
+1863,1,yazma headscarf match
+1864,1,yazma headscarf match
+1865,1,room fragrance matches koku
+1866,1,room fragrance matches koku
+1867,1,room fragrance matches koku
+1868,1,room fragrance matches koku
+1869,1,room fragrance matches koku
+1870,1,fantom vacuum cleaner
+1871,1,brand fantom vacuum
+1872,1,brand fantom vacuum
+1873,1,brand fantom vacuum
+1874,1,brand fantom vacuum
+1875,1,resistor spec matches direnç
+1876,1,resistor spec matches direnç
+1877,1,resistance band matches direnç
+1878,1,resistance band matches direnç
+1879,1,resistance band matches direnç
+1880,1,prayer beads match
+1881,1,prayer beads match
+1882,1,prayer beads match
+1883,1,prayer beads match
+1884,1,prayer beads match
+1885,1,taso collectible caps
+1886,1,taso collectible caps
+1887,1,taso collectible caps
+1888,1,taso themed brawl stars
+1889,0,folder not taso itself
+1890,1,ukulele instrument match
+1891,1,ukulele instrument match
+1892,1,ukulele instrument match
+1893,1,ukulele instrument match
+1894,1,ukulele instrument match
+1895,0,thor hammer not torriden brand
+1896,0,got mug not torriden brand
+1897,0,thor mug not torriden brand
+1898,0,pickle unrelated
+1899,0,thor figure not torriden brand
+1900,1,under eye serum match
+1901,1,under eye cream match
+1902,1,under eye serum match
+1903,1,under eye serum match
+1904,1,under eye cream match
+1905,0,coloring book unrelated to karin
+1906,0,coloring book unrelated to karin
+1907,1,karin hat calligraphy set
+1908,0,coloring book unrelated to karin
+1909,0,coloring book unrelated to karin
+1910,0,brand herbalife not herbamine
+1911,0,brand procsin not herbamine
+1912,0,brand herbalife not herbamine
+1913,0,brand pierre cardin not herbamine
+1914,0,brand herbs cosmetika not herbamine
+1915,1,brand rissoli match
+1916,1,brand rissoli match
+1917,1,brand rissoli match
+1918,1,brand rissoli match
+1919,1,brand rissoli match
+1920,1,integral math book
+1921,1,integral math book
+1922,1,integral math book
+1923,1,integral math book
+1924,1,integral math book
+1925,0,massage gun not themra brand
+1926,0,supplement not themra brand
+1927,0,amino acid not themra brand
+1928,0,tea not themra brand
+1929,0,tea not themra brand
+1930,1,brand shiseido match
+1931,1,brand shiseido match
+1932,1,brand shiseido match
+1933,1,brand shiseido match
+1934,0,football jersey unrelated brand
+1935,1,brand bonacibo match
+1936,1,brand bonacibo match
+1937,1,brand bonacibo match
+1938,1,brand bonacibo match
+1939,0,chocolate brand buono not bonacibo
+1940,1,thermos matches termoslar
+1941,1,thermos matches termoslar
+1942,1,thermos matches termoslar
+1943,1,thermos matches termoslar
+1944,1,thermos matches termoslar
+1945,1,brand koleston match
+1946,1,brand koleston match
+1947,1,brand koleston match
+1948,1,brand koleston match
+1949,1,brand koleston match
+1950,1,serving scoop matches kürek
+1951,1,wooden scoop matches kürek
+1952,1,paddle matches kürek
+1953,1,snow shovel matches kürek
+1954,1,folding shovel matches kürek
+1955,1,disposable glove matches
+1956,1,disposable glove matches
+1957,1,disposable glove matches
+1958,1,disposable glove matches
+1959,1,disposable glove matches
+1960,1,car stereo matches teyp
+1961,1,car stereo matches teyp
+1962,1,car stereo matches teyp
+1963,1,car stereo matches teyp
+1964,1,car stereo matches teyp
+1965,1,coffee table matches sehpa
+1966,1,coffee table matches sehpa
+1967,1,coffee table matches sehpa
+1968,1,coffee table matches sehpa
+1969,1,coffee table matches sehpa
+1970,0,speaker unrelated to pomni
+1971,0,speaker unrelated to pomni
+1972,0,harmonica unrelated to pomni
+1973,0,speaker unrelated to pomni
+1974,0,speaker unrelated to pomni
+1975,1,stamp pen set matches
+1976,1,nail stamping plate matches
+1977,1,nail stamping set matches
+1978,1,nail stamper tool matches
+1979,1,stamp seal matches stamper
+1980,1,incense holder matches
+1981,1,incense holder matches
+1982,1,incense holder matches
+1983,1,incense burner matches
+1984,1,incense holder matches
+1985,1,brand aryıldız match
+1986,1,brand aryıldız match
+1987,1,brand aryıldız match
+1988,1,brand aryıldız match
+1989,1,brand aryıldız match
+1990,1,brand for-x match
+1991,1,brand forex match
+1992,1,brand for-x match
+1993,1,brand for-x match
+1994,1,brand for-x match
+1995,1,label holder matches
+1996,0,sticker for etiketçi not etiketlik
+1997,1,label matches etiketlik
+1998,0,car part not etiketlik
+1999,1,shelf label holder matches
+2000,1,uncharted game match
+2001,1,uncharted game match
+2002,1,uncharted game match
+2003,1,uncharted game match
+2004,1,uncharted game poster
+2005,1,renault laguna part match
+2006,1,renault laguna part match
+2007,0,lancia delta not laguna
+2008,0,lancia dedra not laguna
+2009,0,lancia delta not laguna
+2010,1,exact tk03 motor match
+2011,0,helmet not tk03
+2012,0,helmet not tk03
+2013,0,helmet lock not tk03
+2014,0,helmet not tk03
+2015,1,necklace matches kolye
+2016,1,necklace matches kolye
+2017,1,necklace matches kolye
+2018,1,necklace matches kolye
+2019,1,necklace matches kolye
+2020,1,brand shule bags match
+2021,1,brand shule bags match
+2022,1,brand shule bags match
+2023,1,brand shule bags match
+2024,1,brand shule bags match
+2025,1,titanium cookware match
+2026,0,wax product not titanium material
+2027,1,titanium cookware match
+2028,1,titanium cookware match
+2029,1,titanium cookware match
+2030,1,chain matches zincir
+2031,1,chain matches zincir
+2032,1,chain matches zincir
+2033,1,chain matches zincir
+2034,1,chain matches zincir
+2035,1,easel included matches
+2036,1,easel matches şövale
+2037,1,easel matches şövale
+2038,1,tabletop easel matches
+2039,1,small easel matches
+2040,1,weekly planner match
+2041,1,weekly planner match
+2042,1,weekly planner match
+2043,1,weekly planner match
+2044,1,weekly monthly planner match
+2045,1,table lamp matches abajur
+2046,1,table lamp matches abajur
+2047,1,table lamp matches abajur
+2048,1,table lamp matches abajur
+2049,1,table lamp matches abajur
+2050,1,brand hankook tire match
+2051,1,brand hankook tire match
+2052,1,brand hankook tire match
+2053,1,brand hankook tire match
+2054,1,brand hankook tire match
+2055,1,trench coat match
+2056,1,trench coat match
+2057,1,trench coat match
+2058,1,trench coat match
+2059,1,trench coat match
+2060,1,seaweed matches yosun
+2061,1,seaweed matches yosun
+2062,1,seaweed matches yosun
+2063,1,moss matches yosun
+2064,1,seaweed matches yosun
+2065,0,puffer jacket no 6x match
+2066,1,tefal 6x model match
+2067,1,tefal 6x model match
+2068,0,x6 phone not 6x
+2069,1,tefal 6x model match
+2070,1,ashtray matches küllük
+2071,1,ashtray matches küllük
+2072,1,ashtray matches küllük
+2073,1,ashtray matches küllük
+2074,1,ashtray matches küllük
+2075,1,floor lamp matches lambader
+2076,1,floor lamp matches lambader
+2077,1,floor lamp matches lambader
+2078,1,floor lamp matches lambader
+2079,1,floor lamp matches lambader
+2080,1,salt shaker matches
+2081,1,salt shaker matches
+2082,1,salt shaker matches
+2083,1,salt pepper shaker matches
+2084,1,salt shaker matches
+2085,1,brand decathlon match
+2086,1,brand decathlon match
+2087,1,brand decathlon match
+2088,1,brand decathlon match
+2089,1,brand decathlon match
+2090,1,baguette bag style match
+2091,1,baguette bag style match
+2092,1,baguette cut ring match
+2093,1,baguette bag style match
+2094,1,baguette bag style match
+2095,0,brand hera not dimes
+2096,1,brand dimes match
+2097,0,brand balparmak not dimes
+2098,1,brand dimes match
+2099,0,brand swf not dimes

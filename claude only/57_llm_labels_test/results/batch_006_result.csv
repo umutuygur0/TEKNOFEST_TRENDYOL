@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2100,1,towel hanger matches query
+2101,1,towel hanger matches query
+2102,1,towel hanger matches query
+2103,1,towel hanger matches query
+2104,1,towel hanger matches query
+2105,1,men's cream shirt match
+2106,1,cream denim shirt for men
+2107,1,cream shirt for men
+2108,1,cream shirt for men
+2109,1,cream shirt for men
+2110,1,lufian walking shoe category
+2111,1,lufian walking shoe category
+2112,1,lufian walking shoe category
+2113,1,lufian walking shoe category
+2114,1,lufian walking shoe category
+2115,1,sweatpants match
+2116,1,sweatpants match
+2117,1,sweatpants match
+2118,1,sweatpants match
+2119,1,sweatpants match
+2120,1,cpu cooler match
+2121,1,cpu cooler match
+2122,1,cpu cooler match
+2123,1,cpu cooler match
+2124,1,cpu cooler match
+2125,1,alpinestars motorcycle jacket
+2126,1,alpinestars motorcycle jacket
+2127,1,alpinestars motorcycle jacket
+2128,1,alpinestars motorcycle jacket
+2129,1,alpinestars motorcycle jacket
+2130,1,konfor brand carpet
+2131,1,konfor brand carpet
+2132,1,konfor brand carpet
+2133,1,konfor brand carpet
+2134,1,konfor brand carpet
+2135,1,galaxy tab a9 plus match
+2136,1,galaxy tab a9 plus match
+2137,1,galaxy tab a9 plus match
+2138,1,galaxy tab a9 plus match
+2139,1,galaxy tab a9 plus match
+2140,1,pj masks figure toy
+2141,1,pj masks figure toy
+2142,1,pj masks figure toy
+2143,1,pj masks figure toy
+2144,1,pj masks figure toy
+2145,1,altus dryer match
+2146,1,altus dryer match
+2147,1,altus dryer match
+2148,1,altus dryer match
+2149,1,altus dryer match
+2150,1,cata smart plug match
+2151,1,cata smart plug match
+2152,0,night lamp not smart plug
+2153,0,table lamp not smart plug
+2154,0,night lamp different brand
+2155,1,philips smart bulb
+2156,1,philips smart bulb set
+2157,0,motion sensor led not smart lamp
+2158,1,philips hue smart spot
+2159,0,led strip not a lamp
+2160,0,pants not ugg item; wrong product type
+2161,0,not oysho and not ugg
+2162,0,not oysho and not ugg
+2163,0,not oysho and not ugg
+2164,0,not oysho and not ugg
+2165,1,kids football jersey
+2166,1,child football jersey set
+2167,1,kids football jersey
+2168,1,kids football jersey
+2169,1,kids football jersey
+2170,1,soldering iron match
+2171,1,soldering iron match
+2172,1,soldering iron match
+2173,1,soldering iron match
+2174,1,soldering iron match
+2175,1,rani coffee corner cabinet
+2176,1,rani coffee corner cabinet
+2177,1,rani coffee corner cabinet
+2178,1,rani coffee corner cabinet
+2179,1,rani coffee corner cabinet
+2180,1,winter motorcycle glove
+2181,1,winter motorcycle glove
+2182,1,winter motorcycle glove
+2183,1,winter motorcycle glove
+2184,0,summer glove not winter
+2185,1,tp-link smart camera
+2186,1,tp-link smart camera
+2187,1,tp-link smart camera
+2188,1,tp-link smart camera
+2189,1,tp-link smart camera
+2190,1,nostril shaper match
+2191,1,nostril shaper match
+2192,1,nostril shaper match
+2193,1,nostril shaper match
+2194,1,nostril shaper match
+2195,1,dishwasher liquid detergent
+2196,1,dishwasher liquid detergent
+2197,1,dishwasher liquid detergent
+2198,0,hand-wash detergent not dishwasher
+2199,0,hand-wash detergent not dishwasher
+2200,1,exact qcy h3 model
+2201,0,wrong qcy model h2 pro
+2202,0,wrong brand havit
+2203,0,wrong brand tech&bello
+2204,0,wrong brand guess
+2205,1,women's sunglasses
+2206,1,unisex sunglasses suits women
+2207,1,women's sunglasses set
+2208,1,unisex sunglasses
+2209,1,unisex sunglasses suits women
+2210,1,psp console match
+2211,0,playstation portal not psp/vita
+2212,0,ps5 game not console
+2213,0,ps5 controller not psp/vita
+2214,0,ps5 gamepad not psp/vita
+2215,1,butterfly brand racket
+2216,1,butterfly brand racket
+2217,1,butterfly brand racket
+2218,1,butterfly brand racket
+2219,1,butterfly brand racket
+2220,1,ltb men's coat
+2221,1,ltb men's coat
+2222,1,ltb men's coat
+2223,1,ltb men's coat
+2224,1,ltb men's coat
+2225,1,bioderma micellar water
+2226,1,bioderma micellar water
+2227,1,bioderma micellar water
+2228,1,bioderma micellar water set
+2229,0,foaming gel not micellar water
+2230,0,wrong model gt3 pro
+2231,0,wrong model gt2 not pro
+2232,0,wrong model gt active
+2233,0,wrong model gt4/5/6
+2234,0,wrong model gt6 pro
+2235,1,bmw sticker match
+2236,1,bmw logo sticker
+2237,1,bmw sticker set
+2238,1,bmw metal sticker
+2239,1,bmw sticker decal
+2240,0,christmas cushion not cookie themed
+2241,0,cookie cutter not pillow
+2242,0,cookie cutter not pillow
+2243,0,cookie cutter not pillow
+2244,0,plain cushion not cookie themed
+2245,1,ski jacket unisex fits query
+2246,1,men's ski jacket
+2247,1,men's ski jacket
+2248,1,men's ski jacket
+2249,1,men's ski jacket title match
+2250,1,cigarette case match
+2251,1,cigarette case match
+2252,1,cigarette case match
+2253,1,cigarette case match
+2254,1,cigarette case match
+2255,1,boys white shirt
+2256,1,boys white shirt
+2257,1,boys white shirt
+2258,1,boys white shirt
+2259,1,boys white shirt
+2260,1,credit card cover sticker
+2261,1,credit card cover sticker
+2262,1,credit card cover sticker
+2263,1,credit card cover sticker
+2264,1,credit card cover sticker
+2265,1,work jacket match
+2266,1,work jacket match
+2267,1,work jacket match
+2268,1,work jacket match
+2269,1,work jacket match
+2270,1,girls elementary school bag - title says kiz cocuk
+2271,1,girls elementary school bag
+2272,1,unisex elementary school bag pink
+2273,1,elementary school backpack girl style
+2274,1,elementary school backpack pink
+2275,1,bluetooth car kit
+2276,1,bluetooth car kit
+2277,1,bluetooth car kit
+2278,1,bluetooth car kit
+2279,1,bluetooth car kit
+2280,0,wrong brand issa perde
+2281,1,tac brand tulle curtain
+2282,1,tac brand tulle curtain
+2283,1,tac brand tulle curtain
+2284,1,tac brand tulle curtain
+2285,1,steel necklace bracelet set
+2286,1,steel necklace bracelet set
+2287,1,steel necklace bracelet set
+2288,1,steel necklace bracelet set
+2289,1,steel necklace bracelet combo
+2290,1,l'oreal paris shampoo
+2291,1,l'oreal paris elseve shampoo
+2292,0,l'oreal professionnel not paris line
+2293,0,l'oreal professionnel not paris line
+2294,1,elseve is l'oreal paris sub-brand
+2295,1,kids winter slipper - title says kislik
+2296,1,kids winter slipper - title says kislik
+2297,0,no winter mention just daily use
+2298,0,no winter mention
+2299,0,no winter mention
+2300,1,avon surrender women exact match
+2301,1,avon surrender men exact match
+2302,0,different avon line soft musk
+2303,0,different avon line
+2304,0,different avon line
+2305,1,11 inch ipad match
+2306,1,11 inch ipad air match
+2307,1,11 inch ipad pro match
+2308,0,case for ipad 10.2 not device
+2309,0,case for older ipad not device
+2310,1,in-shell cashew match
+2311,1,in-shell cashew match
+2312,1,in-shell cashew match
+2313,1,in-shell cashew match
+2314,1,in-shell cashew match
+2315,1,single duvet pillow set match
+2316,1,single duvet pillow set match
+2317,1,single duvet pillow sheet set
+2318,1,single duvet sleep set
+2319,1,single sleep set with duvet
+2320,1,wicker laundry basket
+2321,1,wicker laundry basket
+2322,1,wicker laundry basket
+2323,1,wicker laundry basket
+2324,1,wicker laundry basket
+2325,1,burgundy eyeliner match
+2326,0,black eyeliner not burgundy
+2327,1,burgundy eyeliner match
+2328,0,black eyeliner not burgundy
+2329,0,grey eyeliner not burgundy
+2330,1,tommy hilfiger women's wallet
+2331,1,tommy hilfiger women's wallet
+2332,1,tommy hilfiger women's wallet
+2333,1,tommy hilfiger women's wallet
+2334,1,tommy hilfiger women's wallet
+2335,1,germany jersey match
+2336,0,poster not jersey
+2337,0,poster not jersey
+2338,0,power tool not jersey
+2339,0,hat not jersey
+2340,1,altinyildiz classics jacket
+2341,1,altinyildiz classics jacket
+2342,1,altinyildiz classics jacket
+2343,1,altinyildiz classics jacket
+2344,1,altinyildiz classics jacket
+2345,1,motorcycle protection gear
+2346,1,motorcycle helmet lock gear
+2347,1,motorcycle tire equipment
+2348,1,motorcycle disc lock gear
+2349,1,motorcycle tire equipment
+2350,1,locked diary notebook
+2351,1,locked diary notebook
+2352,1,locked diary notebook
+2353,1,locked diary notebook
+2354,1,locked diary notebook
+2355,1,mentos gum match
+2356,1,mentos gum match
+2357,1,mentos gum match
+2358,1,mentos gum match
+2359,0,vivident brand not mentos
+2360,1,colin's men's jeans
+2361,1,colin's men's jeans
+2362,1,colin's men's jeans
+2363,1,colin's men's jeans
+2364,1,colin's men's jeans
+2365,1,work clothing pants
+2366,1,work clothing pants
+2367,1,work clothing pants winter
+2368,1,security work pants
+2369,1,security work sweatshirt
+2370,1,petlas tire match
+2371,1,petlas tire match
+2372,1,petlas tire match
+2373,1,petlas tire match
+2374,1,petlas tire match
+2375,1,women's steel necklace
+2376,1,women's steel necklace
+2377,1,women's steel necklace
+2378,1,women's steel necklace
+2379,1,women's steel necklace
+2380,1,wifi range extender match
+2381,1,wifi range extender match
+2382,1,wifi range extender match
+2383,1,wifi range extender match
+2384,1,wifi range extender match
+2385,0,phone case not v110 match
+2386,0,unrelated speaker
+2387,0,unrelated ram
+2388,0,unrelated headset stand
+2389,0,unrelated perfume
+2390,1,ftz women dress
+2391,1,ftz women dress
+2392,0,wrong brand societa
+2393,1,ftz women dress
+2394,1,ftz women dress
+2395,1,teak oil match
+2396,1,teak oil match
+2397,1,teak oil match
+2398,1,teak oil match
+2399,1,teak oil match
+2400,1,hair thickening fiber match
+2401,0,hair loss tonic not thickener
+2402,0,hair strengthening oil not thickener
+2403,1,volumizing shampoo for thin hair
+2404,0,anti-hair-loss serum not thickener
+2405,1,plus size cashmere coat women
+2406,1,plus size cashmere coat women
+2407,1,plus size cashmere coat women
+2408,1,plus size cashmere coat women
+2409,1,plus size coat women
+2410,1,bambi heeled shoe
+2411,1,bambi heeled shoe
+2412,1,bambi heeled shoe
+2413,1,bambi heeled shoe
+2414,1,bambi heeled shoe
+2415,1,computer monitor screen
+2416,1,computer monitor screen
+2417,1,computer monitor screen
+2418,1,computer monitor screen
+2419,1,computer monitor screen
+2420,1,2-person coffee cup set
+2421,1,2-person coffee cup set
+2422,1,2-person coffee cup set
+2423,1,2-person coffee cup set
+2424,1,2-person coffee cup set
+2425,1,tape measure match
+2426,1,tape measure match
+2427,1,tape measure match
+2428,1,tape measure match
+2429,1,tape measure match
+2430,1,sewing machine bobbin
+2431,1,sewing machine bobbin
+2432,1,sewing machine bobbin
+2433,1,sewing machine bobbin
+2434,1,sewing machine bobbin
+2435,0,ottoman pouf not armchair
+2436,0,daybed not plush armchair
+2437,0,fabric not furniture
+2438,0,upholstery fabric not furniture
+2439,0,upholstery fabric not furniture
+2440,1,cabinet mentions shoe storage
+2441,0,multipurpose cabinet no shoe mention
+2442,1,wardrobe mentions shoe storage
+2443,0,coat rack no shoe storage
+2444,0,bookshelf not shoe cabinet
+2445,1,product name includes xxl size
+2446,1,product name includes xxl size
+2447,0,no xxl reference unrelated shoe
+2448,0,no xxl reference unrelated moped
+2449,0,no xxl reference unrelated clock

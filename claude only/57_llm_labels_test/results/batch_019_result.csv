@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+6650,0,wrong ayar 14 not 22
+6651,0,wrong ayar 14 not 22
+6652,0,wrong ayar 14 not 22
+6653,1,matches 22 ayar
+6654,0,wrong ayar 14 not 22
+6655,1,adawall duvar kağıdı match
+6656,1,adawall duvar kağıdı match
+6657,1,adawall duvar kağıdı match
+6658,1,adawall duvar kağıdı match
+6659,1,adawall duvar kağıdı match
+6660,1,guess fragrance mist labeled kadın parfüm
+6661,1,guess fragrance mist labeled kadın parfüm
+6662,1,guess parfüm edp match
+6663,1,guess parfüm edp match
+6664,1,guess parfüm edp match
+6665,1,powerway brand speaker
+6666,1,powerway brand memory card
+6667,1,powerway brand speaker
+6668,1,powerway brand speaker
+6669,1,powerway brand speaker
+6670,1,adidas erkek ayakkabı match
+6671,1,adidas erkek ayakkabı match
+6672,1,adidas erkek ayakkabı match
+6673,1,adidas erkek ayakkabı match
+6674,1,adidas erkek ayakkabı match
+6675,1,ikea vazo match
+6676,1,ikea vazo match
+6677,1,ikea vazo match
+6678,0,ikea but karaf not vazo
+6679,0,not ikea brand
+6680,0,not chocolate specific sauce
+6681,0,not chocolate sauce
+6682,1,chocolate sauce match
+6683,0,not chocolate sauce
+6684,0,not chocolate sauce
+6685,0,query asks phone number not holder
+6686,0,query asks phone number not holder
+6687,0,query asks phone number not holder
+6688,0,query asks phone number not holder
+6689,0,query asks phone number not holder
+6690,1,child step ladder product
+6691,0,safety gate not step
+6692,0,study table not step
+6693,0,high chair cushion not step
+6694,0,adult fitness step not children's
+6695,1,dough kneading container
+6696,1,dough kneading bowl
+6697,1,dough kneading bowl
+6698,1,dough kneading container
+6699,1,dough kneading bowl
+6700,1,charm bracelet match
+6701,1,charm bracelet match
+6702,1,charm bracelet match
+6703,1,charm bracelet match
+6704,1,charm bracelet match
+6705,1,bottle nipple cleaner match
+6706,1,bottle nipple cleaner match
+6707,1,bottle nipple cleaner match
+6708,1,bottle nipple cleaner match
+6709,1,bottle nipple cleaner match
+6710,1,rocking horse match
+6711,1,rocking horse match
+6712,1,rocking horse match
+6713,1,rocking horse toy match
+6714,1,rocking horse match
+6715,1,kütahya porselen inci line match
+6716,0,wrong brand karaca
+6717,0,kütahya brand but not inci line
+6718,0,kütahya brand but not inci line
+6719,0,kütahya brand but not inci line
+6720,0,babet flat shoe not topuklu
+6721,0,babet flat shoe not topuklu
+6722,0,babet flat shoe not topuklu
+6723,0,babet flat shoe not topuklu
+6724,0,terlik not topuklu
+6725,1,pore mask match
+6726,1,pore mask match
+6727,1,pore mask match
+6728,1,pore mask match
+6729,1,pore mask match
+6730,0,bot category not çizme
+6731,0,bot category not çizme
+6732,0,short boot not mid-length
+6733,0,skirt not boot
+6734,0,bot category not çizme
+6735,1,şalgam suyu match
+6736,1,şalgam suyu match
+6737,1,şalgam suyu match
+6738,1,şalgam suyu match
+6739,1,şalgam suyu match
+6740,1,post peluş halı match
+6741,1,post peluş halı match
+6742,1,post peluş halı match
+6743,1,post peluş halı match
+6744,1,post peluş halı match
+6745,1,çerezlik takımı match
+6746,1,çerezlik takımı match
+6747,1,çerezlik takımı match
+6748,1,çerezlik takımı match
+6749,1,çerezlik takımı match
+6750,1,ithalatçı garantili telefon match
+6751,1,ithalatçı garantili telefon match
+6752,1,ithalatçı garantili telefon match
+6753,1,ithalatçı garantili telefon match
+6754,1,ithalatçı garantili telefon match
+6755,1,fermuarlı ferace match
+6756,1,fermuarlı ferace match
+6757,1,fermuarlı ferace match
+6758,1,fermuarlı ferace match
+6759,1,fermuarlı ferace match
+6760,1,decorative plate and bowl match
+6761,1,decorative plate and bowl match
+6762,1,decorative plate and bowl match
+6763,1,decorative plate and bowl match
+6764,1,decorative plate and bowl match
+6765,1,large toy car match
+6766,1,large toy car match
+6767,1,large toy car match
+6768,1,large toy car match
+6769,1,large toy car match
+6770,1,kiğılı brand match
+6771,0,wrong brand not kiğılı
+6772,0,wrong brand not kiğılı
+6773,0,wrong brand not kiğılı
+6774,0,wrong brand not kiğılı
+6775,1,zemzem seti match
+6776,1,zemzem seti match
+6777,1,zemzem seti match
+6778,1,zemzem seti match
+6779,1,zemzem seti match
+6780,0,pillow cover not snow globe
+6781,0,brooch not snow globe
+6782,0,greeting card not snow globe
+6783,0,bracelet not snow globe
+6784,0,sweatshirt not snow globe
+6785,1,light-up skate match
+6786,1,light-up skate match
+6787,1,light-up skate match
+6788,1,light-up skate match
+6789,1,light-up skate match
+6790,1,kartpostal match
+6791,1,kartpostal match
+6792,1,kartpostal match
+6793,1,kartpostal match
+6794,1,kartpostal match
+6795,0,pressure washer not bucket
+6796,0,pressure washer not bucket
+6797,0,pressure washer not bucket
+6798,0,pressure washer not bucket
+6799,0,pressure washer not bucket
+6800,1,bagged vacuum match
+6801,1,bagged vacuum match
+6802,1,bagged vacuum match
+6803,1,bagged vacuum match
+6804,1,bagged vacuum match
+6805,1,la roche posay lipikar match
+6806,1,la roche posay lipikar match
+6807,1,la roche posay lipikar match
+6808,1,la roche posay lipikar match
+6809,1,la roche posay lipikar match
+6810,1,motorcycle plate holder match
+6811,1,motorcycle plate holder match
+6812,1,motorcycle plate holder match
+6813,1,motorcycle plate holder match
+6814,1,motorcycle plate holder match
+6815,1,unisex genç boot fits query
+6816,0,wrong age yetişkin not genç
+6817,0,wrong age yetişkin not genç
+6818,0,title says kız çocuk not erkek
+6819,0,wrong age yetişkin not genç
+6820,1,philips maraton line match
+6821,0,not maraton line
+6822,0,not maraton line
+6823,0,not maraton line
+6824,0,not maraton line
+6825,1,çift mekanizmalı stor perde match
+6826,1,çift mekanizmalı stor perde match
+6827,1,çift mekanizmalı stor perde match
+6828,1,çift mekanizmalı stor perde match
+6829,1,çift mekanizmalı stor perde match
+6830,1,barbour mont match
+6831,1,barbour mont match
+6832,1,barbour mont match
+6833,1,barbour mont match
+6834,1,barbour mont match
+6835,1,beyaz çay match
+6836,1,beyaz çay match
+6837,1,beyaz çay match
+6838,1,beyaz çay match
+6839,1,beyaz çay match
+6840,1,özdilek bornoz match
+6841,1,özdilek bornoz match
+6842,1,özdilek bornoz match
+6843,1,özdilek bornoz match
+6844,1,özdilek bornoz match
+6845,1,derimod kaban match
+6846,1,derimod kaban match
+6847,1,derimod kaban match
+6848,1,derimod kaban match
+6849,0,wrong brand not derimod
+6850,1,getcho çanta match
+6851,1,getcho çanta match
+6852,1,getcho çanta match
+6853,1,getcho çanta match
+6854,1,getcho çanta match
+6855,1,sarkıt lamba match
+6856,1,sarkıt lamba match
+6857,1,sarkıt lamba match
+6858,1,sarkıt lamba match
+6859,1,sarkıt lamba match
+6860,0,wrong brand not hisar
+6861,0,hisar but sosluk not tabak
+6862,0,hisar but cezve not tabak
+6863,0,wrong brand and bardak not tabak
+6864,0,wrong brand not hisar
+6865,1,spiralli defter match
+6866,1,spiralli defter match
+6867,1,spiralli defter match
+6868,1,spiralli defter match
+6869,1,spiralli defter match
+6870,1,penti şapka match
+6871,1,penti şapka match
+6872,1,penti şapka match
+6873,1,penti şapka match
+6874,1,penti şapka match
+6875,1,derimod topuklu ayakkabı match
+6876,1,derimod stiletto topuklu match
+6877,0,sandalet not topuklu ayakkabı
+6878,1,derimod topuklu ayakkabı match
+6879,0,sandalet not topuklu ayakkabı
+6880,1,hakiki deri makyaj çantası match
+6881,0,suni deri not genuine leather
+6882,0,suni deri not genuine leather
+6883,1,hakiki deri makyaj çantası match
+6884,0,suni deri not genuine leather
+6885,1,adidas duramo match
+6886,1,adidas duramo match
+6887,1,adidas duramo match
+6888,1,adidas duramo match
+6889,1,adidas duramo match
+6890,1,hais brand product
+6891,1,hais brand product
+6892,1,hais brand product
+6893,1,hais brand tool - not core match but same brand
+6894,1,hais brand product
+6895,1,hediye anahtarlık match
+6896,1,hediye anahtarlık match
+6897,0,kapı süsü not anahtarlık
+6898,1,hediye anahtarlık match
+6899,1,hediye anahtarlık match
+6900,1,cam sil brand match
+6901,1,cam silme aparatı match
+6902,1,cam silme aparatı match
+6903,1,cam silme aparatı match
+6904,0,general surface cleaner not glass specific
+6905,1,peluş banyo paspası match
+6906,1,peluş banyo paspası match
+6907,1,peluş banyo paspası match
+6908,1,peluş banyo paspası match
+6909,1,peluş banyo paspası match
+6910,1,yeşil küpe match
+6911,1,yeşil küpe match
+6912,1,yeşil küpe match
+6913,1,yeşil küpe match
+6914,1,yeşil küpe match
+6915,1,araç örtüsü/branda match
+6916,1,araç örtüsü/branda match
+6917,1,araç örtüsü/branda match
+6918,1,araç örtüsü/branda match
+6919,1,araç örtüsü/branda match
+6920,1,hakiki deri bayan ayakkabı match
+6921,0,suni deri not genuine leather
+6922,1,hakiki deri bayan ayakkabı match
+6923,1,hakiki deri bayan ayakkabı match
+6924,1,hakiki deri bayan ayakkabı match
+6925,1,sivri topuklu bot match
+6926,0,men's item unlikely intended match
+6927,1,sivri topuklu bot match
+6928,1,sivri topuklu bot match
+6929,1,sivri topuklu bot match
+6930,1,otomatik sprey match
+6931,1,otomatik sprey match
+6932,1,otomatik sprey match
+6933,1,otomatik sprey match
+6934,1,otomatik sprey match
+6935,1,rodeo saç fırçası match
+6936,1,rodeo saç fırçası match
+6937,1,rodeo tarak match
+6938,1,rodeo tarak match
+6939,1,rodeo tarak match
+6940,1,proline kedi maması match
+6941,1,proline kedi maması match
+6942,1,proline kedi maması match
+6943,1,proline kedi maması match
+6944,1,proline kedi maması match
+6945,1,ac&co altınyıldız ceket match
+6946,1,ac&co altınyıldız ceket match
+6947,0,wrong brand cuqq denim
+6948,0,wrong brand inpool
+6949,0,wrong brand leonmen
+6950,1,poster tablo match
+6951,1,poster tablo match
+6952,1,poster tablo match
+6953,1,poster tablo match
+6954,1,poster tablo match
+6955,0,wrong volume not 400l
+6956,0,wrong volume not 400l
+6957,0,wrong volume not 400l
+6958,0,wrong volume not 400l
+6959,0,wrong volume not 400l
+6960,0,color not specified as blue
+6961,0,color not specified as blue
+6962,0,color not specified as blue
+6963,0,color not specified as blue
+6964,0,color not specified as blue
+6965,0,wrong tire size
+6966,0,wrong tire size
+6967,0,wrong tire size
+6968,0,wrong tire size
+6969,0,wrong tire size
+6970,1,party balloon match
+6971,1,party balloon match
+6972,1,party balloon match
+6973,1,party balloon match
+6974,1,party balloon match
+6975,1,fenty beauty gloss match
+6976,1,fenty beauty gloss match
+6977,1,fenty beauty gloss match
+6978,1,fenty beauty gloss match
+6979,1,fenty beauty gloss match
+6980,1,sirkelik match
+6981,1,sirkelik match
+6982,1,sirkelik match
+6983,1,sirkelik match
+6984,1,sirkelik match
+6985,0,wrong brand not homend
+6986,0,wrong brand not homend
+6987,0,wrong brand not homend
+6988,0,wrong brand not homend
+6989,0,wrong brand not homend
+6990,1,futbol çantası match
+6991,1,futbol çantası match
+6992,1,futbol çantası match
+6993,1,futbol çantası match
+6994,1,futbol çantası match
+6995,1,philips kişisel blender match
+6996,1,philips kişisel blender match
+6997,1,philips kişisel blender match
+6998,1,philips kişisel blender match
+6999,1,philips kişisel blender match

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2800,1,ales türkçe prep book matches
+2801,1,ales türkçe sözel prep book
+2802,1,ales sayısal-sözel covers türkçe
+2803,0,ales sayısal cebir not türkçe
+2804,1,ales tamamı çözümlü general prep
+2805,1,spovan brand akıllı saat match
+2806,1,spovan brand smart watch variant
+2807,1,spovan brand akıllı saat match
+2808,0,wrong brand sword not spovan
+2809,0,wrong brand sword not spovan
+2810,1,çankırı tuz lambası brand match
+2811,1,çankırı tuz lambası brand match
+2812,1,çankırı kaya tuzu lambası match
+2813,1,çankırı kaya tuzu lambası match
+2814,1,çankırı kaya tuzu lambası match
+2815,1,unicorn themed elbise
+2816,1,unicorn figür toy
+2817,1,unicorn themed sweatshirt
+2818,1,unicorn themed elbise
+2819,1,unicorn themed sneakers
+2820,1,saklama kabı set match
+2821,1,saklama kabı set match
+2822,1,saklama kabı set match
+2823,1,saklama kabı set match
+2824,1,saklama kabı set match
+2825,1,telkari gümüş bileklik match
+2826,1,telkari gümüş küpe match
+2827,1,telkari gümüş küpe match
+2828,1,telkari gümüş küpe match
+2829,1,telkari gümüş bileklik match
+2830,1,pul biber match
+2831,1,pul biber match
+2832,1,pul biber match
+2833,1,pul biber match
+2834,1,pul biber match
+2835,1,flormar suya dayanıklı göz kalemi
+2836,1,flormar suya dayanıklı göz kalemi
+2837,1,flormar suya dayanıklı göz kalemi
+2838,1,flormar suya dayanıklı göz kalemi
+2839,1,flormar suya dayanıklı göz kalemi
+2840,1,elektrikli çocuk scooter match
+2841,1,elektrikli scooter match
+2842,1,elektrikli scooter match
+2843,1,elektrikli scooter match
+2844,1,elektrikli çocuk scooter match
+2845,1,erkek uzun kollu tişört match
+2846,1,erkek uzun kollu tişört match
+2847,1,erkek uzun kollu tişört match
+2848,1,erkek uzun kollu tişört match
+2849,1,erkek uzun kollu t-shirt match
+2850,1,civil girls sweatshirt brand match
+2851,1,civil girls sweatshirt brand match
+2852,1,civil girls sweatshirt brand match
+2853,1,civil girls sweatshirt brand match
+2854,1,civil girls sweatshirt brand match
+2855,1,canyon model bebek arabası match
+2856,1,canyon model bebek arabası match
+2857,1,canyon model bebek arabası match
+2858,1,canyon model bebek arabası match
+2859,0,colorado model not canyon
+2860,1,fenerbahçe branded tshirt
+2861,1,fenerbahçe tshirt match
+2862,1,fenerbahçe tshirt match
+2863,1,fenerbahçe tshirt match
+2864,1,fenerbahçe tshirt match
+2865,1,arap sabunu match
+2866,1,arap sabunu bundle match
+2867,1,arap sabunu match
+2868,1,arap sabunu match
+2869,1,arap sabunu match
+2870,1,ahşap çerezlik match
+2871,1,ahşap çerezlik/kase match
+2872,1,ahşap çerezlik match
+2873,1,ahşap çerezlik match
+2874,1,ahşap çerezlik match
+2875,1,bosch buji match
+2876,1,bosch buji match
+2877,1,bosch isıtma bujisi match
+2878,1,bosch buji match
+2879,0,wrong brand crn not bosch
+2880,1,mini fırın dolabı match
+2881,1,mini fırın dolabı match
+2882,1,mini/midi fırın dolabı match
+2883,1,mini/midi fırın dolabı match
+2884,1,mini/midi fırın dolabı match
+2885,1,malzeme dolabı match
+2886,0,work counter not malzeme dolabı
+2887,1,alet/malzeme dolabı match
+2888,0,emanet dolabı different product
+2889,0,tool bag not cabinet
+2890,1,hella korna product match
+2891,1,hella tip korna similar style
+2892,1,hella korna product match
+2893,1,hella korna product match
+2894,1,hella brand horn match
+2895,1,sarı kantaron yağı match
+2896,1,sarı kantaron yağı match
+2897,1,sarı kantaron yağı match
+2898,1,sarı kantaron yağı match
+2899,1,sarı kantaron yağı match
+2900,1,oturaklı scooter match
+2901,1,oturaklı scooter match
+2902,1,oturaklı scooter match
+2903,1,oturaklı çocuk scooter match
+2904,1,oturaklı çocuk scooter match
+2905,1,çeyrek altın match
+2906,0,coin frame accessory not coin
+2907,1,çeyrek altın match
+2908,1,çeyrek altın match
+2909,1,çeyrek altın match
+2910,1,yatak altı hurç match
+2911,1,yatak altı hurç match
+2912,1,yatak altı hurç match
+2913,1,yatak altı hurç match
+2914,1,yatak altı hurç match
+2915,1,eufy brand robot süpürge
+2916,1,eufy brand robot süpürge
+2917,0,wrong brand philips not eufy
+2918,0,accessory part not vacuum itself
+2919,0,wrong brand electrolux not eufy
+2920,1,kağıt ip çanta match
+2921,1,kağıt ip çanta match
+2922,1,kağıt ip çanta match
+2923,1,kağıt ip çanta match
+2924,1,kağıt ip çanta match
+2925,1,avva erkek hırka match
+2926,1,avva erkek hırka match
+2927,1,avva erkek hırka match
+2928,1,avva erkek hırka match
+2929,1,avva erkek hırka match
+2930,0,damacana pump not windshield washer
+2931,1,tofaş windshield washer pump match
+2932,1,tofaş windshield washer pump match
+2933,1,polo windshield washer pump match
+2934,1,bmw windshield washer pump match
+2935,1,gesmoda abiye elbise match
+2936,1,gesmoda abiye elbise match
+2937,0,wrong brand by saygı not gesmoda
+2938,0,wrong brand ottawe not gesmoda
+2939,0,wrong brand giyzamila not gesmoda
+2940,1,ayakkabı düzenleyici match
+2941,1,ayakkabı düzenleyici match
+2942,1,ayakkabı düzenleyici match
+2943,1,ayakkabı düzenleyici match
+2944,1,ayakkabı düzenleyici match
+2945,1,bornoz match
+2946,1,bornoz match
+2947,1,bornoz match
+2948,1,bornoz match
+2949,1,bornoz match
+2950,1,bargello 226 numbered perfume
+2951,1,bargello 226 kadın parfüm match
+2952,1,bargello 226 kadın parfüm match
+2953,1,bargello 226 kadın parfüm set
+2954,1,bargello 226 kadın parfüm match
+2955,1,koltuk yıkama makinesi match
+2956,1,koltuk yıkama makinesi match
+2957,1,koltuk yıkama makinesi match
+2958,1,koltuk yıkama makinesi match
+2959,1,koltuk yıkama makinesi match
+2960,1,çocuk piyanosu match
+2961,1,çocuk piyanosu match
+2962,1,çocuk piyanosu match
+2963,1,çocuk piyanosu match
+2964,1,çocuk piyanosu match
+2965,1,paten ayakkabı match
+2966,1,paten ayakkabı match
+2967,1,paten ayakkabı match
+2968,1,paten ayakkabı match
+2969,1,paten ayakkabı match
+2970,1,çim halı match
+2971,1,çim halı match
+2972,1,çim halı match
+2973,1,çim halı match
+2974,1,çim halı match
+2975,1,drift araba match
+2976,1,drift araba match
+2977,1,drift araba match
+2978,1,drift araba match
+2979,1,drift araba match
+2980,1,bambu çubuklu oda kokusu match
+2981,1,bambu çubuklu oda kokusu match
+2982,1,bambu çubuklu oda kokusu match
+2983,1,bambu çubuklu oda kokusu match
+2984,1,bambu çubuklu oda kokusu match
+2985,1,steelseries mouse pad match
+2986,1,steelseries mouse pad match
+2987,1,steelseries mouse pad match
+2988,1,steelseries mouse pad match
+2989,1,steelseries mouse pad match
+2990,1,metal kağıt havluluk match
+2991,1,metal kağıt havluluk match
+2992,1,metal kağıt havluluk match
+2993,1,metal kağıt havluluk match
+2994,1,metal kağıt havluluk match
+2995,1,mavi brand kadın ceket
+2996,1,mavi brand kadın ceket
+2997,1,mavi brand kadın ceket
+2998,1,mavi brand kadın ceket
+2999,0,wrong gender erkek not kadın
+3000,0,unrelated nutuk book
+3001,0,wrong club trabzonspor
+3002,0,wrong club göztepe
+3003,0,unrelated children's book
+3004,0,unrelated nutuk book
+3005,1,folik asit match
+3006,1,folik asit match
+3007,1,folik asit match
+3008,1,folik asit match
+3009,1,folik asit combined product
+3010,1,minnie themed tişört
+3011,1,minnie mouse peluş
+3012,1,minnie mentioned in figür
+3013,1,minnie mouse peluş
+3014,1,minnie mouse brand sweatshirt
+3015,1,çocuk bisiklet match
+3016,1,çocuk bisiklet match
+3017,1,çocuk bisiklet match
+3018,1,çocuk bisiklet match
+3019,1,çocuk bisiklet match
+3020,1,turkishcare brand match
+3021,1,turkishcare brand match
+3022,1,turkishcare brand match
+3023,1,turkishcare brand match
+3024,1,turkishcare brand match
+3025,1,kahve makinesi temizleyici match
+3026,1,kahve makinesi temizleyici match
+3027,1,kahve makinesi temizleyici match
+3028,1,kahve makinesi temizleyici match
+3029,1,kahve makinesi temizleyici match
+3030,1,aptamil mama match
+3031,1,aptamil mama match
+3032,1,aptamil mama match
+3033,1,aptamil mama match
+3034,1,aptamil mama match
+3035,1,cerave krem match
+3036,1,cerave krem match
+3037,1,cerave krem match
+3038,1,cerave krem match
+3039,1,cerave krem match
+3040,1,ayetel kürsi tablo match
+3041,1,ayetel kürsi tablo match
+3042,1,ayetel kürsi tablo match
+3043,1,ayetel kürsi tablo match
+3044,1,ayetel kürsi tablo match
+3045,1,erkek siyah kazak match
+3046,1,erkek siyah kazak match
+3047,1,erkek siyah kazak match
+3048,1,erkek siyah kazak match
+3049,1,erkek siyah kazak match
+3050,1,jawel şal match
+3051,1,jawel şal match
+3052,0,eşarp not şal different product
+3053,1,jawel şal match
+3054,1,jawel şal match
+3055,1,erkek kaşe ceket match
+3056,1,erkek kaşe ceket match
+3057,1,erkek kaşe ceket match
+3058,1,erkek kaşe ceket match
+3059,1,erkek kaşe ceket match
+3060,1,tenis titreşim önleyici match
+3061,1,tenis titreşim önleyici match
+3062,1,tenis titreşim önleyici match
+3063,1,tenis titreşim önleyici match
+3064,1,tenis titreşim önleyici match
+3065,0,garden hose not auto part
+3066,1,oto cam suyu hortum match
+3067,0,garden hose not auto part
+3068,1,oto su pompası hortumu match
+3069,0,garden hose not auto part
+3070,1,akıllı perde match
+3071,1,akıllı perde match
+3072,1,akıllı perde match
+3073,1,akıllı perde match
+3074,1,akıllı perde match
+3075,1,yurudesign portmanto match
+3076,0,wrong brand yvz not yurudesign
+3077,1,yurudesign portmanto match
+3078,1,yurudesign portmanto match
+3079,1,yurudesign portmanto match
+3080,1,mudo erkek gömlek match
+3081,1,mudo erkek gömlek match
+3082,0,gömlek ceket not gömlek
+3083,0,gömlek ceket not gömlek
+3084,0,gömlek ceket not gömlek
+3085,1,şampuan match
+3086,1,şampuan match
+3087,1,şampuan match
+3088,1,şampuan match
+3089,1,şampuan match
+3090,1,pilav tavası match
+3091,1,pilav tavası match
+3092,1,pilav tavası match
+3093,1,pilav tavası match
+3094,1,pilav tavası match
+3095,1,çocuk odası dekorasyon match
+3096,1,çocuk odası dekorasyon match
+3097,1,çocuk odası dekorasyon match
+3098,1,çocuk odası dekorasyon match
+3099,1,çocuk odası dekorasyon match
+3100,1,karagül kolonyası match
+3101,1,karagül kolonyası match
+3102,1,karagül kolonyası match
+3103,0,generic gül kolonyası not karagül
+3104,0,generic gül kolonyası not karagül
+3105,1,erkek oversize kot ceket match
+3106,1,erkek oversize kot ceket match
+3107,1,erkek oversize kot ceket match
+3108,1,erkek oversize kot ceket match
+3109,1,erkek oversize kot ceket match
+3110,1,lucky brand sweatshirt
+3111,1,lucky charms name match
+3112,0,no lucky reference at all
+3113,1,lucky pattern phone case
+3114,1,lucky pattern phone case
+3115,1,yataş nevresim takımı match
+3116,1,yataş nevresim takımı match
+3117,1,yataş nevresim takımı match
+3118,1,yataş nevresim takımı match
+3119,1,yataş nevresim takımı match
+3120,1,cam sıvı sabunluk match
+3121,1,cam sıvı sabunluk match
+3122,1,cam sıvı sabunluk match
+3123,1,cam sıvı sabunluk match
+3124,1,cam sıvı sabunluk match
+3125,1,attack shark mouse match
+3126,1,attack shark mouse match
+3127,1,attack shark mouse match
+3128,1,attack shark mouse match
+3129,1,attack shark mouse match
+3130,1,mehmet efendi kahve match
+3131,1,mehmet efendi kahve match
+3132,1,mehmet efendi kahve match
+3133,1,mehmet efendi kahve match
+3134,1,mehmet efendi kahve match
+3135,1,5 gr ajda bilezik match
+3136,1,5 gr ajda bilezik match
+3137,0,wrong weight 10gr not 5gr
+3138,0,wrong weight 9gr not 5gr
+3139,0,wrong weight 6gr not 5gr
+3140,1,ankastre fırın kumtel match
+3141,1,ankastre fırın kumtel match
+3142,1,ankastre fırın kumtel match
+3143,1,ankastre fırın kumtel match
+3144,1,ankastre fırın kumtel match
+3145,1,yer bezi match
+3146,1,yer bezi match
+3147,1,yer bezi match
+3148,1,yer bezi match
+3149,1,yer bezi match

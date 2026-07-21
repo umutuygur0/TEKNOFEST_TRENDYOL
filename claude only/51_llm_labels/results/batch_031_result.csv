@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10850,1,exact match kurbağacık wrench
+10851,1,exact match kurbağacık wrench
+10852,1,exact match kurbağacık wrench
+10853,1,exact match kurbağacık wrench
+10854,1,sigara tabakası matches category
+10855,1,sigara tabakası matches category
+10856,1,sigara tabakası matches category
+10857,1,tütün saklama kutusu close to sigara tabakası
+10858,1,title explicitly sigara tabakası
+10859,1,tesbih kutusu match
+10860,1,tesbih kutusu match
+10861,1,tesbih kutusu match
+10862,1,tesbih kutusu match
+10863,1,tespih kutusu match
+10864,1,eyüp sabri tuncer duş jeli exact
+10865,1,eyüp sabri tuncer duş jeli exact
+10866,1,eyüp sabri tuncer duş jeli exact
+10867,1,eyüp sabri tuncer duş jeli set
+10868,1,same brand duş jeli combo product
+10869,1,under armour yelek match
+10870,1,under armour yelek match
+10871,1,under armour yelek match
+10872,1,under armour yelek match
+10873,1,under armour yelek match
+10874,1,reglan sleeve tişört matches
+10875,1,reglan sleeve tişört matches
+10876,1,contains reglan in title
+10877,1,reglan kollu kazak matches
+10878,1,reglan kollu kazak matches
+10879,1,car seat protector cover relevant
+10880,1,koltuk koruyucu match
+10881,1,koltuk takımı koruma örtüsü match
+10882,1,seat cover for car relevant
+10883,1,koltuk koruma örtüsü match
+10884,1,macbook çanta match
+10885,1,macbook çanta match
+10886,1,macbook kılıf çanta match
+10887,1,macbook laptop çanta match
+10888,1,macbook kılıf çanta match
+10889,1,atatürk broş match
+10890,1,atatürk broş match
+10891,1,atatürk broş match
+10892,1,atatürk broş match
+10893,1,atatürk broş/rozet match
+10894,1,hazeran tepsi match
+10895,1,hazeran tepsi match
+10896,1,hazeran tepsi match
+10897,1,hazeran tasarım tepsi match
+10898,1,hazeran tepsi match
+10899,1,peugeot rifter koltuk kılıfı - title matches
+10900,1,peugeot rifter aksesuar match
+10901,1,peugeot rifter aksesuar match
+10902,1,title says peugeot rifter despite attr mismatch
+10903,1,title says peugeot rifter despite attr mismatch
+10904,1,vivense yemek masası brand+type match
+10905,1,vivense yemek masası brand+type match
+10906,1,vivense yemek masası brand+type match
+10907,0,çocuk çalışma masası not kitchen table
+10908,0,çocuk oyun masası not kitchen table
+10909,1,11.sınıf matematik title match
+10910,1,11.sınıf matematik match
+10911,1,11.sınıf matematik match
+10912,1,11.sınıf matematik match
+10913,1,11.sınıf matematik match
+10914,1,tek kişilik lastikli çarşaf match
+10915,1,tek kişilik lastikli çarşaf match
+10916,1,tek kişilik lastikli çarşaf match
+10917,1,tek kişilik lastikli çarşaf match
+10918,1,tek kişilik lastikli çarşaf match
+10919,1,silver polo kadın çanta match
+10920,1,silver polo kadın çanta match
+10921,1,silver polo kadın çanta match
+10922,1,silver polo kadın çanta match
+10923,1,silver polo kadın çanta match
+10924,1,el bilek ateli match
+10925,1,el bilek ateli match
+10926,1,el bilek ateli match
+10927,1,el bilek ateli match
+10928,1,el bilek ateli match
+10929,1,nivea vücut kremi match
+10930,0,category is yüz kremi not vücut
+10931,1,nivea vücut losyonu close match
+10932,0,category is yüz kremi not vücut
+10933,1,nivea vücut kremi match
+10934,1,lacoste eşofman takımı match
+10935,1,lacoste eşofman takımı match
+10936,1,lacoste eşofman takımı match
+10937,0,only eşofman altı not full takım
+10938,1,lacoste eşofman takımı match
+10939,1,exact enjoy tavuklu 15kg match
+10940,1,enjoy tavuklu kedi maması 15kg match
+10941,0,wrong weight 10kg not 15kg
+10942,0,wrong weight 5kg not 15kg
+10943,1,exact enjoy tavuklu 15kg match
+10944,1,tv kablosu hdmi match
+10945,1,tv kablosu hdmi match
+10946,1,hdmi tv kablosu match despite category
+10947,1,tv görüntü kablosu match
+10948,0,ethernet cat6 cable not tv cable
+10949,1,mutfak armatürü match
+10950,1,mutfak armatürü match
+10951,1,mutfak armatürü match
+10952,1,mutfak eviye bataryası is mutfak armatürü
+10953,1,mutfak eviye bataryası is mutfak armatürü
+10954,0,no relation to query mehr
+10955,0,no relation to query mehr
+10956,0,no relation to query mehr
+10957,0,no relation to query mehr
+10958,0,no relation to query mehr
+10959,1,hint yağı match
+10960,1,hint yağı match
+10961,1,hint yağı match
+10962,1,hint yağı match
+10963,1,hint yağı match
+10964,1,royal halı brand match
+10965,1,royal halı brand match
+10966,1,royal halı brand match
+10967,1,royal halı brand match
+10968,1,royal halı brand match
+10969,1,mevsimlik ferace match
+10970,1,tesettür kap mevsimlik match
+10971,0,pardesü not ferace category and yazlık not mevsimlik
+10972,0,pardesü not ferace category and yazlık not mevsimlik
+10973,0,pardesü not ferace category and yazlık not mevsimlik
+10974,1,mustela nemlendirici losyon match
+10975,1,mustela besleyici bebek losyonu nemlendirici
+10976,1,mustela nemlendirici vücut losyonu match
+10977,1,mustela besleyici krem nemlendirici
+10978,1,mustela nemlendirici yüz kremi match
+10979,1,mini vantilatör match
+10980,1,mini vantilatör match
+10981,1,mini vantilatör match
+10982,1,mini vantilatör match
+10983,1,mini vantilatör match
+10984,1,pembe porselen tabak match
+10985,1,pink pasta tabağı match
+10986,0,renk turuncu not pembe
+10987,1,pembe porselen tabak match
+10988,1,pembe porselen tabak match
+10989,1,kürk ceket match
+10990,1,kürk ceket match
+10991,1,kürk ceket match
+10992,0,category mont not ceket - title lacks ceket
+10993,1,kürk peluş ceket title match
+10994,1,mango kazak match
+10995,1,mango kazak match
+10996,1,mango kazak match
+10997,1,mango kazak match
+10998,1,mango kazak match
+10999,1,katlanır piknik masası match
+11000,1,katlanır piknik masası match
+11001,1,katlanabilir piknik masası match
+11002,1,katlanır piknik masası match
+11003,1,katlanır piknik masası match
+11004,1,exact simli sweat match
+11005,1,simli hoodie sweatshirt match
+11006,1,işıltılı sweatshirt close to simli
+11007,1,işıltılı sweatshirt close to simli
+11008,1,simli detaylı sweatshirt match
+11009,0,mika kristal not cam material
+11010,0,pleksi kristal plastic not cam
+11011,0,metal tray not cam
+11012,0,metal tray not cam
+11013,0,stainless steel not cam despite brand name
+11014,1,arçelik süpürge aksesuarı match
+11015,1,arçelik süpürge aksesuarı match
+11016,1,arçelik süpürge borusu match
+11017,0,beko branded not arçelik compatible mismatch
+11018,1,arçelik uyumlu süpürge hortum seti match
+11019,1,balkabağı şekerlik match
+11020,1,balkabağı şekerlik kase match
+11021,1,balkabağı şekerlik kase match
+11022,1,balkabağı lokumluk şekerlik match
+11023,1,bal kabağı şekerlik match
+11024,1,salon dekorasyon tablo match
+11025,1,salon dekorasyon tablo match
+11026,1,decorative canvas tablo relevant
+11027,1,salon duvar tablo match
+11028,1,salon tema kanvas tablo match
+11029,1,vatka etek match
+11030,1,vatka etek match
+11031,0,elbise not etek
+11032,0,pantolon not etek
+11033,0,no vatka padding mentioned just etek
+11034,1,plastik tabure match
+11035,1,plastik tabure match
+11036,1,title says plastik tabure despite category
+11037,1,plastik tabure match
+11038,1,plastik tabure match
+11039,1,karaca sütlü kahve makinesi match
+11040,1,karaca sütlü kahve makinesi match
+11041,1,karaca sütlü kahve makinesi match
+11042,1,karaca sütlü kahve makinesi match
+11043,1,karaca sütlü kahve makinesi match
+11044,1,kutu oyun match
+11045,1,kutu oyun match
+11046,1,kutu oyun match
+11047,1,kutu oyun match
+11048,1,kutu oyun match
+11049,1,nehir servis seti match
+11050,1,nehir servis seti match
+11051,1,nehir servis seti match
+11052,1,nehir servis seti match
+11053,1,nehir servis takımı match
+11054,1,isme özel hediye fincan match
+11055,1,isme özel kolye hediye match
+11056,1,isme özel hediye fincan match
+11057,1,isme özel hediye fincan match
+11058,1,isme özel hediye fincan match
+11059,1,aile oyunu match
+11060,1,aile kart oyunu match
+11061,1,aile oyunu match
+11062,1,aile oyunu match
+11063,1,aile eğlenceli oyun match
+11064,1,ev pandufu match
+11065,1,ev pandufu match
+11066,1,ev pandufu match
+11067,1,ev pandufu match
+11068,1,ev pandufu match
+11069,1,oto hava filtresi match
+11070,1,oto hava filtresi match
+11071,1,oto hava filtresi match
+11072,0,motosiklet hava filtresi not oto
+11073,1,oto hava filtresi match
+11074,1,fön tarak match
+11075,1,fön tarak match
+11076,1,fön tarağı title match
+11077,1,fön tarağı title match
+11078,1,fön tarağı title match
+11079,1,kız çocuk çalışma masası match
+11080,1,çocuk çalışma masası match
+11081,1,kız çocuk ders çalışma masası match
+11082,1,barbie themed girl desk match
+11083,0,generic office desk not girl themed
+11084,1,nutraxin bromelain match
+11085,1,nutraxin bromelain match
+11086,1,nutraxin bromelain forte match
+11087,1,nutraxin bromelain match
+11088,1,nutraxin bromelain match
+11089,1,bebek mama sandalyesi match
+11090,1,bebek mama sandalyesi match
+11091,1,bebek mama sandalyesi match
+11092,1,bebek mama sandalyesi match
+11093,1,bebek mama sandalyesi match
+11094,1,vichy dercos şampuan match
+11095,1,vichy dercos şampuan match
+11096,1,vichy dercos şampuan match
+11097,1,vichy dercos şampuan match
+11098,1,vichy dercos şampuan match
+11099,1,kapaklı plastik bardak match
+11100,1,kapaklı plastik bardak match
+11101,1,kapaklı plastik bardak match
+11102,0,no lid kapaklı mentioned
+11103,0,no lid kapaklı mentioned
+11104,1,tepsili sehpa match
+11105,1,tepsili sehpa match
+11106,1,tepsili sehpa match
+11107,1,tepsili sehpa match
+11108,1,tepsili sehpa match
+11109,1,beyaz tahta match
+11110,1,beyaz tahta match
+11111,1,beyaz tahta match despite category
+11112,1,beyaz tahta match
+11113,1,title says beyaz tahta
+11114,1,nem alıcı match
+11115,1,nem alıcı match
+11116,1,nem alıcı match
+11117,1,nem alıcı match
+11118,1,nem alıcı match
+11119,1,nivea dudak bakımı match
+11120,1,nivea dudak bakımı match
+11121,1,nivea dudak bakımı match
+11122,1,title matches despite category
+11123,1,nivea dudak bakımı match
+11124,1,oversize kareli gömlek match
+11125,1,oversize ekose gömlek match
+11126,1,oversize ekose gömlek match
+11127,1,oversize ekose gömlek match
+11128,1,oversize ekose gömlek match
+11129,0,beko branded not arçelik
+11130,1,arçelik süpürge torbası match
+11131,1,arçelik süpürge torbası match
+11132,1,arçelik süpürge torbası match
+11133,1,arçelik/beko compatible süpürge torbası match
+11134,1,dış giyim ceket match
+11135,1,dış giyim mont match
+11136,1,dış giyim mont kaban match
+11137,1,dış giyim ceket match
+11138,1,dış giyim ceket match
+11139,1,sessiz mouse match
+11140,1,sessiz mouse match
+11141,1,sessiz mouse match
+11142,1,sessiz mouse match
+11143,1,sessiz mouse match
+11144,1,urban care kuru şampuan match
+11145,1,urban care kuru şampuan match
+11146,1,urban care kuru şampuan match
+11147,0,morfose brand not urban
+11148,0,watsons brand not urban
+11149,1,roborock q8 match
+11150,1,roborock q8 match
+11151,1,roborock q8 match
+11152,1,roborock q8 match
+11153,1,roborock q8 match
+11154,1,söz hediyelikleri match
+11155,1,söz hediyelikleri match
+11156,1,söz hediyelikleri match
+11157,1,söz hediyelikleri match
+11158,1,söz hediyelikleri match
+11159,1,nihan elbise match
+11160,1,nihan elbise match
+11161,0,brand amine hüma not nihan
+11162,0,brand ande not nihan
+11163,0,nihan brand but kap not elbise
+11164,1,doğumgünü hediyelik anahtarlık match
+11165,1,doğumgünü hediyelik anahtarlık match
+11166,1,doğumgünü hediyelik anahtarlık match
+11167,1,doğumgünü hediyelik anahtarlık match
+11168,1,doğumgünü hediyelik anahtarlık match
+11169,1,fairy platinum deterjan match
+11170,1,fairy platinum plus title match
+11171,1,fairy platinum deterjan match
+11172,1,fairy platinum plus deterjan match
+11173,1,fairy platinum plus deterjan match
+11174,1,ses kayıt cihazı match
+11175,0,circuit module not standalone device
+11176,1,ses kayıt mp player match
+11177,1,ses kayıt mp player match
+11178,1,profesyonel ses kayıt cihazı match
+11179,1,erişte makinesi match
+11180,1,erişte makarna makinesi match
+11181,1,erişte makarna makinesi match
+11182,1,erişte makinası title match
+11183,0,mismatched category çamaşır sepeti
+11184,1,araç aksesuar generic match
+11185,1,araç aksesuar generic match
+11186,1,araç içi aksesuar generic match
+11187,1,araç aksesuar generic match
+11188,1,araç aksesuar generic match
+11189,1,philips süpürge match
+11190,1,philips süpürge match
+11191,1,philips süpürge match
+11192,1,philips süpürge match
+11193,1,philips süpürge match
+11194,1,kalın taban terlik match
+11195,1,kalın taban terlik match
+11196,1,kalın taban terlik match
+11197,1,kalın taban terlik match
+11198,0,bot not terlik category mismatch
+11199,1,mango erkek jean match

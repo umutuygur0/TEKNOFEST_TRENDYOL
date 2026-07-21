@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+13300,1,desk nameplate matches query
+13301,1,office desk nameplate set matches
+13302,1,uv printed desk nameplate matches
+13303,1,wood desk nameplate matches
+13304,1,crystal desk nameplate matches
+13305,1,salicylic acid toner matches
+13306,1,salicylic acid toner matches
+13307,1,salicylic acid toner matches
+13308,1,toner contains salicylic acid
+13309,1,serum contains salicylic acid
+13310,1,black raincoat matches
+13311,1,black raincoat matches
+13312,1,black raincoat matches
+13313,1,black raincoat matches
+13314,0,blue color not black
+13315,1,firat pvc pipe matches
+13316,1,firat pvc pipe matches
+13317,1,firat pvc pipe matches
+13318,1,firat pvc pipe matches
+13319,1,firat pvc pipe fitting same brand/category
+13320,1,supla placemat matches
+13321,1,supla placemat matches
+13322,1,supla placemat matches
+13323,1,amerikan servis placemat matches
+13324,1,supla placemat set matches
+13325,1,shark ninja blender matches
+13326,0,arzum brand not ninja
+13327,0,schafer brand not ninja
+13328,0,go ithalat brand not ninja
+13329,0,empressco brand not ninja
+13330,1,duygu gunlugu book series matches
+13331,1,duygu gunlugum series matches
+13332,1,duygu gunlugu mira series matches
+13333,0,jacket unrelated to book query
+13334,0,mug not diary book
+13335,1,lc waikiki women pants matches
+13336,1,lc waikiki women pants matches
+13337,1,lc waikiki women pants matches
+13338,1,lc waikiki women pants matches
+13339,1,lc waikiki women pants matches
+13340,1,false eyelashes matches
+13341,1,false eyelashes matches
+13342,1,false eyelashes matches
+13343,1,false eyelashes matches
+13344,1,false eyelashes matches
+13345,1,perotti dinner set matches
+13346,1,perotti dinner set matches
+13347,0,pierre cardin brand not perotti
+13348,0,porland brand not perotti
+13349,0,karaca brand not perotti
+13350,1,tommy men wallet matches
+13351,1,tommy men wallet matches
+13352,1,tommy men wallet matches
+13353,1,tommy men wallet matches
+13354,0,women's wallet not men's
+13355,1,tire repair kit matches
+13356,1,tire repair kit matches
+13357,1,tire repair kit matches
+13358,1,tire repair kit matches
+13359,1,tire repair kit matches
+13360,1,hemorrhoid cream matches
+13361,1,hemorrhoid cream matches
+13362,1,hemorrhoid cream matches
+13363,0,generic skin cream not hemorrhoid specific
+13364,0,capsicum ointment different use
+13365,1,xiaomi smart band matches
+13366,1,xiaomi smart band matches
+13367,1,xiaomi smart band matches
+13368,1,xiaomi smart band matches
+13369,1,xiaomi smart band matches
+13370,0,canvas painting not wicker frame
+13371,0,canvas painting not wicker frame
+13372,0,frameless poster not wicker frame
+13373,0,wicker plant pot stand not frame
+13374,0,wood framed painting not wicker
+13375,1,dmc brand desktop matches
+13376,1,dmc brand desktop matches
+13377,1,dmc brand desktop matches
+13378,1,dmc brand desktop matches
+13379,1,dmc brand desktop matches
+13380,1,cushion cover matches
+13381,1,cushion cover matches
+13382,1,cushion cover matches
+13383,1,pillow cover matches category
+13384,1,pillow cover matches category
+13385,1,trendix brand matches
+13386,1,trendix brand matches
+13387,1,trendix brand matches
+13388,1,trendix brand matches
+13389,0,wmf brand not trendix
+13390,1,licensed fenerbahce bathrobe matches
+13391,0,trabzonspor not fenerbahce
+13392,0,no team license
+13393,0,no team license
+13394,0,no team license
+13395,1,nevin kaya moda brand matches
+13396,1,nevin kaya moda brand matches
+13397,1,nevin kaya moda brand matches
+13398,1,nevin kaya moda brand matches
+13399,1,nevin kaya moda brand matches
+13400,0,vw polo not caddy
+13401,0,chrysler not volkswagen
+13402,0,vw taigo not caddy
+13403,0,vw tiguan/passat not caddy
+13404,1,attribute lists vw caddy compatibility
+13405,1,jute doormat matches
+13406,1,jute doormat matches
+13407,1,jute doormat matches
+13408,1,jute doormat matches
+13409,1,jute doormat matches
+13410,1,silver wristwatch matches
+13411,1,silver wristwatch matches
+13412,1,silver case wristwatch matches
+13413,1,silver case wristwatch matches
+13414,1,metallic silver-tone case matches
+13415,1,handlebar mirror matches
+13416,1,handlebar mirror matches
+13417,1,handlebar mirror matches
+13418,1,handlebar mirror matches
+13419,1,handlebar mirror matches
+13420,1,garnier c vitamini serum matches
+13421,1,garnier c vitamini serum matches
+13422,1,garnier c vitamini serum matches
+13423,0,brand is gros not garnier
+13424,0,alterra brand not garnier
+13425,1,coffee creamer milk powder matches
+13426,1,coffee creamer milk powder matches
+13427,1,coffee creamer milk powder matches
+13428,1,coffee creamer milk powder matches
+13429,1,coffee creamer milk powder matches
+13430,1,manav fruit matches
+13431,1,manav fruit matches
+13432,1,manav vegetable matches
+13433,0,produce bag not manav product
+13434,1,manav fruit matches
+13435,1,girls trench coat matches
+13436,1,girls trench coat matches
+13437,1,girls trench coat matches
+13438,1,girls trench coat matches
+13439,1,girls trench coat matches
+13440,1,metal detector matches
+13441,1,metal detector matches
+13442,1,metal detector matches
+13443,1,metal detector matches
+13444,1,metal detector matches
+13445,1,silter brand iron matches
+13446,1,silter brand iron matches
+13447,1,silter brand iron matches
+13448,1,silter brand iron matches
+13449,1,silter brand iron matches
+13450,1,personalized baby onesie matches
+13451,1,personalized baby onesie matches
+13452,1,personalized baby onesie matches
+13453,1,personalized baby onesie matches
+13454,1,personalized baby onesie matches
+13455,1,snail cream matches
+13456,1,snail cream matches
+13457,1,snail cream matches
+13458,1,snail cream matches
+13459,1,snail cream matches
+13460,1,bioderma sebium product matches
+13461,1,bioderma sebium product matches
+13462,1,bioderma sebium product matches
+13463,1,bioderma sebium product matches
+13464,1,bioderma sebium product matches
+13465,1,pars brand boot matches
+13466,0,big king brand not pars
+13467,0,frau brand not pars
+13468,0,trendyshose brand not pars
+13469,0,friend & trend brand not pars
+13470,1,elvan kruvasan matches
+13471,1,elvan kruvasan matches
+13472,1,elvan kruvasan matches
+13473,0,chocolate not kruvasan
+13474,0,chocolate not kruvasan
+13475,1,kitchen faucet matches
+13476,1,kitchen faucet matches
+13477,1,kitchen faucet matches
+13478,1,kitchen faucet matches
+13479,1,kitchen faucet matches
+13480,0,wool carpet not shawl
+13481,0,wool duvet not shawl
+13482,0,wool carpet not shawl
+13483,0,wool kilim rug not shawl
+13484,0,wool rug not shawl
+13485,1,pirantech brand steam cleaner matches
+13486,1,pirantech brand steam cleaner matches
+13487,1,pirantech brand steam cleaner matches
+13488,1,pirantech brand steam cleaner matches
+13489,1,pirantech brand steam cleaner matches
+13490,1,decorative ribbon matches
+13491,1,decorative ribbon matches
+13492,1,decorative ribbon matches
+13493,1,decorative ribbon matches
+13494,1,decorative ribbon matches
+13495,1,gold cartilage earring matches
+13496,1,gold cartilage earring matches
+13497,1,gold tragus cartilage earring matches
+13498,1,gold tragus cartilage earring matches
+13499,1,gold tragus cartilage earring matches
+13500,1,prima nova toilet brush matches
+13501,1,prima nova toilet brush matches
+13502,1,prima nova toilet brush matches
+13503,1,prima nova toilet brush matches
+13504,1,prima nova toilet brush matches
+13505,1,real pearl necklace matches
+13506,1,real pearl necklace matches
+13507,0,stone necklace not pearl per attributes
+13508,1,real pearl necklace matches
+13509,1,real pearl necklace matches
+13510,1,arcelik trousseau set matches
+13511,1,arcelik trousseau set matches
+13512,1,arcelik trousseau set matches
+13513,1,arcelik trousseau set matches
+13514,1,arcelik trousseau set matches
+13515,1,living room decor accessory matches
+13516,1,living room decor accessory matches
+13517,1,living room decor accessory matches
+13518,1,living room decor accessory matches
+13519,1,living room decor accessory matches
+13520,1,terrarium matches
+13521,1,terrarium matches
+13522,1,terrarium matches
+13523,0,desk decor not terrarium
+13524,0,figurine not terrarium
+13525,0,blade deodorant not oneblade
+13526,0,blade deodorant not oneblade
+13527,0,blade deodorant not oneblade
+13528,0,blade deodorant not oneblade
+13529,0,blade deodorant not oneblade
+13530,1,tesettur cashmere coat matches
+13531,1,tesettur cashmere coat matches
+13532,1,tesettur cashmere coat matches
+13533,1,tesettur cashmere coat matches
+13534,1,tesettur cashmere coat matches
+13535,1,philips descaling tablet matches
+13536,1,philips descaling tablet matches
+13537,0,siemens brand not philips
+13538,0,fakir brand dishwasher tablet not philips
+13539,0,finish brand dishwasher tablet not philips
+13540,1,boy baby socks matches
+13541,1,unisex baby socks suits boys
+13542,1,unisex baby socks suits boys
+13543,1,boy baby socks defacto matches
+13544,1,unisex baby socks suits boys
+13545,1,silvano jewelry silver bracelet matches
+13546,1,silvano jewelry silver bracelet matches
+13547,1,silvano jewelry silver bracelet matches
+13548,1,silvano jewelry silver bracelet matches
+13549,1,silvano jewelry silver bracelet matches
+13550,1,unisex watch suits women query
+13551,1,women's watch matches
+13552,1,women's watch matches
+13553,1,women's watch matches
+13554,1,women's watch matches
+13555,1,robadan style dress matches
+13556,1,robadan style dress matches
+13557,1,robadan style dress matches
+13558,1,robadan style dress matches
+13559,1,robadan style dress matches
+13560,0,steel material not pleksi
+13561,0,chrome material not pleksi
+13562,0,metal material not pleksi
+13563,0,wood material not pleksi
+13564,0,marble material not pleksi
+13565,1,peeling effect facial cleanser matches
+13566,1,face peeling gel matches
+13567,1,face peeling gel matches
+13568,1,face peeling matches
+13569,1,exfoliating face cleanser matches
+13570,0,guess brand not gucci
+13571,0,kigili brand not gucci
+13572,0,pulltonic brand not gucci
+13573,0,chuba brand not gucci
+13574,0,ritnice brand not gucci
+13575,1,nike men's tracksuit matches
+13576,1,nike men's tracksuit matches
+13577,1,nike men's tracksuit matches
+13578,1,nike men's tracksuit matches
+13579,1,nike men's tracksuit matches
+13580,1,double sided duvet matches
+13581,1,double sided duvet matches
+13582,1,double sided duvet matches
+13583,1,double sided duvet matches
+13584,1,double sided duvet matches
+13585,1,dr banggiwon brand matches
+13586,1,dr banggiwon brand matches
+13587,1,dr banggiwon brand matches
+13588,1,dr banggiwon brand matches
+13589,1,dr banggiwon brand matches
+13590,1,bedroom chandelier matches
+13591,1,bedroom chandelier matches
+13592,1,bedroom chandelier matches
+13593,1,bedroom chandelier matches
+13594,1,bedroom chandelier matches
+13595,1,avon wild country matches
+13596,1,avon wild country matches
+13597,1,avon wild country matches
+13598,1,avon wild country matches
+13599,1,avon wild country matches
+13600,0,fiat doblo not egea
+13601,0,renault megane kangoo not fiat egea
+13602,0,fiat albea siena palio not egea
+13603,1,attribute lists fiat egea compatibility
+13604,0,universal cover not egea specific
+13605,1,sinbo toaster matches
+13606,1,sinbo toaster matches
+13607,1,sinbo toaster matches
+13608,1,sinbo toaster matches
+13609,0,cvs brand not sinbo
+13610,1,kojic acid soap matches
+13611,1,kojic acid soap matches
+13612,1,kojic acid soap matches
+13613,1,kojic acid soap matches
+13614,1,kojic acid soap matches
+13615,1,illuminated valve cap matches
+13616,1,illuminated valve cap matches
+13617,1,illuminated valve cap matches
+13618,1,illuminated valve cap matches
+13619,1,illuminated valve cap matches
+13620,1,clamp cake mold matches
+13621,1,clamp cake mold matches
+13622,1,clamp cake mold matches
+13623,0,standard type not clamp mold
+13624,0,standard type not clamp mold
+13625,1,nail master gel polish matches
+13626,1,nail master gel polish matches
+13627,1,nail master gel polish matches
+13628,1,nail master gel polish matches
+13629,1,nail master gel polish matches
+13630,1,women's summer pants matches
+13631,1,women's summer pants matches
+13632,1,women's summer pants matches
+13633,1,women's summer pants matches
+13634,1,women's summer pants matches
+13635,1,outdoor camping equipment matches
+13636,1,outdoor camping equipment matches
+13637,1,outdoor camping equipment matches
+13638,1,outdoor camping equipment matches
+13639,1,outdoor camping equipment matches
+13640,1,death note book matches
+13641,1,death note manga matches
+13642,1,death note manga matches
+13643,1,death note themed notebook matches
+13644,1,death note themed mug matches
+13645,1,mixed pickles matches
+13646,1,mixed pickles matches
+13647,1,mixed pickles matches
+13648,1,mixed pickles matches
+13649,1,mixed pickles matches

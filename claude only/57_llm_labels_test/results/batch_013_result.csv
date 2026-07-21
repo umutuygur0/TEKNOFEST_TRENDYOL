@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4550,1,title matches query
+4551,1,title says pudra fircasi
+4552,1,title says pudra fircasi
+4553,1,matches query type
+4554,1,title says pudra fircasi
+4555,1,genuine raspberry pi board
+4556,1,genuine raspberry pi board
+4557,1,genuine raspberry pi board
+4558,1,raspberry pi product line
+4559,1,raspberry pi camera accessory
+4560,1,pink stuff brand product
+4561,1,pink stuff product line
+4562,1,pink stuff brand product
+4563,1,pink stuff brand product
+4564,1,pink stuff brand product
+4565,1,keyboard tablet case matches
+4566,1,keyboard tablet case matches
+4567,1,keyboard tablet case matches
+4568,1,title says klavyeli kilif
+4569,1,keyboard tablet case matches
+4570,1,jument brand skirt
+4571,1,jument brand skirt
+4572,1,jument brand skirt
+4573,1,jument brand skirt
+4574,1,jument brand skirt
+4575,1,pedal trash bin match
+4576,1,pedal trash bin match
+4577,1,pedal trash bin match
+4578,1,pedal trash bin match
+4579,1,pedal trash bin match
+4580,1,small tube - test tube matches
+4581,0,decorative stones not a tube
+4582,0,spice container not a tube
+4583,0,decorative stones not a tube
+4584,0,potted tree sapling not a tube
+4585,0,unrelated to query code
+4586,0,unrelated to query code
+4587,0,unrelated to query code
+4588,0,unrelated to query code
+4589,0,unrelated to query code
+4590,1,transparent false nails match
+4591,1,transparent false nails match
+4592,1,transparent false nails match
+4593,0,glue not the nails
+4594,1,transparent false nails match
+4595,1,enamel yogurt pot match
+4596,1,enamel yogurt pot match
+4597,1,enamel yogurt pot match
+4598,1,enamel yogurt pot match
+4599,1,enamel yogurt pot match
+4600,1,men's coat - title says erkek
+4601,1,men's coat match
+4602,0,women's coat not erkek
+4603,1,men's coat match
+4604,1,men's coat match
+4605,1,lassa tire matching size
+4606,1,lassa tire matching size
+4607,1,lassa tire matching size
+4608,1,lassa tire matching size
+4609,1,lassa tire matching size
+4610,1,sleepy size 6 diaper match
+4611,1,sleepy size 6 diaper match
+4612,1,sleepy size 6 diaper match
+4613,1,sleepy size 6 diaper match
+4614,1,sleepy size 6 diaper match
+4615,1,l'oreal paris brand match
+4616,1,l'oreal paris brand match
+4617,1,l'oreal paris brand match
+4618,1,l'oreal paris brand match
+4619,1,l'oreal paris brand match
+4620,0,diamond pattern not leopard
+4621,0,cardigan not sweater - not leopard
+4622,0,plain cardigan not leopard sweater
+4623,0,not leopard pattern - not sweater
+4624,0,generic pattern not leopard
+4625,1,tongue piercing match
+4626,1,tongue piercing match
+4627,1,tongue piercing match
+4628,1,tongue piercing match
+4629,1,tongue piercing match
+4630,1,ceramic mug matches bardak query
+4631,1,ceramic mug matches bardak query
+4632,1,ceramic mug matches bardak query
+4633,1,ceramic mug matches bardak query
+4634,1,ceramic mug matches bardak query
+4635,1,ebebek hello baby pajama match
+4636,1,ebebek hello baby pajama match
+4637,1,ebebek hello baby pajama match
+4638,1,ebebek hello baby pajama match
+4639,1,ebebek hello baby pajama match
+4640,1,lockable metal shoe rack match
+4641,1,lockable metal shoe rack match
+4642,1,lockable metal shoe rack match
+4643,1,lockable metal shoe rack match
+4644,1,lockable metal shoe rack match
+4645,1,eveline cosmetics brand match
+4646,1,eveline cosmetics brand match
+4647,1,eveline cosmetics brand match
+4648,1,eveline cosmetics brand match
+4649,1,eveline cosmetics brand match
+4650,1,soft home slipper match
+4651,1,soft home slipper match
+4652,1,soft home slipper match
+4653,1,soft home slipper match
+4654,1,soft home slipper match
+4655,1,bayar gold necklace pendant match
+4656,1,bayar gold necklace pendant match
+4657,1,bayar gold necklace pendant match
+4658,1,bayar gold necklace pendant match
+4659,1,bayar gold necklace pendant match
+4660,1,steam cleaner with glass function
+4661,1,steam cleaner with glass function
+4662,1,steam cleaner with glass function
+4663,1,steam cleaner with glass function
+4664,1,steam cleaner with glass function
+4665,1,carpet washing machine match
+4666,1,carpet washing machine match
+4667,1,carpet washing machine match
+4668,1,carpet washing machine match
+4669,1,carpet washing machine match
+4670,1,icardi t-shirt match
+4671,1,icardi t-shirt match
+4672,1,icardi t-shirt match
+4673,1,icardi t-shirt match
+4674,1,icardi t-shirt match
+4675,1,mini steam machine match
+4676,1,mini steam machine match
+4677,1,mini steam machine match
+4678,1,mini steam machine match
+4679,1,mini humidifier same product type
+4680,1,mudo el cantasi match
+4681,1,mudo el cantasi match
+4682,1,mudo el cantasi match
+4683,1,mudo el cantasi match
+4684,1,mudo el cantasi match
+4685,1,siemens washing machine match
+4686,1,siemens washing machine match
+4687,1,siemens washing machine match
+4688,1,siemens washing machine match
+4689,1,siemens washing machine match
+4690,1,toy kitchen set matches query
+4691,1,toy kitchen set matches query
+4692,1,toy kitchen dish set matches
+4693,1,kitchen utensil set matches
+4694,1,toy kitchen set matches query
+4695,1,skin care device match
+4696,1,skin care device match
+4697,1,skin care device match
+4698,1,skin care device match
+4699,1,facial cleansing device match
+4700,1,women's wallet match
+4701,1,women's wallet match
+4702,1,women's wallet match
+4703,1,women's wallet match
+4704,1,women's wallet match
+4705,1,5-htp supplement match
+4706,1,5-htp supplement match
+4707,1,5-htp supplement match
+4708,1,5-htp supplement match
+4709,1,5-htp supplement match
+4710,1,kashar cheese match
+4711,1,kashar cheese match
+4712,1,kashar cheese match
+4713,1,kashar cheese match
+4714,1,kashar cheese match
+4715,1,kids camera match
+4716,1,kids camera match
+4717,1,kids camera match
+4718,1,kids camera match
+4719,1,kids camera match
+4720,1,pleated pants match
+4721,1,pleated pants match
+4722,1,pleated detail pants match
+4723,1,pleated pants match
+4724,0,darted not pleated
+4725,1,red chandelier match
+4726,1,red chandelier match
+4727,1,red chandelier match
+4728,1,red chandelier match
+4729,1,red chandelier match
+4730,1,lego age 4+ matches
+4731,0,duplo for younger age not 4
+4732,1,lego age 4+ matches
+4733,0,age 8+ not 4
+4734,0,age 6+ not 4
+4735,1,modal fabric sweatshirt match
+4736,0,no modal fabric mentioned
+4737,0,no modal fabric mentioned
+4738,0,thick fabric not modal
+4739,0,polar fabric not modal
+4740,1,defacto abiye elbise match
+4741,1,defacto abiye elbise match
+4742,1,defacto abiye elbise match
+4743,1,defacto abiye elbise match
+4744,0,brand not defacto
+4745,1,konak taragi brand match
+4746,1,konak taragi brand match
+4747,0,listing mismatched - actually diaper
+4748,1,konak taragi matches product type
+4749,1,konak taragi brand match
+4750,1,electric glass stove match
+4751,1,electric glass stove match
+4752,1,electric glass stove match
+4753,1,electric glass stove match
+4754,1,electric glass stove match
+4755,0,universal fit not caddy specific
+4756,0,not volkswagen caddy
+4757,0,not volkswagen caddy
+4758,0,vw polo not caddy
+4759,0,not volkswagen caddy
+4760,1,sinbo kettle match
+4761,1,sinbo kettle match
+4762,1,sinbo kettle match
+4763,1,sinbo kettle match
+4764,0,sunny brand not sinbo
+4765,1,earth auger match
+4766,1,earth auger match
+4767,1,earth auger match
+4768,1,earth auger match
+4769,1,earth auger match
+4770,1,non-prescription blue light glasses match
+4771,1,non-prescription blue light glasses match
+4772,1,blue light glasses match
+4773,1,blue light glasses match
+4774,1,blue light glasses match
+4775,1,cabinet pot pan organizer match
+4776,1,cabinet pot pan organizer match
+4777,1,cabinet pot pan organizer match
+4778,1,cabinet pot pan organizer match
+4779,1,cabinet pot pan organizer match
+4780,1,blue light protective glasses match
+4781,1,blue light protective glasses match
+4782,1,blue light protective glasses match
+4783,1,blue light protective glasses match
+4784,1,blue light protective glasses match
+4785,1,shoe rack match
+4786,1,shoe rack match
+4787,1,shoe rack match
+4788,1,shoe rack match
+4789,1,shoe rack match
+4790,1,cream co brand match
+4791,1,cream co brand match
+4792,1,cream co brand match
+4793,1,cream co brand match
+4794,1,cream co brand match
+4795,1,waldern brand match
+4796,1,waldern brand match
+4797,1,waldern brand match
+4798,1,waldern brand match
+4799,0,brand not waldern
+4800,1,sigma klima match
+4801,1,sigma klima match
+4802,1,sigma klima match
+4803,1,sigma klima match
+4804,1,sigma klima match
+4805,1,coffee-side napkin match
+4806,1,coffee-side napkin match
+4807,1,coffee-side napkin match
+4808,1,coffee-side napkin match
+4809,1,coffee-side napkin match
+4810,0,bag not boots
+4811,0,backpack not boots
+4812,0,dress not boots
+4813,0,baby body not boots
+4814,0,t-shirt not boots
+4815,1,vitamin b6 match
+4816,0,vitamin b12 not b6
+4817,1,vitamin b6 match
+4818,0,vitamin b12 not b6
+4819,0,no vitamin b6 present
+4820,1,cango home pillowcase match
+4821,1,cango home pillowcase match
+4822,1,cango home pillowcase match
+4823,1,cango home pillowcase match
+4824,1,cango home pillowcase match
+4825,1,publisher activity book match
+4826,1,publisher activity book match
+4827,1,publisher activity book match
+4828,1,publisher activity book match
+4829,1,publisher activity book match
+4830,1,rope shelf match
+4831,1,rope shelf match
+4832,1,rope shelf match
+4833,1,rope shelf match
+4834,1,rope shelf match
+4835,1,bambum storage container match
+4836,1,bambum storage container match
+4837,1,bambum storage container match
+4838,1,bambum storage container match
+4839,1,bambum storage container match
+4840,1,kitchen lighter match
+4841,1,kitchen lighter match
+4842,1,kitchen lighter match
+4843,1,kitchen lighter match
+4844,1,kitchen lighter match
+4845,1,binocular accessory match
+4846,1,telescope accessory match
+4847,0,actual device not accessory
+4848,0,binocular itself not accessory
+4849,0,binocular itself not accessory
+4850,1,zootopia themed puzzle match
+4851,1,zootopia themed case match
+4852,0,unrelated to zootopia
+4853,0,unrelated to zootopia
+4854,0,not zootopia themed
+4855,1,full-length mirror match
+4856,1,full-length mirror match
+4857,1,full-length mirror match
+4858,1,full-length mirror match
+4859,1,full-length mirror match
+4860,1,140 screen size tv match
+4861,1,140 screen size tv match
+4862,1,140 screen size tv match
+4863,1,140 screen size tv match
+4864,1,140 screen size tv match
+4865,1,men's leather shoe match
+4866,1,men's leather shoe match
+4867,1,men's leather shoe match
+4868,1,men's leather shoe match
+4869,1,men's leather shoe match
+4870,1,picture frame match
+4871,1,picture frame match
+4872,1,picture frame match
+4873,1,picture frame match
+4874,1,picture frame match
+4875,1,gs baby jersey match
+4876,0,adult size not baby
+4877,0,adult size not baby
+4878,0,adult size not baby
+4879,0,adult size not baby
+4880,1,iphone 15 match
+4881,1,iphone 15 match
+4882,1,iphone 15 match
+4883,1,iphone 15 match
+4884,0,case not the phone itself
+4885,1,angora carpet brand match
+4886,1,angora carpet brand match
+4887,1,angora carpet brand match
+4888,1,angora carpet brand match
+4889,1,angora carpet brand match
+4890,1,galaxy tab a9 case match
+4891,1,galaxy tab a9 case match
+4892,1,galaxy tab a9 case match
+4893,1,galaxy tab a9 case match
+4894,1,galaxy tab a9 case match
+4895,1,water absorbing bath mat match
+4896,1,water absorbing bath mat match
+4897,1,water absorbing bath mat match
+4898,1,water absorbing bath mat match
+4899,1,water absorbing bath mat match

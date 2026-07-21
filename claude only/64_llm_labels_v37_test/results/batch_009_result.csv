@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3150,1,brand match frankly cilt bakim
+3151,1,brand match frankly yuz bakim
+3152,0,different brand filorga not frankly
+3153,0,unrelated food product
+3154,0,unrelated medical catheter
+3155,1,dyson vacuum matches query
+3156,1,dyson vacuum matches query
+3157,1,dyson vacuum matches query
+3158,1,dyson brand hair straightener
+3159,1,dyson brand hair straightener
+3160,1,faber-castell grip pen model
+3161,1,faber-castell grip pen model
+3162,1,tennis racket grip product
+3163,1,tennis racket grip product
+3164,1,tennis racket grip product
+3165,1,rahle quran stand
+3166,1,rahle quran stand
+3167,1,rahle quran stand
+3168,1,rahle quran stand
+3169,1,rahle quran stand
+3170,1,kadeh wine glass
+3171,1,kadeh glass
+3172,1,kadeh champagne glass
+3173,1,kadeh wine glass
+3174,1,kadeh wine glass
+3175,1,kiehl's brand serum
+3176,1,kiehl's brand set
+3177,1,kiehl's brand set
+3178,1,kiehl's brand cream
+3179,1,kiehl's brand serum
+3180,1,dresuar console furniture
+3181,1,dresuar console furniture
+3182,1,dresuar console furniture
+3183,1,dresuar console furniture
+3184,1,dresuar console furniture
+3185,0,not radiator - bookend shelf mismatch
+3186,0,not radiator - wall shelf mismatch
+3187,0,not radiator - bar table mismatch
+3188,0,not radiator - bathroom shelf mismatch
+3189,0,not radiator - floating shelf mismatch
+3190,0,no biraru brand match
+3191,0,no biraru brand match
+3192,0,no biraru brand match
+3193,0,no biraru brand match
+3194,0,no biraru brand match
+3195,1,scuba fabric pants explicit match
+3196,0,no scuba fabric mentioned
+3197,0,sweatshirt not scuba pants
+3198,0,plazzo pants not scuba fabric
+3199,0,keten fabric not scuba
+3200,1,kenan yildiz named jersey
+3201,0,neymar jersey not kenan
+3202,0,goalkeeper jersey not kenan
+3203,0,galatasaray jersey no kenan mention
+3204,0,sweatshirt unrelated to kenan
+3205,1,cop kovasi trash bin
+3206,1,cop kovasi trash bin
+3207,1,cop kovasi trash bin
+3208,1,cop kovasi trash bin
+3209,1,cop kovasi trash bin
+3210,1,to-do list notebook
+3211,1,wedding planner with lists
+3212,1,checklist product
+3213,0,book not a list product
+3214,0,novel unrelated to liste
+3215,1,ramen noodle product
+3216,1,ramen noodle product
+3217,1,ramen noodle product
+3218,1,ramen noodle product
+3219,1,ramen noodle product
+3220,1,gokcen book series
+3221,1,gokcen book series
+3222,1,gokcen book series
+3223,1,gokcen book series
+3224,1,gokcen book series
+3225,1,tursu pickle product
+3226,1,tursu pickle product
+3227,1,tursu pickle product
+3228,1,tursu pickle product
+3229,1,tursu pickle product
+3230,1,tragus piercing
+3231,1,tragus piercing
+3232,1,tragus piercing
+3233,1,tragus piercing
+3234,1,tragus piercing
+3235,1,tunaelli brand shoe
+3236,1,tunaelli brand shoe
+3237,1,tunaelli brand shoe
+3238,1,tunaelli brand shoe
+3239,1,tunaelli brand shoe
+3240,1,tereyaglik butter dish
+3241,1,tereyaglik butter dish
+3242,1,tereyaglik butter dish
+3243,1,tereyaglik butter dish
+3244,1,tereyaglik butter dish
+3245,1,tripod product
+3246,1,tripod product
+3247,1,tripod product
+3248,1,tripod product
+3249,1,tripod product
+3250,1,mustang brand sunglasses
+3251,1,mustang brand sunglasses
+3252,1,mustang brand sunglasses
+3253,1,mustang brand sunglasses
+3254,1,mustang brand sunglasses
+3255,1,desen pattern shawl match
+3256,1,desen pattern shawl match
+3257,1,desen pattern shawl match
+3258,1,desen pattern shawl match
+3259,1,desen pattern shawl match
+3260,1,missi brand cologne
+3261,1,missi brand room scent
+3262,1,missi brand essence
+3263,1,missi brand room scent
+3264,1,missi brand room scent
+3265,1,aydinlatici highlighter
+3266,1,aydinlatici highlighter
+3267,1,aydinlatici highlighter
+3268,1,aydinlatici highlighter
+3269,1,aydinlatici highlighter
+3270,1,mabel product line match
+3271,0,different bella maison line not mabel
+3272,0,different bella maison line not mabel
+3273,0,different bella maison line not mabel
+3274,0,different bella maison line not mabel
+3275,1,slim tapered fit jean
+3276,1,slim tapered fit jean
+3277,1,slim tapered fit jean
+3278,0,straight fit not tapered
+3279,0,dar paca not explicitly tapered
+3280,1,winnie the pooh themed
+3281,1,winnie the pooh themed
+3282,1,winnie the pooh themed
+3283,1,winnie the pooh themed
+3284,1,winnie the pooh themed
+3285,1,dermadelete brand shampoo
+3286,1,dermadelete brand shampoo
+3287,1,dermadelete brand peeling set
+3288,0,different brand silda beauty
+3289,0,different brand cece med
+3290,1,lash false eyelash
+3291,1,lash false eyelash
+3292,1,lash false eyelash
+3293,1,lash mascara volume
+3294,1,lash silk eyelash extension
+3295,1,takilik jewelry stand
+3296,1,takilik jewelry stand
+3297,1,takilik jewelry stand
+3298,1,takilik jewelry stand
+3299,1,takilik jewelry stand
+3300,1,converse all star sneaker
+3301,0,different brand not all star
+3302,0,adidas sneaker not all star
+3303,0,fila sneaker not all star
+3304,0,nike sneaker not all star
+3305,1,suspansiyon suspension part
+3306,1,suspansiyon suspension part
+3307,1,suspansiyon suspension part
+3308,1,suspansiyon suspension part
+3309,1,suspansiyon suspension part
+3310,1,buton push button switch
+3311,1,buton switch
+3312,1,buton switch
+3313,1,buton push button switch
+3314,1,buton switch
+3315,0,caykur tea not yasarbey brand
+3316,1,yasarbey brand candy
+3317,0,caykur tea not yasarbey brand
+3318,0,caykur tea not yasarbey brand
+3319,1,yasarbey brand draje
+3320,1,esofman alti sweatpants
+3321,1,esofman alti sweatpants
+3322,1,esofman alti sweatpants
+3323,1,esofman alti sweatpants
+3324,1,esofman alti sweatpants
+3325,1,naftalin mothball
+3326,1,naftalin mothball
+3327,1,naftalin mothball
+3328,1,naftalin mothball
+3329,1,naftalin mothball
+3330,1,cushion foundation product
+3331,1,cushion foundation product
+3332,1,cushion foundation product
+3333,1,cushion foundation product
+3334,1,cushion foundation product
+3335,1,flormar brand lipstick
+3336,1,flormar brand foundation
+3337,1,flormar brand nail polish
+3338,1,flormar brand lipstick
+3339,0,different brand rosece
+3340,1,mobpazar brand furniture
+3341,1,mobpazar brand furniture
+3342,1,mobpazar brand furniture
+3343,1,mobpazar brand furniture
+3344,1,mobpazar brand furniture
+3345,1,sparx brand detergent
+3346,1,sparx brand detergent
+3347,1,sparx brand cleaner
+3348,1,sparx brand detergent
+3349,1,sparx brand detergent
+3350,1,perdemhome brand curtain accessory
+3351,1,perdemhome brand curtain accessory
+3352,0,different brand emtory home
+3353,1,perdemhome brand curtain accessory
+3354,1,perdemhome brand curtain accessory
+3355,1,therabody brand massage device
+3356,1,therabody brand massage gun
+3357,1,therabody brand massage device
+3358,1,therabody brand massage gun
+3359,0,different brand aktarzane
+3360,1,cc krem product
+3361,1,cc krem product
+3362,1,cc krem product
+3363,1,cc krem product
+3364,1,cc krem product
+3365,1,lumene brand skincare
+3366,1,lumene brand skincare
+3367,1,lumene brand skincare
+3368,0,philips light bulb not lumene
+3369,1,lumene brand toner
+3370,1,stanley brand tumbler
+3371,1,stanley brand tumbler
+3372,1,stanley brand tumbler
+3373,1,stanley brand tumbler
+3374,1,stanley brand tumbler
+3375,1,realme brand phone
+3376,1,realme brand phone
+3377,1,realme brand phone
+3378,0,reeder phone not realme
+3379,0,xiaomi phone not realme
+3380,1,d-c-fix brand film
+3381,1,d-c-fix brand film
+3382,1,d-c-fix brand film
+3383,1,d-c-fix brand film
+3384,1,d-c-fix brand film
+3385,1,mobass brand car speaker
+3386,1,mobass brand car speaker
+3387,1,mobass brand car speaker
+3388,1,mobass brand car amplifier
+3389,1,mobass brand car amplifier
+3390,1,tapo brand smart device
+3391,1,tapo brand camera
+3392,1,tapo brand smart bulb
+3393,1,tapo brand camera
+3394,1,tapo brand light strip
+3395,0,unrelated reptile terrarium
+3396,0,unrelated bocce set
+3397,0,unrelated book
+3398,0,unrelated car part
+3399,0,unrelated gps tracker
+3400,1,fan cooling device
+3401,1,fan case cooler
+3402,1,fan mini ventilator
+3403,1,fan desktop
+3404,1,fan mini cooler
+3405,1,baseus brand cable
+3406,1,baseus brand charger
+3407,1,baseus brand cable
+3408,1,baseus brand cable
+3409,1,baseus brand cable
+3410,1,othello brand bedding
+3411,1,othello brand quilt
+3412,1,othello brand mattress protector
+3413,1,othello brand mattress pad
+3414,1,othello brand pillow
+3415,1,romand brand eyeshadow
+3416,1,romand brand lip tint
+3417,1,romand brand eyeshadow
+3418,1,romand brand lip tint
+3419,1,romand brand lip tint
+3420,0,unrelated earbuds case
+3421,0,unrelated snowboard
+3422,0,unrelated wireless charger lamp
+3423,0,unrelated spearfishing gear
+3424,0,unrelated motorcycle light
+3425,1,terek kitchen shelf
+3426,1,terek wall shelf
+3427,1,terek wall shelf
+3428,1,terek kitchen shelf
+3429,1,terek kitchen shelf
+3430,1,keten linen shirt
+3431,1,keten linen shirt
+3432,1,keten linen shirt
+3433,0,plain shirt no linen mention
+3434,0,muslin cotton not linen
+3435,0,ink cartridge model mismatch
+3436,0,ink cartridge model mismatch
+3437,0,ink cartridge model mismatch
+3438,0,ink cartridge model mismatch
+3439,0,ink cartridge model mismatch
+3440,1,esifman sweatpants match
+3441,1,esifman sweatpants match
+3442,1,esifman sweatpants match
+3443,1,esifman sweatpants match
+3444,1,esifman sweatpants match
+3445,1,uv nail lamp dryer
+3446,1,uv nail lamp dryer
+3447,1,uv nail lamp dryer
+3448,1,uv nail lamp dryer
+3449,1,uv nail lamp dryer
+3450,1,blistex brand lip care
+3451,1,blistex brand lip care
+3452,1,blistex brand lip care
+3453,1,blistex brand lip care
+3454,1,blistex brand lip care
+3455,1,talehobby brand paint set
+3456,0,different brand corvo
+3457,0,different brand kendinyaphobi
+3458,0,different brand kendinyaphobi
+3459,0,different brand cns hobby
+3460,1,balea brand serum
+3461,0,ballet shoe unrelated to balea
+3462,1,balea brand capsule serum
+3463,1,balea brand shower gel
+3464,1,balea brand eye serum
+3465,1,serinova brand flower pot
+3466,1,serinova brand flower pot
+3467,1,serinova brand flower pot
+3468,1,serinova brand flower pot
+3469,1,serinova brand flower pot
+3470,0,hot wheels not vtech brand
+3471,0,hot wheels not vtech brand
+3472,0,hot wheels not vtech brand
+3473,0,hot wheels not vtech brand
+3474,0,hot wheels not vtech brand
+3475,1,everest brand mouse
+3476,1,everest brand mouse
+3477,1,everest brand mouse
+3478,1,everest brand mouse
+3479,1,everest brand mouse
+3480,1,dede brand toy
+3481,1,dede brand toy
+3482,1,dede brand toy
+3483,1,dede brand toy
+3484,1,dede brand bag
+3485,0,size mismatch gift wrap
+3486,0,size mismatch gift wrap
+3487,0,size mismatch small box
+3488,0,size mismatch box
+3489,0,size mismatch box
+3490,1,zeytinyagi olive oil
+3491,1,zeytinyagi olive oil
+3492,1,zeytinyagi olive oil
+3493,1,zeytinyagi olive oil
+3494,1,zeytinyagi olive oil
+3495,1,herbalife brand shake
+3496,1,herbalife brand fiber drink
+3497,1,herbalife brand set
+3498,1,herbalife brand tea
+3499,1,herbalife brand set

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4200,1,ducavelli erkek casual ayakkabı match
+4201,1,ducavelli erkek loafer ayakkabı match
+4202,1,ducavelli erkek loafer ayakkabı match
+4203,1,ducavelli erkek loafer ayakkabı match
+4204,1,ducavelli erkek günlük ayakkabı match
+4205,1,biberiye suyu saç toniği matches spray intent
+4206,1,biberiye suyu saç toniği matches spray intent
+4207,1,organik biberiye suyu toniği matches spray intent
+4208,1,biberiye saç toniği matches spray intent
+4209,0,generic anti-hair-loss spray not biberiye specific
+4210,1,çok amaçlı çekmeceli dolap match
+4211,1,çok amaçlı çekmeceli dolap match
+4212,1,çok amaçlı çekmeceli dolap match
+4213,1,çok amaçlı çekmeceli dolap match
+4214,1,çok amaçlı çekmeceli dolap match
+4215,1,3'lü döküm tava seti match
+4216,1,3'lü granit döküm tava seti match
+4217,1,3'lü granit tava seti match
+4218,1,3 parça granit tava seti match
+4219,1,3 parça teflon tava seti match
+4220,1,büyük beden tesettür abiye takım match
+4221,1,büyük beden tesettür abiye ikili takım match
+4222,1,büyük beden tesettür abiye takım match
+4223,1,büyük beden tesettür abiye takım match
+4224,1,büyük beden tesettür abiye takım match
+4225,0,earphone cleaning pen not bluetooth pen
+4226,0,earphone cleaning pen not bluetooth pen
+4227,0,earphone cleaning pen not bluetooth pen
+4228,0,earphone cleaning pen not bluetooth pen
+4229,0,earphone cleaning pen not bluetooth pen
+4230,1,english home kahvaltı takımı match
+4231,1,english home kahvaltı takımı match
+4232,1,english home kahvaltı takımı match
+4233,1,english home kahvaltı takımı match
+4234,1,english home kahvaltı takımı match
+4235,1,amber kokulu oda ürünü match
+4236,1,amber kokulu oda ürünü match
+4237,1,amber çiçeği kokulu ürün match
+4238,1,amber kokulu esansiyel yağ match
+4239,1,amber kokulu çubuklu oda kokusu match
+4240,1,siyah rugan çanta exact match
+4241,1,siyah rugan omuz çantası match
+4242,1,siyah rugan el çantası match
+4243,1,siyah rugan omuz çantası match
+4244,1,rugan siyah el omuz çantası match
+4245,1,mien brand saklama kabı match
+4246,1,mien brand saklama kabı match
+4247,0,emsan brand not mien
+4248,1,mien brand saklama kabı match
+4249,0,meleni home brand not mien
+4250,1,versace güneş gözlüğü match
+4251,1,versace güneş gözlüğü match
+4252,1,versace güneş gözlüğü match
+4253,1,versace güneş gözlüğü match
+4254,1,versace güneş gözlüğü match
+4255,1,geniş/bol paça eşofman altı match
+4256,1,bol paça eşofman altı match
+4257,1,bol paça eşofman altı match
+4258,1,bol paça eşofman altı match
+4259,1,geniş paça eşofman altı match
+4260,1,oversize deri ceket bomber yaka match
+4261,1,oversize bomber süet(deri) ceket close match
+4262,0,faux suede not real leather
+4263,0,biker style ceket not bomber
+4264,0,kolej ceket - not leather material
+4265,1,akıllı bağcık match
+4266,1,akıllı elastik bağcık match
+4267,1,akıllı bağcık match
+4268,1,akıllı elastik bağcık match
+4269,1,akıllı elastik bağcık match
+4270,1,pikachu araba sticker match
+4271,1,pikachu sticker match
+4272,1,pikachu oto sticker match
+4273,1,pikachu sticker match
+4274,1,pikachu sticker match
+4275,1,yargı yayınları kpss kitap match
+4276,1,yargı yayınları kpss kitap match
+4277,1,yargı yayınları kpss kitap match
+4278,1,yargı yayınları ags kitap match
+4279,1,yargı yayınları kpss kitap match
+4280,0,unrelated testere bıçağı seti
+4281,0,unrelated ayaklı saksı
+4282,0,unrelated motosiklet dönüşüm seti
+4283,1,brand fissler matches query
+4284,0,unrelated havan ürünü
+4285,1,alt üst takım eşofman match
+4286,1,alt üst takım eşofman match
+4287,1,ikili alt üst takım match
+4288,1,alt üst eşofman takımı match
+4289,1,eşofman takımı match
+4290,1,kaymaz taban bebek/çocuk çorap match
+4291,0,tulum(romper) not socks
+4292,0,mayo(swimsuit) unrelated
+4293,0,peluş oyuncak unrelated
+4294,0,beslenme seti unrelated
+4295,1,desa erkek deri bot match
+4296,1,desa kadın deri bot match
+4297,1,desa kadın deri bot match
+4298,1,desa kadın deri bot match
+4299,1,desa erkek deri bot match
+4300,1,vanilya kokulu parfüm match
+4301,1,vanilya notalı parfüm match
+4302,1,vanilya kokulu parfüm match
+4303,0,çamaşır/tekstil kokusu not perfume
+4304,0,no vanilla scent mentioned
+4305,1,ipek porselen yemek takımı match
+4306,1,ipek porselen yemek takımı match
+4307,1,ipek brand yemek takımı match
+4308,0,güral porselen not ipek porselen
+4309,0,kütahya porselen not ipek porselen
+4310,1,runner amerikan servis set match
+4311,1,runner amerikan servis set match
+4312,1,runner amerikan servis takımı match
+4313,1,runner amerikan servis set match
+4314,1,runner amerikan servis set match
+4315,1,mango kids yelek match
+4316,1,mango kids yelek match
+4317,1,mango kids yelek match
+4318,0,mango adult line not mango kids
+4319,0,mango teen line not mango kids
+4320,1,ps5 dualsense kolu match
+4321,1,ps5 dualsense kolu match
+4322,1,ps5 dualsense kolu match
+4323,1,ps5 dualsense kolu match
+4324,1,ps5 dualsense edge kolu match
+4325,1,bahçe takımı koruma örtüsü exact match
+4326,0,bahçe oturma takımı - not a cover
+4327,0,bahçe oturma takımı - not a cover
+4328,0,yatak örtüsü - not garden set cover
+4329,0,çocuk yatak örtüsü - not garden set cover
+4330,1,swarovski kadın kolye match
+4331,1,swarovski kadın kolye match
+4332,1,swarovski kadın kolye match
+4333,1,swarovski kadın kolye match
+4334,1,swarovski kolye match
+4335,1,tesettürlü elbise match
+4336,1,tesettürlü kadın elbise match
+4337,1,tesettürlü çocuk elbise match
+4338,1,tesettürlü elbise match
+4339,1,tesettür elbise match
+4340,1,mad b103 kadın parfüm match
+4341,1,mad b103 parfüm same code match
+4342,0,mad z101 different code not b103
+4343,0,muscent brand different code not b103
+4344,0,muscent brand different code not b103
+4345,1,yoğun nemlendirici yüz kremi match
+4346,1,yoğun nemlendirici yüz kremi match
+4347,1,yoğun nemlendirici krem match
+4348,0,category is ring not cream - miscategorized
+4349,1,yoğun nemlendirici krem match
+4350,1,atkılı kaban match
+4351,1,atkılı kaban match
+4352,1,atkılı kaban match
+4353,1,atkılı yünlü kaban match
+4354,1,atkılı kaşe kaban match
+4355,1,medine ipeği şal match
+4356,1,medine ipeği şal match
+4357,1,medine ipeği şal match
+4358,1,medine ipeği şal match
+4359,1,medine ipeği şal match
+4360,0,çamaşır deterjanı not shampoo
+4361,1,contains şampuanı bulk quantity match
+4362,0,çamaşır deterjanı not shampoo
+4363,0,çamaşır deterjanı not shampoo
+4364,0,çamaşır deterjanı not shampoo
+4365,1,mavi malibu model jean match
+4366,1,mavi malibu model jean match
+4367,0,maria model not malibu
+4368,0,star model not malibu
+4369,0,milan model erkek not malibu
+4370,1,kabarık gelinlik match
+4371,1,kabarık gelinlik match
+4372,0,children abiye dress wrong age group
+4373,0,children abiye dress wrong age group
+4374,0,children abiye dress wrong age group
+4375,0,safari ceket not iş yeleği
+4376,0,mont(coat) not vest
+4377,0,kot ceket(jacket) not vest
+4378,0,kadife ceket(jacket) not vest
+4379,0,kot ceket(jacket) not vest
+4380,1,bebek kapı süsü match
+4381,1,erkek bebek kapı süsü exact gender match
+4382,1,bebek kapı süsü match
+4383,1,bebek kapı süsü match
+4384,1,kız-erkek bebek kapı süsü match
+4385,1,celimax cilt serumu match
+4386,1,celimax brand serum category match
+4387,1,celimax cilt serumu match
+4388,1,celimax cilt serumu match
+4389,0,skinceuticals brand not celimax
+4390,1,kadın cross terlik match
+4391,1,kadın cross terlik match
+4392,1,kadın cross terlik match
+4393,1,kadın cross terliği match
+4394,1,unisex cross terlik match
+4395,1,mi band uyumlu bileklik kordon match
+4396,1,mi band uyumlu bileklik kordon match
+4397,1,mi band uyumlu bileklik kordon match
+4398,1,mi band uyumlu bileklik kordon match
+4399,1,mi band uyumlu bileklik kordon match
+4400,1,kaş tarağı/fırçası match
+4401,1,kaş kirpik tarama fırçası match
+4402,1,kaş fırçaları/tarakları match
+4403,1,kaş kirpik tarama fırçası match
+4404,1,kaş kirpik tarama fırçası match
+4405,1,mokapot match
+4406,1,mokapot match
+4407,1,mokapot match
+4408,1,mokapot match
+4409,1,mokapot match
+4410,0,kıymalı börek not kıyma itself
+4411,0,uyarı levhası unrelated to kıyma product
+4412,0,uyarı tabelası unrelated to kıyma product
+4413,0,kıymalı börek not kıyma itself
+4414,0,decorative tablo not actual kıyma
+4415,1,erkek fitness tişört match
+4416,1,erkek fitness tişört match
+4417,1,erkek fitness tişört match
+4418,1,erkek fitness tişört match
+4419,1,fitness compression tshirt match
+4420,1,new balance sneaker match
+4421,1,new balance sneaker match
+4422,1,new balance sneaker match
+4423,1,new balance sneaker match
+4424,1,new balance sneaker match
+4425,1,gold çerçeve match
+4426,1,gold çerçeve match
+4427,1,gold çerçeve match
+4428,1,gold çerçeve match
+4429,1,gold çerçeve match
+4430,1,korku kitapları match
+4431,1,korku öyküleri match
+4432,1,korku-gerilim roman match
+4433,1,korku kitabı match
+4434,0,self-help about fear not horror fiction
+4435,1,caudalie yüz peelingi match
+4436,1,caudalie peeling form category match
+4437,1,caudalie peeling form category match
+4438,1,caudalie peeling form category match
+4439,0,frudia brand not caudalie
+4440,1,çocuk spor ayakkabı match
+4441,1,çocuk spor ayakkabı match
+4442,1,çocuk spor ayakkabı match
+4443,1,çocuk spor ayakkabı match
+4444,1,çocuk spor ayakkabı match
+4445,1,exact book title match
+4446,0,different book not bu çocuk aç
+4447,0,different book not bu çocuk aç
+4448,0,different book not bu çocuk aç
+4449,0,different book not bu çocuk aç
+4450,1,buzdolabı kaplama folyosu match
+4451,1,buzdolabı kaplama folyosu match
+4452,1,buzdolabı kaplama folyosu match
+4453,1,buzdolabı kaplama sticker match
+4454,1,buzdolabı folyo kaplama match
+4455,1,burberry hero edt match
+4456,1,burberry hero edt match
+4457,1,burberry hero parfum intense match
+4458,0,different burberry fragrance line not hero
+4459,0,hugo boss brand not burberry
+4460,1,universal brand match
+4461,1,universal brand match
+4462,1,universal brand match
+4463,1,universal brand match
+4464,1,universal brand match
+4465,1,bisiklet orta ayaklık match
+4466,1,orta ayaklık explicit match
+4467,1,bisiklet orta ayaklık match
+4468,0,tozluk(dust cover) not kickstand
+4469,0,fren teli(brake cable) not kickstand
+4470,1,tesbih ipi match
+4471,1,tesbih ipi match
+4472,1,tesbih ipi match
+4473,1,tesbih ipi match
+4474,1,tesbih ipi match
+4475,1,essence göz farı match
+4476,1,essence göz farı match
+4477,1,essence göz farı match
+4478,1,essence göz farı match
+4479,1,essence göz farı match
+4480,1,adidas samba sneaker match
+4481,1,adidas samba sneaker match
+4482,1,adidas samba sneaker match
+4483,0,ultraboost model not samba
+4484,0,puma brand not adidas samba
+4485,1,araba duvar rafı match
+4486,1,araba duvar rafı match
+4487,1,araba duvar rafı match
+4488,1,araba duvar rafı match
+4489,1,araba duvar rafı match
+4490,1,enterofast brand text match
+4491,0,puzzle unrelated to enter query
+4492,0,book unrelated to enter query
+4493,0,warning sign unrelated to enter query
+4494,0,book unrelated to enter query
+4495,1,koton sweatshirt match
+4496,1,koton sweatshirt match
+4497,1,koton sweatshirt match
+4498,1,koton sweatshirt match
+4499,1,koton sweatshirt match
+4500,1,blazer ceket match
+4501,1,blazer ceket match
+4502,1,blazer ceket match
+4503,1,blazer ceket match
+4504,1,blazer ceket match
+4505,0,infinix accessory not oppo a38
+4506,0,pocophone accessory not oppo a38
+4507,0,samsung accessory not oppo a38
+4508,0,samsung accessory not oppo a38
+4509,0,samsung accessory not oppo a38
+4510,1,otomobil koltuk kılıfı match
+4511,1,otomobil koltuk kılıfı match
+4512,1,oto koltuk minderi kılıfı match
+4513,1,otomobil koltuk kılıfı match
+4514,1,otomobil koltuk kılıfı match
+4515,1,sprey krem şanti match
+4516,1,sprey krem şanti match
+4517,1,sprey krem şanti match
+4518,1,krem şanti sprey match
+4519,1,sprey krem şanti match
+4520,1,tamer tanca klasik ayakkabı match
+4521,1,tamer tanca klasik ayakkabı match
+4522,1,tamer tanca klasik ayakkabı match
+4523,1,tamer tanca klasik ayakkabı match
+4524,1,tamer tanca klasik ayakkabı match
+4525,0,hırka(cardigan) not kazak(sweater)
+4526,0,etek(skirt) unrelated
+4527,0,hırka(cardigan) not kazak
+4528,0,etek(skirt) unrelated
+4529,0,hırka(cardigan) not kazak
+4530,1,babybjörn brand match
+4531,1,babybjörn brand match
+4532,1,babybjörn brand match
+4533,0,molmini brand not babybjörn
+4534,0,kubbe brand not babybjörn
+4535,1,kara beyin controller match
+4536,1,kara şimşek beyin match
+4537,1,kara şimşek beyin match
+4538,1,kara şimşek beyin match
+4539,1,kara şimşek beyin match
+4540,1,adidas handball spezial match
+4541,1,adidas handball spezial match
+4542,1,adidas handball spezial match
+4543,1,adidas handball spezial match
+4544,1,adidas handball spezial match
+4545,1,kelepçe bilezik match
+4546,1,kelepçe bilezik match
+4547,1,kelepçe bilezik match
+4548,1,kelepçe kaburga bilezik match
+4549,1,kelepçe bilezik match

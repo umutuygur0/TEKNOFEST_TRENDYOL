@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4200,1,oxy brand stain remover matches query
+4201,1,oxi action stain remover matches oxy
+4202,1,oxi action stain remover matches oxy
+4203,1,oxi action stain remover gel matches oxy
+4204,1,oxsi power stain remover matches oxy
+4205,1,razor kartela pack matches kartela term
+4206,0,cartier bracelet not kartela
+4207,1,color kartela matches term
+4208,1,nail color kartela matches term
+4209,0,cartier style ring bracelet not kartela
+4210,1,wondero brand cleaning set
+4211,1,wondero brand mop
+4212,1,wondero brand cleaning set
+4213,1,wondero brand cleaning set
+4214,1,wondero brand mop refill
+4215,1,axxis brand motorcycle helmet
+4216,1,axxis brand motorcycle helmet
+4217,1,axxis brand motorcycle helmet
+4218,1,axxis brand motorcycle helmet
+4219,1,axxis brand motorcycle helmet
+4220,1,glass serbetlik dispenser matches
+4221,1,glass sebil serbetlik matches
+4222,1,glass sebil serbetlik matches
+4223,1,glass serbetlik dispenser matches
+4224,1,glass sebil serbetlik matches
+4225,1,nascita brand makeup set
+4226,1,nascita brand makeup brush
+4227,1,nascita brand brush set
+4228,1,nascita brand lash product
+4229,1,nascita brand brush set
+4230,1,ring set matches yuzuk
+4231,1,ring set matches yuzuk
+4232,1,ring set matches yuzuk
+4233,1,ring set matches yuzuk
+4234,1,ring set matches yuzuk
+4235,0,earring not lilybyred cosmetics
+4236,0,brooch not lilybyred cosmetics
+4237,0,shirt not lilybyred cosmetics
+4238,0,shawl not lilybyred cosmetics
+4239,0,sweater not lilybyred cosmetics
+4240,1,football cleats match krampon
+4241,1,football cleats match krampon
+4242,1,football cleats match krampon
+4243,1,football cleats match krampon
+4244,1,football cleats match krampon
+4245,0,pelikan wallet not pelsan brand
+4246,0,soldering iron unrelated brand
+4247,0,pelikan trash bin not pelsan brand
+4248,0,pelikan highlighter not pelsan brand
+4249,1,pelsan elektrik brand bulb matches
+4250,1,respirox brand cpap device
+4251,1,respirox brand nebulizer
+4252,1,respirox brand oxygen concentrator
+4253,1,respirox brand battery accessory
+4254,1,respirox brand bed motor
+4255,1,roblox figure toy
+4256,1,roblox figure toy set
+4257,1,roblox figure toy set
+4258,1,roblox surprise pack figure
+4259,1,roblox figure toy set
+4260,1,gta5 game for ps5
+4261,1,gta5 game for ps5
+4262,1,gta5 digital game
+4263,1,gta5 game for ps4
+4264,1,gta5 game for ps3
+4265,1,canbebe brand diaper pack
+4266,1,canbebe brand diaper pack
+4267,1,canbebe brand diaper pack
+4268,1,canbebe brand diaper pack
+4269,1,canbebe brand diaper pack
+4270,1,metal detector matches
+4271,1,metal detector matches
+4272,1,metal detector matches
+4273,1,metal detector matches
+4274,1,metal detector matches
+4275,1,mt brand motorcycle helmet
+4276,1,mt brand motorcycle helmet
+4277,1,mt brand motorcycle helmet
+4278,1,mt brand motorcycle helmet
+4279,1,mt brand motorcycle helmet
+4280,0,tall multi purpose cabinet not nightstand
+4281,1,bedroom nightstand matches
+4282,1,bedroom nightstand matches
+4283,1,bedroom nightstand matches
+4284,1,bedroom nightstand matches
+4285,1,ariston branded steam iron
+4286,1,ariston brand water heater
+4287,1,ariston brand water heater
+4288,1,ariston brand water heater
+4289,1,ariston brand water heater
+4290,1,haribo gummy candy matches
+4291,1,haribo gummy candy matches
+4292,0,vitamin gummy not confectionery jelibon
+4293,1,haribo gummy candy matches
+4294,1,haribo gummy candy matches
+4295,1,kocaelispor branded jersey
+4296,1,kocaelispor branded jersey
+4297,1,kocaelispor branded training pants
+4298,1,kocaelispor branded sweatshirt
+4299,1,kocaelispor branded sweatshirt
+4300,0,generic charger not apple product
+4301,1,apple app store gift card
+4302,1,ipad apple product
+4303,1,apple itunes gift card
+4304,1,iphone apple product
+4305,1,attention skills activity book
+4306,1,attention focus game book
+4307,1,attention development game
+4308,1,attention iq activity set
+4309,1,attention brain game book
+4310,0,car remote control not keysmart product
+4311,0,garage remote not keysmart product
+4312,0,garage remote not keysmart product
+4313,0,car key shell not keysmart product
+4314,0,car remote not keysmart product
+4315,1,epify brand hair removal cream
+4316,1,epify brand skin product
+4317,0,sweater unrelated brand
+4318,0,picture frame unrelated brand
+4319,0,phone case unrelated brand
+4320,0,jewelry not ferrero chocolate
+4321,0,jewelry not ferrero chocolate
+4322,0,watch not ferrero chocolate
+4323,0,watch not ferrero chocolate
+4324,0,watch not ferrero chocolate
+4325,1,veil product matches pece
+4326,1,veil product matches pece
+4327,1,veil bonnet matches pece
+4328,1,cloak set includes pece
+4329,1,cloak set includes pece
+4330,1,islamic wall art matches
+4331,1,islamic wall sticker matches
+4332,1,islamic framed art set matches
+4333,1,islamic metal wall art matches
+4334,1,islamic canvas art matches
+4335,1,vivo brand smartphone
+4336,1,vivo brand smartphone
+4337,1,vivo brand smartphone
+4338,1,vivo brand smartphone
+4339,1,vivo brand smartphone
+4340,1,acacia gum syrup matches
+4341,1,acacia gum syrup matches
+4342,1,acacia gum syrup matches
+4343,1,acacia gum syrup matches
+4344,1,acacia gum syrup matches
+4345,1,victorinox brand knife
+4346,1,victorinox brand knife
+4347,1,victorinox brand knife
+4348,1,victorinox brand knife set
+4349,1,victorinox brand knife set
+4350,1,overlock sewing machine matches
+4351,1,overlock sewing machine matches
+4352,1,overlock sewing machine matches
+4353,1,overlock sewing machine matches
+4354,1,overlock sewing machine matches
+4355,1,prayer rug matches namazlik
+4356,1,prayer rug matches namazlik
+4357,1,prayer rug matches namazlik
+4358,1,prayer rug matches namazlik
+4359,1,prayer rug matches namazlik
+4360,1,sketchbook matches
+4361,1,sketchbook matches
+4362,1,sketchbook matches
+4363,1,sketchbook matches
+4364,1,sketchbook matches
+4365,1,igora brand hair dye
+4366,1,igora brand hair dye
+4367,1,igora brand hair dye
+4368,1,igora brand hair dye
+4369,1,igora royal hair dye by schwarzkopf
+4370,1,rory branded tableware
+4371,1,rory branded tea set
+4372,1,rory branded bowl
+4373,1,rory branded tea set
+4374,1,rory branded bowl
+4375,1,bi-metal hole saw matches panc
+4376,1,bi-metal hole saw matches panc
+4377,1,bi-metal hole saw set matches panc
+4378,1,bi-metal hole saw matches panc
+4379,1,bi-metal hole saw matches panc
+4380,1,tikatti brand liquid lipstick
+4381,1,tikatti brand glitter gel
+4382,1,tikatti brand glitter gel
+4383,0,eyeshadow palette different brand
+4384,0,eyeshadow palette different brand
+4385,1,tennis racket matches
+4386,0,tennis themed tshirt not tennis gear
+4387,0,table tennis racket not tennis
+4388,1,tennis racket matches
+4389,1,tennis racket matches
+4390,1,kitchen apron matches
+4391,1,kitchen apron matches
+4392,1,chef apron matches
+4393,1,chef apron matches
+4394,1,kitchen apron matches
+4395,0,usb hub unrelated to surge
+4396,0,lip plumper unrelated to surge
+4397,0,usb hub unrelated to surge
+4398,0,usb hub unrelated to surge
+4399,0,eyelash curler unrelated to surge
+4400,1,dove brand shower foam
+4401,1,dove brand soap bar
+4402,1,dove brand shampoo
+4403,1,dove brand shampoo
+4404,1,dove brand shampoo
+4405,1,sonny angel hippers blind box
+4406,1,hippers mini figure series
+4407,1,sonny angel hippers blind box
+4408,0,kinder chocolate snack unrelated
+4409,1,hippers themed figure
+4410,1,abbruch brand bluetooth earbuds
+4411,0,different brand neckband earphone
+4412,0,different brand earbuds
+4413,0,different brand earbuds
+4414,0,different brand earbuds
+4415,1,garden gnome matches
+4416,1,gnome figurine matches
+4417,1,gnome incense holder matches
+4418,1,garden gnome figurines matches
+4419,1,garden gnome figurine matches
+4420,1,bunk bed set matches ranza
+4421,1,bunk bed set matches ranza
+4422,1,bunk bed matches ranza
+4423,1,bunk bed matches ranza
+4424,1,bunk bed matches ranza
+4425,1,tracksuit pants match esofman
+4426,1,tracksuit pants match esofman
+4427,1,tracksuit pants match esofman
+4428,1,tracksuit pants match esofman
+4429,1,tracksuit pants match esofman
+4430,1,fabcare brand shoe cleaner
+4431,0,fakir iron different brand
+4432,0,massage cream different brand
+4433,0,faberlic shampoo different brand
+4434,0,faberlic shampoo different brand
+4435,1,toy katana sword matches
+4436,0,indoor plant not sword
+4437,1,toy samurai sword matches
+4438,1,toy katana sword matches
+4439,1,toy samurai sword matches
+4440,0,different brand towel set
+4441,0,different brand peshtemal
+4442,0,different brand towel set
+4443,0,different brand rug
+4444,0,different brand rug
+4445,1,misvak toothpaste matches
+4446,1,misvak toothpaste matches
+4447,1,actual misvak sticks match
+4448,1,misvak herbal product matches
+4449,1,misvak powder matches
+4450,1,cigkofte product matches
+4451,1,cigkofte spice mix matches
+4452,1,cigkofte product matches
+4453,0,icli kofte different dish
+4454,0,generic kofte spice not cigkofte
+4455,1,fissler brand pressure cooker
+4456,1,fissler brand pressure cooker
+4457,1,fissler brand pressure cooker
+4458,1,fissler brand pressure cooker
+4459,1,fissler brand pressure cooker
+4460,0,physical toy not robux currency
+4461,0,physical toy not robux currency
+4462,0,physical toy not robux currency
+4463,0,physical toy not robux currency
+4464,0,physical toy not robux currency
+4465,1,insulated thermos mug matches
+4466,1,insulated thermos mug matches
+4467,1,insulated thermos mug matches
+4468,1,insulated thermos mug matches
+4469,1,insulated thermos mug matches
+4470,1,ezberbozan kpss book series
+4471,1,ezberbozan kpss book series
+4472,1,ezberbozan kpss book series
+4473,1,ezberbozan kpss book series
+4474,1,ezberbozan kpss book series
+4475,1,motek brand laundry basket
+4476,0,motul motorcycle kit different brand
+4477,1,motek laundry basket matches
+4478,1,motek brand laundry basket
+4479,1,motek brand laundry basket
+4480,1,outdoor trekking shoe matches
+4481,1,outdoor trekking shoe matches
+4482,1,outdoor trekking shoe matches
+4483,1,outdoor trekking shoe matches
+4484,1,outdoor trekking shoe matches
+4485,1,car fuse matches sigorta
+4486,1,car fuse matches sigorta
+4487,1,electronic fuse matches sigorta
+4488,1,circuit breaker matches sigorta
+4489,1,car fuse matches sigorta
+4490,0,air purifier not airbot product
+4491,0,bluetooth earbuds unrelated
+4492,0,bluetooth earbuds unrelated
+4493,0,bluetooth earbuds unrelated
+4494,0,bluetooth earbuds unrelated
+4495,1,freecamp brand folding chair
+4496,1,freecamp brand folding chair
+4497,1,freecamp brand trekking pants
+4498,1,freecamp brand headlamp
+4499,0,different brand camp bag
+4500,1,vegan labeled sunscreen matches
+4501,1,vegan chocolate matches
+4502,1,vegan sunscreen matches
+4503,1,vegan hazelnut spread matches
+4504,1,vegan gummy candy matches
+4505,1,maule brand jeans
+4506,1,maule brand jeans
+4507,1,maule brand jeans
+4508,1,maule brand jeans
+4509,0,mustang brand not maule
+4510,1,renault toros model toy car
+4511,1,renault toros model toy car
+4512,1,renault toros car floor mat
+4513,1,renault toros mudguard accessory
+4514,1,renault toros dashboard cover
+4515,1,new balance 740 shoe model matches
+4516,0,liquid cooling unrelated to 740
+4517,0,cooling fan unrelated to 740
+4518,0,750w psu not 740
+4519,0,750w psu not 740
+4520,1,loreal brand concealer
+4521,1,loreal brand concealer
+4522,1,loreal brand concealer
+4523,1,loreal brand concealer
+4524,1,loreal brand concealer
+4525,1,bubble wrap matches patpat
+4526,1,bubble wrap matches patpat
+4527,1,bubble wrap matches patpat
+4528,1,bubble wrap matches patpat
+4529,1,bubble wrap matches patpat
+4530,1,epify brand hair removal roll-on
+4531,1,epify brand skin product
+4532,1,epify brand hair removal gel
+4533,0,epivia different brand
+4534,0,picture frame unrelated brand
+4535,1,perfume matches parfum
+4536,1,perfume matches parfum
+4537,1,perfume matches parfum
+4538,0,room fragrance not personal perfume
+4539,1,perfume matches parfum
+4540,1,lemon balm tea matches
+4541,1,lemon balm tea matches
+4542,1,melisa flavor oil matches
+4543,1,melisa skin oil matches
+4544,1,melisa herbal tea blend matches
+4545,1,sideboard cabinet matches gumusluk
+4546,1,sideboard cabinet matches gumusluk
+4547,1,sideboard cabinet matches gumusluk
+4548,1,sideboard cabinet matches gumusluk
+4549,1,sideboard cabinet matches gumusluk

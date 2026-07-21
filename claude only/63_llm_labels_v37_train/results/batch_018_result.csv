@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+6300,1,brand and category match tshirt
+6301,1,brand and category match tshirt
+6302,1,brand and category match tshirt
+6303,1,mukavva karton match
+6304,1,mukavva karton match
+6305,1,mukavva karton match
+6306,1,mukavva karton match
+6307,1,mukavva karton match
+6308,1,riccon loafer kadin match
+6309,1,riccon loafer kadin match
+6310,1,riccon loafer kadin match
+6311,1,riccon loafer kadin match
+6312,1,riccon loafer kadin match
+6313,1,kapusonlu sweatshirt suits query
+6314,1,kapusonlu sweatshirt suits query
+6315,1,kapusonlu sweatshirt suits query
+6316,1,kapusonlu sweatshirt suits query
+6317,1,kapusonlu sweatshirt suits query
+6318,1,zeka gelistirici oyuncak match
+6319,1,zeka gelistirici oyuncak match
+6320,1,zeka gelistirici oyuncak match
+6321,1,zeka gelistirici oyuncak match
+6322,1,zeka gelistirici oyuncak match
+6323,1,yaka karti match
+6324,1,yaka karti match
+6325,1,yaka karti match
+6326,1,yaka karti match
+6327,1,yaka karti match
+6328,1,calvin klein casual shoe
+6329,1,calvin klein casual shoe
+6330,1,calvin klein casual shoe
+6331,1,calvin klein casual shoe exact category
+6332,1,calvin klein casual shoe exact category
+6333,1,exact nike model match
+6334,1,exact nike model match
+6335,1,exact nike model match
+6336,1,exact nike model match
+6337,1,exact nike model match
+6338,1,murdum color match
+6339,1,murdum color match
+6340,1,murdum color match
+6341,1,murdum color match
+6342,0,color is lila not murdum
+6343,1,aker kaban exact match
+6344,0,kap not kaban - wrong garment type
+6345,0,ceket not kaban - wrong garment type
+6346,0,kap not kaban - wrong garment type
+6347,0,kap not kaban - wrong garment type
+6348,1,decathlon brand match
+6349,1,decathlon brand match
+6350,1,decathlon brand match
+6351,1,decathlon brand match
+6352,1,decathlon brand match
+6353,1,kadin lacivert jean match
+6354,1,kadin lacivert jean match
+6355,1,kadin lacivert jean match
+6356,1,kadin lacivert jean match
+6357,1,kadin lacivert jean match
+6358,1,kadin kaban mont match
+6359,1,kadin kaban mont match
+6360,1,kadin kaban mont match
+6361,1,kadin kaban mont match
+6362,1,kadin kaban mont match
+6363,1,lamelif tunik match
+6364,1,lamelif tunik match
+6365,1,lamelif tunik match
+6366,1,lamelif tunik match
+6367,0,gomlek not tunik in title
+6368,1,lacivert yelek match
+6369,1,lacivert yelek match
+6370,1,lacivert yelek match
+6371,1,lacivert yelek match
+6372,1,lacivert yelek match
+6373,1,abdullah kigili takim elbise match
+6374,1,abdullah kigili takim elbise match
+6375,1,abdullah kigili takim elbise match
+6376,1,abdullah kigili takim elbise match
+6377,1,abdullah kigili takim elbise match
+6378,0,age 4-6 yas not bebek
+6379,0,age_group cocuk not bebek
+6380,0,age_group cocuk not bebek
+6381,0,age 6+ yas too old for bebek
+6382,1,age_group bebek matches
+6383,1,calvin klein esofman match
+6384,1,calvin klein esofman match
+6385,1,calvin klein esofman match
+6386,1,calvin klein esofman match
+6387,1,calvin klein esofman match
+6388,1,ajanda sticker match
+6389,1,ajanda sticker match
+6390,1,ajanda sticker match
+6391,1,ajanda sticker match
+6392,1,ajanda sticker match
+6393,1,helly hansen kadin match
+6394,0,gender erkek not kadin
+6395,0,gender erkek not kadin
+6396,1,helly hansen kadin match
+6397,0,gender erkek not kadin
+6398,1,bebek oto koltugu match
+6399,1,bebek oto koltugu match
+6400,1,bebek oto koltugu match
+6401,1,bebek oto koltugu match
+6402,1,bebek oto koltugu match
+6403,1,hummel spor ayakkabi match
+6404,1,hummel spor ayakkabi match
+6405,1,hummel spor ayakkabi match
+6406,1,hummel spor ayakkabi match
+6407,1,hummel spor ayakkabi match
+6408,1,philips avent biberon ucu match
+6409,1,philips avent biberon ucu match
+6410,1,philips avent biberon ucu match
+6411,1,philips avent biberon ucu match
+6412,1,philips avent biberon ucu match
+6413,1,erkek gomlek match
+6414,1,erkek gomlek match
+6415,1,erkek gomlek match
+6416,1,erkek gomlek match
+6417,1,erkek gomlek match
+6418,1,bol oversize sweatshirt match
+6419,1,bol oversize sweatshirt match
+6420,1,bol oversize sweatshirt match
+6421,1,bol oversize sweatshirt match
+6422,1,bol oversize sweatshirt match
+6423,1,holly lolly pantolon match
+6424,1,holly lolly jean pantolon match
+6425,0,kemer not pantolon
+6426,0,etek not pantolon
+6427,0,etek not pantolon
+6428,0,kaban not takim set
+6429,0,single pantolon not takim set
+6430,1,alt ust takim exact match
+6431,0,elbise not takim set
+6432,0,esarp not takim set
+6433,1,balon kol bluz match
+6434,1,balon kol bluz match
+6435,1,balon kol kazak match
+6436,1,balon kol bluz match
+6437,1,balon kol bluz match
+6438,1,kadin siyah spor ayakkabi match
+6439,1,kadin siyah spor ayakkabi match
+6440,1,kadin siyah spor ayakkabi match
+6441,1,kadin siyah spor ayakkabi match
+6442,1,kadin siyah spor ayakkabi match
+6443,1,bebek hastane cikisi match
+6444,1,bebek hastane cikisi match
+6445,1,bebek hastane cikisi match
+6446,1,bebek hastane cikisi match
+6447,1,bebek hastane cikisi match
+6448,1,derimont bayan match
+6449,1,derimont bayan match
+6450,1,derimont bayan match
+6451,1,derimont bayan match
+6452,1,derimont bayan match
+6453,1,kocaelispor forma match
+6454,0,sweatshirt not forma
+6455,0,sort not forma
+6456,1,kocaelispor forma match
+6457,1,kocaelispor forma match
+6458,1,cocuk celik su matarasi match
+6459,1,cocuk celik su matarasi match
+6460,1,cocuk celik su matarasi match
+6461,1,cocuk celik su matarasi match
+6462,1,cocuk celik su matarasi match
+6463,1,kiz cocuk atlet match
+6464,1,kiz cocuk atlet match
+6465,1,kiz cocuk atlet match
+6466,1,kiz cocuk atlet match
+6467,1,kiz cocuk atlet match
+6468,1,gap kadin jean pantolon match
+6469,1,gap kadin jean pantolon match
+6470,0,tshirt not pantolon
+6471,1,gap kadin pantolon match
+6472,0,tshirt not pantolon
+6473,1,erkek beyaz mont match
+6474,1,erkek beyaz mont match
+6475,0,siyah renk not beyaz
+6476,1,kirik beyaz mont match
+6477,1,erkek beyaz mont match
+6478,1,duz kesim jean match
+6479,1,duz kesim jean match
+6480,1,duz kesim jean match
+6481,1,duz kesim jean match
+6482,1,duz kesim jean match
+6483,1,bayan ayakkabisi generic match
+6484,1,bayan ayakkabisi generic match
+6485,1,bayan ayakkabisi generic match
+6486,1,bayan ayakkabisi generic match
+6487,1,bayan ayakkabisi generic match
+6488,1,aeropostale brand sneaker match
+6489,1,aeropostale brand sweatshirt match
+6490,1,aeropostale brand mont match
+6491,0,wrong brand fairtex boxing glove
+6492,0,wrong brand arma not aeropostale
+6493,1,etek takim abiye match
+6494,1,etek takim abiye match
+6495,1,etek takim abiye match
+6496,0,ceket pantolon takim not etek
+6497,1,etek takim abiye match
+6498,0,keten fabric not kot denim
+6499,0,keten fabric not kot denim
+6500,0,keten fabric not kot denim
+6501,0,dokuma fabric not kot denim
+6502,0,dokuma fabric not kot denim
+6503,1,yesil blazer match
+6504,1,yesil blazer match
+6505,1,yesil blazer match
+6506,1,yesil blazer match
+6507,1,yesil ceket close to blazer
+6508,1,masa raptiye match
+6509,1,raptiye match
+6510,1,raptiye match
+6511,1,raptiye match
+6512,0,mobilya hirdavati not office raptiye
+6513,1,siyah pamuk sal match
+6514,1,siyah pamuk sal match
+6515,1,siyah pamuk sal match
+6516,1,siyah pamuk sal match
+6517,1,siyah pamuk sal match
+6518,1,fotograf baski match
+6519,1,fotograf baski match
+6520,1,fotograf baski match
+6521,1,fotograf baski match
+6522,1,fotograf baski match
+6523,1,adidas erkek cocuk ayakkabi match
+6524,1,adidas erkek cocuk ayakkabi match
+6525,1,adidas erkek cocuk ayakkabi match
+6526,1,adidas erkek cocuk ayakkabi match
+6527,1,adidas erkek cocuk ayakkabi match
+6528,1,masa ve koca ayi match
+6529,1,masa ve koca ayi match
+6530,1,masa ve koca ayi match
+6531,1,masa ve koca ayi themed book
+6532,1,masa ve koca ayi themed balloon set
+6533,1,kiz cocuk kapsonlu title match
+6534,1,kiz cocuk kapsonlu title match
+6535,1,kiz cocuk kapsonlu title match
+6536,1,kiz cocuk kapsonlu title match
+6537,1,kiz cocuk kapsonlu title match
+6538,1,yenidogan kiz match
+6539,1,yenidogan kiz match
+6540,1,yenidogan kiz match
+6541,1,yenidogan kiz match
+6542,1,yenidogan kiz match
+6543,1,erkek beyaz spor ayakkabi match
+6544,1,erkek beyaz spor ayakkabi match
+6545,1,erkek beyaz spor ayakkabi match
+6546,1,erkek beyaz spor ayakkabi match
+6547,1,erkek beyaz spor ayakkabi match
+6548,1,tokali ayakkabi unisex match
+6549,1,kadin tokali ayakkabi match
+6550,1,kadin tokali ayakkabi match
+6551,1,kadin tokali ayakkabi match
+6552,1,kadin tokali ayakkabi match
+6553,1,kiz cocuk siyah pantolon match
+6554,1,kiz cocuk siyah pantolon match
+6555,1,kiz cocuk siyah pantolon match
+6556,1,kiz cocuk siyah pantolon match
+6557,1,kiz cocuk siyah pantolon match
+6558,1,milli takim formasi match
+6559,1,milli takim formasi match
+6560,1,milli takim formasi match
+6561,1,milli takim formasi match
+6562,1,milli takim formasi match
+6563,1,schulzz pelus oyuncak match
+6564,1,schulzz pelus oyuncak match
+6565,1,schulzz pelus oyuncak match
+6566,1,schulzz pelus oyuncak match
+6567,1,schulzz pelus oyuncak match
+6568,1,paw patrol figur match
+6569,1,paw patrol themed set match
+6570,1,paw patrol figur match
+6571,1,paw patrol themed set match
+6572,0,lego yapi oyuncak not figur
+6573,1,skechers dlites model match
+6574,1,skechers dlites model match
+6575,1,skechers dlites model match
+6576,1,skechers dlites model match
+6577,1,skechers dlites model match
+6578,1,igor terlik match
+6579,1,igor terlik match
+6580,1,igor terlik match
+6581,1,igor terlik match
+6582,1,igor terlik match
+6583,1,nike club fleece match
+6584,1,nike club fleece match
+6585,1,nike club fleece match
+6586,1,nike club fleece match
+6587,1,nike club fleece match
+6588,1,adidas atlet match
+6589,1,adidas atlet match
+6590,1,adidas atlet match
+6591,1,adidas atlet match
+6592,1,adidas atlet match
+6593,1,kiz cocuk crop takim match
+6594,1,kiz cocuk crop takim match
+6595,0,age yetiskin not cocuk
+6596,1,kiz cocuk crop takim match
+6597,0,single crop top not takim
+6598,1,yenidogan hediye seti match
+6599,1,yenidogan hediye seti match
+6600,1,yenidogan hediye seti match
+6601,1,yenidogan hediye seti match
+6602,1,yenidogan hediye seti match
+6603,1,mavi brand kadin ceket match
+6604,1,mavi brand kadin ceket match
+6605,1,mavi brand kadin ceket match
+6606,1,mavi brand kadin ceket match
+6607,0,gender erkek not kadin
+6608,1,wee brand match
+6609,1,wee brand match
+6610,1,wee brand match
+6611,1,wee brand match
+6612,1,wee brand match
+6613,1,yuruyen oyuncak kopek match
+6614,1,yuruyen oyuncak kopek match
+6615,1,yuruyen oyuncak kopek match
+6616,1,yuruyen oyuncak kopek match
+6617,1,yuruyen oyuncak kopek match
+6618,1,erkek bebek mevlut takimi match
+6619,1,erkek bebek mevlut takimi match
+6620,1,erkek bebek mevlut takimi match
+6621,1,erkek bebek mevlut takimi match
+6622,1,erkek bebek mevlut takimi match
+6623,1,suwen bikini alti match
+6624,0,bikini ust not alti
+6625,0,bikini ust not alti
+6626,0,bikini ust not alti
+6627,0,bikini ust not alti
+6628,1,slazenger esofman takimi match
+6629,1,slazenger esofman takimi match
+6630,1,slazenger esofman takimi match
+6631,1,slazenger esofman takimi match
+6632,1,slazenger esofman takimi match
+6633,1,keten ferace brand match
+6634,1,keten ferace brand match
+6635,1,keten ferace match
+6636,1,keten ferace match
+6637,1,keten ferace match
+6638,1,aci kahve sal match
+6639,1,aci kahve sal match
+6640,1,aci kahve sal match
+6641,1,aci kahve sal match
+6642,1,aci kahve sal match
+6643,1,erkek kahverengi ayakkabi match
+6644,1,erkek kahverengi ayakkabi match
+6645,1,erkek kahverengi ayakkabi match
+6646,1,erkek kahverengi ayakkabi match
+6647,1,erkek kahverengi ayakkabi match
+6648,1,under armour yelek match
+6649,1,under armour yelek match

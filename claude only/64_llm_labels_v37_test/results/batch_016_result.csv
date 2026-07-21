@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+5600,1,circumcision underwear matches query
+5601,1,circumcision underwear matches query
+5602,0,absorbent night pants not sünnet bezi
+5603,0,regular kids underwear not sünnet bezi
+5604,0,silk handkerchief unrelated
+5605,1,flying tiger box game matches
+5606,1,flying tiger box game matches
+5607,1,flying tiger box game matches
+5608,1,flying tiger box game matches
+5609,1,flying tiger box game matches
+5610,0,age range 4-8 not 2 yaş
+5611,0,age range 5-14 not 2 yaş
+5612,0,summer set not kışlık; no age match
+5613,0,wrong gender erkek not kız
+5614,1,girl winter coat matches
+5615,1,stabilo highlighter matches
+5616,1,stabilo highlighter matches
+5617,1,stabilo highlighter matches
+5618,1,stabilo highlighter matches
+5619,1,stabilo highlighter matches
+5620,1,fur-lined jacket matches
+5621,1,fur-lined jacket matches
+5622,1,fur-lined jacket matches
+5623,1,fur-lined jacket matches
+5624,1,fur-lined jacket matches
+5625,1,toy market cash register matches
+5626,1,toy market cash register matches
+5627,1,toy market cash register matches
+5628,1,toy market cash register matches
+5629,1,toy market set with cash register matches
+5630,1,jump erkek sneaker matches
+5631,1,jump erkek sneaker matches
+5632,1,jump erkek sneaker matches
+5633,1,jump erkek sneaker matches
+5634,1,jump erkek sneaker matches
+5635,1,basma etek matches
+5636,1,basma etek matches
+5637,1,basma etek matches
+5638,1,basma etek matches - plus size
+5639,1,basma etek matches
+5640,1,inci klasik ayakkabı matches
+5641,1,inci klasik ayakkabı matches
+5642,1,inci klasik ayakkabı matches
+5643,1,inci klasik ayakkabı matches
+5644,1,inci klasik ayakkabı matches
+5645,1,gondol brand shoe matches
+5646,1,gondol brand shoe matches
+5647,1,gondol brand shoe matches
+5648,1,gondol brand shoe matches
+5649,1,gondol brand shoe matches
+5650,1,kids sweatpants matches
+5651,1,kids sweatpants matches
+5652,1,kids sweatpants matches
+5653,1,kids sweatpants matches
+5654,1,kids sweatpants matches
+5655,1,asolo brand outdoor shoe matches
+5656,1,asolo brand outdoor shoe matches
+5657,1,asolo brand outdoor shoe matches
+5658,1,asolo brand outdoor shoe matches
+5659,1,asolo brand outdoor shoe matches
+5660,1,selen brand pants matches
+5661,1,selen brand pants matches
+5662,1,selen brand pants matches
+5663,1,selen brand pants matches
+5664,0,wrong brand allyco not selen
+5665,0,color krem not bej
+5666,0,color krem not bej
+5667,0,color baby blue not bej
+5668,1,explicitly bej triko kazak
+5669,0,color not specified as bej
+5670,1,golden goose shoe matches
+5671,1,golden goose shoe matches
+5672,1,golden goose shoe matches
+5673,1,golden goose shoe matches
+5674,1,golden goose shoe matches
+5675,1,alvina kaban matches
+5676,1,alvina kaban matches
+5677,1,alvina kaban matches
+5678,1,alvina kaban matches
+5679,1,alvina kaban matches
+5680,1,cigit brand boys set matches
+5681,0,wrong brand togi kids not cigit
+5682,0,wrong brand meashop not cigit
+5683,0,wrong brand boboli not cigit
+5684,0,wrong brand jikko baby not cigit
+5685,1,eraser matches
+5686,1,eraser matches
+5687,1,eraser matches
+5688,1,eraser matches
+5689,1,eraser matches
+5690,1,kids water bottle matches
+5691,1,kids water bottle matches
+5692,1,kids water bottle matches
+5693,1,kids water bottle matches
+5694,1,kids water bottle matches
+5695,1,girl heeled shoe matches
+5696,1,girl heeled shoe matches
+5697,1,girl heeled shoe matches
+5698,1,girl heeled shoe matches
+5699,1,girl heeled shoe matches
+5700,1,greyder erkek shoe matches
+5701,1,greyder erkek shoe matches
+5702,1,greyder erkek shoe matches
+5703,1,greyder erkek shoe matches
+5704,1,greyder erkek shoe matches
+5705,1,twigy terlik matches
+5706,1,twigy terlik matches
+5707,1,twigy terlik matches
+5708,1,twigy terlik matches
+5709,1,twigy terlik matches
+5710,1,cadence akrilik boya matches
+5711,1,cadence akrilik boya matches
+5712,1,cadence akrilik boya matches
+5713,1,cadence akrilik boya matches
+5714,1,cadence akrilik boya matches
+5715,1,vakko eşarp matches
+5716,1,vakko eşarp matches
+5717,1,vakko eşarp matches
+5718,1,vakko eşarp matches
+5719,1,vakko eşarp matches
+5720,1,deri kalemlik matches
+5721,1,title says deri kalemlik matches
+5722,1,leather pen box matches kalemlik concept
+5723,1,deri kalemlik matches
+5724,1,deri kalemlik matches
+5725,1,olalook gömlek matches
+5726,1,olalook gömlek matches
+5727,1,olalook gömlek matches
+5728,1,olalook gömlek matches
+5729,1,olalook gömlek matches
+5730,0,gardenia not mimosa flower
+5731,0,lilac not mimosa flower
+5732,0,lemon verbena not mimosa flower
+5733,0,begonia not mimosa flower
+5734,0,geranium not mimosa flower
+5735,0,heeled shoe not spor ayakkabı
+5736,0,heeled shoe not spor ayakkabı
+5737,0,heeled shoe wrong color and type
+5738,0,heeled shoe not spor ayakkabı
+5739,0,heeled shoe not spor ayakkabı
+5740,1,kids writing tablet matches
+5741,1,kids writing tablet matches
+5742,1,kids writing tablet matches
+5743,1,kids writing tablet matches
+5744,1,kids writing tablet matches
+5745,1,plus size tesettür etekli takım matches
+5746,1,plus size tesettür etekli takım matches
+5747,1,plus size tesettür etekli takım matches
+5748,1,plus size tesettür etekli takım matches
+5749,1,plus size tesettür etekli takım matches
+5750,1,shoeberry heeled shoe matches
+5751,1,shoeberry heeled shoe matches
+5752,1,shoeberry heeled shoe matches
+5753,1,shoeberry heeled shoe matches
+5754,1,shoeberry heeled shoe matches
+5755,1,derimod babet matches
+5756,1,derimod babet matches
+5757,1,derimod babet matches
+5758,1,derimod babet matches
+5759,1,derimod babet matches
+5760,1,marks spencer kids item matches
+5761,1,marks spencer kids item matches
+5762,1,marks spencer kids item matches
+5763,1,marks spencer kids item matches
+5764,1,marks spencer kids item matches
+5765,0,lego toy not electric circuit
+5766,0,lego toy not electric circuit
+5767,0,lego toy not electric circuit
+5768,0,lego toy not electric circuit
+5769,0,lego toy not electric circuit
+5770,1,defacto parka matches
+5771,1,defacto parka matches
+5772,1,defacto parka matches
+5773,1,defacto parka matches
+5774,1,defacto parka matches
+5775,1,slazenger krampon matches
+5776,1,slazenger krampon matches
+5777,1,slazenger krampon matches
+5778,0,wrong brand willit not slazenger
+5779,0,wrong brand ea sports not slazenger
+5780,1,hamile abiye matches
+5781,1,hamile abiye matches
+5782,1,hamile abiye matches
+5783,1,hamile abiye matches
+5784,1,hamile abiye matches
+5785,0,house slippers not pofuduk bot
+5786,1,fur-lined bootie matches pofuduk bot
+5787,1,furry patik matches pofuduk bot
+5788,1,plush patik matches pofuduk bot
+5789,1,fur-lined baby boot matches pofuduk bot
+5790,1,pirinç dekopaj kağıdı matches
+5791,1,pirinç dekopaj kağıdı matches
+5792,1,pirinç dekopaj kağıdı matches
+5793,1,pirinç dekopaj kağıdı matches
+5794,1,pirinç dekopaj kağıdı matches
+5795,1,rolypoly pijama takımı matches
+5796,1,rolypoly pijama takımı matches
+5797,1,rolypoly pijama takımı matches
+5798,1,rolypoly pijama takımı matches
+5799,1,rolypoly pijama takımı matches
+5800,1,dress-up doll toy matches bebek giydirme
+5801,1,dress-up game matches bebek giydirme
+5802,1,dress-up magnetic set matches bebek giydirme
+5803,1,dress-up magnetic set matches bebek giydirme
+5804,1,dress-up toy matches bebek giydirme
+5805,1,thick sole sport shoe matches
+5806,1,thick sole sport shoe matches
+5807,1,thick sole sport shoe matches
+5808,1,thick sole sport shoe matches
+5809,1,thick sole sport shoe matches
+5810,1,women's jean pants matches
+5811,1,women's jean pants matches
+5812,1,women's jean pants matches
+5813,1,women's jean pants matches
+5814,1,women's jean pants matches
+5815,1,title states loose fit matches
+5816,1,title states loose fit matches
+5817,1,title states loose fit matches
+5818,1,title states loose fit matches
+5819,1,title states loose fit matches
+5820,1,bigdart bluz matches
+5821,1,bigdart bluz matches
+5822,1,bigdart bluz matches
+5823,1,bigdart bluz matches
+5824,1,bigdart bluz matches
+5825,1,alemdar shoes matches
+5826,1,alemdar shoes matches
+5827,1,alemdar shoes matches
+5828,1,alemdar shoes matches
+5829,1,alemdar shoes matches
+5830,1,iblis avcıları themed item matches
+5831,1,iblis avcıları themed item matches
+5832,1,iblis avcıları themed item matches
+5833,1,iblis avcıları themed item matches
+5834,1,iblis avcıları themed item matches
+5835,1,generic children's toy matches
+5836,1,generic children's toy matches
+5837,1,generic children's toy matches
+5838,1,generic children's toy matches
+5839,1,generic children's toy matches
+5840,1,tech fleece sweatpants matches
+5841,1,tech fleece sweatsuit matches
+5842,1,tech stretch sweatpants matches
+5843,1,tech fleece sweatpants matches
+5844,1,tech fleece sweatpants matches
+5845,1,ghisa takım matches
+5846,1,ghisa takım matches
+5847,1,ghisa takım matches
+5848,1,ghisa takım matches
+5849,1,ghisa takım matches
+5850,1,modafırsat ev terliği matches
+5851,1,modafırsat ev terliği matches
+5852,1,modafırsat ev terliği matches
+5853,0,wrong brand moda frato not modafırsat
+5854,0,wrong brand moda devrin not modafırsat
+5855,1,jean ceket matches
+5856,1,jean ceket matches
+5857,1,jean ceket matches
+5858,1,jean ceket matches
+5859,1,jean ceket matches
+5860,1,tesettür şal matches
+5861,1,tesettür şal matches
+5862,1,tesettür şal matches
+5863,1,tesettür şal matches
+5864,1,tesettür şal matches
+5865,1,seçil brand women's item matches
+5866,1,seçil brand women's item matches
+5867,1,seçil brand women's item matches
+5868,1,seçil brand women's item matches
+5869,1,seçil brand women's item matches
+5870,1,esrahelvaci graduation dress matches
+5871,1,esrahelvaci graduation dress matches
+5872,1,esrahelvaci graduation dress matches
+5873,1,esrahelvaci graduation dress matches
+5874,1,esrahelvaci graduation dress matches
+5875,1,girl baby hospital outfit matches
+5876,1,girl baby hospital outfit matches
+5877,1,girl baby hospital outfit matches
+5878,1,girl baby hospital outfit matches
+5879,1,girl baby hospital outfit matches
+5880,1,colin's women's item matches
+5881,1,colin's women's item matches
+5882,1,colin's women's item matches
+5883,1,colin's women's item matches
+5884,1,colin's women's item matches
+5885,1,barbie wardrobe matches
+5886,1,barbie wardrobe set matches
+5887,1,doll wardrobe set matches
+5888,1,barbie wardrobe matches
+5889,0,beauty salon cart not wardrobe
+5890,1,us polo assn women's pants matches
+5891,1,us polo assn women's pants matches
+5892,1,us polo assn women's pants matches
+5893,1,us polo assn women's pants matches
+5894,1,us polo assn women's pants matches
+5895,1,puma women's sweatshirt matches
+5896,1,puma women's sweatshirt matches
+5897,1,puma women's sweatshirt matches
+5898,1,puma women's sweatshirt matches
+5899,1,puma women's sweatshirt matches
+5900,1,women's cardigan matches
+5901,1,women's cardigan matches
+5902,1,women's cardigan matches
+5903,1,women's cardigan matches
+5904,1,women's cardigan matches
+5905,1,kids scooter matches
+5906,1,kids scooter matches
+5907,1,kids scooter matches
+5908,1,kids scooter matches
+5909,1,kids scooter matches
+5910,1,college jacket matches
+5911,1,college jacket matches
+5912,1,college jacket matches
+5913,1,college jacket matches
+5914,1,college jacket matches
+5915,1,pentago game matches
+5916,0,go game not pentago
+5917,0,different strategy game not pentago
+5918,0,go mangala pieces not pentago
+5919,0,jenga not pentago
+5920,1,wrangler gömlek matches
+5921,1,wrangler gömlek matches
+5922,1,wrangler gömlek matches
+5923,1,wrangler gömlek matches
+5924,1,wrangler gömlek matches
+5925,1,afvente eşarp matches
+5926,1,afvente eşarp matches
+5927,1,afvente eşarp matches
+5928,1,afvente eşarp matches
+5929,1,afvente eşarp matches
+5930,1,babyhope akülü araç matches
+5931,1,babyhope akülü araç matches
+5932,1,babyhope akülü araç matches
+5933,1,babyhope akülü araç matches
+5934,1,babyhope akülü araç matches
+5935,1,aişe tesettür şal matches
+5936,1,aişe tesettür şal matches
+5937,1,aişe tesettür şal matches
+5938,1,aişe tesettür şal matches
+5939,1,aişe tesettür şal matches
+5940,1,crocs mary jane matches
+5941,1,crocs mary jane matches
+5942,1,crocs mary jane matches
+5943,0,classic clog not mary jane model
+5944,0,wrong brand soho not crocs
+5945,1,erkek loafer ayakkabı matches
+5946,1,erkek loafer ayakkabı matches
+5947,1,erkek loafer ayakkabı matches
+5948,1,erkek loafer ayakkabı matches
+5949,1,title states loafer matches

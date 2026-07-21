@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10150,1,brand and product match
+10151,1,brand and product match
+10152,1,brand and product match
+10153,1,brand and product match
+10154,0,wrong brand not trendiz
+10155,1,ayaklı masa lambası bedside stand lamp
+10156,1,ayaklı masa lambası bedside stand lamp
+10157,1,tek ayaklı lambader floor lamp
+10158,1,ayaklı lambader floor lamp
+10159,1,ayaklı lambader floor lamp
+10160,1,flormar 001 code match
+10161,1,flormar 001 code match
+10162,1,flormar 001 code match
+10163,0,no 001 code
+10164,0,no 001 code
+10165,1,kumbara match
+10166,1,kumbara match
+10167,1,kumbara match
+10168,1,kumbara match
+10169,1,kumbara match
+10170,0,title says erkek not bayan
+10171,0,çocuk shoe not bayan
+10172,0,kız çocuk not bayan adult
+10173,0,title says erkek not bayan
+10174,0,no kışlık winter feature unisex sneaker
+10175,1,çelik arpa kolye match
+10176,1,çelik arpa kolye match
+10177,1,çelik arpa kolye match
+10178,1,çelik arpa kolye match
+10179,1,çelik arpa kolye match
+10180,1,lava döküm tencere seti match
+10181,1,lava döküm tencere seti match
+10182,1,lava döküm tencere seti match
+10183,1,lava döküm tencere seti match
+10184,1,lava döküm tencere seti match
+10185,1,silverline ankastre set match
+10186,1,silverline ankastre set match
+10187,1,silverline ankastre set match
+10188,1,silverline ankastre set match
+10189,1,silverline ankastre set match
+10190,1,alpine kulak tıkacı match
+10191,1,alpine kulak tıkacı match
+10192,1,alpine kulak tıkacı match
+10193,0,wrong brand munico not alpine
+10194,0,wrong brand not alpine
+10195,1,vestel spare part match
+10196,1,vestel spare part match
+10197,1,vestel spare part match
+10198,1,vestel spare part match
+10199,1,vestel spare part match
+10200,1,boho style linen dress
+10201,1,ethnic boho pattern dress
+10202,1,ethnic boho pattern dress
+10203,1,straw belt boho style
+10204,0,generic printed dress not boho specific
+10205,1,led candle match
+10206,1,led candle match
+10207,1,led candle match
+10208,1,led candle match
+10209,1,led candle match
+10210,1,duş perde borusu match
+10211,1,duş perde borusu match
+10212,1,duş perde borusu match
+10213,1,duş perde borusu match
+10214,1,duş perde borusu match
+10215,1,esrahelvaci brand dress match
+10216,1,esrahelvaci brand dress match
+10217,1,esrahelvaci brand dress match
+10218,1,esrahelvaci brand dress match
+10219,1,esrahelvaci brand dress match
+10220,1,ikea banyo seti match
+10221,1,ikea banyo seti match
+10222,1,ikea banyo seti match
+10223,1,ikea banyo seti match
+10224,1,ikea banyo seti match
+10225,1,kız çocuk parti elbisesi match
+10226,1,girls formal dress usable as party dress
+10227,1,kız parti elbisesi match
+10228,1,girls abiye usable as party dress
+10229,1,doğum günü parti elbisesi match
+10230,1,calvin klein tayt match
+10231,1,calvin klein tayt match
+10232,1,calvin klein tayt match
+10233,1,calvin klein tayt match
+10234,1,calvin klein tayt match
+10235,1,mobilya kulpu match
+10236,1,mobilya kulpu match
+10237,1,mobilya kulpu match
+10238,1,mobilya kulpu match
+10239,1,mobilya kulpu match
+10240,1,smeg mikser match
+10241,1,smeg mikser match
+10242,1,smeg mikser match
+10243,1,smeg mikser match
+10244,1,smeg mikser match
+10245,1,chicco beşik function match
+10246,1,chicco beşik co-sleeper match
+10247,1,chicco beşik match
+10248,0,wrong brand bebegen not chicco
+10249,0,wrong brand hoffie not chicco
+10250,1,triko tesettür kazak match
+10251,1,triko tesettür kazak match
+10252,1,tesettür kazak triko match
+10253,0,generic kazak not tesettür specific
+10254,1,tesettür kazak triko tunik match
+10255,1,fincan takımı match
+10256,1,fincan takımı match
+10257,1,fincan takımı match
+10258,1,fincan takımı match
+10259,1,fincan takımı match
+10260,1,vivido abajur avize match
+10261,1,vivido abajur avize match
+10262,1,vivido abajur avize match
+10263,1,vivido abajur avize match
+10264,1,vivido abajur avize match
+10265,1,erkek polar hırka match
+10266,1,erkek polar hırka match
+10267,1,erkek polar hırka match
+10268,1,unisex polar hırka fits men too
+10269,1,erkek polar hırka match
+10270,1,araba kapı fitili match
+10271,1,araba kapı fitili match
+10272,1,araba kapı fitili match
+10273,1,kapı bagaj kaput fitili match
+10274,0,car cover with trim not door seal
+10275,1,lazımlık match
+10276,1,lazımlık match
+10277,1,lazımlık match
+10278,1,lazımlık match
+10279,1,lazımlık match
+10280,1,bordo tablo match
+10281,1,bordo tablo match
+10282,1,bordo boho tablo match
+10283,1,bordo tablo match
+10284,1,bordo desenli tablo match
+10285,1,rattan style balkon takımı match
+10286,1,rattan balkon takımı match
+10287,1,rattan balkon takımı match
+10288,1,rattan balkon takımı match
+10289,1,rattan style balkon masa takımı match
+10290,1,lcw home kahve fincanı match
+10291,1,lcw home kahve fincanı match
+10292,1,lcw home kahve fincanı match
+10293,1,lcw home kahve fincanı match
+10294,1,lcw home kahve fincanı match
+10295,1,doktor oyuncak match
+10296,1,doktor oyuncak match
+10297,1,doktor oyuncak match
+10298,1,doktor oyuncak match
+10299,1,doktor oyuncak match
+10300,0,xiaomi kettle not phone
+10301,0,xiaomi kettle not phone
+10302,0,samsung phone wrong brand model
+10303,0,drill unrelated to phone
+10304,0,fryer unrelated to phone
+10305,1,tyt matematik prep book match
+10306,1,tyt matematik included in set
+10307,1,tyt matematik deneme match
+10308,1,ayt matematik soru bankası match
+10309,1,tyt ayt matematik set match
+10310,0,wrong brand arnica not ihlas aura
+10311,0,wrong brand arnica not ihlas aura
+10312,0,wrong brand arnica not ihlas aura
+10313,0,wrong brand maxis not ihlas aura
+10314,0,wrong brand teknotrust not ihlas aura
+10315,1,tudors erkek kazak match
+10316,1,tudors erkek kazak match
+10317,1,tudors erkek kazak match
+10318,1,tudors erkek kazak match
+10319,1,tudors erkek kazak match
+10320,0,cooling fan not hot air blower
+10321,0,cooling fan not hot air blower
+10322,0,hand warmer not air blower
+10323,0,cooling fan not hot air blower
+10324,0,tower cooling fan not hot air blower
+10325,1,yaprak üfleme makinesi match
+10326,1,yaprak üfleme makinesi match
+10327,1,yaprak üfleme makinesi match
+10328,1,yaprak üfleme makinesi match
+10329,1,yaprak üfleme makinesi match
+10330,0,kanun instrument unrelated to deha
+10331,0,office table unrelated to deha
+10332,0,cümbüş instrument unrelated to deha
+10333,0,book unrelated to deha
+10334,0,hand mirror unrelated to deha
+10335,1,kız çocuk takım match
+10336,1,kız çocuk takım match
+10337,1,kız çocuk takım match
+10338,1,kız çocuk takım match
+10339,1,kız çocuk takım match
+10340,1,tonny black çocuk match
+10341,1,tonny black çocuk match
+10342,1,tonny black çocuk match
+10343,1,tonny black çocuk match
+10344,1,tonny black çocuk match
+10345,0,gt2 not gt4 model mismatch
+10346,0,gt3 not gt4 model mismatch
+10347,0,gt3 pro not gt4 model mismatch
+10348,0,gt2 not gt4 model mismatch
+10349,0,gt active not gt4 model mismatch
+10350,1,karaca döküm kek kalıbı match
+10351,1,karaca döküm kek kalıbı match
+10352,1,karaca döküm kek kalıbı match
+10353,1,karaca döküm kek kalıbı match
+10354,1,karaca döküm kek kalıbı title match
+10355,1,şönil tel match
+10356,1,şönil tel match
+10357,1,şönil tel match
+10358,1,şönil tel match
+10359,1,şönil tel match
+10360,1,unisex eşofman takım fits kadın
+10361,1,unisex eşofman takım fits kadın
+10362,1,kadın eşofman takım match
+10363,1,unisex eşofman takım fits kadın
+10364,1,kadın eşofman takım match
+10365,1,yapay salon ağacı match
+10366,1,yapay salon ağacı match
+10367,1,yapay salon ağacı match
+10368,1,yapay salon ağacı match
+10369,1,yapay salon ağacı match
+10370,1,alix avien fondöten match
+10371,1,alix avien fondöten match
+10372,1,alix avien fondöten match
+10373,1,alix avien fondöten match
+10374,1,alix avien fondöten match
+10375,1,perde pendik fon perde match
+10376,1,perde pendik fon perde match
+10377,1,perde pendik fon perde match
+10378,1,perde pendik fon perde match
+10379,1,perde pendik fon perde match
+10380,1,tribit brand speaker match
+10381,1,tribit brand earbuds match
+10382,0,bayer insecticide not tribit
+10383,0,decathlon fishing gear not tribit
+10384,0,kochler exercise gear not tribit
+10385,1,citroen berlingo accessory match
+10386,1,citroen berlingo accessory match
+10387,1,citroen berlingo accessory match
+10388,1,citroen berlingo accessory match
+10389,1,citroen berlingo accessory match
+10390,1,ören bayan örgü ipi match
+10391,1,ören bayan örgü ipi match
+10392,1,ören bayan örgü ipi match
+10393,1,ören bayan örgü ipi match
+10394,1,ören bayan örgü ipi match
+10395,1,avva polar match
+10396,1,avva polar match
+10397,1,avva polar match
+10398,1,avva polar sweatshirt match
+10399,1,avva polar match
+10400,1,çamaşır mandalı match
+10401,1,çamaşır ipi mandal match
+10402,1,çamaşır mandalı match
+10403,1,çamaşır mandalı match
+10404,1,çamaşır mandalı match
+10405,1,bahçe masası match
+10406,1,bahçe masası match
+10407,1,bahçe masası match
+10408,1,bahçe masası match
+10409,1,bahçe masası match
+10410,1,kuromi doğum günü match
+10411,1,kuromi doğum günü match
+10412,1,kuromi doğum günü match
+10413,1,kuromi doğum günü concept match
+10414,1,kuromi doğum günü match
+10415,1,penti çocuk pijama match
+10416,1,penti çocuk pijama match
+10417,1,penti çocuk pijama match
+10418,1,penti çocuk pijama match
+10419,1,penti çocuk pijama match
+10420,1,100w led projektör match
+10421,1,100 watt led projektör match
+10422,1,100 watt led projektör match
+10423,0,50 watt not 100 watt
+10424,1,100w led projektör match
+10425,1,philips 8000 serisi ütü match
+10426,1,philips 8000 serisi ütü match
+10427,1,philips 8000 serisi ütü match
+10428,1,philips 8000 serisi ütü match
+10429,1,philips 8000 serisi ütü match
+10430,1,pilates topu match
+10431,1,pilates topu match
+10432,1,pilates topu match
+10433,1,pilates topu match
+10434,0,thermos not pilates ball
+10435,1,philips xc7043 spare part match
+10436,1,philips xc7043 spare part match
+10437,1,philips xc7043 spare part match
+10438,1,philips xc7043 spare part match
+10439,1,philips xc7043 spare part match
+10440,1,roy king tabak match
+10441,1,roy king tabak match
+10442,1,roy king tabak match
+10443,1,roy king tabak match
+10444,1,roy king tabak match
+10445,1,berjer match
+10446,1,berjer match
+10447,1,berjer match
+10448,1,berjer match
+10449,1,berjer match
+10450,1,3x1.5 ttr kablo match
+10451,1,3x1.5 ttr kablo match
+10452,1,3x1.5 ttr kablo match
+10453,1,3x1.5 ttr kablo match
+10454,0,finished extension cord not bare cable
+10455,1,razer brand product match
+10456,1,razer brand product match
+10457,1,razer gold pin brand match
+10458,1,razer gold pin brand match
+10459,1,razer gold pin brand match
+10460,1,çift kişilik lastikli nevresim match
+10461,1,çift kişilik lastikli nevresim match
+10462,1,çift kişilik lastikli nevresim match
+10463,1,çift kişilik lastikli nevresim match
+10464,1,title states lastikli matches query
+10465,1,efes themed decorative item
+10466,1,efes named office chair
+10467,0,boat heater unrelated to efes
+10468,1,efes named carpet
+10469,1,efes named carpet
+10470,1,gül kokulu parfüm match
+10471,1,gül kokulu note included
+10472,1,gül scented fragrance essence
+10473,0,fruity floral no gül mentioned
+10474,0,room fragrance not parfüm
+10475,0,regular bookshelf not köşelik corner
+10476,0,regular bookshelf not köşelik corner
+10477,0,mdf not ahşap and not corner
+10478,0,mdf ahşap bookshelf not corner
+10479,0,suntalam not ahşap not corner
+10480,1,papia brand match
+10481,1,papia brand match
+10482,1,papia brand match
+10483,1,papia brand match
+10484,1,papia brand match
+10485,0,note 11 pro case wrong model
+10486,0,redmi 12 case wrong model
+10487,0,note 12 pro plus case wrong model
+10488,0,note 12 pro plus case wrong model
+10489,0,note 11t case wrong model
+10490,1,okyanus master soru bankası match
+10491,1,okyanus master soru bankası match
+10492,1,okyanus master soru bankası match
+10493,1,okyanus master soru bankası match
+10494,1,okyanus master deneme match
+10495,1,oversize kot ceket match
+10496,1,oversize kot ceket match
+10497,1,oversize kot ceket match
+10498,1,oversize kot ceket match
+10499,1,oversize kot ceket match

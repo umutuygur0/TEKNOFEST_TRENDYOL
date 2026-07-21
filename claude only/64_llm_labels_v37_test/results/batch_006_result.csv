@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2100,0,wrong phone model asus not s25fe
+2101,0,samsung s25 not s25 fe model
+2102,0,wrong model s21fe not s25fe
+2103,0,wrong model a35 not s25fe
+2104,0,wrong brand infinix not samsung
+2105,1,tesettur trenchcoat matches query
+2106,1,trenchcoat matches query
+2107,1,trenchcoat matches query
+2108,1,trenchcoat matches query
+2109,1,trenchcoat matches query
+2110,1,mih book series matches query
+2111,0,different book miho not mih
+2112,1,mih book series matches query
+2113,0,different book mihail bulgakov
+2114,0,different book mihail bulgakov
+2115,1,malatya kayisi matches query
+2116,1,malatya peyniri matches query
+2117,1,malatya plaka themed sweatshirt
+2118,1,malatya kayisi matches query
+2119,1,malatya kayisi matches query
+2120,1,ilbays brand cleaning cloth
+2121,1,ilbay's brand cleaning cloth
+2122,1,ilbay's brand cleaning cloth
+2123,1,ilbays brand cleaning cloth
+2124,1,ilbay's brand cleaning cloth
+2125,1,kekik matches query
+2126,1,kekik matches query
+2127,1,kekik matches query
+2128,1,kekik matches query
+2129,1,kekik based product matches query
+2130,1,instagram logo sticker
+2131,1,instagram logo sticker
+2132,1,instagram logo sticker
+2133,0,fake social media currency not instagram product
+2134,0,pokemon card unrelated
+2135,1,sweatshirt matches swea query
+2136,0,down jacket not sweatshirt
+2137,0,mont not sweatshirt
+2138,0,mont not sweatshirt
+2139,0,mont not sweatshirt
+2140,1,kinoa matches query
+2141,1,kinoa matches query
+2142,1,kinoa matches query
+2143,1,kinoa matches query
+2144,1,kinoa matches query
+2145,1,true match fondoten
+2146,1,true match fondoten
+2147,1,true match fondoten
+2148,1,true bee brand haircare
+2149,1,true bee brand haircare
+2150,1,coach brand bag
+2151,0,not coach brand
+2152,0,not coach brand
+2153,0,not coach brand
+2154,0,not coach brand
+2155,1,mien brand product
+2156,1,mien brand product
+2157,1,mien brand product
+2158,1,mien brand product
+2159,1,mien brand product
+2160,1,kurulama bezi matches query
+2161,1,kurulama bezi matches query
+2162,1,kurulama bezi matches query
+2163,1,el havlu similar to kurulama bezi
+2164,1,kurulama bezi matches query
+2165,1,caudalie brand product
+2166,1,caudalie brand product
+2167,1,caudalie brand product
+2168,1,caudalie brand product
+2169,1,caudalie brand product
+2170,1,moka pot matches query
+2171,1,moka pot matches query
+2172,1,moka pot matches query
+2173,1,moka pot matches query
+2174,0,poster decor not actual moka pot
+2175,1,gliss brand haircare
+2176,1,gliss brand haircare
+2177,1,gliss brand haircare
+2178,1,gliss brand haircare
+2179,1,gliss brand haircare
+2180,1,ducavelli brand shoe
+2181,1,ducavelli brand shoe
+2182,1,ducavelli brand shoe
+2183,1,ducavelli brand shoe
+2184,1,ducavelli brand shoe
+2185,1,kiyomi brand product
+2186,1,kiyomi brand product
+2187,1,kiyomi brand product
+2188,1,kiyomi brand product
+2189,1,kiyomi brand product
+2190,1,men's socks match query
+2191,1,men's socks match query
+2192,1,men's socks match query
+2193,1,men's socks match query
+2194,1,men's socks match query
+2195,1,baymax character figure
+2196,0,baymax brand safety glasses not character
+2197,0,baymax brand safety glasses not character
+2198,0,baymax brand safety glasses not character
+2199,0,baymax brand glove not character
+2200,1,yelek matches query
+2201,1,yelek matches query
+2202,1,yelek matches query
+2203,1,yelek matches query
+2204,1,yelek matches query
+2205,1,puset ana kucagi matches query
+2206,1,puset matches query
+2207,1,puset tasima matches query
+2208,1,puset ana kucagi matches query
+2209,1,puset seti mentioned in title
+2210,1,skagen brand watch
+2211,1,skagen brand necklace
+2212,1,skagen brand necklace
+2213,1,skagen brand necklace
+2214,1,skagen brand watch
+2215,1,baofeng brand telsiz
+2216,1,baofeng brand telsiz
+2217,1,baofeng brand telsiz
+2218,1,baofeng brand telsiz
+2219,1,baofeng brand telsiz
+2220,1,doa brand product
+2221,1,doa brand product
+2222,1,doa brand product
+2223,0,brand dops not doa
+2224,0,brand hommcozmetic not doa
+2225,1,aventus named perfume
+2226,1,creed aventus dupe
+2227,1,creed aventus dupe
+2228,0,different perfume avantgarde
+2229,0,different perfume a20
+2230,1,supplement product matches query
+2231,1,supplement product matches query
+2232,1,supplement product matches query
+2233,1,supplement product matches query
+2234,1,supplement product matches query
+2235,1,comprox brand product
+2236,1,comprox brand product
+2237,1,comprox brand product
+2238,1,comprox brand product
+2239,1,comprox brand product
+2240,1,ruj lipstick matches query
+2241,1,ruj lipstick matches query
+2242,1,ruj lipstick matches query
+2243,1,ruj lipstick matches query
+2244,1,ruj lipstick matches query
+2245,1,vicks named masaj kremi
+2246,0,no vicks mention unrelated brand
+2247,0,dried mint unrelated
+2248,0,snoring bandage unrelated
+2249,0,bee multivitamin unrelated
+2250,0,not maejin brand
+2251,0,not maejin brand
+2252,0,not maejin brand
+2253,0,not maejin brand
+2254,0,not maejin brand
+2255,1,glutathione matches query
+2256,1,glutathione matches query
+2257,1,glutathione matches query
+2258,1,glutathione matches query
+2259,1,glutathione product matches query
+2260,1,hamak matches query
+2261,1,hamak matches query
+2262,1,hamak matches query
+2263,1,hamak matches query
+2264,1,hamak matches query
+2265,1,wilson brand tennis racket
+2266,1,wilson brand aftershave
+2267,1,wilson brand overgrip
+2268,1,wilson brand tennis racket
+2269,1,wilson brand overgrip
+2270,1,haliflex matches query
+2271,1,haliflex matches query
+2272,1,haliflex matches query
+2273,1,haliflex matches query
+2274,1,haliflex matches query
+2275,1,gardirop matches query
+2276,1,gardirop matches query
+2277,1,gardirop matches query
+2278,1,gardirop matches query
+2279,1,gardirop matches query
+2280,0,sunscreen unrelated to tanura
+2281,0,perfume unrelated to tanura
+2282,0,t-shirt unrelated to tanura
+2283,0,hair tonic unrelated to tanura
+2284,0,trenchcoat unrelated to tanura
+2285,1,trafik seti matches query
+2286,1,trafik seti matches query
+2287,1,trafik seti matches query
+2288,1,trafik seti matches query
+2289,1,trafik seti matches query
+2290,1,xiaomi phone matches ixomi query
+2291,1,xiaomi media player
+2292,1,xiaomi phone
+2293,1,xiaomi media player
+2294,1,xiaomi robot vacuum
+2295,1,macharelbasic brand bag
+2296,1,macharelbasic brand bag
+2297,1,macharelbasic brand bag
+2298,0,brand shaka not macharelbasic
+2299,0,brand capone not macharelbasic
+2300,1,dainese brand jacket
+2301,1,dainese brand jacket
+2302,1,dainese brand jacket
+2303,1,dainese brand bag
+2304,1,dainese brand jacket
+2305,0,not goofel brand
+2306,0,not goofel brand
+2307,0,not goofel brand
+2308,0,not goofel brand
+2309,0,not goofel brand
+2310,1,serstil brand organizer
+2311,1,serstil brand organizer
+2312,1,serstil brand organizer
+2313,1,serstil brand organizer
+2314,1,serstil brand organizer
+2315,1,avon imari perfume
+2316,1,avon imari perfume
+2317,0,oriflame perfume not imari
+2318,0,avon far away not imari line
+2319,0,vocal perfume not imari
+2320,1,hektas brand product
+2321,1,hektas brand product
+2322,1,hektas brand product
+2323,1,hektas brand product
+2324,1,hektas brand product
+2325,1,rafya matches query
+2326,1,rafya matches query
+2327,1,rafya matches query
+2328,1,rafya matches query
+2329,1,rafya matches query
+2330,1,sunglasses matches atasun query
+2331,1,sunglasses matches atasun query
+2332,1,sunglasses matches atasun query
+2333,1,sunglasses matches atasun query
+2334,1,sunglasses matches atasun query
+2335,1,swiss crystal cookware line
+2336,1,swiss crystal cookware line
+2337,1,swiss crystal cookware line
+2338,1,swiss crystal cookware line
+2339,1,swiss crystal cookware set
+2340,1,kartopu brand yarn
+2341,1,kartopu brand yarn
+2342,1,kartopu brand yarn
+2343,1,kartopu brand yarn
+2344,1,kartopu brand yarn
+2345,1,tas bead matches query
+2346,1,tas bead matches query
+2347,1,cam tas bead matches query
+2348,1,cam tas bead matches query
+2349,1,akik tasi matches query
+2350,0,ambiguous sw query weak match
+2351,0,ambiguous sw query weak match
+2352,0,ambiguous sw query weak match
+2353,1,swarovski brand matches sw
+2354,0,ambiguous sw query weak match
+2355,0,no clear piu match
+2356,0,no clear piu match
+2357,0,no clear piu match
+2358,0,no clear piu match
+2359,0,no clear piu match
+2360,1,p21w bulb matches query
+2361,1,p21w bulb matches query
+2362,1,p21w type bulb matches query
+2363,1,p21w bulb matches query
+2364,1,p21w equivalent bulb matches query
+2365,1,osteocare brand product
+2366,1,osteocare brand product
+2367,1,osteocare brand product
+2368,1,osteocare brand product
+2369,0,brand pharmare not osteocare
+2370,1,axen brand tv
+2371,1,axen brand remote
+2372,1,axen brand remote
+2373,1,axen brand screen protector
+2374,1,axen brand remote
+2375,1,pekmez matches query
+2376,1,pekmez matches query
+2377,1,pekmez matches query
+2378,1,pekmez matches query
+2379,1,pekmez matches query
+2380,1,hodie sweatshirt matches query
+2381,1,hodie sweatshirt matches query
+2382,1,hodie sweatshirt matches query
+2383,1,hodie sweatshirt matches query
+2384,1,hodie sweatshirt matches query
+2385,1,led modul matches query
+2386,1,led modul matches query
+2387,1,led modul matches query
+2388,1,electronic modul matches query
+2389,1,sinyal modul matches query
+2390,1,antep fistigi matches query
+2391,1,antep fistigi matches query
+2392,1,antep fistik kremasi matches query
+2393,1,antep fistigi matches query
+2394,1,antep fistigi matches query
+2395,1,ea7 brand tshirt
+2396,1,ea7 brand tshirt
+2397,1,ea7 brand sweatshirt
+2398,1,ea7 brand tshirt
+2399,1,ea7 brand tshirt
+2400,1,proline brand cat litter
+2401,1,proline brand cat litter
+2402,1,proline brand cat litter
+2403,1,proline brand cat litter
+2404,1,proline brand cat litter
+2405,1,frieren themed mug
+2406,1,frieren themed accessory
+2407,1,frieren themed keychain
+2408,1,frieren themed phone case
+2409,1,frieren themed tshirt
+2410,1,heimish brand product
+2411,1,heimish brand product
+2412,1,heimish brand product
+2413,0,brand himalaya not heimish
+2414,0,brand homm not heimish
+2415,1,kurutmalik matches query
+2416,1,kurutmalik matches query
+2417,1,kurutmalik matches query
+2418,1,kurutmalik matches query
+2419,1,kurutmalik matches query
+2420,1,airwick brand product
+2421,1,airwick brand product
+2422,1,airwick brand product
+2423,1,airwick brand product
+2424,1,airwick brand product
+2425,1,liuwa brand furniture
+2426,1,liuwa brand furniture
+2427,1,liuwa brand furniture
+2428,1,liuwa brand product
+2429,1,liuwa brand product
+2430,1,router matches query
+2431,1,router matches query
+2432,1,router matches query
+2433,1,router matches query
+2434,1,title mentions router despite category
+2435,1,xside sub-brand product
+2436,1,xside sub-brand product
+2437,1,xside sub-brand product
+2438,1,xside sub-brand product
+2439,1,xside sub-brand product
+2440,1,lador brand haircare
+2441,1,lador brand haircare
+2442,1,lador brand haircare
+2443,1,lador brand haircare
+2444,1,lador brand haircare
+2445,1,neverland brand puzzle
+2446,1,neverland brand puzzle
+2447,1,neverland brand puzzle
+2448,1,neverland brand puzzle
+2449,1,neverland brand puzzle

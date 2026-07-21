@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9800,1,brand+category match mayoral takım
+9801,1,mayoral etek takım matches category
+9802,1,mayoral örme set matches takım category
+9803,1,mayoral ikili takım matches
+9804,1,mayoral kız takım matches
+9805,1,us polo assn ceket brand match
+9806,1,us polo assn ceket brand match
+9807,0,not polo brand - different brand
+9808,0,not polo brand - denim ceket
+9809,0,not polo brand - no polo detail
+9810,1,h&m kadın gömlek brand match
+9811,1,h&m kadın gömlek brand match
+9812,1,h&m kadın gömlek brand match
+9813,1,h&m kadın gömlek brand match
+9814,0,brand esrahelvaci not h&m
+9815,1,puma sneaker brand match
+9816,1,puma erkek koşu ayakkabısı match
+9817,1,puma sneaker brand match
+9818,1,puma erkek günlük ayakkabı match
+9819,1,puma sneaker brand match
+9820,1,antre hol dresuar category match
+9821,1,antre hol dresuar category match
+9822,1,antre hol dresuar category match
+9823,1,antre hol ayakkabılık category match
+9824,1,antre hol dresuar category match
+9825,1,vücut spreyi matches sprey query
+9826,0,vücut losyonu - not sprey
+9827,0,vücut losyonu - not sprey
+9828,0,soğuk kahve - unrelated to sprey
+9829,0,beyazlatıcı krem köpük - not sprey
+9830,0,pijama takımı - not polar gömlek
+9831,0,pijama takımı - not polar gömlek
+9832,0,pijama takımı - not polar gömlek
+9833,0,pamuklu pijama takımı - not polar
+9834,0,penye pijama takımı - not polar
+9835,1,kalpli bileklik match
+9836,1,kalpli çelik bileklik match
+9837,1,kalpli çelik bileklik match
+9838,1,kalp detaylı bileklik set match
+9839,1,kalp detaylı bileklik match
+9840,1,bayan ev terliği match
+9841,1,bayan ev terliği match
+9842,1,bayan ev terliği match
+9843,1,bayan ev terliği match
+9844,1,bayan ev terliği match
+9845,1,ajda charm match
+9846,1,ajda charm match
+9847,1,ajda charm match
+9848,1,ajda charm match
+9849,1,ajda charm match
+9850,1,alfa yayınları brand match
+9851,1,alfa yayınları brand match
+9852,1,alfa yayınları brand match
+9853,1,alfa yayınları brand match
+9854,1,alfa yayınları brand match
+9855,1,robocar poli brand match
+9856,1,robocar poli brand match
+9857,1,robocar poli brand match
+9858,1,robocar poli brand match
+9859,1,robocar poli brand match
+9860,1,on running brand match
+9861,1,on running brand match
+9862,1,on running brand match
+9863,1,on running brand match
+9864,1,on running brand match
+9865,0,coffee cup - not german tea
+9866,0,hedge trimmer - unrelated
+9867,0,mug - not tea
+9868,0,coffee cup - not tea
+9869,0,coffee cup - not tea
+9870,1,taç uyku seti match
+9871,1,taç uyku seti category match
+9872,1,taç uyku seti match
+9873,1,taç uyku seti category match
+9874,1,taç uyku seti category match
+9875,1,sprey boya category match
+9876,1,sprey boya category match
+9877,1,sprey boya category match
+9878,1,sprey boya category match
+9879,1,sprey boya category match
+9880,1,eti kolonya brand match
+9881,1,eti kolonya brand match
+9882,1,eti kolonya brand match
+9883,1,eti kolonya brand match
+9884,1,eti kolonya brand match
+9885,1,morfose wax brand match
+9886,1,morfose wax brand match
+9887,1,morfose wax brand match
+9888,1,morfose wax brand match
+9889,1,morfose wax brand match
+9890,1,bosch anahtar brand match
+9891,1,bosch anahtar brand match
+9892,1,bosch anahtar brand match
+9893,0,brand bgc not bosch
+9894,0,brand elta not bosch
+9895,1,çekmece kulpu category match
+9896,1,çekmece kulpu category match
+9897,1,çekmece kulpu category match
+9898,1,çekmece kulpu category match
+9899,1,çekmece kulpu category match
+9900,1,dekoratif abajur category match
+9901,1,dekoratif abajur category match
+9902,1,dekoratif abajur category match
+9903,1,dekoratif abajur category match
+9904,1,title says abajur masa lambası
+9905,1,hot wheels brand match
+9906,1,hot wheels brand match
+9907,1,hot wheels brand match
+9908,0,welly brand - not hot wheels
+9909,1,hot wheels brand match
+9910,1,arnica tesla süpürge match
+9911,1,arnica tesla süpürge match
+9912,1,arnica tesla süpürge match
+9913,1,arnica tesla süpürge match
+9914,1,arnica tesla süpürge match
+9915,1,allday tunik brand match
+9916,1,allday tunik brand match
+9917,1,allday tunik brand match
+9918,1,allday tunik brand match
+9919,1,allday tunik brand match
+9920,1,kız çocuk topuklu ayakkabı match
+9921,1,kız çocuk topuklu ayakkabı match
+9922,1,kız çocuk topuklu ayakkabı match
+9923,1,kız çocuk topuklu ayakkabı match
+9924,1,kız çocuk topuklu ayakkabı match
+9925,1,köpük temizleyici match
+9926,1,köpük temizleyici match
+9927,1,foaming cleanser matches köpük
+9928,0,tuvalet temizleyici - not face
+9929,1,köpük temizleyici match
+9930,0,stevia tatlandırıcı - not şeker
+9931,0,meyveli şeker candy - wrong product
+9932,0,fertilizer - not food sugar
+9933,0,fertilizer - not food sugar
+9934,0,pasta jeli - not toz şeker
+9935,1,doğum günü seti match
+9936,1,doğum günü balon set match
+9937,1,doğum günü seti match
+9938,1,doğum günü seti match
+9939,1,doğum günü seti match
+9940,1,barfix category match
+9941,1,barfix category match
+9942,1,barfix category match
+9943,1,barfix category match
+9944,1,barfix category match
+9945,1,osse erkek güneş gözlüğü match
+9946,1,osse erkek güneş gözlüğü match
+9947,1,osse erkek güneş gözlüğü match
+9948,1,osse erkek güneş gözlüğü match
+9949,1,osse erkek güneş gözlüğü match
+9950,0,yatak örtüsü not nevresim - wrong size
+9951,0,çift kişilik - not tek kişilik
+9952,0,yatak örtüsü not nevresim - wrong size
+9953,0,çift kişilik - not tek kişilik
+9954,0,çift kişilik - not tek kişilik
+9955,1,fon kartonu match
+9956,1,fon kartonu match
+9957,1,fon kartonu match
+9958,1,fon kartonu match
+9959,1,fon kartonu match
+9960,1,dikkat kırılır etiketi match
+9961,1,dikkat kırılır etiketi match
+9962,1,dikkat kırılır etiketi match
+9963,1,dikkat kırılır etiketi match
+9964,1,dikkat kırılır etiketi match
+9965,1,kiko göz kalemi brand match
+9966,1,kiko göz kalemi brand match
+9967,1,kiko göz kalemi brand match
+9968,1,kiko göz kalemi brand match
+9969,1,kiko göz kalemi brand match
+9970,1,işıklı çocuk ayakkabı match
+9971,1,işıklı unisex çocuk ayakkabı match
+9972,1,işıklı çocuk ayakkabı match
+9973,1,işıklı bebek çocuk ayakkabı match
+9974,1,işıklı bebek ayakkabı match
+9975,1,yves rocher tonik match
+9976,1,yves rocher tonik match
+9977,1,yves rocher tonik match
+9978,1,yves rocher tonik match
+9979,1,yves rocher tonik category match
+9980,1,kadın gömlek match
+9981,1,kadın tarz gömlek brand match
+9982,1,kadın tarz gömlek brand match
+9983,1,kadın tarz gömlek match
+9984,1,kadın tarz gömlek match
+9985,1,van cat kedi kumu match
+9986,1,van cat kedi kumu match
+9987,1,van cat kedi kumu match
+9988,1,van cat kedi kumu match
+9989,1,van cat kedi kumu match
+9990,1,mac brand highlighter match
+9991,1,mac brand highlighter match
+9992,0,dasique brand - not mac
+9993,0,makeuptime brand - not mac
+9994,0,gabrini brand - not mac
+9995,1,sky high maskara line match
+9996,1,sky high maskara line match
+9997,1,sky high maskara line match
+9998,1,sky high maskara line match
+9999,1,sky high maskara line match
+10000,1,erzurum peynir regional match
+10001,1,erzurum peynir regional match
+10002,1,erzurum themed hoodie
+10003,1,erzurum themed canvas art
+10004,1,erzurum sticker themed
+10005,1,jiekai brand kask match
+10006,1,jiekai brand kask match
+10007,1,jiekai brand accessory match
+10008,1,jiekai brand vizör match
+10009,1,jiekai brand vizör match
+10010,1,setay karyola brand match
+10011,1,setay karyola brand match
+10012,1,setay karyola brand match
+10013,1,setay karyola brand match
+10014,1,setay karyola brand match
+10015,1,söz dekoru category match
+10016,1,söz dekoru category match
+10017,1,söz dekoru category match
+10018,1,söz dekoru category match
+10019,1,söz dekoru category match
+10020,1,qcy kulaklık brand match
+10021,1,qcy kulaklık brand match
+10022,1,qcy kulaklık brand match
+10023,1,qcy kulaklık brand match
+10024,1,qcy kulaklık brand match
+10025,0,wrong rim size 17 not 16
+10026,0,wrong width 195 not 205
+10027,0,wrong width 215 not 205
+10028,0,wrong width and ratio
+10029,0,completely different tire size
+10030,1,erkek kaban category match
+10031,1,erkek kaban category match
+10032,1,erkek kaban category match
+10033,1,erkek kaban category match
+10034,1,erkek kaban category match
+10035,1,motosiklet bandana category match
+10036,1,motosiklet bandana category match
+10037,1,motosiklet bandana category match
+10038,1,motosiklet bandana category match
+10039,1,motosiklet bandana category match
+10040,1,kadın kumaş pantolon match
+10041,1,kadın kumaş pantolon match
+10042,1,kumaş pantalon direct match
+10043,1,kadın kumaş pantolon match
+10044,1,kadın kumaş pantolon match
+10045,1,turbox brand match
+10046,1,turbox brand match
+10047,1,turbox brand match
+10048,1,turbox brand match
+10049,1,turbox brand match
+10050,1,ahşap isim kapı süsü match
+10051,1,ahşap isim kapı süsü match
+10052,1,ahşap isim kapı süsü match
+10053,1,ahşap isim kapı süsü match
+10054,1,ahşap isim kapı süsü match
+10055,1,egzoz başlığı category match
+10056,1,egzoz başlığı category match
+10057,1,egzoz başlığı category match
+10058,1,egzoz başlığı category match
+10059,1,egzoz başlığı category match
+10060,1,platform terlik match
+10061,1,platform terlik match
+10062,1,platform terlik match
+10063,1,platform terlik match
+10064,1,platform terlik match
+10065,1,kahverengi halı match
+10066,1,kahverengi halı match
+10067,1,kahverengi halı match
+10068,1,kahverengi halı match
+10069,1,kahverengi halı match
+10070,1,r36s oyun konsolu match
+10071,1,r36s oyun konsolu match
+10072,0,phone case - not r36s console
+10073,0,phone case - not r36s console
+10074,0,phone case - not r36s console
+10075,1,bol pantolon match
+10076,1,baggy bol pantolon match
+10077,1,bol paça pantolon match
+10078,1,baggy bol pantolon match
+10079,1,salaş baggy pantolon match
+10080,0,code 732 not 440
+10081,1,literal 440 code match
+10082,0,code 102 not 440
+10083,0,code 235 not 440
+10084,0,different brand code k353
+10085,1,gaming laptop category match
+10086,1,gaming laptop category match
+10087,1,gaming laptop category match
+10088,1,gaming laptop category match
+10089,1,gaming laptop category match
+10090,1,demon slayer manga book match
+10091,0,sweatshirt - not manga book
+10092,0,tshirt - not manga book
+10093,0,tshirt - not manga book
+10094,0,tshirt - not manga book
+10095,1,epsilon yayınevi brand match
+10096,1,epsilon yayınevi brand match
+10097,1,epsilon yayınevi brand match
+10098,1,epsilon yayınevi brand match
+10099,1,epsilon yayınevi brand match
+10100,1,kar maskesi match
+10101,1,kar maskesi match
+10102,1,kar maskesi set match
+10103,1,kar maskesi match
+10104,0,hulk toy mask - not kar maskesi
+10105,1,regal klima brand match
+10106,1,regal klima brand match
+10107,1,regal klima brand match
+10108,1,regal klima brand match
+10109,1,regal klima brand match
+10110,1,jump kadın brand match
+10111,1,jump kadın brand match
+10112,1,jump kadın brand match
+10113,1,jump kadın brand match
+10114,1,jump kadın brand match
+10115,1,h&m hırka brand match
+10116,1,h&m hırka brand match
+10117,1,h&m hırka brand match
+10118,1,h&m hırka brand match
+10119,1,h&m hırka maternity - still hırka
+10120,1,olta makinesi category match
+10121,1,olta makinesi category match
+10122,1,olta makinesi category match
+10123,1,olta makinesi category match
+10124,1,olta makinesi category match
+10125,1,dockers by gerli brand match
+10126,1,dockers by gerli brand match
+10127,1,dockers by gerli brand match
+10128,1,dockers by gerli brand match
+10129,1,dockers brand match
+10130,1,altınbaş altın yüzük match
+10131,1,altınbaş altın yüzük match
+10132,1,altınbaş altın yüzük match
+10133,1,altınbaş altın yüzük match
+10134,1,altınbaş altın yüzük match
+10135,1,crystalline brand match
+10136,1,crystalline brand match
+10137,1,crystalline brand match
+10138,0,unrelated pet product - different domain
+10139,0,brand nike - not crystalline
+10140,1,göz altı kapatıcı match
+10141,1,göz altı kapatıcı match
+10142,1,göz altı kapatıcı match
+10143,1,göz altı kapatıcı match
+10144,1,göz altı kapatıcı match
+10145,0,ev şarj cihazı - not power bank
+10146,0,tool battery - not portable power bank
+10147,0,flash accessory - not power bank
+10148,0,battery lamp - not power bank itself
+10149,0,screwdriver - not power bank

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+8400,1,Decorative wall mirror explicitly marketed as hol/dresuar aynası
+8401,1,Round decorative mirror explicitly for antre/hol/wc use
+8402,1,Decorative mirror explicitly marketed as hol/konsol aynası
+8403,1,Full-length wall mirror explicitly for antre/koridor use matching hol context
+8404,1,JBL Vibe 100TWS wireless in-ear earbuds match brand and product type
+8405,1,JBL Wave Beam TWS wireless earbuds match brand and product type
+8406,1,JBL Wave Beam2 wireless earbuds match brand and product type
+8407,1,JBL Wave Beam2 wireless earbuds match brand and product type
+8408,1,JBL Wave Beam2 wireless earbuds match brand and product type
+8409,1,Eymense TV koltuğu matches query exactly
+8410,1,Eymense TV koltuğu matches query exactly
+8411,1,Eymense TV koltuğu matches query exactly
+8412,1,Eymense TV koltuğu matches query exactly
+8413,1,Eymense TV koltuğu matches query exactly
+8414,1,Philips OneBlade face/body trimmer matches brand and product line
+8415,1,Philips OneBlade QP1424 device matches brand and product line
+8416,0,Replacement blade accessory for OneBlade, not the device itself
+8417,1,Philips OneBlade Pro 360 trimmer matches brand and product line
+8418,1,Philips OneBlade Pro trimmer matches brand and product line
+8419,1,Bosch lokma takımı (socket set) matches brand and product type
+8420,1,Bosch branded bit and socket wrench set matches product intent
+8421,1,Bosch branded socket/bit set matches product intent
+8422,1,Bosch lokma seti (socket set) matches brand and product type
+8423,1,Bosch impact socket set matches brand and product type
+8424,1,Mikasa Moor branded vase matches query
+8425,1,Mikasa Moor branded vase matches query
+8426,1,Mikasa Moor branded vase matches query
+8427,1,Mikasa Moor branded vase matches query
+8428,1,Mikasa Moor branded vase matches query
+8429,1,Sponge product explicitly titled "missclean" matches query
+8430,1,Kitchen cloth explicitly titled "missclean" matches query
+8431,1,Cleaning cloth set explicitly titled "missclean" matches query
+8432,1,Sponge product with brand exactly "missclean"
+8433,1,Cleaning cloth explicitly referencing "miss clean" in title
+8434,1,JBL Charge 5 bluetooth speaker matches exact model
+8435,0,JBL Charge 6 is a different model than the queried Charge 5
+8436,0,JBL Charge 6 is a different model than the queried Charge 5
+8437,1,JBL Charge 5 bluetooth speaker matches exact model
+8438,1,JBL Charge 5 bluetooth speaker matches exact model
+8439,1,Ofis/oyuncu koltuğu labeled as gaming chair matches query
+8440,1,Chair explicitly described as oyuncu koltuğu (gaming chair)
+8441,1,Warrior branded oyuncu koltuğu matches query
+8442,1,Xprime branded oyuncu koltuğu matches query
+8443,1,Warrior branded oyuncu koltuğu matches query
+8444,1,Bench threading machine matches pafta makinası query
+8445,0,Manual tap-and-die accessory kit, not a threading machine
+8446,1,Categorized as pafta makinası matching query intent
+8447,1,Manual pipe threading die set categorized as pafta makinası
+8448,1,Tap and die set categorized as pafta makinası
+8449,1,Madame Polo branded eşarp matches query
+8450,1,Madame Polo branded eşarp matches query
+8451,1,Madame Polo branded eşarp matches query
+8452,0,Product is a şal (shawl), not an eşarp as queried
+8453,0,Product is a şal (shawl), not an eşarp as queried
+8454,1,Girls' water-resistant wrist watch matches query
+8455,1,Girls' character wrist watch matches query
+8456,1,Girls' character wrist watch matches query
+8457,1,Girls' wrist watch matches query
+8458,1,Girls' steel case wrist watch matches query
+8459,1,Genuine Apple Pencil (2nd gen) matches "apple pen" query despite mislabeled category
+8460,0,Third-party generic stylus, not a genuine Apple product
+8461,1,Genuine Apple Pencil Pro matches query
+8462,1,Genuine Apple Pencil Pro matches query
+8463,0,Third-party generic stylus (brand Fuchsia), not genuine Apple
+8464,1,Kerastase Elixir care set matches query
+8465,1,Kerastase Elixir hair care set matches query
+8466,1,Kerastase Elixir Ultime hair oil matches query
+8467,1,Kerastase Elixir Ultime hair oil matches query
+8468,1,Kerastase Elixir Ultime hair oil matches query
+8469,1,Colorful triko kazak matches query
+8470,1,Colorful triko kazak matches query
+8471,1,Product titled as colorful triko kazak despite miscategorized as coat
+8472,1,Product titled as colorful triko kazak despite miscategorized as coat
+8473,1,Colorful triko kazak matches query
+8474,1,Cat food storage container matches query
+8475,1,Cat food storage container matches query
+8476,1,Cat food storage container matches query
+8477,1,Cat food storage container matches query
+8478,1,Cat food storage container matches query
+8479,1,Men's linen-blend trousers match query
+8480,1,Men's linen-weave trousers match query
+8481,1,Men's linen-weave trousers match query
+8482,1,Men's linen regular fit trousers match query
+8483,1,Men's linen classic cut trousers match query
+8484,1,Boxing sand bag matches query
+8485,1,Boxing sand bag matches query
+8486,1,Inflatable boxing bag matches query
+8487,1,Classic boxing sand bag matches query
+8488,1,MMA/sand boxing bag matches query
+8489,1,3-piece bath mat set matches query
+8490,1,3-piece bath mat set matches query
+8491,1,3-piece bath mat set matches query
+8492,1,3-piece bath mat set matches query
+8493,1,Bath mat set explicitly titled "3'lü set" matches query
+8494,1,Robx IPL epilation device matches brand and product line
+8495,1,Robx IPL epilation device variant matches brand and product line
+8496,1,Robx IPL epilation device matches brand and product line
+8497,1,Robx IPL epilation device variant matches brand and product line
+8498,1,Robx IPL epilation device variant matches brand and product line
+8499,1,Artificial potted flower matches query
+8500,1,Artificial potted flower matches query
+8501,1,Artificial potted flower matches query
+8502,1,Artificial tree/plant matches query
+8503,1,Artificial flowering plant matches query
+8504,1,Suede jacket matches "cekey" (ceket) query
+8505,1,Fur-lined oversize jacket matches query
+8506,1,Suede jacket matches query
+8507,1,Suede jacket matches query
+8508,1,Fur-lined suede jacket matches query
+8509,1,Chrome license plate holder matches "pilakalık" (plakalık) query
+8510,1,Chrome license plate holder matches query
+8511,1,License plate holder matches query
+8512,1,Personalized license plate holder matches query
+8513,1,Plexi license plate holder matches query
+8514,1,Washing machine cover matches query
+8515,1,Washing machine cover matches query
+8516,1,Washing machine cover matches query
+8517,1,Washing machine cover matches query
+8518,1,Washing machine cover matches query
+8519,1,Crossbody shoulder bag matches query
+8520,1,Adjustable crossbody bag matches query
+8521,1,Adjustable crossbody shoulder bag matches query
+8522,1,Crossbody bag matches query
+8523,1,Adjustable crossbody shoulder bag matches query
+8524,1,Rechargeable electric cleaning brush matches query
+8525,1,Electric multi-head cleaning brush matches query
+8526,1,Rechargeable electric cleaning brush matches query
+8527,1,Rechargeable electric cleaning brush matches query
+8528,0,Drill attachment brush requiring external drill, not a self-powered electric brush
+8529,0,Blush shade is blue (mavi), not the bordo (burgundy) queried
+8530,0,Blush shade is white (beyaz), not bordo as queried
+8531,0,Blush shade is pink (pembe), not bordo as queried
+8532,0,Blush shade is metallic, not bordo as queried
+8533,0,Blush shade is ecru, not bordo as queried
+8534,1,Pikassos tablet matches the "Pikas" feminine health product intent
+8535,0,Picatinny rail firearm accessory, unrelated to "pikas" product
+8536,0,Picatinny rail firearm accessory, unrelated to "pikas" product
+8537,0,Pikachu-print t-shirt, unrelated clothing item
+8538,0,Pikachu-themed candy, unrelated food product
+8539,1,Elle Shoes branded women's casual black shoe matches query
+8540,1,Elle Shoes branded women's casual black shoe matches query
+8541,1,Elle Shoes branded women's casual black shoe matches query
+8542,1,Elle Shoes branded women's casual black shoe matches query
+8543,1,Elle Shoes branded women's casual black shoe matches query
+8544,1,Stainless steel tweezers match query
+8545,1,Solingen professional tweezers match query
+8546,1,Solingen tweezers match query
+8547,1,Solingen professional tweezers match query
+8548,1,Solingen tweezers match query
+8549,1,Pistachio dragee candy matches query
+8550,1,Pistachio dragee candy matches query
+8551,1,Chocolate-coated pistachio dragee matches query
+8552,1,Chocolate-coated pistachio dragee matches query
+8553,1,Milk chocolate pistachio dragee matches query
+8554,1,Toilet paper holder is a WC-related bathroom product matching generic query
+8555,1,Wall-hung toilet (klozet) directly matches "wc" query
+8556,1,Toilet paper holder is a WC-related bathroom product
+8557,1,Toilet brush is a WC-related bathroom product
+8558,1,Toilet paper holder is a WC-related bathroom product
+8559,1,Diecast toy model car matches query
+8560,1,Diecast toy model car matches query
+8561,1,Toy car set matches query
+8562,1,Diecast toy model car matches query
+8563,1,Diecast toy model car matches query
+8564,1,Plus-size waterproof raincoat matches query
+8565,1,Plus-size raincoat/trench matches query
+8566,1,Plus-size raincoat matches query
+8567,1,Plus-size raincoat/coat explicitly titled yağmurluk
+8568,1,Plus-size men's hooded raincoat matches query
+8569,1,"""Çizgi İhlali"" book by same publisher/author matches query exactly"
+8570,1,"Special boxed edition of ""Çizgi İhlali"" matches query"
+8571,0,Lined notebook, not the queried book title
+8572,0,Unrelated grammar textbook, not the queried book
+8573,0,Unrelated religious book, not the queried book
+8574,1,Philips wet & dry vacuum matches query
+8575,1,Philips wet & dry cordless vacuum matches query
+8576,1,Philips Aqua Trio wet & dry vacuum matches query
+8577,1,Philips wet & dry vacuum matches query
+8578,1,Philips Aqua Trio wet & dry vacuum matches query
+8579,1,Beading/jewelry-making hobby kit matches generic hobby materials query
+8580,1,Wooden beads for crafting match generic hobby materials query
+8581,1,Jewelry-making hobby materials match generic query
+8582,1,Colorful beads for crafting match generic hobby materials query
+8583,1,Craft/knitting kit matches generic hobby materials query
+8584,1,Wooden corner shelf explicitly for kitchen matches query
+8585,1,Kitchen corner organizer shelf matches query
+8586,1,Kitchen corner organizer shelf matches query
+8587,1,Kitchen corner organizer shelf matches query
+8588,1,Kitchen corner organizer shelf matches query
+8589,1,Men's hooded sweatshirt matches query
+8590,1,Men's/unisex sweatshirt matches query
+8591,1,Men's hooded sweatshirt matches query
+8592,1,Men's printed sweatshirt matches query
+8593,1,Men's oversize hooded sweatshirt matches query
+8594,1,Sink/bathroom cabinet set matches query
+8595,1,Sink/bathroom cabinet with mirror matches query
+8596,1,Sink/bathroom cabinet with mirror matches query
+8597,1,Sink/bathroom cabinet with mirror matches query
+8598,1,Sink/bathroom cabinet set matches query
+8599,1,Philips bagless vacuum cleaner matches "plips" (Philips) query
+8600,1,Philips bagless vacuum cleaner matches query
+8601,1,Philips bagless vacuum cleaner matches query
+8602,1,Philips bagless vacuum cleaner matches query
+8603,1,Philips bagless vacuum cleaner matches query
+8604,1,Faber Castell versatil (mechanical) pencil matches query
+8605,1,Faber Castell versatil pencil matches query
+8606,1,Faber Castell Grip versatil pencil matches query
+8607,1,Faber Castell Grip versatil pencil matches query
+8608,1,Faber Castell versatil pencil matches query
+8609,1,Men's short cashmere-look coat/jacket matches query
+8610,1,Men's short cashmere-look coat/jacket matches query
+8611,1,Short cashmere-look coat matches query
+8612,1,Men's short cashmere-look coat matches query
+8613,1,Men's short cashmere-look coat matches query
+8614,1,Furniture-grade stapler machine matches query
+8615,0,Staple wire refill, not the stapler tool itself
+8616,0,Mismatched category/product, unclear pin item not matching furniture stapler intent
+8617,1,Bosch stapler gun matches query
+8618,1,Bosch upholstery/furniture staple gun matches query directly
+8619,1,Ariel Oxi powder laundry detergent matches query
+8620,1,Ariel Oxi powder laundry detergent matches query
+8621,1,Ariel Oxi powder laundry detergent matches query
+8622,1,Ariel Oxi laundry detergent matches query
+8623,1,Ariel Oxi laundry detergent matches query
+8624,1,Self-adhesive table covering film matches query
+8625,1,Self-adhesive table covering film matches query
+8626,1,Self-adhesive marble-pattern covering film for tables matches query
+8627,1,Self-adhesive table covering film matches query
+8628,1,Self-adhesive laminated covering film for tables matches query
+8629,1,Converse unisex sneaker accessible to women matches query
+8630,1,Converse women's lifestyle shoe matches query
+8631,1,Converse unisex sneaker matches query
+8632,1,Converse unisex sneaker matches query
+8633,1,Converse unisex sneaker matches query
+8634,1,Flatbread griddle sheet (sac) matches query product type
+8635,0,Teflon frying/roasting pan, not a flat griddle sac
+8636,1,Flatbread griddle sheet (sac) matches query product type
+8637,1,Square griddle sac for bread matches query product type
+8638,1,Griddle sac for bread/gözleme matches query product type
+8639,1,Birthday party balloon decoration set matches query
+8640,1,Birthday party balloon decoration set matches query
+8641,1,Birthday party decoration set matches query
+8642,1,Birthday party decoration set matches query
+8643,1,Birthday party decoration set matches query
+8644,1,Foldable cabin-size baby stroller matches query
+8645,1,Foldable cabin-size baby stroller matches query
+8646,1,Foldable cabin-size baby stroller matches query
+8647,1,Foldable cabin-size baby stroller matches query
+8648,1,Foldable premium baby stroller matches query
+8649,1,Chrome car trim accessory matches query
+8650,1,Chrome car trim accessory matches query
+8651,1,Chrome car trim accessory matches query (generic query, no car model specified)
+8652,1,Chrome car trim accessory matches query (generic query, no car model specified)
+8653,1,Chrome car trim accessory matches query (generic query, no car model specified)
+8654,1,Safari themed balloon set matches query
+8655,1,Safari themed balloon set matches query
+8656,1,Safari themed balloon set matches query
+8657,1,Safari themed balloon decoration matches query
+8658,1,Safari themed balloon birthday set matches query
+8659,1,Drawer spice organizer matches query
+8660,1,Drawer spice organizer stand matches query
+8661,1,Drawer spice organizer stand matches query
+8662,1,Drawer spice organizer stand matches query
+8663,1,Drawer spice organizer stand matches query
+8664,1,Disney plush toy matches query
+8665,1,Disney Lilo plush toy matches query
+8666,1,Licensed Disney Stitch plush toy matches query
+8667,1,Licensed Disney Minnie Mouse plush toy matches query
+8668,1,Disney Stitch Angel licensed plush toy matches query
+8669,1,Wall-mounted decorative key holder matches query
+8670,1,Wall-mounted decorative key holder matches query
+8671,1,Wall-mounted key holder matches query
+8672,1,Wall-mounted decorative key holder matches query
+8673,1,Wall-mounted decorative key holder matches query
+8674,1,Fishing bait skewer matches query
+8675,1,Fishing bait skewer matches query
+8676,0,Barbecue meat skewer set, not a fishing bait skewer
+8677,0,Barbecue meat skewer, not a fishing bait skewer
+8678,1,Fishing-line skewer set (misinali) matches bait skewer intent
+8679,1,Giorgio Armani Acqua Di Gio EDP matches query
+8680,1,Giorgio Armani Acqua Di Gio Le Parfum matches query
+8681,1,Giorgio Armani Acqua Di Gio Profondo matches query
+8682,1,Giorgio Armani Acqua Di Gio Le Parfum refill matches query
+8683,1,Giorgio Armani Acqua Di Gio Homme Elixir matches query
+8684,1,Eriza branded orta sehpa (coffee table) matches query
+8685,1,Eriza branded orta sehpa matches query
+8686,1,Eriza branded orta sehpa matches query
+8687,1,Eriza branded orta sehpa matches query
+8688,1,Eriza branded orta sehpa matches query
+8689,0,Different brand (Hisar) coffee, not a "Has Kahve" branded match
+8690,0,Chicory coffee substitute of different brand, not matching "has kahve"
+8691,0,Chicory coffee substitute of different brand, not matching "has kahve"
+8692,0,Different brand (Shazel) filter coffee, not matching "has kahve"
+8693,0,Chicory coffee substitute of different brand, not matching "has kahve"
+8694,1,Small portable ironing board matches query
+8695,1,Small ironing board matches query
+8696,1,Small foldable ironing board matches query
+8697,1,Small portable travel ironing board matches query
+8698,1,Small portable ironing board matches query
+8699,1,Karcher steam cleaner matches brand query
+8700,1,Karcher steam cleaner matches brand query
+8701,1,Karcher steam cleaner matches brand query
+8702,1,Karcher steam cleaner matches brand query
+8703,1,Karcher steam cleaner matches brand query
+8704,1,Kebapmatik kebab shaping tool matches query
+8705,1,Kebapmatik kebab shaping tool matches query
+8706,1,Kebapmatik kebab shaping tool set matches query
+8707,1,Kebapmatik kebab shaping tool set matches query
+8708,1,Kebab shaping mold/kebapmatik matches query
+8709,0,Hookah-related "konya takımı" set, unrelated to a cone product
+8710,1,Traffic cone (trafik konisi) is a direct match for "koni"
+8711,0,Drill reduction collet/sleeve (kovan), not a cone product
+8712,0,Artificial decorative flower branch, unrelated to a cone product
+8713,0,Conical-shaped ice bucket is a different product, not a cone itself
+8714,1,Süvari branded jacket matches query
+8715,1,Süvari branded jacket matches query
+8716,1,Süvari branded jacket matches query
+8717,1,Süvari branded jacket matches query
+8718,1,Süvari branded jacket matches query
+8719,1,Gel food coloring matches query
+8720,1,Gel food coloring matches query
+8721,1,Gel food coloring matches query
+8722,1,Gel food coloring for baking matches query
+8723,1,Gel food coloring for baking matches query
+8724,1,Samsung original case for Galaxy Tab S10 FE+ matches query
+8725,0,Case is for Galaxy Tab S9 FE, a different model than S10 FE
+8726,1,Case compatible with Galaxy Tab S10 Lite FE matches query
+8727,0,This is the tablet itself, not a protective case as queried
+8728,1,Case compatible with Galaxy Tab S10 Lite FE matches query
+8729,1,Old Spice deodorant spray matches query
+8730,1,Old Spice deodorant spray matches query
+8731,1,Old Spice deodorant spray matches query
+8732,1,Old Spice stick deodorant matches query
+8733,1,Old Spice stick deodorant matches query
+8734,1,Steel handcuff-style bracelet matches query
+8735,1,Steel handcuff-style bracelet matches query
+8736,1,Steel handcuff-style bracelet matches query
+8737,1,Steel handcuff-style bracelet with stones matches query
+8738,1,Steel handcuff-style bracelet matches query
+8739,1,Korean language exercise book matches query
+8740,1,Korean alphabet/word structure book matches query
+8741,0,Korean-origin skincare serum, not a Korean-language learning product
+8742,1,Korean Hangul alphabet practice notebook matches query
+8743,0,Japanese language textbook, wrong language for "korece" (Korean) query
+8744,1,22 ayar altın kolye ucu (22K gold pendant) matches query exactly
+8745,0,14 ayar (14K) gold pendant, wrong karat than queried 22 ayar
+8746,1,22 ayar altın kolye ucu matches query exactly
+8747,1,22 ayar altın kolye ucu matches query exactly
+8748,1,22 ayar altın kolye ucu matches query exactly
+8749,1,Bathroom faucet (banyo bataryası) matches query directly

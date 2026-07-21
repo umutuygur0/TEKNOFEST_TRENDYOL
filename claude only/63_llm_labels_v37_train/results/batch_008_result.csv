@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2800,1,airpods style tws earbuds match query
+2801,1,airpods style tws earbuds match query
+2802,1,airpods style tws earbuds match query
+2803,1,airbuds style tws earbuds match query
+2804,1,airpods style tws earbuds match query
+2805,1,loreal brand product matches query
+2806,1,loreal brand product matches query
+2807,1,loreal brand product matches query
+2808,1,loreal brand product matches query
+2809,1,loreal brand product matches query
+2810,1,frosch brand cleaning product
+2811,1,frosch brand cleaning product
+2812,1,frosch brand cleaning product
+2813,1,frosch brand cleaning product
+2814,1,frosch brand cleaning product
+2815,1,zigon sehpa matches query
+2816,1,zigon sehpa matches query
+2817,1,zigon sehpa matches query
+2818,1,zigon sehpa matches query
+2819,1,zigon sehpa matches query
+2820,1,mastermaid product line matches query
+2821,1,mastermaid product line matches query
+2822,1,mastermaid product line matches query
+2823,1,mastermaid product line matches query
+2824,1,mastermaid product line matches query
+2825,1,braun epilator matches query brand
+2826,1,braun epilator matches query brand
+2827,1,braun facial epilator matches query brand
+2828,1,braun epilator matches query brand
+2829,1,braun facial hair remover matches brand
+2830,1,anua brand skincare serum
+2831,1,anua brand skincare serum
+2832,1,anua brand cleanser
+2833,1,anua brand toner
+2834,0,brand anyong not anua
+2835,1,philips lumea ipl device
+2836,1,philips lumea ipl device
+2837,1,philips lumea ipl device
+2838,1,philips lumea ipl device
+2839,1,philips lumea ipl device
+2840,1,florasan bant armatur lighting fixture
+2841,1,floresan lamp matches query
+2842,1,t5 floresan bant armatur
+2843,1,florasan led armatur mentioned
+2844,0,filament bulb not fluorescent
+2845,1,tablet matches computer tablet query
+2846,1,android tablet matches query
+2847,1,all in one pc matches computer query
+2848,1,android tablet matches query
+2849,1,all in one pc matches computer query
+2850,1,hurmalik date tray matches query
+2851,1,date lokum tray matches query
+2852,1,makaron hurmalik lokumluk tray
+2853,1,date nut decorative tray
+2854,1,hurmalik tas matches query
+2855,1,chips product matches query
+2856,1,chips product matches query
+2857,1,chips product matches query
+2858,1,chips product matches query
+2859,1,chips product matches query
+2860,1,phone wallet telefonluk matches query
+2861,1,phone wallet telefonluk matches query
+2862,1,bag with phone pocket telefonluk
+2863,1,phone pouch bag telefonluk
+2864,1,telefonluk phone holder matches query
+2865,0,bar jigger not alcohol meter
+2866,0,alcohol thermometer not alcoholmeter device
+2867,0,isopropyl alcohol disinfectant not meter
+2868,0,isopropyl alcohol disinfectant not meter
+2869,0,isopropyl alcohol disinfectant not meter
+2870,1,emaye enamel pot matches query
+2871,1,emaye enamel storage set
+2872,1,emaye enamel pot matches query
+2873,1,emaye enamel milk pot
+2874,1,emaye enamel milk pot
+2875,0,astragalus not ashwagandha
+2876,0,astragalus root not ashwagandha
+2877,0,saffron unrelated to ashwagandha
+2878,0,generic detox not ashwagandha
+2879,0,astragalus supplement not ashwagandha
+2880,1,kalemtiras pencil sharpener matches query
+2881,1,kalemtiras pencil sharpener matches query
+2882,1,kalemtiras pencil sharpener matches query
+2883,1,kalemtiras pencil sharpener matches query
+2884,1,pencil sharpener despite eraser category
+2885,0,cat litter box not human toilet
+2886,1,toilet paper holder relevant accessory
+2887,1,toilet paper holder matches query
+2888,0,cat litter box not human toilet
+2889,1,wall hung toilet matches query
+2890,1,tesettur esarp headscarf matches query
+2891,1,tesettur esarp headscarf matches query
+2892,1,tesettur esarp headscarf matches query
+2893,1,tesettur esarp headscarf matches query
+2894,1,tulbent yazma headscarf matches query
+2895,1,plush cow toy matches query
+2896,1,farm animal set includes cow figure
+2897,1,farm animal set includes cow
+2898,1,plush cow toy matches query
+2899,1,pillow with cow figure design
+2900,1,addax brand sweatpants matches query
+2901,1,addax brand sweatpants matches query
+2902,1,addax brand sweatpants matches query
+2903,1,addax brand sweatpants matches query
+2904,1,addax brand sweatpants matches query
+2905,1,bumblebee transformers toy matches query
+2906,1,bumblebee transformers toy matches query
+2907,1,bumblebee die cast figure matches query
+2908,1,bumblebee themed transforming robot toy
+2909,1,bumblebee transformers toy matches query
+2910,1,braun epilator matches brand query
+2911,1,braun epilator matches brand query
+2912,1,braun epilator matches brand query
+2913,1,braun epilator matches brand query
+2914,1,braun epilator matches brand query
+2915,1,evinemoda brand wall art matches query
+2916,1,evinemoda brand wall art matches query
+2917,0,different brand trade ays not evinemoda
+2918,1,evinemoda brand wall art matches query
+2919,0,different brand emya home not evinemoda
+2920,1,egzoz exhaust matches query
+2921,1,egzoz exhaust matches query
+2922,1,egzoz exhaust matches query
+2923,1,egzoz exhaust matches query
+2924,1,egzoz exhaust tip set matches query
+2925,0,mango woman brand not patagonia
+2926,0,mango woman brand not patagonia
+2927,0,mango woman brand not patagonia
+2928,0,mango woman brand not patagonia
+2929,0,tommy hilfiger brand not patagonia
+2930,1,brooklyn new york sweatshirt matches query
+2931,1,brooklyn new york sweatshirt matches query
+2932,1,brooklyn new york sweatshirt matches query
+2933,1,brooklyn printed tshirt matches query
+2934,1,brooklyn new york printed tshirt
+2935,1,bygoldenhouse brand matches query
+2936,1,bygoldenhouse brand matches query
+2937,0,different brand yamaner not bygolden
+2938,1,bygoldenhouse brand matches query
+2939,1,bygoldenhouse brand matches query
+2940,1,eqqualberry brand serum matches query
+2941,1,eqqualberry brand serum matches query
+2942,1,eqqualberry brand cream matches query
+2943,0,different brand wati for skin
+2944,0,different brand bioaqua
+2945,1,kawaii themed bag matches query
+2946,1,kawaii themed bag matches query
+2947,1,kawaii themed bag matches query
+2948,1,kawai labeled pen matches query
+2949,1,sanrio kawaii themed keychain
+2950,1,rainbocorns brand toy matches query
+2951,1,rainbocorns brand toy matches query
+2952,1,rainbocorns brand toy matches query
+2953,1,rainbocorns brand toy matches query
+2954,1,rainbocorns licensed toy matches query
+2955,1,wd external hard drive matches query
+2956,1,wd storage product matches query
+2957,1,wd my passport hard drive
+2958,1,wd my passport hard drive
+2959,1,wd elements hard drive
+2960,1,duygu themed childrens book
+2961,1,duygu themed story set
+2962,1,duygu themed self help book
+2963,1,duygu themed book series
+2964,1,duygu gunlugum themed book set
+2965,1,dostoyevski book set matches query
+2966,1,dostoyevski biography matches query
+2967,1,dostoyevski book set matches query
+2968,1,dostoyevski okumalari book matches
+2969,1,dostoyevski suc ve ceza novel
+2970,1,zemzem water matches query directly
+2971,1,zemzem themed cup set matches query
+2972,1,zemzem themed cup set matches query
+2973,1,zemzem themed cup set matches query
+2974,1,zemzem themed gift set matches query
+2975,1,gliss brand shampoo matches query
+2976,1,gliss product line hair conditioner
+2977,1,gliss brand hair conditioner
+2978,1,gliss brand shampoo matches query
+2979,1,gliss product line hair conditioner
+2980,1,roborock brand robot vacuum
+2981,1,roborock brand robot vacuum
+2982,1,roborock brand robot vacuum
+2983,0,actually dreame brand not roborock
+2984,1,roborock brand robot vacuum
+2985,1,felicia brand cat food matches query
+2986,1,felicia brand cat food matches query
+2987,1,felicia brand cat food matches query
+2988,1,felicia brand cat food matches query
+2989,1,felicia brand cat food matches query
+2990,1,proware brand cutlery set matches query
+2991,0,different brand prohel not proware
+2992,0,different brand prohel not proware
+2993,0,different brand prohel not proware
+2994,0,different brand prohel not proware
+2995,1,citicoline sitikolin supplement matches
+2996,1,citicoline sitikolin supplement matches
+2997,1,sitikolin syrup matches query
+2998,1,sitikolin capsule matches query
+2999,1,sitikolin syrup for kids matches
+3000,1,glazur cake glaze matches query
+3001,1,glazur cake glaze matches query
+3002,1,glazur cake glaze matches query
+3003,0,sugar fondant paste not glaze
+3004,0,gel food coloring not glaze
+3005,1,coconut milk hair product matches
+3006,1,coconut milk shampoo matches query
+3007,1,coconut milk shampoo matches query
+3008,1,coconut milk shampoo matches query
+3009,1,coconut milk conditioner matches query
+3010,1,horn accessory matches korna query
+3011,1,marine horn matches query
+3012,1,car horn matches query
+3013,1,marine horn matches query
+3014,1,bicycle horn matches query
+3015,1,collagen supplement matches query
+3016,1,collagen supplement matches query
+3017,1,collagen supplement matches query
+3018,1,collagen supplement matches query
+3019,1,collagen supplement matches query
+3020,1,multivitamin supplement matches takviye
+3021,1,multivitamin supplement matches takviye
+3022,1,multivitamin supplement matches takviye
+3023,1,multivitamin supplement matches takviye
+3024,1,multivitamin supplement matches takviye
+3025,1,bakuchiol eye cream matches query
+3026,1,bakuchiol eye cream matches query
+3027,1,bakuchiol face cream matches query
+3028,1,bakuchiol serum matches query
+3029,1,bakuchiol eye serum matches query
+3030,1,merci chocolate matches query
+3031,1,merci brand chocolate matches query
+3032,0,red lentils not merci chocolate
+3033,1,merci brand chocolate matches query
+3034,0,storck lovelies not merci product
+3035,1,boymen brand jacket matches query
+3036,1,boymen brand jacket matches query
+3037,1,boymen brand jacket matches query
+3038,1,boymen brand jacket matches query
+3039,1,boymen brand jacket matches query
+3040,1,salep sahlep beverage matches query
+3041,1,salep flavored product matches query
+3042,1,salep sahlep beverage matches query
+3043,0,pepper paste unrelated to salep
+3044,1,sahlep chocolate flavored matches query
+3045,0,lifting straps unrelated to rib
+3046,0,chest protector not rib specific
+3047,0,lat pulldown bar unrelated to rib
+3048,0,lifting straps unrelated to rib
+3049,0,elbow brace unrelated to rib
+3050,1,otel style bedding matches query
+3051,1,otel style bedding matches query
+3052,1,otel style bedding matches query
+3053,1,otel style bedding matches query
+3054,1,otel style bedding matches query
+3055,1,kupe earring matches query
+3056,1,kupe earring matches query
+3057,1,kupe earring matches query
+3058,1,kupe earring matches query
+3059,1,kupe earring matches query
+3060,1,blackpink magazine matches query
+3061,1,blackpink photocard set matches query
+3062,1,blackpink themed hoodie matches query
+3063,1,blackpink poster matches query
+3064,1,blackpink photocard set matches query
+3065,1,fa freshly deodorant matches query
+3066,1,fa freshly deodorant matches query
+3067,0,mouth spray different brand fresh white
+3068,1,fa freshly deodorant matches query
+3069,1,fa freshly deodorant matches query
+3070,1,aplik wall sconce matches query
+3071,1,aplik wall sconce matches query
+3072,1,aplik wall sconce matches query
+3073,1,aplik wall sconce matches query
+3074,1,aplik wall sconce matches query
+3075,1,knorr brand soup matches query
+3076,1,knorr brand noodle matches query
+3077,0,training cone unrelated to knorr
+3078,0,training cone unrelated to knorr
+3079,0,fishing lure unrelated to knorr
+3080,1,e-bike contact switch relates to query
+3081,1,e-bike ignition contact relates to query
+3082,0,study guide book series not contactor
+3083,1,car thermal contact switch relates
+3084,0,study guide book series not contactor
+3085,1,loreal paris blush matches query
+3086,1,loreal paris lipstick matches query
+3087,1,loreal paris lip product matches query
+3088,1,loreal paris lip product matches query
+3089,1,loreal paris lipstick matches query
+3090,1,casio watch matches query
+3091,1,casio watch matches query
+3092,1,casio watch matches query
+3093,1,casio watch matches query
+3094,1,casio watch matches query
+3095,1,arzum okka coffee maker matches query
+3096,1,arzum okka coffee maker matches query
+3097,1,arzum okka coffee maker matches query
+3098,1,arzum okka coffee maker matches query
+3099,1,arzum okka coffee maker matches query
+3100,1,antique cassette matches query
+3101,1,cassette player matches query
+3102,1,cassette turntable player matches query
+3103,1,cassette cd player matches query
+3104,0,book title wordplay not actual cassette
+3105,1,motorcu bandana matches query
+3106,1,motorcu bandana matches query
+3107,1,motorcu bandana matches query
+3108,1,motorcu bandana matches query
+3109,1,motorcu bandana matches query
+3110,1,kids camera matches query
+3111,1,wifi security camera matches query
+3112,1,night vision body camera matches query
+3113,1,solar security camera matches query
+3114,1,xiaomi smart camera matches query
+3115,0,poppy playtime characters not huggy
+3116,0,paw patrol plush not huggy
+3117,0,mommy long legs plush not huggy
+3118,0,fuggler plush unrelated to huggy
+3119,0,sonny angel figure unrelated to huggy
+3120,1,mechanical keyboard matches query
+3121,1,mechanical keyboard matches query
+3122,1,mechanical keyboard matches query
+3123,1,wired keyboard matches query
+3124,1,bluetooth keyboard matches query
+3125,1,ferrari themed tshirt matches query
+3126,1,ferrari themed sweatshirt matches query
+3127,1,ferrari themed tshirt matches query
+3128,1,ferrari themed tshirt matches query
+3129,1,ferrari themed tshirt matches query
+3130,1,everton brand radio matches query
+3131,1,everton model radio matches query
+3132,1,everton brand radio matches query
+3133,1,everton brand radio matches query
+3134,1,everton brand radio matches query
+3135,1,backpack matches query
+3136,1,backpack matches query
+3137,1,backpack matches query
+3138,1,backpack matches query
+3139,1,backpack matches query
+3140,1,dyson vacuum matches query
+3141,1,dyson hair styler matches query
+3142,1,dyson hair styler matches query
+3143,1,dyson airwrap matches query
+3144,1,dyson airwrap set matches query
+3145,1,ure urea body lotion matches query
+3146,1,ure urea body cream matches query
+3147,1,ure urea body lotion matches query
+3148,1,ure urea shower gel matches query
+3149,1,ure urea body lotion matches query

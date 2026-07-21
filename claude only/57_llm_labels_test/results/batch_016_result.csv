@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+5600,0,brand mismatch not rexona
+5601,1,rexona kadın deodorant match
+5602,1,rexona kadın deodorant match
+5603,1,rexona kadın deodorant match
+5604,1,rexona kadın deodorant match
+5605,1,tripod led light matches query
+5606,1,tripod ring light matches
+5607,1,tripod selfie light matches
+5608,1,led ring light tripod accessory
+5609,1,tripod led lighting matches
+5610,1,collagen serum matches
+5611,1,collagen serum matches
+5612,1,collagen serum matches
+5613,1,collagen serum matches
+5614,1,collagen serum matches
+5615,1,adidas breaknet 2.0 exact model
+5616,1,adidas breaknet 2.0 exact model
+5617,1,adidas breaknet 2.0 exact model
+5618,1,adidas breaknet 2.0 exact model
+5619,1,adidas breaknet 2.0 exact model
+5620,1,car fire extinguisher matches title
+5621,1,car fire extinguisher matches
+5622,1,car fire extinguisher matches title
+5623,1,car fire extinguisher matches
+5624,1,car fire extinguisher matches
+5625,1,girl baby swimsuit match
+5626,1,girl baby swimsuit match
+5627,1,girl baby swimsuit match
+5628,1,girl child swimsuit set close match
+5629,1,girl baby swimsuit match
+5630,1,exhaust part car matches
+5631,1,motorcycle exhaust matches
+5632,1,motorcycle exhaust matches
+5633,1,motorcycle exhaust matches
+5634,1,motorcycle exhaust matches
+5635,1,taba topuklu ayakkabı match
+5636,1,taba topuklu ayakkabı match
+5637,1,taba topuklu ayakkabı match
+5638,0,boot not heeled shoe
+5639,0,boot not heeled shoe
+5640,1,instant print digital camera matches
+5641,0,microscope endoscope not camera
+5642,0,car stereo with camera not digital camera
+5643,0,smart lock unrelated
+5644,0,3d printer filament unrelated
+5645,1,gamegaraj brand pc match
+5646,1,gamegaraj brand laptop match
+5647,1,gamegaraj brand pc match
+5648,0,brand rampage not gamegaraj
+5649,1,gamegaraj brand laptop match
+5650,1,evening clutch bag match
+5651,1,evening clutch bag match
+5652,1,evening clutch bag match
+5653,1,evening clutch bag match
+5654,1,evening clutch bag match
+5655,1,gold tea saucer plate match
+5656,1,gold cake serving plate set match
+5657,1,gold silver serving plate set match
+5658,1,gold steel serving plate match
+5659,0,salad bowl not plate
+5660,0,tweed fabric not süet material
+5661,1,süet skirt jacket set match
+5662,0,pants not skirt woven not süet
+5663,0,cotton material no süet no skirt
+5664,0,knit fabric not süet no skirt
+5665,1,wire chandelier match
+5666,1,wire cage chandelier match
+5667,1,wire cage chandelier match
+5668,1,wire cage chandelier match
+5669,0,no wire design mentioned generic pendant lamp
+5670,1,headphone pad cushion match
+5671,1,headphone pad cushion match
+5672,1,headphone pad cushion match
+5673,1,headphone pad cushion match
+5674,1,headphone pad cushion match
+5675,1,tire repair kit match
+5676,1,tire repair kit match
+5677,1,tire repair kit match
+5678,1,tire repair kit match title
+5679,1,tire repair kit match
+5680,1,batman themed toy vehicle
+5681,0,superman figure not batman character
+5682,1,batman licensed figure
+5683,0,joker figure not batman character
+5684,1,batman licensed t-shirt
+5685,1,diaper changing bag match
+5686,1,diaper changing bag match
+5687,1,diaper changing bag match
+5688,1,diaper changing bag match
+5689,1,diaper changing bag match
+5690,1,remington hair styler match
+5691,1,remington hair styler match
+5692,1,remington hair styler match
+5693,1,remington hair styler match
+5694,1,remington hair styler match
+5695,1,uspa women's sweatshirt match
+5696,0,girl child item not women's
+5697,0,men's not women's
+5698,0,girl child not women's
+5699,0,boy child wrong gender and age
+5700,1,hector hair dryer match
+5701,1,hector hair dryer match
+5702,1,hector hair dryer match
+5703,1,hector hair dryer match
+5704,1,hector hair dryer match
+5705,1,miss ledonna brand match
+5706,1,miss ledonna brand match
+5707,1,miss ledonna brand match
+5708,1,miss ledonna brand match
+5709,0,brand betes not miss ledonna
+5710,1,english home artificial flower match
+5711,1,english home artificial flower match
+5712,1,english home artificial flower match
+5713,1,english home artificial flower match
+5714,0,different brand not english home
+5715,1,milky drop chocolate match
+5716,1,milky drop chocolate match
+5717,1,milky drop chocolate match
+5718,1,milky drop chocolate match
+5719,0,bitter not sütlü chocolate
+5720,1,besafe car seat match
+5721,0,brand britax römer not besafe
+5722,0,brand britax römer not besafe
+5723,0,brand bebe confort not besafe
+5724,0,brand baby plus not besafe
+5725,0,powder form not cream eyeshadow
+5726,1,cream eyeshadow match
+5727,1,cream eyeshadow match
+5728,1,cream eyeshadow match
+5729,1,cream eyeshadow match
+5730,1,dvr camera recorder match
+5731,1,dvr camera recorder match
+5732,1,nvr camera recorder match
+5733,1,nvr camera recorder match
+5734,1,dvr camera recorder match
+5735,1,teachers day gift match
+5736,1,teachers day gift match
+5737,1,teachers day gift match
+5738,1,teachers day gift match
+5739,1,teachers day gift match
+5740,1,lcw women's pants match
+5741,1,lcw women's pants match
+5742,1,lcw women's pants match
+5743,1,lcw women's pants match
+5744,1,lcw women's pants match
+5745,1,wall shelf match
+5746,1,wall shelf match
+5747,1,wall shelf match
+5748,1,wall shelf match
+5749,1,wall shelf match
+5750,1,couple keychain match
+5751,1,couple keychain match
+5752,1,couple keychain match
+5753,1,couple keychain match
+5754,1,couple keychain match
+5755,1,mavi brand men's puffer vest match
+5756,1,mavi brand puffer vest match despite category tag
+5757,1,mavi brand men's puffer vest match
+5758,1,mavi brand men's puffer vest match
+5759,1,mavi brand men's puffer vest match
+5760,1,honor pad x8a case exact model
+5761,1,honor pad x8a case exact model
+5762,0,honor pad x7 wrong model
+5763,0,honor pad x7 wrong model
+5764,0,honor pad x7 wrong model
+5765,1,orient brand watch match
+5766,1,orient brand watch match
+5767,1,orient brand watch match
+5768,1,orient brand watch match
+5769,1,orient brand watch match
+5770,1,titanium coated pan match
+5771,1,titanium pan match
+5772,1,titanium pan match
+5773,1,titanium pan set match
+5774,1,titanium pan match
+5775,1,3d printing pen match
+5776,1,3d printing pen match
+5777,1,3d printing pen match
+5778,1,3d printing pen match
+5779,1,3d printing pen match
+5780,1,mad a114 exact code match
+5781,1,mad a114 exact code match
+5782,0,wrong code w174 not a114
+5783,0,wrong code b107 and gender
+5784,0,different brand not mad a114
+5785,1,herbal tea strainer match
+5786,1,herbal tea strainer match
+5787,1,herbal tea strainer match
+5788,1,tea strainer match
+5789,1,herbal tea strainer match
+5790,1,elastic waist women's pants match
+5791,1,elastic waist women's pants match
+5792,1,elastic waist women's pants match
+5793,1,elastic waist pants match despite category tag
+5794,1,elastic waist women's pants match
+5795,1,salad serving spoon match
+5796,1,salad serving spoon set match
+5797,1,salad serving fork spoon match
+5798,1,salad serving spoon set match
+5799,1,salad serving spoon match
+5800,0,toy waffle maker not real appliance
+5801,1,waffle maker appliance match
+5802,0,toy waffle maker explicitly a toy
+5803,1,waffle maker appliance match
+5804,1,waffle maker appliance match
+5805,1,ribbon match
+5806,1,ribbon match
+5807,1,ribbon match
+5808,1,ribbon match
+5809,1,ribbon match
+5810,0,mislabeled as lightbulb not headphone
+5811,0,mislabeled as lightbulb not headphone
+5812,0,mislabeled as lightbulb not headphone
+5813,0,wired earphone not bluetooth
+5814,0,bluetooth speaker not headphone
+5815,1,vegetable dryer spinner match
+5816,1,salad spinner vegetable dryer match
+5817,1,fruit vegetable dehydrator match title
+5818,1,drying rack for produce match
+5819,1,fruit vegetable dehydrator match
+5820,1,allday brand tracksuit match
+5821,0,brand alvina not allday
+5822,1,allday brand tracksuit match
+5823,0,brand alvina not allday
+5824,0,generic brand not allday
+5825,1,piano play mat match
+5826,1,piano play mat match
+5827,1,piano play mat match
+5828,1,piano play mat match
+5829,1,piano play mat match
+5830,1,pink headphone match
+5831,1,pink headphone match
+5832,1,pink headphone match
+5833,1,pink headphone match
+5834,1,pink headphone match
+5835,1,kaşe coat fabric match
+5836,1,kaşe coat fabric match
+5837,1,kaşe coat fabric match
+5838,0,süet material not kaşe
+5839,0,knit material not kaşe
+5840,1,nescafe brand match
+5841,1,nescafe brand match
+5842,1,nescafe brand match
+5843,1,nescafe brand match
+5844,1,nescafe brand match
+5845,1,mango women's jeans match
+5846,1,mango women's jeans match
+5847,1,mango jean style pants match
+5848,1,mango women's jeans match
+5849,1,mango women's jeans match
+5850,1,evil eye charm match
+5851,1,evil eye bead match
+5852,1,evil eye charm bracelet match
+5853,1,evil eye charm match
+5854,1,evil eye charm necklace match
+5855,1,galaxy tab s10 fe plus exact match
+5856,1,galaxy tab s10 fe plus exact match
+5857,1,galaxy tab s10 fe plus exact match
+5858,0,tab s10 plus missing fe wrong model
+5859,0,tab s10 lite wrong model
+5860,0,lcw kids child item not women's
+5861,0,lcw kids child item not women's
+5862,0,lcw kids child sweatshirt not women's
+5863,0,brand mavi not lc waikiki
+5864,0,brand gap not lc waikiki
+5865,1,toy cabinet with drawers match
+5866,1,toy cabinet with drawers match
+5867,1,toy cabinet with drawers match
+5868,1,toy cabinet with drawers match
+5869,1,toy cabinet with drawers match
+5870,1,tereson brand antiperspirant match
+5871,1,tereson brand antiperspirant match
+5872,0,brand life care not tereson
+5873,0,brand hidrofugal not tereson
+5874,0,different brand not tereson
+5875,1,fridge magnet match
+5876,1,fridge magnet match
+5877,1,fridge magnet match
+5878,1,fridge magnet match
+5879,1,fridge magnet match
+5880,0,single size not double bed quilt
+5881,0,single size not double bed quilt
+5882,0,single size not double bed quilt
+5883,0,single size not double bed quilt
+5884,0,single size not double bed quilt
+5885,1,derimod brand sandal match
+5886,1,derimod brand sandal match
+5887,1,derimod brand sandal match
+5888,1,derimod brand sandal match
+5889,1,derimod brand sandal match
+5890,1,özdilek double bedding set match
+5891,1,özdilek double bedding set match
+5892,1,özdilek double bedding set match
+5893,1,özdilek double bedding set match
+5894,1,özdilek double bedding set match
+5895,1,thin knit cardigan match
+5896,1,thin knit cardigan match
+5897,1,thin knit cardigan match
+5898,1,thin knit cardigan match
+5899,1,thin knit cardigan match
+5900,1,realme brand bluetooth headphone match
+5901,0,brand ttec not realme
+5902,0,brand tastech not realme
+5903,0,brand red orginal not realme
+5904,0,brand escom not realme
+5905,1,women's denim overalls match
+5906,1,women's denim overalls match
+5907,1,women's denim overalls match
+5908,1,women's denim overalls match
+5909,1,women's denim overalls match
+5910,1,motorcycle helmet match
+5911,1,motorcycle helmet match
+5912,1,motorcycle helmet match
+5913,1,motorcycle helmet match
+5914,1,motorcycle helmet match
+5915,1,3 color led chandelier match
+5916,1,3 color led chandelier match
+5917,1,3 color led chandelier match
+5918,1,3 color led chandelier match
+5919,1,3 color led chandelier match
+5920,1,modest winter cape coat match
+5921,0,dress not winter cape
+5922,0,light thin fabric not winter cape
+5923,0,category mismatch not winter cape
+5924,0,dress not winter cape
+5925,1,mid rise jean matches title
+5926,0,color description not mid rise waist
+5927,1,mid rise jean match
+5928,1,mid rise jean match
+5929,0,high waist not mid rise
+5930,1,karcher bagless vacuum match
+5931,1,karcher bagless vacuum match
+5932,1,karcher bagless vacuum match
+5933,0,brand karaca not karcher
+5934,0,brand karaca not karcher
+5935,1,men's linen coat match
+5936,1,men's linen coat match
+5937,1,men's linen coat match
+5938,1,men's linen coat match
+5939,1,men's linen coat match
+5940,1,gold chair match
+5941,1,gold plated chair match
+5942,1,gold chair match
+5943,1,gold plated chair match
+5944,1,gold plated bar chair match
+5945,1,dyson brand hair styler match
+5946,0,dyson vacuum not hair styler
+5947,0,brand one step not dyson
+5948,0,brand clevora not dyson
+5949,0,brand remington not dyson

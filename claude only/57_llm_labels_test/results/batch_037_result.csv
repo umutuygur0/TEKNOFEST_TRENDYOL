@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+12950,1,brand and category match kiko ruj
+12951,1,brand and category match kiko ruj
+12952,1,brand and category match kiko ruj
+12953,1,brand and category match kiko ruj
+12954,1,brand and category match kiko ruj
+12955,1,vacuum cleaner matches query
+12956,1,vacuum cleaner matches query
+12957,1,vacuum cleaner matches query
+12958,1,vacuum cleaner matches query
+12959,1,vacuum cleaner matches query
+12960,1,tesettur dunyasi brand ferace match
+12961,1,tesettur dunyasi brand ferace match
+12962,1,tesettur dunyasi brand ferace match
+12963,1,tesettur dunyasi brand ferace match
+12964,1,tesettur dunyasi brand ferace match
+12965,1,maternity pants match
+12966,1,maternity pants match
+12967,0,baby clothing not maternity pants
+12968,0,baby clothing not maternity pants
+12969,0,baby clothing not maternity pants
+12970,1,bernette sewing machine match
+12971,1,bernette sewing machine match
+12972,1,bernette sewing machine match
+12973,1,bernette sewing machine match
+12974,1,bernette sewing machine match
+12975,1,wireless gaming headset match
+12976,1,title matches wireless gaming headset despite category tag error
+12977,1,wireless gaming headset match
+12978,1,wireless gaming headset match
+12979,1,wireless gaming headset match
+12980,1,diet plate match
+12981,1,diet plate match
+12982,1,diet plate match
+12983,0,regular serving plate not diet plate
+12984,0,regular glass plate not diet plate
+12985,0,ab roller not apple watch
+12986,0,phone case not apple watch
+12987,0,phone case not apple watch
+12988,0,screen protector not apple watch
+12989,0,phone case not apple watch
+12990,1,diafon intercom match
+12991,1,diafon intercom match
+12992,1,diafon intercom match
+12993,1,diafon intercom match
+12994,1,diafon intercom match
+12995,1,tablecloth set match
+12996,1,tablecloth set match
+12997,1,tablecloth set match
+12998,1,tablecloth set match
+12999,1,tablecloth runner set close match
+13000,1,marble coffee table match
+13001,1,marble coffee table match
+13002,1,marble coffee table match
+13003,1,marble coffee table match
+13004,1,marble coffee table match
+13005,1,lava brand pot match
+13006,1,lava brand pot match
+13007,0,different brand not lava
+13008,0,different brand not lava
+13009,1,lava brand pot match
+13010,1,mobilique bathroom furniture match
+13011,1,mobilique bathroom furniture match
+13012,1,mobilique bathroom furniture match
+13013,1,mobilique bathroom furniture match
+13014,1,mobilique bathroom furniture match
+13015,1,tommy life sweatshirt match
+13016,1,tommy life sweatshirt match
+13017,1,tommy life sweatshirt match
+13018,1,tommy life sweatshirt match
+13019,1,tommy life sweatshirt match
+13020,1,square wall mirror match
+13021,1,square-ish wall mirror match
+13022,1,small square mirror match
+13023,1,square wall mirror match
+13024,1,square wall mirror match
+13025,1,nail polish organizer match
+13026,1,nail polish organizer match
+13027,1,nail polish organizer match
+13028,1,includes oje polish stand
+13029,1,organizer includes oje section
+13030,1,niacinamide serum match
+13031,1,niacinamide serum match
+13032,1,niacinamide serum match
+13033,1,niacinamide serum match
+13034,1,niacinamide serum match
+13035,0,ceramic mug not pumpkin
+13036,0,loofah sponge not small pumpkin
+13037,0,dog food not pumpkin item
+13038,0,dog food not pumpkin item
+13039,0,dog food not pumpkin item
+13040,0,general schoolbook not yds prep
+13041,0,wrong exam type tyt ayt
+13042,0,wrong exam type lgs
+13043,0,dictionary not yds prep
+13044,0,story book not yds prep
+13045,1,nihan brand jacket match
+13046,1,nihan brand jacket match
+13047,1,nihan brand jacket match
+13048,1,nihan brand jacket match
+13049,1,nihan brand jacket match
+13050,1,medium size sketchbook match
+13051,1,medium size sketchbook match
+13052,1,medium size sketchbook match
+13053,0,wrong size small not medium
+13054,1,medium size drawing notebook match
+13055,1,tesettur jacket-pants suit match
+13056,1,tesettur jacket-pants suit match
+13057,1,tesettur jacket-pants suit match
+13058,1,tesettur jacket-pants suit match
+13059,1,tesettur jacket-pants suit match
+13060,1,bathroom hand towel match
+13061,1,bathroom hand towel match
+13062,1,bathroom hand towel match
+13063,1,bathroom hand towel match
+13064,1,bathroom hand towel match
+13065,1,granite rice pot match
+13066,1,granite rice pot match
+13067,1,granite rice pot match
+13068,1,granite rice pot match
+13069,1,granite rice pot match
+13070,0,brand mismatch not flo
+13071,0,brand mismatch not flo
+13072,0,brand mismatch not flo
+13073,0,brand mismatch not flo
+13074,0,brand mismatch not flo
+13075,1,kids hooded cardigan match
+13076,1,kids hooded cardigan match
+13077,1,kids hooded cardigan match
+13078,1,kids hooded cardigan match
+13079,1,kids hooded cardigan match
+13080,0,aa size not aaa
+13081,0,button battery not aaa
+13082,0,d size battery not aaa
+13083,0,wrong brand and aa not aaa
+13084,0,hearing aid battery not aaa
+13085,0,bath mat not an accessory match
+13086,0,rug not an accessory match
+13087,0,rug runner not an accessory match
+13088,0,rug runner not an accessory match
+13089,0,rug not an accessory match
+13090,1,black single strap heeled shoe match
+13091,1,black single strap heeled shoe match
+13092,1,black single strap heeled shoe match
+13093,1,black single strap heeled sandal close match
+13094,1,black single strap heeled shoe match
+13095,1,enamel frying pot match
+13096,1,enamel frying pot match
+13097,1,enamel frying pot match
+13098,1,enamel frying pot match
+13099,1,enamel frying pot match
+13100,1,fridge organizer match
+13101,1,fridge organizer match
+13102,1,fridge organizer match
+13103,1,fridge organizer match
+13104,1,fridge organizer match
+13105,1,zojirushi thermos match
+13106,1,zojirushi thermos match
+13107,1,zojirushi thermos match
+13108,1,zojirushi thermos match
+13109,1,zojirushi thermos match
+13110,1,pip studio tea cup match
+13111,0,brand mismatch not pip studio
+13112,0,not pip studio candle holder wrong product
+13113,0,brand mismatch not tea cup
+13114,0,brand mismatch not pip studio
+13115,1,girls water bottle match
+13116,1,girls water bottle match
+13117,1,girls water bottle match
+13118,1,girls water bottle match
+13119,1,girls water bottle match
+13120,1,glass countertop stove match
+13121,1,glass countertop stove match
+13122,1,glass countertop stove match
+13123,1,glass countertop stove match
+13124,0,wall sticker not an actual stove
+13125,1,derimod casual shoe match
+13126,1,derimod casual shoe match
+13127,1,derimod casual shoe match
+13128,1,derimod casual shoe match
+13129,1,derimod casual shoe match
+13130,1,dermal brand face mask match
+13131,1,dermal brand face mask match
+13132,1,dermal brand face mask match
+13133,1,dermal brand face mask match
+13134,1,dermal brand face mask match
+13135,1,kids cardigan match
+13136,1,kids cardigan match
+13137,1,kids cardigan match
+13138,1,kids cardigan match
+13139,1,kids cardigan match
+13140,1,macbook compatible wireless mouse
+13141,1,macbook compatible wireless mouse
+13142,1,macbook compatible wireless mouse
+13143,1,wireless mouse usable with macbook
+13144,1,wireless mouse usable with macbook
+13145,1,prego twin stroller match
+13146,1,prego twin stroller match
+13147,1,prego twin stroller match
+13148,1,prego twin stroller match
+13149,1,prego twin stroller match
+13150,1,german a1 level book match
+13151,1,german a1 level book match
+13152,1,german a1 level book match
+13153,1,german a1 level book match
+13154,1,german a1 level book match
+13155,1,koton brand pants match
+13156,1,koton brand pants match
+13157,1,koton brand pants match
+13158,1,koton brand pants match
+13159,1,koton brand pants match
+13160,1,evening formal jacket match
+13161,1,evening formal jacket match
+13162,1,evening formal jacket match
+13163,1,evening formal jacket match
+13164,1,evening formal jacket match
+13165,1,dry crayons match
+13166,1,dry crayons match
+13167,1,dry crayons match
+13168,1,dry crayons match
+13169,1,dry crayons match
+13170,1,tommy hilfiger sweater match
+13171,1,tommy hilfiger sweater match
+13172,1,tommy hilfiger sweater match
+13173,1,tommy hilfiger sweater match
+13174,1,tommy hilfiger sweater match
+13175,1,miss ipekyol shirt brand match
+13176,1,miss ipekyol shirt brand match
+13177,0,brand mismatch not miss ipekyol
+13178,0,brand mismatch not miss ipekyol
+13179,0,brand mismatch not miss ipekyol
+13180,1,dayson silicone brand match
+13181,1,dayson silicone brand match
+13182,1,dayson silicone brand match
+13183,1,title matches dayson silicone product
+13184,1,dayson silicone brand match
+13185,1,ags paragraf exam prep match
+13186,1,title includes ags paragraf
+13187,0,exam type kpss not ags
+13188,0,topic history not paragraf
+13189,0,exam type tyt not ags
+13190,1,hair serum match
+13191,1,hair serum match
+13192,1,hair serum match
+13193,1,hair serum match
+13194,1,hair serum match
+13195,1,decorative flower pot match
+13196,1,decorative flower pot match
+13197,0,wallpaper not actual pot
+13198,1,decorative flower pot match
+13199,1,decorative pot in set match
+13200,1,esty brand oven match
+13201,1,esty brand oven match
+13202,1,esty brand oven match
+13203,0,brand mismatch not esty
+13204,0,brand mismatch not esty
+13205,0,vest not overcoat kaban
+13206,0,vest not overcoat and brand mismatch
+13207,0,vest not overcoat and brand mismatch
+13208,0,vest wrong age group and brand
+13209,0,vest not overcoat and brand mismatch
+13210,1,flower bouquet wrapping paper match
+13211,1,flower bouquet wrapping paper match
+13212,0,artificial flower not wrapping paper
+13213,0,wallpaper not bouquet wrapping paper
+13214,0,sticker not wrapping paper
+13215,0,baby dress not mother dress
+13216,0,baby dress not mother dress
+13217,0,baby dress not mother dress
+13218,0,baby dress not mother dress
+13219,0,baby dress not mother dress
+13220,1,black womens shoe match
+13221,1,black womens shoe match
+13222,1,black womens shoe match
+13223,1,black womens shoe match
+13224,1,black womens shoe match
+13225,1,small kitchen appliance set match
+13226,1,small kitchen appliance set match
+13227,1,small kitchen appliance match
+13228,1,small kitchen utensil set match
+13229,1,small kitchen tool match
+13230,1,antep pistachio match
+13231,1,antep pistachio match
+13232,1,antep pistachio match
+13233,1,antep pistachio match
+13234,1,antep pistachio match
+13235,1,dubai chocolate mold match
+13236,1,dubai chocolate mold match
+13237,1,dubai chocolate mold match
+13238,1,dubai chocolate mold match
+13239,1,dubai chocolate mold match
+13240,1,hair moisturizer match
+13241,1,hair moisturizer match
+13242,1,hair moisturizer match
+13243,1,hair moisturizer match
+13244,1,hair cream for dry hair close match
+13245,1,teeth whitening strips match
+13246,1,teeth whitening strips match
+13247,1,teeth whitening strips match
+13248,1,teeth whitening strips match
+13249,1,teeth whitening strips match
+13250,1,pokemon cards match
+13251,1,pokemon cards match
+13252,1,pokemon cards match
+13253,1,pokemon cards match
+13254,1,pokemon cards match
+13255,1,artificial lily flower match
+13256,1,artificial lily flower match
+13257,1,artificial lily flower match
+13258,1,artificial lily flower match
+13259,1,artificial lily flower match
+13260,1,soilless farming product match
+13261,1,soilless farming product match
+13262,1,soilless farming product match
+13263,1,soilless farming product match
+13264,1,soilless farming product match
+13265,1,cerave body cream match
+13266,1,cerave body cream match
+13267,1,cerave body cream match
+13268,1,cerave body cream match
+13269,1,cerave body cream match
+13270,1,parex brand mop match
+13271,1,parex brand mop match
+13272,1,parex brand mop match
+13273,1,parex brand mop match
+13274,1,parex brand mop match
+13275,1,radiator top console match
+13276,1,radiator top console match
+13277,1,radiator top console match
+13278,1,radiator top console match
+13279,1,radiator top console match
+13280,1,lee cooper shirt match
+13281,1,lee cooper shirt match
+13282,1,lee cooper shirt match
+13283,1,lee cooper shirt match
+13284,1,lee cooper shirt match
+13285,1,dessert fork spoon knife match
+13286,1,dessert fork spoon knife match
+13287,1,dessert fork spoon knife match
+13288,1,dessert fork spoon knife match
+13289,1,dessert fork spoon knife match
+13290,1,8th grade math test book match
+13291,1,8th grade math test book match
+13292,0,wrong grade 6th not 8th
+13293,0,wrong grade 9th not 8th
+13294,0,wrong grade 7th not 8th
+13295,1,4 tier metal shoe rack match
+13296,1,4 tier metal shoe rack match
+13297,0,5 tier not 4 tier shoe rack
+13298,1,4 tier metal shoe rack match
+13299,1,4 tier metal shoe rack match

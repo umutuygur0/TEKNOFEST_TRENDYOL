@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3150,1,brand karen matches trenchcoat
+3151,0,brand harley davidson not karen
+3152,0,brand crea halı unrelated to karen
+3153,0,different brand/category not karen
+3154,0,unrelated kaykay toy
+3155,0,chocolate not lindt brand
+3156,0,chocolate not lindt brand
+3157,0,chocolate not lindt brand
+3158,0,chocolate not lindt brand
+3159,0,milk product not lindt
+3160,1,zebra stor perde matches
+3161,1,zebra stor perde matches
+3162,1,stor perde matches
+3163,1,zebra stor perde matches
+3164,1,zebra stor perde matches
+3165,1,corkscrew set matches
+3166,1,corkscrew matches
+3167,1,corkscrew matches
+3168,1,wine corkscrew matches
+3169,1,corkscrew set matches
+3170,1,muscent perfume brand match
+3171,1,muscent perfume brand match
+3172,1,muscent perfume brand match
+3173,1,muscent perfume brand match
+3174,1,muscent perfume brand match
+3175,1,spiderman themed tshirt
+3176,1,spiderman figure
+3177,1,spiderman themed sweatshirt
+3178,1,spiderman figure set
+3179,1,spiderman themed tracksuit
+3180,1,minecraft themed toy car
+3181,1,minecraft figure set
+3182,1,minecraft branded blush collab
+3183,0,unrelated blue light glasses
+3184,0,unrelated heater product
+3185,1,bluetooth party speaker
+3186,1,bluetooth party speaker
+3187,1,bluetooth party speaker
+3188,1,bluetooth party speaker
+3189,1,bluetooth party speaker
+3190,1,vegetable slicer matches
+3191,1,vegetable slicer matches
+3192,1,mandoline vegetable slicer matches
+3193,1,vegetable slicer matches
+3194,1,vegetable slicer matches
+3195,1,dish rack matches
+3196,1,dish rack matches
+3197,1,dish rack matches
+3198,1,dish rack matches
+3199,1,dish drainer rack matches
+3200,1,solante sunscreen close brand match
+3201,1,solante sunscreen close brand match
+3202,1,solante sunscreen close brand match
+3203,1,solante sunscreen close brand match
+3204,1,solante sunscreen close brand match
+3205,1,generator matches
+3206,1,generator matches
+3207,1,generator matches
+3208,1,generator matches
+3209,1,generator matches
+3210,1,friends tv show tshirt
+3211,1,friends tv show mug
+3212,0,unrelated notebook not tv show themed
+3213,1,friends themed poster
+3214,1,friends central perk themed notebook
+3215,1,cream co brand match
+3216,1,cream co brand match
+3217,1,cream co brand match
+3218,1,cream co brand match
+3219,1,cream co brand match
+3220,1,dallixa brand hair serum
+3221,0,davines brand not dallixa
+3222,0,davines brand not dallixa
+3223,0,unrelated coffee syrup pump
+3224,0,davines brand not dallixa
+3225,1,spectrum watch brand match
+3226,1,spectrum watch brand match
+3227,1,spectrum watch brand match
+3228,1,spectrum watch brand match
+3229,1,spectrum watch brand match
+3230,1,şap alum product matches
+3231,1,şap alum product matches
+3232,1,şap taşı matches
+3233,1,cilt şapı alum stone matches
+3234,1,cilt şapı alum stone matches
+3235,1,bioderma brand skin cream
+3236,1,bioderma brand cleanser
+3237,1,bioderma brand cream
+3238,1,bioderma brand cream
+3239,1,bioderma brand skincare set
+3240,1,zinc tablet supplement
+3241,1,zinc supplement matches
+3242,1,zinc supplement matches
+3243,1,zinc supplement matches
+3244,1,zinc supplement matches
+3245,1,mercedes amg petronas apparel
+3246,1,mercedes amg petronas apparel
+3247,1,mercedes amg petronas tshirt
+3248,1,mercedes amg petronas sweatshirt
+3249,1,mercedes amg petronas sweatshirt
+3250,1,melian brand carpet
+3251,1,melian brand carpet
+3252,1,melian brand carpet
+3253,1,melian brand carpet
+3254,1,melian brand carpet
+3255,0,brand esranur not asilnur
+3256,1,asilnur brand ferace
+3257,1,asilnur brand ferace
+3258,1,asilnur brand ferace
+3259,0,brand kadeem not asilnur
+3260,1,limit yayinlari book
+3261,1,limit yayinlari book
+3262,1,limit yayinlari book
+3263,1,limit yayinlari book
+3264,1,limit yayinlari book
+3265,1,generic shoe match
+3266,1,generic shoe match
+3267,1,generic shoe match
+3268,1,generic shoe match
+3269,1,generic shoe match
+3270,1,mocha coffee flavor
+3271,1,mocha coffee flavor
+3272,1,mocha coffee flavor
+3273,1,mocha coffee flavor
+3274,1,mocha coffee flavor
+3275,1,milka brand chocolate
+3276,1,milka brand product
+3277,1,milka brand chocolate
+3278,1,milka brand chocolate
+3279,1,milka brand product
+3280,1,dell brand laptop component
+3281,1,dell brand pc
+3282,1,dell brand pc
+3283,1,dell laptop model
+3284,1,dell brand laptop
+3285,1,incense product
+3286,1,incense product
+3287,1,incense product
+3288,1,incense product
+3289,1,incense product
+3290,1,fatih historical figure book
+3291,1,fatih brand crayons
+3292,1,fatih brand pencil
+3293,1,fatih brand pencil
+3294,1,fatih brand crayons
+3295,1,tyt exam book
+3296,1,tyt exam book
+3297,1,tyt exam book
+3298,1,tyt exam book
+3299,1,tyt exam book
+3300,1,gonul hanim book title match
+3301,1,gonul named product tableware
+3302,1,gonul brand cup set
+3303,1,gonul mutfak brand set
+3304,1,gonul moda brand dress
+3305,0,tagliatelle pasta not tadelle brand
+3306,1,tadelle brand chocolate
+3307,1,tadelle brand chocolate
+3308,1,tadelle brand chocolate
+3309,1,tadelle named cookie product
+3310,0,klaris sweatshirt not klairs brand
+3311,0,ducray brand not klairs
+3312,0,svr brand not klairs
+3313,0,unrelated pencil not klairs
+3314,0,unrelated pencil not klairs
+3315,1,cpu air cooler fan
+3316,1,cooling fan product
+3317,1,cooling fan product
+3318,1,cpu cooler product
+3319,1,phone cooling fan
+3320,1,trigonometry book
+3321,1,trigonometry book
+3322,1,trigonometry book
+3323,1,trigonometry book
+3324,1,trigonometry book
+3325,1,iphone refurbished match
+3326,1,iphone refurbished match
+3327,1,iphone refurbished match
+3328,1,iphone refurbished match
+3329,1,iphone refurbished match
+3330,1,breakfast tableware set
+3331,1,breakfast tableware set
+3332,1,breakfast tableware set
+3333,1,breakfast tableware set
+3334,1,breakfast tableware set
+3335,1,adidas sambae shoe match
+3336,1,adidas sambae shoe match
+3337,1,adidas sambae shoe match
+3338,1,adidas sambae shoe match
+3339,0,samba og different model than sambae
+3340,1,darbuka instrument match
+3341,1,darbuka instrument match
+3342,1,darbuka instrument match
+3343,1,darbuka instrument match
+3344,1,darbuka instrument match
+3345,1,glint brand cleaner
+3346,1,glint product cleaner
+3347,1,glint brand cleaner
+3348,0,temizax brand not glint
+3349,0,nilem brand not glint
+3350,1,avatar last airbender tshirt
+3351,1,avatar branded ps5 game
+3352,1,avatar last airbender tote bag
+3353,1,avatar legend of korra mug
+3354,1,avatar last airbender tote bag
+3355,1,opal stone pendant
+3356,0,zircon stone not opal
+3357,1,opal stone bracelet
+3358,1,opal stone necklace
+3359,1,opal stone necklace
+3360,1,football shin guard
+3361,1,football shin guard
+3362,1,football shin guard
+3363,1,football shin guard
+3364,1,football shin guard
+3365,0,plain carrot not vegeta brand
+3366,0,seed set not vegeta brand
+3367,0,plain cucumber not vegeta brand
+3368,0,plain pepper not vegeta brand
+3369,0,tomato powder not vegeta brand
+3370,1,nyx brand concealer
+3371,1,nyx brand lipstick
+3372,1,nyx brand lip gloss
+3373,1,nyx brand lipstick
+3374,1,nyx brand lip gloss
+3375,0,plant food not bloved brand
+3376,0,plant food not bloved brand
+3377,0,fertilizer not bloved brand
+3378,0,avon perfume not bloved brand
+3379,0,plant care set not bloved brand
+3380,1,acetone product match
+3381,1,acetone product match
+3382,0,nail care set not pure acetone
+3383,1,acetone product match
+3384,1,acetone product match
+3385,0,storage container not legumes food
+3386,0,storage container not legumes food
+3387,0,food package not specifically legumes
+3388,0,storage container not legumes food
+3389,0,storage organizer not legumes food
+3390,1,wafer product match
+3391,1,wafer product match
+3392,1,wafer product match
+3393,1,wafer roll product match
+3394,1,wafer product match
+3395,1,delonghi brand espresso machine
+3396,1,delonghi brand espresso machine
+3397,1,delonghi brand espresso machine
+3398,1,delonghi brand espresso machine
+3399,1,delonghi brand espresso machine
+3400,1,sofa match
+3401,1,sofa match
+3402,1,sofa match
+3403,1,sofa match
+3404,1,sofa match
+3405,1,boot match
+3406,1,boot match
+3407,1,boot match
+3408,1,boot match
+3409,1,boot match
+3410,1,tongue scraper match
+3411,1,tongue scraper match
+3412,1,tongue scraper match
+3413,1,tongue scraper match
+3414,1,tongue scraper match
+3415,1,event organization tag
+3416,1,event organization backdrop
+3417,1,event organization backdrop stand
+3418,1,event organization sign
+3419,1,event organization backdrop
+3420,1,garden hose match
+3421,1,garden hose match
+3422,1,garden hose match
+3423,1,garden hose match
+3424,1,garden hose match
+3425,1,guvenal brand robe set
+3426,1,guvenal brand robe set
+3427,1,guvenal brand robe set
+3428,1,guvenal brand robe set
+3429,1,guvenal brand robe set
+3430,1,red named lipstick shade
+3431,0,phone color blue not red
+3432,1,phone color red matches
+3433,0,phone color black not red
+3434,1,phone case color red matches
+3435,1,warm named jacket product
+3436,1,warm named sports bra product
+3437,1,warmhaus brand heating boiler
+3438,1,neck warmer heating device
+3439,1,warm named thermal pants
+3440,1,quartz movement watch
+3441,1,quartz movement watch
+3442,1,quartz movement watch
+3443,1,quartz movement watch
+3444,1,quartz movement watch
+3445,1,virbac brand cat food
+3446,1,virbac brand cat food
+3447,1,virbac product cat food
+3448,1,virbac brand cat food
+3449,1,virbac brand pet gel
+3450,1,hookah hose set
+3451,1,hookah hose
+3452,1,hookah hose
+3453,1,hookah set includes hose
+3454,0,fireplace tongs not hookah hose
+3455,1,harry potter tshirt
+3456,1,harry potter tshirt
+3457,1,harry potter tshirt
+3458,1,harry potter tshirt
+3459,1,harry potter tshirt
+3460,1,five nights at freddys figure
+3461,1,five nights at freddys book
+3462,1,five nights at freddys book
+3463,1,five nights at freddys book
+3464,1,five nights at freddys book
+3465,1,iphone refurbished match
+3466,1,iphone refurbished match
+3467,1,iphone refurbished match
+3468,1,iphone new match
+3469,1,iphone refurbished match
+3470,1,yucca plant match
+3471,1,yucca plant match
+3472,1,yucca plant match
+3473,1,yucca plant match
+3474,1,yucca plant match
+3475,1,mokaparkavm brand furniture
+3476,1,mokaparkavm brand furniture
+3477,1,mokaparkavm brand furniture
+3478,1,mokaparkavm brand furniture
+3479,1,mokaparkavm brand furniture
+3480,1,fishing swivel match
+3481,0,poultry equipment not fishing swivel
+3482,1,fishing swivel weight match
+3483,1,fishing swivel set match
+3484,1,fishing swivel weight match
+3485,1,tesettur scarf match
+3486,1,tesettur scarf match
+3487,1,tesettur scarf match
+3488,1,tesettur scarf match
+3489,1,tesettur scarf match
+3490,0,unrelated brand not ayolis
+3491,0,unrelated brand not ayolis
+3492,0,unrelated brand not ayolis
+3493,0,unrelated brand not ayolis
+3494,0,unrelated brand not ayolis
+3495,1,kitchen hood davlumbaz match
+3496,1,kitchen hood davlumbaz match
+3497,1,kitchen hood davlumbaz match
+3498,1,kitchen hood davlumbaz match
+3499,1,kitchen hood davlumbaz match

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+7350,1,steam wallet code matches
+7351,1,steam wallet code matches
+7352,1,steam wallet code matches
+7353,1,steam wallet code matches
+7354,1,steam wallet code matches
+7355,1,levis mens shirt
+7356,1,levis mens shirt
+7357,1,levis mens shirt
+7358,1,levis mens shirt
+7359,1,levis mens shirt
+7360,1,side-tie womens sweater
+7361,1,side-tie sweater
+7362,1,side-tie sweater exact match
+7363,1,side-tie sweater
+7364,1,side-tie sweater
+7365,0,mango sweater but color not confirmed pink
+7366,0,mango sweater speckled not pink
+7367,0,off-white child sweater not pink; wrong age
+7368,0,mango baby sweater not pink; wrong age
+7369,0,mango kids striped sweater not pink; wrong age
+7370,1,shiny glittery sweatshirt
+7371,1,sparkly stone print sweatshirt
+7372,1,sparkly stone print sweatshirt
+7373,1,shimmery hooded sweatshirt
+7374,1,rhinestone hoodie sweatshirt
+7375,1,mert sert mobilya console
+7376,1,mert sert mobilya console
+7377,1,mert sert mobilya console
+7378,1,mert sert mobilya console
+7379,1,mert sert mobilya console
+7380,1,instant water heater sofben
+7381,1,instant water heater sofben
+7382,1,instant water heater sofben
+7383,1,instant water heater sofben
+7384,1,instant hot water shower attachment matches query
+7385,1,altinyildiz classics mens sweatshirt
+7386,1,altinyildiz classics mens sweatshirt
+7387,1,altinyildiz classics mens sweatshirt
+7388,1,altinyildiz classics mens sweatshirt
+7389,1,altinyildiz classics mens sweatshirt
+7390,0,wallet not trendyol pass service
+7391,0,wallet not trendyol pass service
+7392,0,wallet not trendyol pass service
+7393,0,card holder not trendyol pass service
+7394,0,soap product not trendyol pass service
+7395,1,swiss military by chrono watch
+7396,1,swiss military by chrono watch
+7397,1,swiss military by chrono watch
+7398,1,swiss military by chrono watch
+7399,1,swiss military by chrono watch
+7400,1,karaca coffee cup set
+7401,1,karaca coffee cup set
+7402,1,karaca coffee cup set
+7403,1,karaca coffee cup set
+7404,1,karaca coffee cup set
+7405,1,girls tracksuit set
+7406,1,girls tracksuit set
+7407,1,kids tracksuit incl girls
+7408,1,kids tracksuit marketed for girls
+7409,1,girls hooded tracksuit set
+7410,1,single duvet cover set
+7411,1,single duvet cover set
+7412,1,single duvet cover set
+7413,1,single duvet cover set
+7414,1,single duvet cover set
+7415,1,s.polo mens watch
+7416,1,s.polo mens watch
+7417,1,s.polo mens watch
+7418,1,s.polo mens watch
+7419,1,s.polo mens watch
+7420,1,plant stand
+7421,1,plant stand
+7422,1,plant stand
+7423,1,plant stand
+7424,1,plant stand
+7425,1,only brand womens coat
+7426,1,only brand womens coat
+7427,1,only brand womens coat
+7428,1,only brand womens coat
+7429,1,only brand womens coat
+7430,1,dreame l20 ultra exact model
+7431,1,dreame l20 ultra exact model
+7432,0,wrong model l10s not l20 ultra
+7433,0,different model x50 ultra not l20 ultra
+7434,0,spec mismatch not l20 ultra 7000pa
+7435,1,mens oversized tshirt
+7436,1,mens oversized tshirt
+7437,1,mens oversized tshirt unisex
+7438,1,mens oversized tshirt
+7439,1,oversized tshirt incl mens
+7440,1,bicycle water bottle
+7441,1,bicycle water bottle
+7442,1,bicycle water bottle
+7443,1,bicycle water bottle title match
+7444,1,bicycle water bottle
+7445,1,diamond earring category match
+7446,0,silver earring with aquamarine not diamond
+7447,0,silver earring with zircon not diamond
+7448,0,canvas painting not earring
+7449,0,stationery paper product not earring
+7450,1,wall mounted pull-up bar
+7451,1,wall mounted pull-up bar
+7452,1,wall mounted pull-up bar
+7453,1,wall mounted pull-up bar
+7454,1,wall mounted pull-up bar
+7455,1,mermaid cut evening dress
+7456,1,mermaid cut evening dress
+7457,1,title states balik cut dress
+7458,1,title states balik cut dress
+7459,1,title states balik cut dress
+7460,0,bambi brand but title is womens shoe
+7461,0,wrong brand not bambi
+7462,0,wrong brand not bambi
+7463,0,wrong brand not bambi
+7464,0,wrong brand not bambi
+7465,1,vacuum sealer pump
+7466,1,vacuum sealer starter set
+7467,1,vacuum sealed storage container
+7468,1,vacuum sealed glass storage set
+7469,1,vacuum sealed storage container
+7470,1,unisex medallion necklace
+7471,0,labeled womens necklace not mens
+7472,0,labeled womens necklace not mens
+7473,1,unisex medallion necklace
+7474,0,gender field is womens not mens
+7475,1,32 inch tv
+7476,1,32 inch tv
+7477,1,32 inch tv
+7478,1,32 inch tv
+7479,1,32 inch tv
+7480,1,ipad a16 compatible keyboard case
+7481,1,ipad a16 compatible keyboard case
+7482,1,ipad a16 compatible keyboard case
+7483,0,lenovo tablet keyboard not ipad
+7484,0,ipad pro 12.9 m2 not a16 no keyboard mentioned
+7485,1,melike tatar brand pants
+7486,1,melike tatar brand pants
+7487,0,wrong brand not melike tatar
+7488,0,wrong brand not melike tatar
+7489,0,wrong brand not melike tatar
+7490,1,golden rose glow kiss lip balm
+7491,1,golden rose glow kiss lip balm
+7492,1,golden rose glow kiss lip balm
+7493,1,golden rose glow kiss lip balm
+7494,1,golden rose glow kiss lip balm
+7495,1,ceramic plate
+7496,1,ceramic plate
+7497,1,ceramic plate
+7498,1,ceramic plate
+7499,1,ceramic plate
+7500,1,kayra brand vest
+7501,1,kayra brand vest
+7502,1,kayra brand vest
+7503,1,kayra brand vest
+7504,1,kayra brand vest
+7505,0,unisex sweatshirt no brown color stated
+7506,0,womens sweatshirt no brown color stated
+7507,0,brown color but mens gender not womens
+7508,0,pink not brown color
+7509,0,womens sweatshirt no brown color stated
+7510,1,baking soda food grade
+7511,1,baking soda food grade
+7512,1,baking soda food grade
+7513,0,carbonated drinking water not baking soda
+7514,0,soda beverage category not baking soda
+7515,1,set of three necklaces
+7516,1,set of three necklaces
+7517,1,set of three necklaces exact match
+7518,1,set of three necklaces
+7519,1,set of three necklaces
+7520,1,50kg granulated sugar exact match
+7521,1,50kg granulated sugar exact match
+7522,0,wrong quantity 4kg not 50kg
+7523,0,cotton candy sugar wrong product and quantity
+7524,0,wrong quantity 5kg not 50kg
+7525,1,seatbelt cover
+7526,1,seatbelt cover for kids
+7527,1,seatbelt cover and pad
+7528,1,seatbelt cover
+7529,1,seatbelt cover organizer
+7530,1,ikea brand dinner plate set
+7531,1,ikea brand dinner plate
+7532,1,ikea brand plate set
+7533,0,wrong brand not ikea
+7534,1,ikea brand plate set
+7535,1,new balance sport shoe
+7536,1,new balance sport shoe
+7537,1,new balance sport shoe
+7538,0,nike brand not new balance
+7539,0,hammer jack brand not new balance
+7540,1,chakra room fragrance
+7541,1,chakra room fragrance
+7542,1,chakra room fragrance
+7543,1,chakra room fragrance
+7544,1,chakra room fragrance
+7545,1,cg black fuel tank
+7546,1,cg black fuel tank
+7547,1,cg black fuel tank
+7548,1,cg fuel tank incl black
+7549,1,cg black fuel tank
+7550,0,wrong tire size r17 not r16
+7551,0,wrong tire size 185 65 r15
+7552,0,wrong tire size 175 70 r13
+7553,0,wrong tire size 255 45 r19
+7554,0,wrong tire size 185 65 r15
+7555,1,tefal ingenio 6x pan set
+7556,1,tefal titanyum 6x pan set
+7557,0,daybyday 1x set not 6x
+7558,1,tefal titanyum mix 6x pan set
+7559,1,tefal ingenio 6x pan set
+7560,1,grundig upright vacuum
+7561,1,grundig upright vacuum
+7562,1,grundig upright vacuum
+7563,1,grundig upright vacuum
+7564,1,grundig upright vacuum
+7565,1,casio womens watch
+7566,1,casio womens watch
+7567,1,casio womens watch
+7568,1,casio womens watch
+7569,1,casio womens watch
+7570,1,childrens room rug
+7571,1,childrens room rug
+7572,1,childrens room rug
+7573,1,childrens room rug
+7574,1,childrens room rug
+7575,1,sata ssd drive
+7576,1,sata ssd drive
+7577,1,sata ssd drive
+7578,1,sata ssd drive
+7579,1,sata ssd drive
+7580,1,heeled boot
+7581,1,heeled boot
+7582,1,heeled boot
+7583,1,thick heeled boot
+7584,0,sneaker style boot not heeled
+7585,1,baby feeding plate
+7586,1,baby feeding plate
+7587,1,baby feeding plate set
+7588,1,baby feeding plate
+7589,1,baby feeding plate
+7590,1,puppy dog collar
+7591,1,puppy dog collar
+7592,1,puppy dog collar
+7593,1,puppy dog collar incl cat
+7594,1,puppy dog collar
+7595,0,regular toothbrush not travel
+7596,0,travel set but not toothbrush
+7597,0,travel bottles not toothbrush
+7598,0,toothpaste not toothbrush
+7599,0,travel mirror not toothbrush
+7600,1,caudalie eye cream
+7601,1,caudalie eye cream
+7602,1,caudalie eye cream
+7603,1,caudalie eye cream
+7604,1,caudalie eye cream
+7605,0,wrong number 234 not 224
+7606,1,bargello 224 exact match
+7607,0,wrong number 134 not 224
+7608,0,wrong number 217 not 224
+7609,0,wrong brand not bargello
+7610,1,girls tutu dress
+7611,1,tutu dress
+7612,1,tutu dress
+7613,0,lace dress no tutu mentioned
+7614,1,tutu style dress
+7615,1,kitchen corner set
+7616,1,kitchen corner set
+7617,1,kitchen corner set
+7618,1,kitchen corner set
+7619,1,kitchen corner set
+7620,1,sultan parrot harness
+7621,1,sultan parrot harness
+7622,0,toy set not harness
+7623,1,bird walking harness
+7624,0,swing toy set not harness
+7625,1,mini teapot
+7626,1,mini teapot set
+7627,1,mini teapot
+7628,1,mini teapot
+7629,0,category is slippers not teapot
+7630,1,tac single sleep set
+7631,1,tac single sleep set
+7632,1,tac single sleep set
+7633,1,tac single sleep set
+7634,1,tac single sleep set
+7635,1,rhinestone camera lens protector
+7636,1,rhinestone camera lens protector
+7637,1,rhinestone camera lens protector
+7638,1,rhinestone camera lens protector
+7639,1,rhinestone camera lens protector
+7640,1,womens modest pardesu coat
+7641,1,womens modest pardesu coat
+7642,1,womens modest pardesu coat
+7643,1,womens modest pardesu coat
+7644,1,womens modest pardesu coat
+7645,1,watch brand
+7646,1,watch brand
+7647,1,watch brand
+7648,1,watch brand
+7649,1,watch brand
+7650,1,filter coffee machine
+7651,1,filter coffee machine
+7652,1,filter coffee machine
+7653,1,filter coffee machine
+7654,1,filter coffee machine
+7655,1,buttoned modest dress
+7656,1,buttoned modest dress
+7657,1,buttoned modest dress
+7658,1,buttoned modest dress
+7659,1,buttoned modest dress
+7660,1,accordion door
+7661,1,accordion door
+7662,1,accordion door
+7663,1,accordion door
+7664,1,accordion door
+7665,1,steel earrings
+7666,1,steel earrings
+7667,1,steel earrings
+7668,1,steel earrings
+7669,1,steel earrings
+7670,1,enjoy cat food
+7671,1,enjoy cat food
+7672,1,enjoy cat food
+7673,1,enjoy cat food
+7674,1,enjoy cat food
+7675,1,crocs slipper
+7676,1,crocs slipper
+7677,1,crocs womens clog
+7678,1,crocs slipper
+7679,1,crocs womens slipper
+7680,1,quilted jacket
+7681,1,quilted jacket
+7682,1,quilted jacket
+7683,1,quilted jacket
+7684,1,quilted jacket
+7685,1,car trash bin
+7686,1,car trash bin
+7687,1,car trash bin
+7688,1,car trash bin
+7689,1,car trash bin
+7690,1,karaca 6 person dinnerware set
+7691,1,karaca 6 person dinnerware set
+7692,1,karaca 6 person dinnerware set
+7693,1,karaca 6 person dinnerware set
+7694,1,karaca 6 person dinnerware set
+7695,1,kinetix brand shoe
+7696,1,kinetix brand shoe
+7697,1,kinetix brand shoe
+7698,1,kinetix brand shoe
+7699,1,kinetix brand shoe

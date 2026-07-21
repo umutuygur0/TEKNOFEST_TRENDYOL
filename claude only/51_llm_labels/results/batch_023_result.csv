@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+8050,1,Bigdart brand and gomlek category match query
+8051,1,Bigdart brand and gomlek category match query
+8052,1,Bigdart brand and gomlek category match query
+8053,1,Bigdart brand and gomlek category match query
+8054,1,Puma brand black shoe matches
+8055,1,Puma brand black shoe matches
+8056,1,Puma brand black shoe matches
+8057,1,Puma brand black shoe matches
+8058,1,Puma brand black shoe matches
+8059,1,Serve brand pen matches query
+8060,0,This is a pen refill/tip accessory not a pen itself
+8061,1,Serve brand pen matches query
+8062,1,Serve brand pen matches query
+8063,1,Serve brand pencil matches query
+8064,1,Zigavus brand shampoo matches brand-only query
+8065,1,Zigavus brand shampoo matches brand-only query
+8066,1,Zigavus brand shampoo matches brand-only query
+8067,0,Brand is morfose not zigavus
+8068,0,Brand is clear not zigavus
+8069,1,Mavi brand mens sweatpants match
+8070,1,Mavi brand mens sweatpants match
+8071,1,Mavi brand mens sweatpants match
+8072,1,Mavi brand mens sweatpants match
+8073,1,Mavi brand mens sweatpants match
+8074,1,Anti-blemish skin serum matches generic query
+8075,1,Anti-blemish skin serum matches generic query
+8076,1,Anti-blemish skin serum matches generic query
+8077,1,Anti-blemish skin serum matches generic query
+8078,1,Anti-blemish skin serum matches generic query
+8079,1,3-piece bathroom soap dish set matches query
+8080,1,3-piece bathroom soap dish set matches query
+8081,1,3-piece bathroom soap dish set matches query
+8082,1,3-piece bathroom soap dish set matches query
+8083,1,Bathroom set including soap dish matches query
+8084,1,White marble cutting board matches exactly
+8085,0,Wood board with marble look, not actual marble material
+8086,1,Marble cutting board and serving plate, material matches
+8087,1,Marble cutting board matches
+8088,1,Attributes list marble material, cutting/serving board matches
+8089,1,Fleece-lined winter sweatpants matches sardonlu esofman query
+8090,1,Fleece-lined thick sweatpants matches query
+8091,1,Fleece-lined winter sweatpants, same warm sweatpants intent
+8092,1,Fleece-lined winter sweatpants, same warm sweatpants intent
+8093,1,Fleece-lined winter jogger sweatpants matches intent
+8094,1,Ihlas brand vacuum accessory (hose) matches query
+8095,1,Ihlas brand vacuum accessory (suction head) matches query
+8096,0,Water purifier filter set, wrong category, brand as water not ihlas
+8097,1,Ihlas-compatible vacuum accessory matches
+8098,1,Ihlas-compatible vacuum accessory matches
+8099,1,Silver-colored womens watch matches query
+8100,1,Silver-colored womens watch matches query
+8101,1,Silver-colored womens watch matches query
+8102,1,Gold/silver colored womens watch matches query
+8103,1,Silver-colored womens watch matches query
+8104,1,Rechargeable led light matches query
+8105,1,Rechargeable led light matches query
+8106,1,Rechargeable magnetic led lamp matches query
+8107,1,Rechargeable led light matches query
+8108,1,Rechargeable led lamp matches query
+8109,1,Colorful wall sticker matches query
+8110,1,Colorful wall sticker matches query
+8111,1,Colorful wall sticker matches query
+8112,1,Colorful wall sticker matches query
+8113,1,Colorful wall sticker matches query
+8114,1,Title explicitly says erkek cocuk yelek matching query
+8115,1,Boys vest matches query
+8116,1,Boys vest matches query
+8117,1,Boys vest matches query
+8118,1,Boys vest matches query
+8119,1,Domol brand spray matches brand-only query
+8120,1,Domol brand spray matches brand-only query
+8121,1,Domol brand spray matches brand-only query
+8122,1,Title explicitly says domol spray
+8123,1,Domol brand spray matches brand-only query
+8124,1,Islamic Allah-themed wall art matches query
+8125,1,Islamic Allah-themed wall art matches query
+8126,1,Islamic wall art with Allah's names matches query
+8127,1,Islamic wall art with Allah's names matches query
+8128,1,Islamic wall art with Allah's names matches query
+8129,1,Mom fit jeans matches exactly
+8130,1,Mom fit jeans matches exactly
+8131,1,Mom fit jeans matches exactly
+8132,1,Slim mom fit jean matches query
+8133,1,Title explicitly says mom fit jean
+8134,1,Pressure cooker matches query
+8135,1,Title explicitly says duduklu tencere
+8136,1,Pressure cooker set matches query
+8137,1,Pressure cooker set matches query
+8138,1,Pressure cooker matches query
+8139,1,Pierre Cardin brand suitcase matches query
+8140,1,Pierre Cardin brand suitcase matches query
+8141,1,Pierre Cardin brand suitcase matches query
+8142,1,Pierre Cardin brand trolley suitcase matches query
+8143,1,Pierre Cardin brand suitcase matches query
+8144,1,Wahl brand shaver matches query
+8145,1,Wahl brand shaver matches query
+8146,1,Wahl brand hair/beard trimmer listed under tiras makinesi category
+8147,1,Wahl brand hair clipper listed under tiras makinesi category
+8148,1,Wahl brand hair/beard clipper listed under tiras makinesi category
+8149,1,Defacto brand womens coat matches query
+8150,1,Defacto brand womens coat matches query
+8151,1,Defacto brand womens coat matches query
+8152,1,Defacto brand womens puffer coat matches query
+8153,1,Defacto brand womens coat/parka matches query
+8154,1,Corner desk matches kose masa query
+8155,1,Corner desk matches kose masa query
+8156,1,L-shaped corner desk matches query
+8157,1,Corner desk matches kose masa query
+8158,1,Corner desk matches kose masa query
+8159,1,Sinan Kuzucu Yayinlari LGS prep book matches query
+8160,1,Sinan Kuzucu Yayinlari exam prep book matches query
+8161,1,Sinan Kuzucu Yayinlari LGS prep book matches query
+8162,1,Sinan Kuzucu Yayinlari LGS prep set matches query
+8163,1,Brand field is sinan kuzucu yayinlari matching query
+8164,1,Cafe Crown brand granule coffee matches exactly
+8165,0,Brand is jacobs not cafe crown
+8166,0,Brand is jacobs not cafe crown
+8167,1,Title explicitly says cafe crown latte, Cafe Crown product line
+8168,0,Bean coffee (cekirdek kahve) not granule coffee as query specifies
+8169,1,Plastic black frame matches query
+8170,1,Plastic black frame matches query
+8171,1,Plastic black frame matches query
+8172,1,Title explicitly says plastik frame matches query
+8173,1,Plastic frame matches query
+8174,1,Glass dining table matches cam masa query
+8175,1,Glass dining table matches cam masa query
+8176,1,Glass coffee table matches cam masa query
+8177,1,Glass coffee table matches cam masa query
+8178,1,Glass coffee table matches cam masa query
+8179,1,Dyson brand vacuum matches brand-only query (dayson typo)
+8180,1,Dyson brand hair styler matches brand-only query
+8181,1,Dyson brand hair styler matches brand-only query
+8182,1,Dyson brand hair styler matches brand-only query
+8183,1,Dyson brand hair styling set matches brand-only query
+8184,1,iPhone 15 Pro Max 256gb matches query exactly
+8185,1,iPhone 15 Pro Max 256gb matches query exactly
+8186,0,iPhone 16 Pro Max, wrong model vs query's 15 Pro Max
+8187,0,iPhone 16 Pro Max, wrong model vs query's 15 Pro Max
+8188,1,Refurbished iPhone 15 Pro Max 256gb matches query
+8189,0,Motorcycle cover/branda accessory, not the motorcycle itself
+8190,0,Brand is mondial not honda
+8191,0,Brand is mondial not honda
+8192,0,Brand is hero not honda
+8193,0,Motorcycle seat cover accessory, not a Honda motorcycle
+8194,1,Skechers Fashion Fit shoe matches query exactly
+8195,1,Skechers Fashion Fit shoe matches query exactly
+8196,1,Skechers Fashion Fit Effortless shoe matches query
+8197,1,Skechers Fashion Fit shoe matches query
+8198,1,Skechers Fashion Fit shoe matches query
+8199,1,Baby play rug matches query
+8200,0,Bamboo child rug lacks bebek-specific soft material, no bebek mention
+8201,1,Washable baby rug matches query
+8202,1,Baby/child room play rug mat matches query
+8203,1,Baby/child room play rug mat matches query
+8204,1,Bean bag chair matches query
+8205,1,Kids bean bag chair matches query
+8206,1,Bean bag chair category matches query
+8207,1,Bean bag chair matches query
+8208,1,Bean bag chair matches query
+8209,1,Multi-purpose coffee corner cabinet matches query
+8210,1,Kitchen coffee corner cabinet matches query
+8211,1,Multi-purpose coffee corner cabinet matches query
+8212,1,Coffee corner cabinet matches query
+8213,1,Multi-purpose coffee corner cabinet matches query
+8214,1,Flormar Dewy lip gloss matches query exactly
+8215,1,Flormar Dewy lip gloss matches query exactly
+8216,1,Flormar Dewy lip gloss matches query exactly
+8217,1,Flormar Dewy lip gloss matches query exactly
+8218,1,Flormar Dewy lip gloss matches query exactly
+8219,1,Frozen Elsa themed birthday balloon set matches query
+8220,1,Frozen Elsa themed birthday balloon set matches query
+8221,1,Frozen Elsa themed birthday balloon set matches query
+8222,1,Frozen Elsa themed birthday balloon set matches query
+8223,1,Frozen Elsa themed birthday party set matches query
+8224,1,Vernel brand fabric softener matches query
+8225,1,Vernel brand fabric softener matches query
+8226,1,Vernel brand fabric softener matches query
+8227,1,Vernel brand fabric softener matches query
+8228,1,Vernel brand fabric softener matches query
+8229,1,Kaiser springform cake pan matches query
+8230,1,Kaiser springform cake pan matches query
+8231,1,Kaiser springform cake pan matches query
+8232,1,Springform cake pan matches query
+8233,1,Kaiser springform cake pan matches query
+8234,1,Mother-of-pearl necklace matches query exactly
+8235,1,Mother-of-pearl stone necklace matches query
+8236,1,Mother-of-pearl stone necklace matches query
+8237,1,Mother-of-pearl stone necklace matches query
+8238,0,Generic stone necklace, no mother-of-pearl (sedef) material stated
+8239,1,Weight-loss aid tea matches query intent
+8240,0,Coffee creamer/milk powder category, not a clear weight-loss product
+8241,1,Explicit weight loss set matches query
+8242,1,Explicit appetite suppressant/weight loss product matches query
+8243,1,Diet detox coffee matches weight loss intent
+8244,1,Potato matches query
+8245,1,Sweet potato still matches generic patates query
+8246,1,Sweet potato still matches generic patates query
+8247,1,Sweet potato still matches generic patates query
+8248,1,Potato for kumpir matches query
+8249,1,Manual meat grinder matches query
+8250,1,Electric meat grinder matches query
+8251,1,Electric meat grinder matches query
+8252,1,Electric meat grinder matches query
+8253,1,Meat grinder matches query
+8254,1,Adidas brand tracksuit matches query
+8255,1,Adidas brand tracksuit matches query
+8256,1,Adidas brand tracksuit matches query
+8257,1,Adidas brand tracksuit matches query
+8258,1,Adidas brand kids tracksuit matches query
+8259,1,Vileda turbo mop system matches query
+8260,1,Vileda turbo mop system matches query
+8261,1,Vileda turbo mop system matches query
+8262,1,Vileda turbo mop system matches query
+8263,1,Vileda turbo mop system matches query
+8264,1,Double bedding set matches query
+8265,1,Double bedding set matches query
+8266,1,Double bedding set matches query
+8267,1,Double bedding set matches query
+8268,1,Double bedding set matches query
+8269,0,Sweetener brand fibrelle unrelated to etat pur query
+8270,0,Antiseptic brand acto unrelated to etat pur query
+8271,0,Moisturizer brand rilastil unrelated to etat pur query
+8272,0,Epsom salt brand overaz unrelated to etat pur query
+8273,1,Brand is etat pur matching query
+8274,1,Molfix size 5 diaper matches query
+8275,1,Molfix size 5 diaper matches query
+8276,1,Molfix size 5 diaper matches query
+8277,1,Molfix size 5 diaper matches query
+8278,1,Canbebe size 5 diaper matches query
+8279,1,Ozdilek brand bathrobe matches query
+8280,1,Ozdilek brand baby bathrobe set matches query
+8281,1,Ozdilek brand child hooded bathrobe matches query
+8282,1,Ozdilek brand baby bathrobe set matches query
+8283,1,Ozdilek brand child hooded bathrobe matches query
+8284,1,Baby girl dress matches query
+8285,1,Baby girl dress matches query
+8286,1,Baby girl dress matches query
+8287,1,Baby dress matches query
+8288,1,Baby girl dress matches query
+8289,1,Rosemary water hair spray matches query
+8290,1,Rosemary water hair spray/tonic matches query
+8291,1,Rosemary water hair spray/tonic matches query
+8292,1,Rosemary water hair spray matches query
+8293,1,Rosemary water hair spray/tonic matches query
+8294,1,Wooden building blocks match query
+8295,1,Wooden building blocks match query
+8296,1,Wooden blocks match query
+8297,1,Colorful wooden cube blocks match query
+8298,1,Title explicitly says wooden cubes blocks matching query
+8299,1,Rechargeable cordless vacuum matches query
+8300,1,Rechargeable cordless vacuum matches query
+8301,1,Rechargeable cordless vacuum matches query
+8302,1,Rechargeable cordless vacuum matches query
+8303,1,Rechargeable cordless vacuum matches query
+8304,1,Arzzhome brand decorative box matches brand-only query
+8305,1,Arzzhome brand decorative box matches brand-only query
+8306,1,Arzzhome brand decorative box matches brand-only query
+8307,1,Arzzhome brand decorative box matches brand-only query
+8308,1,Arzzhome brand decorative box matches brand-only query
+8309,1,Notebook set matches query
+8310,1,Notebook set matches query
+8311,1,Spiral school notebook set matches query
+8312,1,Spiral school notebook set matches query
+8313,1,Spiral school notebook set matches query
+8314,1,Long sleeve football jersey matches query
+8315,1,Long sleeve football jersey matches query
+8316,1,Long sleeve football match jersey matches query
+8317,0,Generic football-print t-shirt, not a team jersey (forma)
+8318,0,Generic football t-shirt, not a team jersey (forma)
+8319,1,Prego brand high chair matches query
+8320,1,Prego brand high chair matches query
+8321,1,Prego brand high chair matches query
+8322,1,Prego brand high chair matches query
+8323,0,Brand is peg perego not prego
+8324,1,Kafa Dengi Challenger book set matches query
+8325,1,Kafa Dengi Challenger exam prep matches query
+8326,1,Kafa Dengi Challenger exam prep matches query
+8327,1,Kafa Dengi Challenger exam prep matches query
+8328,1,Kafa Dengi Challenger series book matches query
+8329,0,Query kucuk boy is too generic; bag is unrelated product type
+8330,0,Query kucuk boy is too generic; pencil case is unrelated product type
+8331,0,Query kucuk boy is too generic; pencil case is unrelated product type
+8332,0,Query kucuk boy is too generic; pencil case is unrelated product type
+8333,0,Query kucuk boy is too generic; pencil case is unrelated product type
+8334,1,Dessert plates match query
+8335,1,Glass dessert plate matches query
+8336,1,Dessert plate matches query
+8337,1,Dessert plate matches query
+8338,1,Dessert plate matches query
+8339,1,Kinesio tape matches query
+8340,1,Kinesio tape matches query
+8341,1,Kinesio tape matches query
+8342,1,Kinesio tape matches query
+8343,1,Kinesio tape matches query
+8344,1,Ebebek Hello Baby brand kids clothing matches query
+8345,1,Ebebek Hello Baby brand baby body matches query
+8346,1,Ebebek Hello Baby brand baby body matches query
+8347,1,Ebebek Hello Baby brand baby body matches query
+8348,1,Ebebek Hello Baby brand baby body matches query
+8349,0,Brand silvan not silva and cleaning cloth not sponge
+8350,0,Cleaning cloth not a dish sponge as query specifies
+8351,0,Cleaning cloth not a dish sponge as query specifies
+8352,0,Cleaning cloth not a dish sponge as query specifies
+8353,0,Dish sponge but wrong brand (yeni carsi avm not silva)
+8354,1,Pro Plan brand adult cat food matches query
+8355,1,Pro Plan brand adult cat food matches query
+8356,1,Pro Plan brand adult cat food matches query
+8357,1,Pro Plan brand adult cat food matches query
+8358,1,Purina Pro Plan brand adult cat food matches query
+8359,1,Sequined knitting yarn matches query
+8360,1,Sequined knitting yarn matches query
+8361,1,Sequined knitting yarn matches query
+8362,1,Sequined knitting yarn matches query
+8363,1,Sequined knitting yarn matches query
+8364,1,The Purest Solutions brand skin care product matches query
+8365,1,The Purest Solutions brand 4-piece skin care set matches query
+8366,1,The Purest Solutions brand skin care set matches query
+8367,1,The Purest Solutions brand skin care set matches query
+8368,1,The Purest Solutions brand 7-piece skin care set matches query
+8369,1,Square tray matches query
+8370,1,Square tray set matches query
+8371,1,Square baking tray matches query
+8372,1,Square serving tray matches query
+8373,1,Square baklava tray matches query
+8374,1,Glass footed fruit bowl matches query
+8375,1,Glass footed fruit bowl matches query
+8376,1,Glass footed fruit/serving bowl matches query
+8377,1,Glass footed fruit bowl matches query
+8378,1,Glass footed fruit bowl/serving bowl matches query
+8379,1,Womens sweatpants matches query
+8380,1,Unisex jogger sweatpants includes women matches query
+8381,1,Unisex jogger sweatpants includes women matches query
+8382,1,Womens sweatpants matches query
+8383,1,Womens sweatpants matches query
+8384,1,Gas grill matches query
+8385,1,Portable gas grill matches query
+8386,1,Gas grill matches query
+8387,1,Gas grill matches query
+8388,1,Gas grill matches query
+8389,1,Kids activity apron matches query
+8390,1,Activity/feeding apron matches query
+8391,1,Long sleeve activity/feeding apron matches query
+8392,1,Long sleeve activity/feeding apron matches query
+8393,1,Waterproof activity/painting apron matches query
+8394,1,Any Morning brand thermos matches query
+8395,1,Any Morning brand thermos matches query
+8396,1,Any Morning brand thermos matches query
+8397,1,Any Morning brand thermos matches query
+8398,0,Brand is weather forecast not any morning
+8399,1,Title explicitly says hol aynasi matching query

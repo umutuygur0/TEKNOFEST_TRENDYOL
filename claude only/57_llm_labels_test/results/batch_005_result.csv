@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+1750,1,arçelik microwave match
+1751,1,arçelik microwave match
+1752,1,arçelik microwave match
+1753,1,arçelik microwave match
+1754,1,arçelik microwave match
+1755,1,saray halı brand match
+1756,1,saray halı brand match
+1757,1,saray halı brand match
+1758,1,saray halı brand match
+1759,1,saray halı brand match
+1760,0,no kaşe fabric mentioned
+1761,1,kaşe kaban match
+1762,1,kaşe kaban match
+1763,1,kaşe uzun kaban match
+1764,1,kaşe kaban match
+1765,1,mirrored makeup organizer match
+1766,1,mirrored organizer match
+1767,1,makeup organizer same category
+1768,1,mirrored organizer match
+1769,1,makeup organizer same category
+1770,1,men's leather sneaker match
+1771,1,men's leather sneaker match
+1772,1,men's leather sneaker match
+1773,1,men's leather sneaker match
+1774,1,men's leather sneaker match
+1775,0,different author not karakuza
+1776,1,author ahmet uğur karakuza match
+1777,1,author ahmet uğur karakuza match
+1778,0,different author
+1779,0,different author
+1780,1,exact number 514 match
+1781,0,different perfume number 200
+1782,0,different perfume number 700
+1783,0,different perfume number 476
+1784,0,different perfume numbers 709/548
+1785,1,5th grade all subjects question bank
+1786,1,5th grade all subjects question bank
+1787,1,5th grade all subjects question bank
+1788,1,5th grade all subjects question bank
+1789,1,5th grade all subjects question bank
+1790,1,cat swing exact match
+1791,1,cat swing exact match
+1792,1,cat swing type product
+1793,1,cat swing exact match
+1794,1,cat swing product
+1795,1,casio edifice men's watch match
+1796,1,casio edifice men's watch match
+1797,1,casio edifice men's watch match
+1798,1,casio edifice men's watch match
+1799,1,casio edifice men's watch match
+1800,1,yörük ana brand match
+1801,0,different brand not yörük ana
+1802,0,different brand not yörük ana
+1803,0,different brand not yörük ana
+1804,0,different brand and product marmelat
+1805,1,hyundai tırpan brand match
+1806,1,hyundai tırpan brand match
+1807,1,hyundai tırpan brand match
+1808,1,hyundai tırpan brand match
+1809,1,hyundai tırpan brand match
+1810,1,serstil closet organizer match
+1811,1,serstil closet organizer match
+1812,1,serstil closet organizer match
+1813,1,serstil closet organizer match
+1814,1,serstil closet organizer match
+1815,1,havalı tasarım brand candle match
+1816,1,havalı tasarım brand candle match
+1817,0,different brand not havalı tasarım
+1818,0,different brand not havalı tasarım
+1819,0,different brand not havalı tasarım
+1820,1,karseel/karseell brand match
+1821,1,karseel/karseell brand match
+1822,1,karseel/karseell brand match
+1823,1,karseel/karseell brand match
+1824,1,karseel/karseell brand match
+1825,1,gaz lambası yağı - kandil yağı match
+1826,1,gaz lambası yağı - kandil yağı match
+1827,1,gaz lambası yağı - kandil yağı match
+1828,1,gaz lambası yağı - kandil yağı match
+1829,1,gaz lambası yağı - kandil yağı match
+1830,1,şifacı günceleri book match
+1831,1,şifacı günceleri book match
+1832,1,şifacı günceleri book match
+1833,1,şifacı günceleri box set match
+1834,0,tapestry not the book
+1835,1,mickey mouse plush toy match
+1836,1,mickey mouse themed figure toy
+1837,1,mickey mouse surprise egg toy
+1838,1,mickey mouse figure toy
+1839,1,mickey mouse themed toy car
+1840,1,hp printer match
+1841,1,hp printer match
+1842,1,hp printer match
+1843,1,hp printer match
+1844,1,hp printer match
+1845,1,hooded fleece jacket-cardigan unisex
+1846,1,hooded fleece jacket-cardigan unisex
+1847,0,men's jacket wrong gender
+1848,1,women's hooded jacket exact match
+1849,1,unisex hooded jacket match
+1850,0,no color specified not confirmed white
+1851,0,beige not white
+1852,0,black not white
+1853,0,sneaker not heeled shoe
+1854,0,sneaker not heeled shoe
+1855,1,new balance 530 match
+1856,1,new balance 530 match
+1857,1,new balance 530 match
+1858,1,new balance 530 match
+1859,1,new balance 530 model code match
+1860,1,pantry storage jar match
+1861,1,pantry storage jar match
+1862,1,pantry storage jar match
+1863,1,pantry storage jar match
+1864,1,pantry storage jar match
+1865,1,lamp shade frame match
+1866,1,lamp shade frame match
+1867,1,lamp shade frame match
+1868,1,lamp shade frame match
+1869,1,lamp shade frame match
+1870,1,women's tesettür kap match
+1871,1,women's tesettür kap match
+1872,1,women's tesettür kap match
+1873,1,women's tesettür kap match
+1874,1,women's tesettür kap match
+1875,1,gökçen box set match
+1876,1,gökçen box set match
+1877,1,gökçen koçan box set match
+1878,0,different book no gökçen
+1879,0,different book no gökçen
+1880,1,jumbo teapot brand match
+1881,1,jumbo teapot brand match
+1882,1,jumbo teapot brand match
+1883,1,jumbo teapot brand match
+1884,1,jumbo teapot brand match
+1885,1,retro design kettle match
+1886,1,retro kettle match
+1887,1,retro style kettle match
+1888,1,vintage style kettle similar to retro
+1889,1,retro style kettle match
+1890,1,dermokil moisturizer match
+1891,1,dermokil cream brand match
+1892,0,different brand not dermokil
+1893,0,different brand not dermokil
+1894,0,different brand not dermokil
+1895,1,5cm heel exact match
+1896,0,low heel not confirmed 5cm
+1897,0,short heel not confirmed 5cm
+1898,1,5cm heel exact match
+1899,0,heel height not specified
+1900,0,no laces mentioned
+1901,0,zippered not laced
+1902,1,laced boot exact match
+1903,0,zippered not laced
+1904,0,zippered not laced
+1905,1,gift for girlfriend exact match
+1906,1,gift for girlfriend match
+1907,1,gift for girlfriend match
+1908,1,gift for girlfriend match
+1909,1,gift for girlfriend mentioned
+1910,1,led candle exact match
+1911,1,led tealight candle match
+1912,1,led candle exact match
+1913,1,led candle exact match
+1914,1,led candle set match
+1915,1,pointed motorcycle grip match
+1916,1,pointed motorcycle grip match
+1917,1,pointed motorcycle grip match
+1918,1,pointed motorcycle grip match
+1919,1,pointed motorcycle grip match
+1920,0,lamp socket rod not bathroom accessory
+1921,0,ear protector not bathroom accessory
+1922,0,keychain hanger not bathroom
+1923,0,toilet deodorizer not adhesive accessory
+1924,0,wall decor unrelated
+1925,1,dyson vacuum head match
+1926,1,dyson vacuum head match
+1927,1,dyson vacuum head match
+1928,1,dyson vacuum head match
+1929,1,dyson vacuum head match
+1930,1,fulla moda brand jacket match
+1931,0,different brand koton
+1932,0,different brand koton
+1933,0,different brand misskybele
+1934,0,different brand jimmy key
+1935,1,dacia duster accessory match
+1936,1,dacia duster accessory match
+1937,1,dacia duster accessory match
+1938,1,dacia duster accessory match
+1939,1,dacia duster accessory match
+1940,0,summer-type tire not winter
+1941,0,yaz summer tire wrong season
+1942,0,wrong size 185/65r15
+1943,0,yaz summer tire wrong season
+1944,0,wrong size and yaz summer
+1945,1,anatolian puzzle brand match
+1946,1,anatolian puzzle brand match
+1947,1,anatolian puzzle brand match
+1948,1,anatolian puzzle brand match
+1949,1,anatolian puzzle brand match
+1950,1,oltu stone tesbih match
+1951,1,oltu stone tesbih match
+1952,1,oltu stone tesbih match
+1953,1,oltu stone tesbih match
+1954,1,oltu stone tesbih match
+1955,0,color not confirmed black
+1956,0,silk green not satin black
+1957,0,burgundy not black
+1958,0,habutai silk not satin
+1959,0,gold color not black satin
+1960,1,pink pen match
+1961,1,pink pencil match
+1962,1,pink highlighter match
+1963,0,glitter powder not a pen
+1964,1,pink pen match
+1965,1,cat food water bowl match
+1966,1,cat food water bowl match
+1967,1,cat food water bowl match
+1968,1,cat food water bowl match
+1969,1,cat food water bowl match
+1970,1,hunca care brand match
+1971,0,different brand head&shoulders
+1972,0,different brand morfose
+1973,0,different brand otacı
+1974,0,different brand farmasi
+1975,1,karcher carpet washer match
+1976,1,karcher carpet washer match
+1977,1,karcher carpet washer match
+1978,1,karcher carpet washer match
+1979,1,karcher carpet washer match
+1980,1,lufian men's cardigan match
+1981,1,lufian men's cardigan match
+1982,1,lufian men's cardigan match
+1983,1,lufian men's cardigan match
+1984,1,lufian men's cardigan match
+1985,1,vitra sink brand match
+1986,1,vitra sink brand match
+1987,1,vitra sink brand match
+1988,1,vitra sink brand match
+1989,1,vitra sink brand match
+1990,0,t-shirt not a shaver
+1991,0,toothbrush unrelated
+1992,0,cotton swabs unrelated
+1993,0,led projector unrelated
+1994,0,t-shirt not a shaver
+1995,1,uzhanem cushion cover match
+1996,1,uzhanem cushion related match
+1997,1,uzhanem cushion cover match
+1998,0,different brand realhomes
+1999,0,different brand özsay home
+2000,1,karaca thermos brand match
+2001,1,karaca thermos brand match
+2002,1,karaca thermos brand match
+2003,1,karaca thermos brand match
+2004,1,karaca thermos brand match
+2005,1,home textile product match
+2006,1,home textile product match
+2007,1,home textile product match
+2008,1,home textile product match
+2009,1,home textile product match
+2010,0,child boot not women's
+2011,1,igor women's rain boot match
+2012,0,child boot not women's
+2013,0,child boot not women's
+2014,0,child boot not women's
+2015,1,bicycle rim match
+2016,1,bicycle rim match
+2017,1,bicycle rim match
+2018,1,bicycle rim match
+2019,1,bicycle rim match
+2020,1,adidas adicolor match
+2021,1,adidas adicolor match
+2022,1,adidas adicolor match
+2023,1,adidas adicolor match
+2024,1,adidas adicolor match
+2025,1,tailor's room brand match
+2026,0,different brand aker
+2027,0,different brand vl vellichor
+2028,0,different brand mango teen
+2029,0,different brand facette
+2030,1,varta battery brand match
+2031,1,varta battery brand match
+2032,1,varta battery brand match
+2033,1,varta battery brand match
+2034,1,varta charger brand match
+2035,1,measuring probe tool matches ölçü
+2036,0,scoop set not measuring set
+2037,0,storage container set not measuring
+2038,0,wall decor unrelated
+2039,0,strainer funnel set not measuring
+2040,1,chocolate sauce match
+2041,1,chocolate sauce match
+2042,1,chocolate sauce match
+2043,1,chocolate sauce match
+2044,1,chocolate sauce match
+2045,1,reflex kitten food match
+2046,1,reflex kitten food match
+2047,1,reflex kitten food match
+2048,1,reflex kitten food match
+2049,1,reflex kitten food match
+2050,1,car seat cover match
+2051,1,car seat cover match
+2052,1,car seat cover match
+2053,1,car seat cover match
+2054,1,car seat cover match
+2055,0,wrong capacity 0.5l not 1.9l
+2056,1,stanley 1.9l match
+2057,1,stanley 1.9l match
+2058,1,stanley 1.9l match
+2059,0,wrong capacity 0.47l not 1.9l
+2060,0,plain no pattern
+2061,0,solid color not patterned
+2062,0,solid color not patterned
+2063,0,solid color not patterned
+2064,1,sunflower pattern design match
+2065,1,tommy hilfiger bag match
+2066,1,tommy hilfiger bag match
+2067,1,tommy hilfiger bag match
+2068,1,tommy hilfiger bag match
+2069,1,tommy hilfiger bag match
+2070,1,mini led light match
+2071,1,mini led light match
+2072,1,mini led flashlight match
+2073,1,mini led lamp match
+2074,1,mini led string light match
+2075,1,exact book title match
+2076,0,smartphone unrelated to book
+2077,0,different book title
+2078,0,different book title
+2079,0,musical instrument unrelated
+2080,1,exact book title match
+2081,1,exact book title with author match
+2082,0,different book title
+2083,0,different book title
+2084,0,different book title
+2085,0,no match to adil koçari
+2086,0,no match to adil koçari
+2087,0,no match to adil koçari
+2088,0,no match to adil koçari
+2089,0,no match to adil koçari
+2090,0,shower curtain not store perde
+2091,0,car divider curtain not store perde
+2092,0,car divider curtain not store perde
+2093,0,shower curtain not store perde
+2094,0,towel not a curtain
+2095,1,bijuteri bracelet match
+2096,1,bijuteri bracelet match
+2097,1,bijuteri bracelet match
+2098,1,bijuteri bracelet match
+2099,1,bijuteri bracelet match

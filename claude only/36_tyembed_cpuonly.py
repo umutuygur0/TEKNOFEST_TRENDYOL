@@ -18,10 +18,12 @@ Süre tahmini (CPU): item ~90-150 dk, queries ~5-10 dk
 """
 
 # ═══════════════════════════════════════════════════════════════════
-# ADIM 0: CUDA TAMAMEN DEVRE DIŞI — bu import'lardan ÖNCE gelmeli!
+# NOT: Eski (Asus) makinede CUDA ile bu modelde process-corruption crash'i
+# vardı, bu yüzden CPU zorlanmıştı (~90-150 dk item embedding). Bu yeni
+# makinede GPU (RTX 3060) smoke-test'te sorunsuz ve ~40x daha hızlı
+# (1649 item/s) çalıştığı doğrulandı → GPU kullanılıyor.
 # ═══════════════════════════════════════════════════════════════════
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = ""     # CUDA hiç görünmez
 os.environ["TOKENIZERS_PARALLELISM"] = "false"  # tokenizer warning'i kapat
 
 import gc, sys, time, re
@@ -32,10 +34,11 @@ import pandas as pd
 sys.stdout.reconfigure(encoding="utf-8")
 
 import torch
-print(f"CUDA available: {torch.cuda.is_available()}")   # False olmalı
-print(f"Torch device: cpu (forced)")
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+print(f"CUDA available: {torch.cuda.is_available()}")
+print(f"Torch device: {DEVICE}")
 
-BASE      = Path(r"C:\Users\Asus\Desktop\projeler egit\TEKNOFEST_TRENDYOL")
+BASE      = Path(__file__).resolve().parents[1]
 DATA      = BASE / "trendyol-e-ticaret-yarismasi-2026-kaggle"
 EMB_CACHE = BASE / "claude only" / "emb_cache"
 EMB_CACHE.mkdir(exist_ok=True)
@@ -117,7 +120,7 @@ try:
     model = SentenceTransformer(
         MODEL_NAME,
         trust_remote_code=True,
-        device="cpu",
+        device=DEVICE,
     )
     # BUG FIX: position_ids buffer'ını düzelt
     for mod in model.modules():
@@ -149,7 +152,7 @@ except Exception as e:
     print("  AutoModel ile deneniyor...", flush=True)
 
     mdl = AutoModel.from_pretrained(MODEL_NAME, trust_remote_code=True)
-    mdl = mdl.to("cpu").eval()
+    mdl = mdl.to(DEVICE).eval()
     # BUG FIX
     fix_position_ids(mdl)
     USE_ST = False
@@ -161,9 +164,10 @@ except Exception as e:
     # Test
     enc_test = tok(["test ürün laptop"], padding=True, truncation=True,
                    max_length=64, return_tensors="pt")
+    enc_test = {k: v.to(DEVICE) for k, v in enc_test.items()}
     with torch.no_grad():
         out = mdl(**enc_test)
-    test_out = cls_pool(out.last_hidden_state).numpy()
+    test_out = cls_pool(out.last_hidden_state).cpu().numpy()
     print(f"  ✓ AutoModel test OK: shape={test_out.shape}", flush=True)
 
 # ─── ENCODE FONKSİYONLARI ────────────────────────────────────────
@@ -194,9 +198,10 @@ def encode_auto(texts, batch_size, max_len, label=""):
         batch = texts[i:i+batch_size]
         enc = tok(batch, padding=True, truncation=True,
                   max_length=max_len, return_tensors="pt")
+        enc = {k: v.to(DEVICE) for k, v in enc.items()}
         with torch.no_grad():
             out = mdl(**enc)
-        emb = F.normalize(out.last_hidden_state[:, 0, :], p=2, dim=-1).numpy()
+        emb = F.normalize(out.last_hidden_state[:, 0, :], p=2, dim=-1).cpu().numpy()
         all_embs.append(emb)
         done = min(i + batch_size, n)
         if (i // batch_size) % 100 == 0 or done == n:
@@ -208,9 +213,9 @@ def encode_auto(texts, batch_size, max_len, label=""):
 
 encode_fn = encode_st if USE_ST else encode_auto
 
-# CPU için batch ayarları — daha küçük batch CPU'da daha verimli
-BATCH_ITEM  = 64
-BATCH_QUERY = 128
+# GPU'da daha büyük batch daha verimli (smoke test: RTX 3060 6GB, batch=128 sorunsuz)
+BATCH_ITEM  = 128 if DEVICE == "cuda" else 64
+BATCH_QUERY = 256 if DEVICE == "cuda" else 128
 
 # ─── ITEM EMBEDDİNGLERİ ──────────────────────────────────────────
 print(f"\n[D] ITEM EMBEDDİNGLERİ ({len(items):,} item)...", flush=True)
@@ -276,19 +281,19 @@ if test_q_embs is None:
 
 # ─── KALİTE KONTROLÜ ─────────────────────────────────────────────
 print(f"\n[G] KALİTE KONTROLÜ...", flush=True)
-item_ids_arr = np.load(str(ITEM_IDS))
+item_ids_arr = np.load(str(ITEM_IDS), allow_pickle=True)
 
 # 5 test query için top-3 item
 q_sample   = test_q_embs[:5]
 cos_sample = q_sample @ item_embs.T   # (5, 962873)
-iid_to_row = {int(r.item_id): r for r in items.itertuples(index=False)}
+iid_to_row = {str(r.item_id): r for r in items.itertuples(index=False)}
 
 print(f"\n  Cosine sim örnekleri (5 test query, top-3 item):", flush=True)
 for qi in range(5):
     top3 = np.argsort(cos_sample[qi])[::-1][:3]
     print(f"  Q: '{test_q_texts[qi]}'", flush=True)
     for rank, idx in enumerate(top3):
-        iid  = int(item_ids_arr[idx])
+        iid  = str(item_ids_arr[idx])
         row  = iid_to_row.get(iid)
         ttl  = row.title[:60] if row else "?"
         print(f"    #{rank+1} cos={cos_sample[qi][idx]:.3f} | {ttl}", flush=True)

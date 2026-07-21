@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10500,1,vestel no frost buzdolabı - exact match
+10501,1,vestel no frost buzdolabı - exact match
+10502,1,vestel no frost buzdolabı - exact match
+10503,1,vestel no frost buzdolabı - exact match
+10504,1,vestel no frost buzdolabı - exact match
+10505,1,aryıldız çay makinesi - brand and type match
+10506,1,aryıldız çay makinesi - brand and type match
+10507,1,aryıldız çay makinesi - brand and type match
+10508,1,aryıldız çay makinesi - brand and type match
+10509,1,aryıldız çay makinesi - brand and type match
+10510,1,vichy branded face cream
+10511,1,vichy branded cream
+10512,1,vichy branded cream
+10513,1,vichy branded cream
+10514,1,vichy branded cream
+10515,0,accessory for oppo a52 not a54 phone
+10516,0,screen protector wrong model not a54
+10517,0,screen protector for oppo a96 not a54
+10518,0,screen protector wrong model not a54
+10519,0,screen protector wrong model not a54
+10520,1,car body/kaporta category part matches karoser
+10521,1,car body/kaporta category part matches karoser
+10522,0,cable tie clip - unrelated to karoser
+10523,1,car body/kaporta category part matches karoser
+10524,0,solar panel - unrelated to karoser
+10525,1,tesettür elbise - direct match
+10526,1,tesettür elbise category match
+10527,1,long modest dress suitable for tesettür
+10528,1,tesettür elbise mentioned in title
+10529,1,long modest dress suitable for tesettür
+10530,0,samsung galaxy s23 fe is different model than s23
+10531,1,genuine samsung galaxy s23 refurbished
+10532,1,genuine samsung galaxy s23 refurbished
+10533,1,genuine samsung galaxy s23 refurbished
+10534,1,genuine samsung galaxy s23 refurbished
+10535,1,parodontax diş macunu exact match
+10536,1,parodontax diş macunu exact match
+10537,1,parodontax diş macunu exact match
+10538,1,parodontax diş macunu exact match
+10539,1,parodontax diş macunu exact match
+10540,1,cece med brand supplement match
+10541,1,cece med brand shampoo match
+10542,1,cece med brand shampoo match
+10543,1,cece med brand ampoule match
+10544,1,cece med brand vitamin set match
+10545,1,pull & bear brand leather-style jacket
+10546,0,wrong brand basel.co not pull and bear
+10547,0,wrong brand leather club not pull and bear
+10548,0,wrong brand lee not pull and bear
+10549,0,wrong brand deriwork not pull and bear
+10550,1,ceylan otantik tesettür body exact match
+10551,1,ceylan otantik tesettür body exact match
+10552,1,ceylan otantik tesettür body exact match
+10553,1,ceylan otantik tesettür body exact match
+10554,1,ceylan otantik tesettür body exact match
+10555,1,kiko brand bb cream match
+10556,1,kiko brand bb cream match
+10557,0,wrong brand missha not kiko
+10558,0,wrong brand missha not kiko
+10559,0,wrong brand pure beauty not kiko
+10560,1,new balance 530 model match
+10561,1,new balance 530 model match
+10562,1,new balance 530 model match
+10563,1,new balance 530 model match
+10564,1,new balance 530 model match
+10565,1,bridal/abiye shoe matches gelin ayakkabısı
+10566,1,bridal/abiye shoe matches gelin ayakkabısı
+10567,1,bridal/abiye shoe matches gelin ayakkabısı
+10568,1,bridal/abiye shoe matches gelin ayakkabısı
+10569,1,bridal/abiye shoe matches gelin ayakkabısı
+10570,1,sabun bazı soap base match
+10571,1,sabun bazı soap base match
+10572,1,soap base product despite odd category
+10573,1,sabun bazı soap base match
+10574,1,sabun bazı soap base match
+10575,1,toyota chr accessory - key case
+10576,1,toyota chr accessory - floor mat
+10577,1,toyota chr accessory - floor mat set
+10578,1,toyota chr accessory - fender trim
+10579,1,toyota chr accessory - floor mat
+10580,1,selsil motor temizleme spreyi exact match
+10581,1,selsil motor temizleme spreyi exact match
+10582,1,selsil motor temizleme spreyi exact match
+10583,1,selsil motor temizleme spreyi exact match
+10584,1,selsil motor temizleme spreyi exact match
+10585,1,mupa shoes babet exact brand match
+10586,1,mupa shoes babet exact brand match
+10587,1,mupa shoes babet exact brand match
+10588,1,mupa shoes babet exact brand match
+10589,1,mupa shoes babet exact brand match
+10590,1,eşofman altı matches spor eşofmanı
+10591,1,eşofman altı matches spor eşofmanı
+10592,1,eşofman altı matches spor eşofmanı
+10593,1,eşofman altı matches spor eşofmanı
+10594,1,eşofman altı matches spor eşofmanı
+10595,1,endüstriyel mutfak ekipmanı category match
+10596,1,endüstriyel mutfak ekipmanı category match
+10597,1,endüstriyel mutfak ekipmanı category match
+10598,1,endüstriyel mutfak ekipmanı category match
+10599,1,endüstriyel mutfak ekipmanı category match
+10600,1,kahve renk şal match
+10601,1,acı kahve renk şal match
+10602,1,çikolata kahve renk şal match
+10603,1,kahve renk şal match
+10604,1,acı kahve renk şal match
+10605,1,buharlı mantı tenceresi exact match
+10606,1,buharlı mantı tenceresi seti match
+10607,1,buharlı mantı tenceresi seti match
+10608,1,mantı tencere seti match
+10609,1,mantı tenceresi match
+10610,1,anker brand şarj adaptörü match
+10611,1,anker brand şarj cihazı match
+10612,1,anker brand şarj cihazı match
+10613,0,wrong brand samsung not anker
+10614,0,wrong brand mtl not anker
+10615,1,igor brand çocuk bot exact match
+10616,1,igor brand çocuk bot exact match
+10617,1,igor brand çocuk bot exact match
+10618,1,igor brand çocuk bot exact match
+10619,1,igor brand çocuk bot exact match
+10620,1,hp brand laptop match
+10621,1,keyboard part specifically for hp laptop
+10622,1,hp brand cartridge match
+10623,1,hp brand headset match
+10624,1,hp brand ink refill match
+10625,1,yulaf kepeği exact match
+10626,1,yulaf kepeği exact match
+10627,1,yulaf kepeği exact match
+10628,1,yulaf kepeği exact match
+10629,1,yulaf kepeği exact match
+10630,1,ahşap isimlik match
+10631,1,ahşap masa isimliği match
+10632,1,ahşap harf isimlik match
+10633,1,ahşap masa isimliği match
+10634,1,ahşap kapı süsü isimlik match
+10635,1,explicit kapısı açılan door-opening toy car
+10636,0,openable hood not door
+10637,0,no door-opening feature mentioned
+10638,0,top opens not door specifically
+10639,0,no door-opening feature mentioned
+10640,0,carpet with digital print - not a digital product
+10641,0,carpet with digital print - not a digital product
+10642,0,carpet with digital print - not a digital product
+10643,0,carpet with digital print - not a digital product
+10644,0,carpet with digital print - not a digital product
+10645,1,bella maison kesme tahtası exact match
+10646,1,bella maison kesme tahtası exact match
+10647,1,bella maison kesme tahtası exact match
+10648,1,bella maison kesme matı - same category
+10649,1,bella maison kesme tahtası exact match
+10650,1,koton kadın çocuk clothing match
+10651,1,koton kadın çocuk clothing match
+10652,1,koton kadın çocuk clothing match
+10653,1,koton kadın çocuk clothing match
+10654,1,koton kadın çocuk clothing match
+10655,1,manuka brand t-shirt match
+10656,1,manuka brand t-shirt match
+10657,1,manuka brand t-shirt match
+10658,1,manuka brand t-shirt match
+10659,1,manuka brand t-shirt match
+10660,1,nike dri-fit tayt match
+10661,1,nike dri-fit tayt match
+10662,1,nike dri-fit tayt match
+10663,1,nike dri-fit tayt match
+10664,1,nike dri-fit tayt match
+10665,1,parlak mont exact match
+10666,1,parlak şişme mont match
+10667,1,parlak mont exact match
+10668,1,parlak şişme mont match
+10669,1,parlak şişme mont match
+10670,1,nargile takımı exact match
+10671,1,nargile takımı exact match
+10672,1,nargile takımı exact match
+10673,1,nargile takımı exact match
+10674,1,nargile takımı match
+10675,1,opel astra j accessory - key frame
+10676,1,opel astra j accessory - bumper
+10677,1,opel astra j accessory - floor mat
+10678,1,opel astra j accessory - floor mat
+10679,1,opel astra j accessory - door handle
+10680,1,ahşap balkon çiçekliği exact match
+10681,1,balkon çiçeklik saksılık match
+10682,1,balkon çiçek saksı standı match
+10683,1,balkon duvar rafı çiçeklik match
+10684,1,balkon duvar rafı çiçeklik match
+10685,1,yves rocher toz pudra exact match
+10686,1,yves rocher toz pudra exact match
+10687,1,yves rocher ten pudra exact match
+10688,1,yves rocher bronz pudra match
+10689,0,toner product not powder makeup
+10690,0,case for camon 19 pro not camon 40 pro
+10691,0,generic case wrong model
+10692,0,case for galaxy s24 ultra unrelated
+10693,0,case for general mobile unrelated
+10694,0,case for iphone 11 pro max unrelated
+10695,1,hastane oda süsleme set match
+10696,1,hastane oda süsleme set match
+10697,1,hastane oda süsleme match
+10698,1,hastane oda süsleme match
+10699,1,hastane odası süsleme match
+10700,1,kapı eşik çıtası exact match
+10701,1,kapı eşik profili çıtası match
+10702,1,kapı eşik profili çıtası match
+10703,1,kapı eşik profili çıtası match
+10704,1,kapı eşik profili çıtası match
+10705,0,am4 socket motherboard unrelated to m4 pro
+10706,0,poco m6 pro case not m4 pro
+10707,0,redmi note 13 pro case not m4 pro
+10708,0,poco m6 pro case not m4 pro
+10709,0,redmi note pro case not m4 pro
+10710,1,ayak takma tırnak seti exact match
+10711,1,ayak takma tırnak seti exact match
+10712,1,el ve ayak takma tırnak seti match
+10713,0,no foot-specific mention
+10714,0,no foot-specific mention
+10715,0,unrelated bread product to nonsense query
+10716,0,unrelated pacifier product
+10717,0,unrelated drone product
+10718,0,unrelated car part
+10719,0,unrelated bracelet product
+10720,1,oppo reno14 f 5g exact phone match
+10721,0,case for reno 2z not reno 14f
+10722,0,case for reno 13f not reno 14f
+10723,0,case for reno 11f not reno 14f
+10724,0,case for reno 14 not reno 14f
+10725,1,ltb brand mont match
+10726,1,ltb brand mont match
+10727,1,ltb brand mont match
+10728,1,ltb brand mont match
+10729,1,ltb brand mont match
+10730,1,yılan detaylı küpe partially matches snake
+10731,0,skull earring unrelated to cowboy/snake
+10732,0,samurai mask baby bodysuit unrelated
+10733,0,star earring unrelated to snake
+10734,0,vintage earring unrelated to snake
+10735,1,oversize erkek deri ceket exact match
+10736,1,oversize erkek deri ceket match
+10737,1,oversize erkek deri ceket match
+10738,1,oversize deri ceket match
+10739,1,oversize erkek deri mont same category
+10740,1,motosiklet kaskı exact match
+10741,1,motosiklet kaskı exact match
+10742,1,motosiklet kaskı exact match
+10743,1,motosiklet kaskı exact match
+10744,1,motosiklet kaskı exact match
+10745,1,kimchi exact match
+10746,1,kimchi exact match
+10747,1,kimchi exact match
+10748,1,kimchi exact match
+10749,1,kimchi exact match
+10750,1,silvano jewelry gümüş küpe exact match
+10751,1,silvano jewelry gümüş küpe exact match
+10752,1,silvano jewelry gümüş küpe exact match
+10753,1,silvano jewelry gümüş küpe exact match
+10754,1,silvano jewelry gümüş küpe exact match
+10755,1,kedi balkon filesi exact match
+10756,1,kedi balkon filesi exact match
+10757,1,kedi balkon filesi exact match
+10758,1,kedi balkon filesi exact match
+10759,1,kedi güvenlik balkon filesi match
+10760,1,evocapil brand set match
+10761,1,evocapil brand şampuan match
+10762,1,evocapil brand saç spreyi match
+10763,1,evocapil brand şampuan match
+10764,0,wrong brand ipek not evocapil
+10765,1,gold colored kadın kol saati match
+10766,1,gold renk kol saati match
+10767,1,gold renk kasa saat match
+10768,1,altın rengi kordon kasa saat match
+10769,0,transparent case not gold colored
+10770,1,robot süpürge exact match
+10771,1,robot süpürge exact match
+10772,1,robot süpürge exact match
+10773,1,robot süpürge exact match
+10774,1,robot süpürge exact match
+10775,0,color orange not transparent
+10776,1,explicitly şeffaf transparent container
+10777,0,color orange not transparent
+10778,1,explicitly şeffaf transparent container
+10779,0,color white not transparent
+10780,1,alt-üst takım matches takım query
+10781,1,alt-üst takım matches takım query
+10782,1,alt-üst takım matches takım query
+10783,1,ceket pantolon takım matches takım query
+10784,1,alt-üst takım matches takım query
+10785,1,sesli çocuk kitabı category exact match
+10786,1,sesli çocuk kitabı category exact match
+10787,1,sesli çocuk kitabı category exact match
+10788,1,sesli çocuk kitabı category exact match
+10789,1,sesli çocuk kitabı category exact match
+10790,1,travel sistem bebek arabası exact match
+10791,1,travel sistem bebek arabası exact match
+10792,1,travel sistem bebek arabası exact match
+10793,1,seyahat sistem bebek arabası match
+10794,1,seyahat sistem bebek arabası match
+10795,1,women's dress matches dress query
+10796,1,women's dress matches dress query
+10797,1,women's dress matches dress query
+10798,1,women's dress matches dress query
+10799,1,women's dress matches dress query
+10800,0,dove hair mask not peeling product
+10801,0,dove hair mask not peeling product
+10802,0,kerastase peeling but wrong brand
+10803,0,not dove brand not peeling
+10804,0,not dove brand not peeling
+10805,1,ihram set matches umre malzemeleri
+10806,1,seccade tesbih bohça set matches umre
+10807,1,seccade tesbih set matches umre
+10808,1,umre günlüğü defter exact match
+10809,1,ihram takımı matches umre malzemeleri
+10810,1,oto cam kriko exact match
+10811,1,oto cam kriko exact match
+10812,1,oto cam kriko exact match
+10813,1,oto cam kriko exact match
+10814,1,oto cam kriko exact match
+10815,0,poster/wall art not an actual teapot
+10816,0,carpet with teapot pattern not a teapot
+10817,0,cup set not a teapot
+10818,0,breakfast set not a teapot
+10819,0,wall art not an actual teapot
+10820,0,ja 1 shoe not ja 3
+10821,0,xbox accessory unrelated
+10822,0,adidas shoe not ja branded
+10823,0,jordan spizike not ja 3
+10824,0,air jordan 1 not ja 3
+10825,1,yağmurluk exact match
+10826,1,yağmurluk exact match
+10827,1,rüzgarlık yağmurluk match
+10828,1,rüzgarlık yağmurluk match
+10829,1,yağmurluk exact match
+10830,1,panduf ev botu category match
+10831,1,panduf ev botu category match
+10832,1,panduf category match child
+10833,1,bebe panduf category match
+10834,1,bebek panduf category match
+10835,1,rugan spor deri ayakkabı match
+10836,1,rugan spor ayakkabı match
+10837,1,rugan spor ayakkabı match
+10838,1,rugan spor ayakkabı match
+10839,1,rugan spor ayakkabı match
+10840,1,balkon dekorasyon ürünü match
+10841,1,balkon dekorasyon ürünü match
+10842,1,balkon bahçe dekoru match
+10843,1,balkon bahçe çiti dekoru match
+10844,1,balkon dekorasyon ürünü match
+10845,1,dijital kol saati exact match
+10846,1,dijital kol saati exact match
+10847,1,dijital led ekran saat match
+10848,1,dijital masa saati match
+10849,1,dijital masa saati match

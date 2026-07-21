@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11550,1,matches tayt category
+11551,1,kapri tayt matches
+11552,1,kapri tayt matches
+11553,1,tayt category match
+11554,1,kısa tayt same category
+11555,1,jazz şal match
+11556,1,jazz şal match
+11557,1,jazz şal match
+11558,1,jazz şal match
+11559,1,jazz şal match
+11560,1,dove serum match
+11561,1,dove serum match
+11562,1,dove serum product
+11563,0,wrong brand not dove
+11564,0,wrong brand not dove
+11565,1,blender part match
+11566,1,blender part match
+11567,1,blender part match
+11568,1,blender part match
+11569,1,blender part match
+11570,1,erkek kol saati match
+11571,1,erkek kol saati match
+11572,1,erkek kol saati match
+11573,1,erkek kol saati match
+11574,1,erkek kol saati match
+11575,1,kaşe kaban mont match
+11576,0,buklet fabric not kaşe
+11577,1,kaşe kaban match
+11578,1,kaşe mont match
+11579,0,plain kaban no kaşe
+11580,1,rölyef pasta match
+11581,1,rölyef pasta match
+11582,1,rölyef pasta match
+11583,1,rölyef pasta match
+11584,1,rölyef pasta match
+11585,1,adidas samba kids match
+11586,1,adidas samba kids match
+11587,1,adidas samba kids match
+11588,1,adidas samba kids match
+11589,1,adidas samba kids match
+11590,1,soho sneaker match
+11591,1,soho sneaker match
+11592,1,soho sneaker match
+11593,1,soho sneaker match
+11594,1,soho sneaker match
+11595,1,actual micro security camera
+11596,0,lens protector not camera
+11597,0,lens protector not camera
+11598,0,lens protector not camera
+11599,0,lens protector not camera
+11600,1,orthopedic mattress match
+11601,1,orthopedic mattress match
+11602,1,orthopedic mattress match
+11603,1,orthopedic foam mattress match
+11604,1,orthopedic mattress match
+11605,1,ayakkabılık puf match
+11606,1,ayakkabılık puf match
+11607,1,ayakkabılık puf match
+11608,1,ayakkabılık puf match
+11609,1,ayakkabılık puf match
+11610,1,barutlu çivi contains barut
+11611,0,paint color name not gunpowder
+11612,0,unrelated book author surname
+11613,0,unrelated water filter part
+11614,0,unrelated book author surname
+11615,1,table candle match
+11616,1,table candle match
+11617,1,table candle match
+11618,1,table candle match
+11619,1,table candle match
+11620,1,women's sweater match
+11621,1,women's sweater match
+11622,1,women's sweater match
+11623,1,women's sweater match
+11624,1,women's sweater match
+11625,1,bershka loafer brand match
+11626,0,wrong brand not bershka
+11627,0,wrong brand not bershka
+11628,0,wrong brand not bershka
+11629,0,wrong brand not bershka
+11630,1,burenze abajur match
+11631,1,burenze abajur match
+11632,1,burenze abajur match
+11633,1,burenze abajur match
+11634,1,burenze abajur match
+11635,1,electrolux brand match
+11636,1,electrolux brand match
+11637,1,electrolux brand match
+11638,1,electrolux brand match
+11639,1,electrolux brand match
+11640,1,redmi tablet pen match
+11641,0,not redmi brand stylus
+11642,0,not redmi brand stylus
+11643,0,tablet not pen
+11644,0,not redmi brand stylus
+11645,1,electric manicure set match
+11646,1,electric manicure set match
+11647,1,electric manicure set match
+11648,1,electric manicure set match
+11649,1,electric manicure set match
+11650,1,breakfast cereal match
+11651,0,roasted chickpeas not cereal
+11652,1,breakfast cereal match
+11653,1,breakfast cereal match
+11654,1,breakfast cereal match
+11655,1,costume ring set match
+11656,1,costume ring set match
+11657,1,costume ring set match
+11658,1,costume ring set match
+11659,1,costume ring set match
+11660,1,salon textile tablecloth match
+11661,1,salon textile tablecloth match
+11662,1,salon textile tablecloth match
+11663,1,salon textile tablecloth match
+11664,1,salon textile tablecloth match
+11665,1,drawer organizer match
+11666,1,drawer organizer match
+11667,1,drawer organizer match
+11668,1,drawer organizer match
+11669,1,drawer organizer match
+11670,1,black film wrap match
+11671,1,black film wrap match
+11672,1,black film wrap match
+11673,1,black film wrap match
+11674,1,black film wrap match
+11675,1,adidas sneaker match
+11676,1,adidas sneaker match
+11677,1,adidas sneaker match
+11678,1,adidas sneaker match
+11679,1,adidas sneaker match
+11680,1,teyze sepeti basket match
+11681,1,teyze sepeti basket match
+11682,0,baby onesie not basket
+11683,0,baby body set not basket
+11684,1,teyze sepeti basket match
+11685,1,wooden spice rack match
+11686,1,wooden spice rack match
+11687,1,wooden spice rack match
+11688,1,wooden spice rack match
+11689,1,wooden spice rack match
+11690,1,eyelash glue match
+11691,1,eyelash glue match
+11692,1,eyelash glue match
+11693,1,eyelash glue match
+11694,0,nail glue not eyelash
+11695,1,elsa shoes match
+11696,1,elsa shoes match
+11697,1,elsa shoes match
+11698,1,elsa shoes match
+11699,1,elsa shoes match
+11700,1,evening dress women match
+11701,0,child age not women
+11702,1,evening dress women match
+11703,1,evening dress women match
+11704,1,evening dress women match
+11705,1,charm bracelet match
+11706,1,charm bracelet match
+11707,1,charm bracelet match
+11708,1,charm bracelet match
+11709,1,charm bracelet match
+11710,1,koton kids match
+11711,1,koton kids match
+11712,1,koton kids match
+11713,1,koton kids match
+11714,1,koton kids match
+11715,1,crayon set match
+11716,1,crayon set match
+11717,1,crayon set match
+11718,1,crayon set match
+11719,1,crayon set match
+11720,1,dyson airwrap stand match
+11721,1,dyson airwrap stand match
+11722,0,generic hair dryer hanger not dyson
+11723,0,generic hair dryer holder not dyson
+11724,0,unrelated mop hanger
+11725,1,helmet net match
+11726,1,helmet net match
+11727,1,helmet net match
+11728,1,helmet net match
+11729,1,helmet net match
+11730,1,book titled 101 exact match
+11731,0,code n101 not literal 101
+11732,0,code z101 not literal 101
+11733,0,code v101 not literal 101
+11734,0,code z101 not literal 101
+11735,1,peugeot keychain match
+11736,1,peugeot keychain match
+11737,1,peugeot cushion set match
+11738,1,peugeot cushion set match
+11739,1,peugeot pillow match
+11740,1,study schedule board match
+11741,1,study schedule board match
+11742,1,study schedule board match
+11743,1,study schedule board match
+11744,0,generic planner not study specific
+11745,1,paint brush set match
+11746,1,paint brush set match
+11747,1,paint brush set match
+11748,1,paint brush set match
+11749,1,paint brush set match
+11750,1,gray loose sweatpants match
+11751,1,gray loose sweatpants match
+11752,0,color not specified as gray
+11753,0,color not specified as gray
+11754,1,gray loose sweatpants match
+11755,1,acar feel product line match
+11756,0,wrong brand not acar
+11757,0,wrong brand not acar
+11758,0,wrong brand not acar
+11759,0,acar brand but not feel line
+11760,1,proplan brand match
+11761,1,proplan brand match
+11762,1,proplan brand match
+11763,1,proplan brand match
+11764,1,proplan brand match
+11765,1,stainless strainer match
+11766,1,stainless strainer match
+11767,1,stainless strainer match
+11768,1,stainless strainer match
+11769,1,stainless strainer match
+11770,1,moka pot coffee maker match
+11771,0,wall art not coffee pot
+11772,0,wall poster not coffee pot
+11773,0,capsule machine not moka pot
+11774,0,room fragrance not coffee pot
+11775,1,2m type c cable match
+11776,1,2m type c cable match
+11777,0,1m cable wrong length
+11778,1,2m type c cable match
+11779,0,1m cable wrong length
+11780,0,musical bar chimes not bar table
+11781,0,champagne bucket not bar table
+11782,0,trivet stand not bar table
+11783,0,LED lamp not bar table
+11784,0,serving tray not bar table
+11785,1,washed leather bag match
+11786,1,washed leather bag match
+11787,1,washed leather bag match
+11788,1,washed leather bag match
+11789,1,washed leather bag match
+11790,1,dresser mirror match
+11791,1,dresser mirror match
+11792,1,dresser mirror match
+11793,1,dresser mirror match
+11794,1,dresser mirror match
+11795,1,netted almonds match
+11796,1,netted almonds match
+11797,1,netted almonds match
+11798,1,netted almonds match
+11799,1,netted almonds match
+11800,1,maybelline lifter glaze match
+11801,1,maybelline lifter glaze match
+11802,1,maybelline lifter glaze match
+11803,0,lifter gloss not glaze line
+11804,0,wrong brand not maybelline
+11805,1,kpss test book match
+11806,1,kpss test book match
+11807,1,kpss test book match
+11808,1,kpss test book match
+11809,1,kpss test book match
+11810,1,monogram letter towel match
+11811,1,monogram letter towel match
+11812,1,monogram letter towel match
+11813,0,no letter monogram feature
+11814,0,slippers not towel
+11815,1,hot wheels track set match
+11816,1,hot wheels track set match
+11817,1,hot wheels track set match
+11818,1,hot wheels track set match
+11819,1,hot wheels track set match
+11820,1,eko halı brand rug match
+11821,1,eko halı brand rug match
+11822,1,eko halı brand rug match
+11823,1,eko halı brand rug match
+11824,1,eko halı brand rug match
+11825,1,2 seater sofa cover match
+11826,1,2 seater sofa cover match
+11827,1,2 seater sofa cover match
+11828,1,2 seater sofa cover match
+11829,1,2 seater sofa cover match
+11830,1,macrame wall decor match
+11831,1,macrame wall decor match
+11832,1,macrame wall decor match
+11833,1,macrame wall decor match
+11834,1,macrame wall decor match
+11835,1,wooden stick match
+11836,1,wooden stick match
+11837,1,wooden stick match
+11838,1,wooden stick match
+11839,1,wooden skewer stick match
+11840,1,women's maroon sneaker match
+11841,1,women's maroon sneaker match
+11842,1,women's maroon sneaker match
+11843,1,women's maroon sneaker match
+11844,1,women's maroon sneaker match
+11845,0,slipper not boot
+11846,0,slipper not boot
+11847,0,slipper not boot
+11848,0,slipper not boot
+11849,0,slipper not boot
+11850,1,maple syrup match
+11851,1,maple syrup match
+11852,1,maple syrup match
+11853,1,maple syrup match
+11854,1,maple syrup match
+11855,1,men's oversize tshirt match
+11856,1,men's oversize tshirt match
+11857,1,men's oversize tshirt match
+11858,1,unisex includes men oversize
+11859,1,men's oversize tshirt match
+11860,1,lego botanicals match
+11861,1,lego botanicals match
+11862,1,lego botanicals match
+11863,1,lego botanicals match
+11864,1,lego botanicals match
+11865,1,bigdart mont match
+11866,1,bigdart mont match
+11867,1,bigdart mont match
+11868,1,bigdart mont match
+11869,1,bigdart mont match
+11870,1,hooded coat match
+11871,1,hooded coat match
+11872,1,hooded coat match
+11873,1,hooded coat match
+11874,1,hooded coat match
+11875,1,converse sneaker match
+11876,1,converse sneaker match
+11877,1,converse sneaker match
+11878,1,converse sneaker match
+11879,1,converse sneaker match
+11880,0,title indicates hyundai getz part
+11881,1,toyota chr wiper match
+11882,0,honda civic part not toyota
+11883,1,toyota avensis wiper match
+11884,0,kia keychain not toyota
+11885,1,rhinestone detail slipper match
+11886,1,rhinestone detail slipper match
+11887,0,no rhinestone detail
+11888,0,no rhinestone detail
+11889,0,no rhinestone detail
+11890,1,loreal hair product match
+11891,1,loreal hair product match
+11892,1,loreal hair product match
+11893,1,loreal hair product match
+11894,1,loreal hair product match
+11895,1,kryolan foundation match
+11896,1,kryolan foundation match
+11897,1,kryolan foundation match
+11898,1,kryolan foundation match
+11899,1,kryolan foundation match

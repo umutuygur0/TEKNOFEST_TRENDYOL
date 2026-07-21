@@ -1,0 +1,83 @@
+Device: cuda
+
+[A] Veri yükleniyor + negatifler üretiliyor (v33 tarifi)...
+  Train: 1,499,998 | 66.4s
+  Duman testi örneklemi: 80,000 (rare dahil: 26,666)
+
+[B] TabiBERT yükleniyor (boun-tabilab/TabiBERT)...
+  ✓ Yüklendi (163.5s) — model_type: modernbert
+  Parametre sayısı: 149,458,177
+
+[C] Küçük fine-tune (2 epoch, 80K örnek)...
+  Tokenize: 5.4s
+  Epoch 1 step 0/2500 loss=0.6679
+  Epoch 1 step 100/2500 loss=0.2938
+  Epoch 1 step 200/2500 loss=0.2224
+  Epoch 1 step 300/2500 loss=0.1970
+  Epoch 1 step 400/2500 loss=0.1778
+  Epoch 1 step 500/2500 loss=0.1673
+  Epoch 1 step 600/2500 loss=0.1576
+  Epoch 1 step 700/2500 loss=0.1514
+  Epoch 1 step 800/2500 loss=0.1462
+  Epoch 1 step 900/2500 loss=0.1422
+  Epoch 1 step 1000/2500 loss=0.1392
+  Epoch 1 step 1100/2500 loss=0.1351
+  Epoch 1 step 1200/2500 loss=0.1309
+  Epoch 1 step 1300/2500 loss=0.1280
+  Epoch 1 step 1400/2500 loss=0.1252
+  Epoch 1 step 1500/2500 loss=0.1248
+  Epoch 1 step 1600/2500 loss=0.1226
+  Epoch 1 step 1700/2500 loss=0.1206
+  Epoch 1 step 1800/2500 loss=0.1188
+  Epoch 1 step 1900/2500 loss=0.1175
+  Epoch 1 step 2000/2500 loss=0.1164
+  Epoch 1 step 2100/2500 loss=0.1156
+  Epoch 1 step 2200/2500 loss=0.1144
+  Epoch 1 step 2300/2500 loss=0.1129
+  Epoch 1 step 2400/2500 loss=0.1112
+  Epoch 2 step 0/2500 loss=0.0280
+  Epoch 2 step 100/2500 loss=0.0627
+  Epoch 2 step 200/2500 loss=0.0694
+  Epoch 2 step 300/2500 loss=0.0709
+  Epoch 2 step 400/2500 loss=0.0674
+  Epoch 2 step 500/2500 loss=0.0680
+  Epoch 2 step 600/2500 loss=0.0656
+  Epoch 2 step 700/2500 loss=0.0661
+  Epoch 2 step 800/2500 loss=0.0647
+  Epoch 2 step 900/2500 loss=0.0663
+  Epoch 2 step 1000/2500 loss=0.0669
+  Epoch 2 step 1100/2500 loss=0.0659
+  Epoch 2 step 1200/2500 loss=0.0665
+  Epoch 2 step 1300/2500 loss=0.0665
+  Epoch 2 step 1400/2500 loss=0.0660
+  Epoch 2 step 1500/2500 loss=0.0665
+  Epoch 2 step 1600/2500 loss=0.0665
+  Epoch 2 step 1700/2500 loss=0.0667
+  Epoch 2 step 1800/2500 loss=0.0664
+  Epoch 2 step 1900/2500 loss=0.0664
+  Epoch 2 step 2000/2500 loss=0.0669
+  Epoch 2 step 2100/2500 loss=0.0663
+  Epoch 2 step 2200/2500 loss=0.0661
+  Epoch 2 step 2300/2500 loss=0.0664
+  Epoch 2 step 2400/2500 loss=0.0659
+
+  ✓ Fine-tune tamamlandı: 2574.3s | 1.94 adım/sn
+  → 500K/5-epoch tam koşu tahmini: 670 dk (~11.2 saat)
+
+[D] Inference hız kıyaslaması (50K satır, aynı donanım)...
+  TabiBERT: 50,000 satır | 171.3s | 292 satır/sn
+
+  Mevcut dbmdz/bert-base-turkish-cased (models/bert_v23) yükleniyor kıyaslama için...
+  dbmdz (mevcut): 50,000 satır | 106.1s | 471 satır/sn
+
+  HIZ ORANI: TabiBERT / dbmdz = 0.62x
+
+=================================================================
+DUMAN TESTİ TAMAMLANDI
+=================================================================
+Karar kriterleri:
+  1. Loss düzenli düştü mü? (yukarıdaki loglara bak)
+  2. Hız oranı > 1.0 mu? (TabiBERT daha hızlıysa v34'te bütçe avantajı var)
+  3. Hata/çökme olmadı mı? (bu satıra ulaşıldıysa hayır)
+→ Sağlıklıysa: v34 TabiBERT ile tam koşu.
+→ Sorunluysa: v34 dbmdz/electra-base-turkish-cased-discriminator ile.

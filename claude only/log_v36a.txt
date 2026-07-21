@@ -1,0 +1,104 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | renkli ürün: 748,419 (77.7%) | 35.0s
+  Train-test term_id örtüşmesi: 0 (0 olmalı)
+
+[A2] Enhanced negatives (NEG_PER_POS=5, + YENİ color_conflict)...
+  Negatif kaynak: {'same_brand_diff_sub': 116061, 'same_main_category': 249993, 'different_main_category': 705311, 'same_brand_diff_main': 115108, 'gender_conflict': 36733, 'color_conflict': 12838, 'age_conflict': 13954}
+  (v23/v31/v32'nin diğer 6 kaynağıyla karşılaştır — yakın olmalı; color_conflict eklendiği için same_main/diff_main biraz azalmış olabilir, bu BEKLENEN ve ZARARSIZ)
+  Train: 1,499,998 | pos=250,000 neg=1,249,998
+
+[A2] v36a: LLM-doğrulamalı satırlar ekleniyor (v35 train-side + v36 test-side)...
+  51_llm_labels/merged_llm_labels.csv: 12,028 yeni satır (pos=10,783, neg=1,245)
+  57_llm_labels_test/merged_test_llm_labels.csv: 13,750 yeni satır (pos=10,893, neg=2,857)
+  Toplam LLM etiketli yeni satır: 25,778
+    Toplam pozitif: 21,676 | Toplam negatif: 4,102
+  Train (v36a genişletilmiş): 1,525,776 (orijinal 1,499,998 + LLM 25,778)
+
+[B] BERT v34 (cache + sadece yeni LLM satırları için inference)...
+  Device: cuda
+  BERT v34 cache'de var → yükleniyor (yeniden eğitim YOK)
+  Orijinal train BERT cache'den: 1,499,998
+  LLM-doğrulamalı YENİ satırlar için BERT inference (25,778 çift, cache'li ELECTRA modeliyle, yeniden eğitim YOK)...
+    train-llm 25,778/25,778
+  → 1.0 dk
+  Toplam train_bert: 1,525,776 (orijinal 1,499,998 + LLM 25,778)
+  Test BERT cache'den: 3,359,679
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan)...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,525,776 (3%)
+    1,050,000/1,525,776 (69%)
+    1,525,776/1,525,776 (100%)
+  train_cos: pos mean=0.662 neg mean=0.137
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.317
+  → 0.5 dk
+
+[C2] Trusted brand + category phrase sözlükleri kuruluyor...
+  Trusted brand sayısı: 55,580 (toplam benzersiz brand: 79,790)
+  Category phrase sayısı: 3,421
+
+[D] FEATURE ENGINEERING...
+  Train features: (1525776, 41) | 521.5s
+
+[E] BINARY LGBM 5-FOLD (n_estimators=4000, early_stop=150)...
+  Fold 1 | iter=2473 | val F1≈0.9645
+  Fold 2 | iter=2130 | val F1≈0.9729
+  Fold 3 | iter=2288 | val F1≈0.9712
+  Fold 4 | iter=2179 | val F1≈0.9709
+  Fold 5 | iter=2931 | val F1≈0.9696
+
+  OOF F1=0.96973 | thr=0.7750
+
+  Feature Önemleri (top 20):
+    bert_score               :  32593
+    tyembed_cos              :  32523
+    fuzz_basic               :  23377
+    fuzz_partial             :  22845
+    fuzz_sort                :  20791
+    fuzz_set                 :  18153
+    tfidf_cos                :  15224
+    t_len                    :  14977
+    ana_kategori             :  10965
+    cat_overlap              :   9064
+    stem_cat_jac             :   8901
+    attr_jac_fixed           :   7734
+    category_phrase_match    :   5151
+    stem_jaccard             :   5137
+    q_len                    :   5114
+    weighted_q_cov           :   3978
+    t_cov_query              :   3929
+    jaccard                  :   3845
+    attr_q_cov               :   3679
+    brand_weight             :   3599
+
+=================================================================
+SAĞLIK KONTROLÜ
+=================================================================
+  ✓ OOF F1 (0.9697) v34'e (0.96999) yakın/altında — makul bir sinyal.
+
+  LLM veri kaynak dağılımı (toplam): pozitif=21,676 | negatif=4,102
+  Kaynak bazında: {'llm_recovered_positive_test': np.int64(10893), 'llm_recovered_positive': np.int64(10783), 'llm_verified_negative_test': np.int64(2857), 'llm_verified_negative': np.int64(1245)}
+  ✓ En baskın feature 'bert_score' importance'ın sadece %12'ini oluşturuyor.
+=================================================================
+
+[F] TEST INFERENCE + SUBMISSION (doğrudan threshold, quantile mapping YOK)...
+  thr=0.7750 (OOF'tan doğrudan) → Pozitif=898,965 (26.8%)
+
+=================================================================
+TAMAMLANDI — v36a test-dağılımı LLM-doğrulamalı hızlı test
+  OOF F1        : 0.96973 (v34: 0.96999, v35a: 0.96996)
+  OOF threshold : 0.7750
+  Pozitif       : 898,965 (26.8%)
+  Train çifti   : 1,525,776 (orijinal 1,499,998 + LLM 25,778)
+  Feature sayısı: 41 (v34 ile aynı 41)
+  Toplam süre   : 49.1 dk
+  Dosya         : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v36a_quicktest.csv
+=================================================================

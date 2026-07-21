@@ -1,0 +1,101 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | renkli ürün: 748,419 (77.7%) | 31.6s
+  Train-test term_id örtüşmesi: 0 (0 olmalı)
+
+[A2] Enhanced negatives (NEG_PER_POS=5, + YENİ color_conflict)...
+  Negatif kaynak: {'same_brand_diff_sub': 116061, 'same_main_category': 249993, 'different_main_category': 705311, 'same_brand_diff_main': 115108, 'gender_conflict': 36733, 'color_conflict': 12838, 'age_conflict': 13954}
+  (v23/v31/v32'nin diğer 6 kaynağıyla karşılaştır — yakın olmalı; color_conflict eklendiği için same_main/diff_main biraz azalmış olabilir, bu BEKLENEN ve ZARARSIZ)
+  Train: 1,499,998 | pos=250,000 neg=1,249,998
+
+[A2] v35a: LLM-doğrulamalı satırlar ekleniyor...
+  LLM etiketli yeni satır: 12,028 (mevcutlarla çakışan/duplike elendi)
+    llm_recovered_positive: 10,783 | llm_verified_negative: 1,245
+  Train (v35a genişletilmiş): 1,512,026 (orijinal 1,499,998 + LLM 12,028)
+
+[B] BERT v34 (cache + sadece yeni LLM satırları için inference)...
+  Device: cuda
+  BERT v34 cache'de var → yükleniyor (yeniden eğitim YOK)
+  Orijinal train BERT cache'den: 1,499,998
+  LLM-doğrulamalı YENİ satırlar için BERT inference (12,028 çift, cache'li ELECTRA modeliyle, yeniden eğitim YOK)...
+    train-llm 12,028/12,028
+  → 0.4 dk
+  Toplam train_bert: 1,512,026 (orijinal 1,499,998 + LLM 12,028)
+  Test BERT cache'den: 3,359,679
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan)...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,512,026 (3%)
+    1,050,000/1,512,026 (69%)
+    1,512,026/1,512,026 (100%)
+  train_cos: pos mean=0.690 neg mean=0.137
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.317
+  → 0.5 dk
+
+[C2] Trusted brand + category phrase sözlükleri kuruluyor...
+  Trusted brand sayısı: 55,580 (toplam benzersiz brand: 79,790)
+  Category phrase sayısı: 3,421
+
+[D] FEATURE ENGINEERING...
+  Train features: (1512026, 41) | 450.8s
+
+[E] BINARY LGBM 5-FOLD (n_estimators=4000, early_stop=150)...
+  Fold 1 | iter=2266 | val F1≈0.9696
+  Fold 2 | iter=2118 | val F1≈0.9713
+  Fold 3 | iter=2190 | val F1≈0.9703
+  Fold 4 | iter=2419 | val F1≈0.9694
+  Fold 5 | iter=2543 | val F1≈0.9692
+
+  OOF F1=0.96996 | thr=0.7700
+
+  Feature Önemleri (top 20):
+    tyembed_cos              :  31856
+    bert_score               :  31659
+    fuzz_basic               :  22704
+    fuzz_partial             :  22058
+    fuzz_sort                :  20190
+    fuzz_set                 :  17392
+    t_len                    :  14540
+    tfidf_cos                :  14200
+    ana_kategori             :  10248
+    cat_overlap              :   9180
+    stem_cat_jac             :   8603
+    attr_jac_fixed           :   7552
+    category_phrase_match    :   4903
+    q_len                    :   4761
+    stem_jaccard             :   4733
+    t_cov_query              :   3690
+    weighted_q_cov           :   3665
+    jaccard                  :   3634
+    attr_q_cov               :   3545
+    brand_weight             :   3502
+
+=================================================================
+SAĞLIK KONTROLÜ
+=================================================================
+  ✓ OOF F1 (0.9700) v34'e (0.96999) yakın/altında — makul bir sinyal.
+
+  LLM veri kaynak dağılımı: llm_recovered_positive=10,783 | llm_verified_negative=1,245
+  ✓ En baskın feature 'tyembed_cos' importance'ın sadece %12'ini oluşturuyor.
+=================================================================
+
+[F] TEST INFERENCE + SUBMISSION (doğrudan threshold, quantile mapping YOK)...
+  thr=0.7700 (OOF'tan doğrudan) → Pozitif=904,565 (26.9%)
+
+=================================================================
+TAMAMLANDI — v35a LLM-doğrulamalı hızlı test
+  OOF F1        : 0.96996 (v34: 0.96999)
+  OOF threshold : 0.7700
+  Pozitif       : 904,565 (26.9%)
+  Train çifti   : 1,512,026 (orijinal 1,499,998 + LLM 12,028)
+  Feature sayısı: 41 (v34 ile aynı 41)
+  Toplam süre   : 45.1 dk
+  Dosya         : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v35a_llm_verified.csv
+=================================================================

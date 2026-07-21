@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10500,1,van gogh tablo matches title directly
+10501,1,contains van gogh among tablo set
+10502,1,nyx dudak parlatıcısı exact match
+10503,1,nyx dudak parlatıcısı exact match
+10504,1,nyx dudak parlatıcısı exact match
+10505,1,nyx lip gloss product matches
+10506,1,nyx tinted lip gloss matches
+10507,1,h&m kız çocuk elbise matches
+10508,1,h&m kız çocuk elbise matches
+10509,0,age group yetişkin not çocuk
+10510,0,age group yetişkin not çocuk
+10511,1,h&m elbise bebek & çocuk matches
+10512,1,küçük boy nargile takımı matches
+10513,1,küçük boy nargile takımı matches
+10514,1,küçük boy nargile takımı matches
+10515,1,nargile takımı küçük boy matches
+10516,1,küçük boy nargile takımı matches
+10517,1,dev büyük peluş ayıcık matches
+10518,1,dev büyük peluş ayıcık matches
+10519,1,dev büyük peluş ayıcık matches
+10520,1,dev büyük peluş ayıcık matches
+10521,1,dev büyük peluş ayıcık matches
+10522,1,koruma örtüsü textile cover matches
+10523,1,koruma örtüsü textile cover matches
+10524,1,koruma örtüsü textile cover matches
+10525,1,koruma örtüsü textile cover matches
+10526,1,mobilya koruma örtüsü textile cover matches
+10527,1,baby turco yenidoğan islak mendil matches
+10528,1,baby turco yenidoğan islak mendil matches
+10529,1,baby turco yenidoğan islak mendil matches
+10530,0,wrong brand baby&me not baby turco
+10531,0,wrong brand baby&me not baby turco
+10532,1,happiness istanbul alt-üst takım matches
+10533,1,happiness istanbul alt-üst takım matches
+10534,1,happiness istanbul alt-üst takım matches
+10535,1,happiness istanbul alt-üst takım matches
+10536,1,happiness istanbul alt-üst takım matches
+10537,1,ace çamaşır suyu matches
+10538,1,ace çamaşır suyu matches
+10539,1,ace çamaşır suyu matches
+10540,1,ace çamaşır suyu matches
+10541,1,ace çamaşır suyu matches
+10542,1,bambu tepsi matches
+10543,1,bambu tepsi matches
+10544,1,bambu tepsi labeled title match
+10545,1,bambu tepsi matches
+10546,1,bambu tepsi matches
+10547,1,hp mouse matches
+10548,1,hp mouse matches
+10549,1,hp mouse matches
+10550,1,hp mouse matches
+10551,1,hp mouse matches
+10552,1,tesettür modest etek matches
+10553,1,tesettür modest etek matches
+10554,0,regular etek not modest/tesettür labeled
+10555,1,tesettür kloş etek matches
+10556,0,regular etek not modest/tesettür labeled
+10557,0,iç cephe boyası not dış cephe as queried
+10558,0,iç cephe boyası not dış cephe as queried
+10559,0,iç cephe boyası not dış cephe as queried
+10560,0,iç cephe boyası not dış cephe as queried
+10561,0,iç cephe boyası not dış cephe as queried
+10562,1,dolap içi düzenleyici raf mutfak matches
+10563,1,dolap içi düzenleyici raf mutfak matches
+10564,1,dolap içi düzenleyici mutfak rafı matches
+10565,1,dolap içi düzenleyici raf mutfak matches
+10566,1,dolap içi düzenleyici raf matches
+10567,1,yves rocher comme une evidence matches
+10568,1,yves rocher comme une evidence matches
+10569,1,yves rocher comme une evidence matches
+10570,1,yves rocher comme une evidence matches
+10571,1,yves rocher comme une evidence matches
+10572,1,schafer yemek takımı matches
+10573,1,schafer yemek takımı matches
+10574,1,schafer yemek takımı matches
+10575,1,schafer yemek takımı matches
+10576,1,schafer yemek takımı matches
+10577,1,tırnak törpüsü matches
+10578,1,tırnak törpüsü matches
+10579,1,tırnak törpüsü matches
+10580,1,tırnak törpüsü matches
+10581,1,tırnak törpüsü matches
+10582,0,no costa riche product line found
+10583,0,no costa riche product line found
+10584,0,no costa riche product line found
+10585,0,no costa riche product line found
+10586,0,no costa riche product line found
+10587,1,eşarp yüzüğü scarf ring matches
+10588,1,eşarp yüzüğü scarf ring matches
+10589,0,scarf clip not ring
+10590,0,scarf pin not ring
+10591,0,scarf pin not ring
+10592,1,biker ceket matches
+10593,1,biker ceket matches
+10594,1,biker style ceket matches
+10595,1,biker style ceket matches
+10596,1,biker mont ceket matches
+10597,1,iphone charger matches
+10598,1,iphone charger matches
+10599,1,iphone charger matches
+10600,1,iphone charger matches
+10601,1,iphone charger matches
+10602,1,cengiz pakel erkek cüzdan matches
+10603,1,cengiz pakel erkek cüzdan matches
+10604,1,cengiz pakel erkek cüzdan matches
+10605,1,cengiz pakel erkek cüzdan matches
+10606,1,cengiz pakel erkek cüzdan matches
+10607,1,bargello pudra kokulu parfüm matches
+10608,1,bargello pudra kokulu parfüm matches
+10609,1,bargello pudra kokulu parfüm matches
+10610,1,pudramsı powdery scent parfüm matches
+10611,0,oda kokusu room fragrance not personal parfüm
+10612,1,bulaşık tuzu matches
+10613,1,bulaşık tuzu matches
+10614,1,bulaşık tuzu matches
+10615,1,bulaşık tuzu matches
+10616,1,bulaşık makinesi tuzu title matches
+10617,1,külçe gümüş matches
+10618,1,külçe gümüş matches
+10619,1,külçe gümüş matches
+10620,1,külçe gümüş matches
+10621,1,külçe gümüş matches
+10622,1,makrome perde matches
+10623,1,makrome perde matches
+10624,1,makrome ip perde matches
+10625,1,makrome ip perde matches
+10626,1,makrome perde matches
+10627,1,c vitamini serum matches
+10628,1,c vitamini serum matches
+10629,1,c vitamini serum matches
+10630,1,c vitamini toz product matches
+10631,1,vitamin c serum matches
+10632,1,rgb led video efekt işığı matches
+10633,1,efektli ses kartı studio set matches
+10634,1,auto-tune audio effect device matches
+10635,0,generic studio equipment set no effect focus
+10636,1,led music effect device matches
+10637,1,el örgüsü yelek matches
+10638,1,el örgüsü çocuk yelek matches
+10639,1,el örgüsü yelek matches
+10640,1,el örgüsü ayicikli yelek matches
+10641,1,el örgüsü bebek yeleği matches
+10642,1,eva metal tasarim brand matches
+10643,0,wrong brand mirayevim not eva metal tasarim
+10644,0,wrong brand edil tasarim not eva metal tasarim
+10645,1,eva metal tasarim brand matches
+10646,0,wrong brand suntel not eva metal tasarim
+10647,1,tuz değirmen salt mill matches
+10648,1,tuz değirmen salt mill matches
+10649,1,tuz değirmen salt mill matches
+10650,1,tuz değirmen salt mill matches
+10651,1,tuz değirmen salt mill matches
+10652,1,aspiratör borusu exhaust pipe matches
+10653,0,soba borusu stove pipe not aspiratör
+10654,0,exhaust filter not pipe
+10655,0,baca klapesi flap valve not pipe
+10656,0,adhesive tape not pipe itself
+10657,1,emniyet kemeri seatbelt matches
+10658,1,emniyet kemeri seatbelt matches
+10659,1,emniyet kemeri seatbelt matches
+10660,0,child car seat not seatbelt itself
+10661,0,seatbelt cover accessory not belt itself
+10662,1,plastik kavanoz matches
+10663,0,material unspecified not confirmed plastic
+10664,0,glass jar not plastic
+10665,0,material unspecified not confirmed plastic
+10666,1,acrylic mika jar close to plastic
+10667,0,mont coat category not ceket as queried
+10668,0,mont coat category not ceket as queried
+10669,0,mont coat category not ceket as queried
+10670,0,mont coat category not ceket as queried
+10671,1,title explicitly says gant ceket
+10672,1,lapitak ayak koku krem matches
+10673,0,nail care cream not foot cream
+10674,1,lapitak ayak koku önleyici set matches
+10675,0,wrong brand lapéras not lapitak
+10676,0,wrong brand vassa not lapitak
+10677,1,kuşaklı deri ceket matches
+10678,1,belted kemerli deri ceket matches
+10679,1,tie-waist deri ceket matches
+10680,1,kuşaklı deri ceket exact match
+10681,0,mont category not ceket as queried
+10682,1,oyuncu laptop gaming laptop matches
+10683,1,oyuncu laptop gaming laptop matches
+10684,1,oyuncu laptop gaming laptop matches
+10685,1,oyuncu laptop gaming laptop matches
+10686,1,oyuncu laptop gaming laptop matches
+10687,1,cicciobello doll matches cicibici
+10688,0,clothing set not doll toy
+10689,1,cicibello doll toy matches
+10690,1,cicciobello doll matches
+10691,0,wrong brand chicco baby clothing set
+10692,1,yapışkanlı tuvalet kağıdı askısı matches
+10693,1,yapışkanlı tuvalet kağıdı askısı matches
+10694,1,yapışkanlı tuvalet kağıdı askısı matches
+10695,1,yapışkanlı tuvalet kağıdı askısı matches
+10696,1,yapışkanlı tuvalet kağıdı askısı matches
+10697,1,kısa kaşe kaban matches
+10698,1,kısa kaşe kaban matches
+10699,1,kısa kaşe kaban matches
+10700,1,kısa kaşe kaban matches
+10701,1,kısa kaşe kaban matches
+10702,1,öabt sosyal bilgiler exam prep matches
+10703,1,öabt sosyal bilgiler exam prep matches
+10704,1,öabt sosyal bilgiler exam prep matches
+10705,0,general academic book not öabt exam prep
+10706,0,general geography book not öabt exam prep
+10707,0,house slipper panduf not boot as queried
+10708,1,ugg style short boot matches
+10709,1,ugg style bootie matches
+10710,1,uggcı style boot explicitly matches
+10711,1,ugg style fur-lined boot matches
+10712,1,dark seer sneaker matches
+10713,1,dark seer sneaker matches
+10714,1,dark seer sneaker matches
+10715,1,dark seer sneaker matches
+10716,1,dark seer sneaker matches
+10717,0,wrong brand chicco not huggy
+10718,0,wrong brand chicco not huggy
+10719,1,huggy ana kucağı brand matches
+10720,1,huggy ana kucağı brand matches
+10721,1,huggy ana kucağı brand matches
+10722,1,bisiklet sele matches
+10723,1,bisiklet sele matches
+10724,1,bisiklet sele matches
+10725,1,bisiklet sele matches
+10726,1,bisiklet sele title matches
+10727,1,su yolu bileklik matches
+10728,1,su yolu bileklik matches
+10729,1,su yolu bileklik matches
+10730,1,su yolu bileklik matches
+10731,1,su yolu bileklik matches
+10732,1,polar sweatshirt matches
+10733,1,polar sweatshirt matches
+10734,1,polar sweatshirt matches
+10735,1,polar sweatshirt matches
+10736,1,polar sweatshirt matches
+10737,1,yaprak güzeli plant matches
+10738,0,primary product is yasemin not yaprak güzeli
+10739,0,primary product is yasemin not yaprak güzeli
+10740,1,yaprak güzeli plant set matches
+10741,1,yaprak güzeli plant matches
+10742,1,günlük porselen yemek takımı matches
+10743,1,günlük porselen yemek takımı matches
+10744,1,günlük porselen yemek takımı matches
+10745,1,günlük porselen yemek takımı matches
+10746,1,günlük porselen yemek takımı matches
+10747,1,resimli magnet matches
+10748,1,resimli magnet matches
+10749,1,resimli magnet matches
+10750,1,resimli magnet matches
+10751,1,resimli magnet matches
+10752,1,kahverengi trençkot matches
+10753,1,kahverengi trençkot matches
+10754,1,kahverengi trençkot matches
+10755,1,kahverengi trençkot matches
+10756,1,kahverengi trençkot matches
+10757,1,dekoratif saksı matches
+10758,1,dekoratif saksı matches
+10759,1,dekoratif saksı matches
+10760,1,dekoratif saksı matches
+10761,1,dekoratif saksı matches
+10762,1,kağıt rulo havluluk peçetelik matches
+10763,1,kağıt rulo havluluk peçetelik matches
+10764,1,kağıt rulo havluluk peçetelik matches
+10765,1,kağıt rulo havluluk peçetelik matches
+10766,1,kağıt rulo havluluk peçetelik matches
+10767,0,pop race brand product not genuine hot wheels
+10768,1,hot wheels honda civic type r matches
+10769,0,civic si model not type r
+10770,0,wrong brand majorette not hot wheels
+10771,0,civic ef model not type r
+10772,1,arçelik kişisel blender matches
+10773,0,doğrayıcı chopper not blender
+10774,1,arçelik kişisel blender matches
+10775,1,arçelik kişisel blender matches
+10776,1,arçelik smoothie blender matches
+10777,1,muhabbet kuşu oyuncağı matches
+10778,1,muhabbet kuşu oyuncağı matches
+10779,1,muhabbet kuşu oyuncağı matches
+10780,1,muhabbet kuşu oyuncağı matches
+10781,0,bird cage not toy
+10782,1,madame coco yemek takımı matches
+10783,1,madame coco yemek takımı matches
+10784,1,madame coco yemek takımı matches
+10785,1,madame coco yemek takımı matches
+10786,1,madame coco yemek takımı matches
+10787,1,bil bakalım guessing game matches
+10788,1,bil bakalım style guessing game matches
+10789,1,bul bakalım similar guessing game matches
+10790,1,guess-type game matches genre
+10791,0,educational book not a game
+10792,1,bosch çaycı tea maker matches
+10793,1,bosch çaycı tea maker matches
+10794,1,bosch çaycı tea maker matches
+10795,1,bosch çaycı tea maker matches
+10796,1,bosch çaycı tea maker matches
+10797,1,klozet üstü düzenleyici raf matches
+10798,1,klozet üstü düzenleyici raf matches
+10799,1,klozet üstü düzenleyici raf matches
+10800,1,klozet üstü düzenleyici raf matches
+10801,1,klozet üstü düzenleyici raf matches
+10802,1,deri postacı çanta hakiki deri matches
+10803,0,suni deri faux leather not hakiki deri
+10804,1,hakiki deri postacı çanta matches
+10805,1,hakiki deri postacı çanta matches
+10806,1,hakiki deri postacı çanta matches
+10807,0,unrelated activity book to balkan room query
+10808,0,unrelated poster to balkan room query
+10809,0,unrelated poster to balkan room query
+10810,0,unrelated poster to balkan room query
+10811,0,unrelated foreign book to balkan room query
+10812,1,valora şal brand line matches
+10813,1,valorscarf brand matches
+10814,1,valorscarf brand matches
+10815,1,valora şal brand line matches
+10816,1,valorscarf brand matches
+10817,1,el yapımı tablo handmade painting matches
+10818,1,el yapımı tablo handmade painting matches
+10819,0,poster category not tablo painting
+10820,1,el yapımı kanvas tablo matches
+10821,1,el yapımı tablo matches
+10822,1,melisa çayı matches
+10823,1,melisa çayı matches
+10824,1,melisa çayı matches
+10825,1,melisa çayı matches
+10826,1,melisa çayı matches
+10827,1,akordeon kapı matches
+10828,1,akordeon kapı matches
+10829,1,akordeon kapı matches
+10830,1,akordeon kapı matches
+10831,1,akordeon kapı matches
+10832,1,baba oğul kombin tişört matches
+10833,1,baba oğul kombin tişört matches
+10834,1,baba oğul kombin matches
+10835,1,baba oğul kombin matches
+10836,1,aile kombin baba tişört matches
+10837,1,sultan papağanı yuvalığı exact match
+10838,0,muhabbet kuşu not sultan papağanı
+10839,0,muhabbet kuşu cage not sultan papağanı nest
+10840,0,muhabbet kuşu not sultan papağanı
+10841,0,muhabbet kuşu not sultan papağanı
+10842,1,spiralli mutfak bataryası matches
+10843,1,spiralli mutfak bataryası matches
+10844,1,spiralli mutfak bataryası matches
+10845,1,spiralli mutfak bataryası matches
+10846,1,spiralli mutfak bataryası matches
+10847,1,simli ceket matches
+10848,1,simli ceket matches
+10849,1,simli ceket matches

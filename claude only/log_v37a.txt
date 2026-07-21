@@ -1,0 +1,107 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | renkli ürün: 748,419 (77.7%) | 32.7s
+  Train-test term_id örtüşmesi: 0 (0 olmalı)
+
+[A2] Enhanced negatives (NEG_PER_POS=5, + YENİ color_conflict)...
+  Negatif kaynak: {'same_brand_diff_sub': 116061, 'same_main_category': 249993, 'different_main_category': 705311, 'same_brand_diff_main': 115108, 'gender_conflict': 36733, 'color_conflict': 12838, 'age_conflict': 13954}
+  (v23/v31/v32'nin diğer 6 kaynağıyla karşılaştır — yakın olmalı; color_conflict eklendiği için same_main/diff_main biraz azalmış olabilir, bu BEKLENEN ve ZARARSIZ)
+  Train: 1,499,998 | pos=250,000 neg=1,249,998
+
+[A2] v37a: v36b tabanı yeniden kuruluyor (v35 train-side + v36 test-side)...
+  v36b tabanı yeniden kuruldu: 1,525,776 satır (bert_scores_v36_train.npy ile eşleşmeli)
+
+[A3] v37a: HEDEFLİ (stratified) yeni LLM satırları ekleniyor (v37 train-side + test-side)...
+  63_llm_labels_v37_train/merged_v37_train_labels.csv: 5,558 yeni satır (pos=4,635, neg=923)
+  64_llm_labels_v37_test/merged_v37_test_labels.csv: 6,445 yeni satır (pos=5,173, neg=1,272)
+  Toplam YENİ (v37) LLM etiketli satır: 12,003
+    Toplam pozitif: 9,808 | Toplam negatif: 2,195
+  Train (v37a genişletilmiş): 1,537,779 (v36b tabanı 1,525,776 + YENİ v37 12,003)
+
+[B] BERT v36 (cache + sadece YENİ v37 LLM satırları için inference)...
+  Device: cuda
+  BERT v36 cache'de var → yükleniyor (yeniden eğitim YOK)
+  Orijinal (v36b) train BERT cache'den: 1,525,776
+  YENİ v37 LLM-doğrulamalı satırlar için BERT inference (12,003 çift, cache'li bert_v36 modeliyle, yeniden eğitim YOK)...
+    train-llm 12,003/12,003
+  → 0.4 dk
+  Toplam train_bert: 1,537,779 (v36b tabanı 1,525,776 + YENİ v37 12,003)
+  Test BERT cache'den: 3,359,679
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan)...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,537,779 (3%)
+    1,050,000/1,537,779 (68%)
+    1,537,779/1,537,779 (100%)
+  train_cos: pos mean=0.652 neg mean=0.137
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.317
+  → 0.6 dk
+
+[C2] Trusted brand + category phrase sözlükleri kuruluyor...
+  Trusted brand sayısı: 55,580 (toplam benzersiz brand: 79,790)
+  Category phrase sayısı: 3,421
+
+[D] FEATURE ENGINEERING...
+  Train features: (1537779, 42) | 476.5s
+
+[E] BINARY LGBM 5-FOLD (n_estimators=4000, early_stop=150)...
+  Fold 1 | iter=1832 | val F1≈0.9687
+  Fold 2 | iter=2433 | val F1≈0.9748
+  Fold 3 | iter=2266 | val F1≈0.9735
+  Fold 4 | iter=2707 | val F1≈0.9727
+  Fold 5 | iter=2607 | val F1≈0.9735
+
+  OOF F1=0.97263 | thr=0.7600
+
+  Feature Önemleri (top 20):
+    bert_score               :  34167
+    tyembed_cos              :  33030
+    fuzz_basic               :  23305
+    fuzz_partial             :  22753
+    fuzz_sort                :  20712
+    fuzz_set                 :  17216
+    tfidf_cos                :  14881
+    t_len                    :  14564
+    ana_kategori             :  10775
+    cat_overlap              :   8813
+    stem_cat_jac             :   8378
+    attr_jac_fixed           :   7673
+    q_len                    :   5002
+    stem_jaccard             :   4956
+    category_phrase_match    :   4856
+    t_cov_query              :   3968
+    weighted_q_cov           :   3855
+    jaccard                  :   3807
+    brand_weight             :   3530
+    attr_q_cov               :   3468
+
+=================================================================
+SAĞLIK KONTROLÜ
+=================================================================
+  ✓ OOF F1 (0.9726) v36b'ye (0.97304) yakın/altında — makul bir sinyal.
+
+  LLM veri kaynak dağılımı (toplam): pozitif=9,808 | negatif=2,195
+  Kaynak bazında: {'llm_recovered_positive_v37_test': np.int64(5173), 'llm_recovered_positive_v37_train': np.int64(4635), 'llm_verified_negative_v37_test': np.int64(1272), 'llm_verified_negative_v37_train': np.int64(923)}
+  ✓ En baskın feature 'bert_score' importance'ın sadece %12'ini oluşturuyor.
+=================================================================
+
+[F] TEST INFERENCE + SUBMISSION (doğrudan threshold, quantile mapping YOK)...
+  thr=0.7600 (OOF'tan doğrudan) → Pozitif=875,698 (26.1%)
+
+=================================================================
+TAMAMLANDI — v37a hedefli LLM-doğrulamalı hızlı test (+spec_code_match)
+  OOF F1        : 0.97263 (v36b: 0.97304)
+  OOF threshold : 0.7600
+  Pozitif       : 875,698 (26.1%)
+  Train çifti   : 1,537,779 (v36b tabanı 1,525,776 + YENİ v37 12,003)
+  Feature sayısı: 42 (v36 ile aynı 41 + YENİ spec_code_match)
+  Toplam süre   : 45.4 dk
+  Dosya         : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v37a_quicktest.csv
+=================================================================

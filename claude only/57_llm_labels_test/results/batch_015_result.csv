@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+5250,1,blue water glass matches query
+5251,1,blue acrylic water glass
+5252,1,blue-green water glass
+5253,1,blue acrylic water glasses
+5254,1,blue acrylic water glass
+5255,1,kadolin shampoo matches title
+5256,1,kadolin brand shampoo
+5257,0,wrong brand sebamed not kadolin
+5258,0,wrong brand haci sakir not kadolin
+5259,0,wrong brand head&shoulders not kadolin
+5260,1,curcumin capsules
+5261,1,curcumin 500mg capsules
+5262,1,curcumin capsules
+5263,0,collagen product not curcumin focus
+5264,0,no curcumin ingredient
+5265,1,coenzyme q10 product
+5266,1,coenzyme q10 100mg
+5267,1,coenzyme q10 product
+5268,1,coenzyme q10 200mg
+5269,1,coenzyme q10 100mg
+5270,1,in-closet storage box
+5271,1,in-closet storage box set
+5272,1,in-closet storage box
+5273,1,in-closet drawer organizer box
+5274,1,in-closet storage box organizer
+5275,1,catnap poppy playtime toy
+5276,0,different character allister gator
+5277,1,catnap poppy playtime toy
+5278,1,catnap plush toy
+5279,0,different character sprunkis combo
+5280,1,yogurt fermentation pot
+5281,1,yogurt fermentation pot
+5282,1,yogurt fermentation crock
+5283,1,yogurt fermentation crock
+5284,1,yogurt fermentation pail set
+5285,1,decorative home object
+5286,1,decorative home accessory
+5287,1,decorative home object
+5288,1,decorative home accessory
+5289,1,decorative vase home accessory
+5290,1,thick cuff bracelet
+5291,1,thick cuff bracelet
+5292,1,thick chain steel bracelet
+5293,1,thick cuff steel bracelet
+5294,1,thick cuff steel bracelet
+5295,1,coded/keyed money safe
+5296,1,coded home safe
+5297,1,electronic coded steel safe
+5298,1,coded steel safe
+5299,1,coded and keyed safe
+5300,1,tabletop presentation stand
+5301,1,tabletop presentation stand
+5302,1,tabletop presentation stand
+5303,1,tabletop presentation stand
+5304,1,tabletop presentation organizer
+5305,0,bathroom cabinet not kitchen
+5306,0,bathroom cabinet not kitchen
+5307,0,bathroom cabinet set not kitchen
+5308,0,bathroom cabinet not kitchen
+5309,0,bathroom cabinet not kitchen
+5310,1,joma walking shoe
+5311,1,joma walking shoe
+5312,1,joma walking shoe
+5313,1,joma walking shoe
+5314,1,joma shoe same category
+5315,1,short vest
+5316,1,short crop vest
+5317,1,short vest
+5318,1,short quilted vest
+5319,1,short vest
+5320,0,pot not teapot
+5321,0,salt/pepper set not teapot
+5322,0,cake mold not teapot
+5323,0,oil/vinegar bottle not teapot
+5324,0,oil bottle not teapot
+5325,1,face cleansing foam
+5326,1,face cleansing foam
+5327,1,face cleansing foam
+5328,1,face cleansing foam
+5329,1,face cleansing foam
+5330,1,tesettur shawl
+5331,1,tesettur shawl
+5332,1,tesettur shawl
+5333,1,tesettur shawl
+5334,1,tesettur shawl
+5335,1,shevec brand skincare set
+5336,1,shevec brand skincare set
+5337,1,shevec brand skincare
+5338,1,shevec brand cream
+5339,1,shevec brand cleansing foam
+5340,1,refill scent bottle
+5341,1,refill perfume
+5342,1,refill perfume
+5343,1,refill shower gel
+5344,1,refill eyeshadow
+5345,0,bmw sticker not ferrari
+5346,0,generic sticker not ferrari
+5347,0,mondial drift sticker not ferrari
+5348,0,cfmoto sticker not ferrari
+5349,0,cfmoto wrap not ferrari
+5350,1,puma hypnotic sneaker
+5351,1,puma hypnotic sneaker
+5352,1,puma hypnotic sneaker
+5353,1,puma hypnotic sneaker
+5354,1,puma hypnotic sneaker
+5355,1,laptop stand
+5356,1,laptop stand
+5357,1,laptop stand
+5358,1,laptop stand
+5359,1,laptop stand
+5360,1,ayt felsefe exam book
+5361,1,ayt felsefe question bank
+5362,0,coğrafya not felsefe
+5363,0,coğrafya not felsefe
+5364,0,tarih not felsefe
+5365,1,cat/pet bed blanket
+5366,1,cat/pet bed cover
+5367,1,cat/pet bed
+5368,1,cat/pet bed cover blanket
+5369,0,wall covering not bed cover
+5370,1,pierre cardin t-shirt
+5371,1,pierre cardin t-shirt
+5372,1,pierre cardin t-shirt
+5373,1,pierre cardin t-shirt
+5374,1,pierre cardin t-shirt
+5375,1,dubai chocolate
+5376,1,dubai chocolate
+5377,1,dubai chocolate
+5378,1,dubai chocolate
+5379,1,dubai chocolate
+5380,1,dewalt cordless power tool
+5381,1,dewalt cordless drill
+5382,1,dewalt cordless screwdriver
+5383,1,dewalt cordless driver
+5384,1,dewalt cordless drill set
+5385,1,electric stove scraper cleaner
+5386,0,hood filter not stove cleaner
+5387,0,hood filter not stove cleaner
+5388,0,dish stain remover not stove cleaner
+5389,0,hood filter not stove cleaner
+5390,1,pearl powder nail polish
+5391,1,pearl powder effect polish
+5392,1,pearl powder effect polish
+5393,1,pearl powder gel polish
+5394,0,pearl powder decoration not polish
+5395,1,mouse repeller
+5396,1,electronic mouse repeller
+5397,1,mouse pest repeller
+5398,1,mouse repeller
+5399,1,mouse and pest repeller
+5400,1,yedilale brand kimono
+5401,1,yedilale brand skirt
+5402,1,yedilale brand set
+5403,1,yedilale brand tunic
+5404,1,yedilale brand set
+5405,1,wired led string light
+5406,0,remote controlled light not led cable
+5407,0,wired socket plug not led string
+5408,0,wireless led lamp contradicts wired
+5409,0,led panel display not string cable
+5410,1,plush sofa cover
+5411,1,plush sofa cover
+5412,1,plush sofa cover
+5413,1,plush sofa cover
+5414,1,plush sofa cover
+5415,1,single bed headboard cover
+5416,1,single bed headboard cover
+5417,1,single bed headboard cover
+5418,1,single bed headboard cover
+5419,1,single bed headboard cover
+5420,1,suud collection shirt
+5421,1,suud collection shirt
+5422,1,suud collection shirt
+5423,1,suud collection shirt
+5424,0,wrong brand ritnice not suud
+5425,1,motul motor oil
+5426,0,wrong brand motorsilk not motul
+5427,1,motul motor oil
+5428,1,motul motor oil
+5429,1,motul motor oil
+5430,1,robe/dressing gown set
+5431,1,dressing gown
+5432,1,dressing gown
+5433,1,dressing gown pajama set
+5434,1,dressing gown pajama set
+5435,1,men's leather wallet
+5436,1,men's leather wallet unisex
+5437,1,men's leather wallet
+5438,1,men's leather wallet
+5439,1,men's leather wallet
+5440,1,samsung s21 fe phone
+5441,1,samsung s21 fe 5g phone
+5442,0,wrong model s23 not s21 fe
+5443,0,wrong model s23 not s21 fe
+5444,0,wrong model a50 not s21 fe
+5445,1,skechers sport shoe
+5446,1,skechers sport shoe
+5447,1,skechers sport shoe
+5448,1,skechers sport shoe
+5449,1,skechers sport shoe
+5450,1,hyundai h100 sticker
+5451,1,hyundai h100 sticker
+5452,1,hyundai h100 floor mat
+5453,1,hyundai h100 windshield deflector
+5454,0,attribute lists vw fox not h100
+5455,1,bicycle hydraulic brake set
+5456,0,full bicycle not brake part
+5457,1,hydraulic disc brake caliper
+5458,1,hydraulic disc brake
+5459,0,full bicycle not brake part
+5460,1,karaca coffee cup set
+5461,1,karaca coffee cup set
+5462,1,karaca coffee cup set
+5463,1,karaca coffee cup set
+5464,1,karaca coffee cup set
+5465,1,daylight led bulb
+5466,1,daylight led bulb
+5467,1,daylight led bulb
+5468,1,daylight led bulb
+5469,1,daylight led bulb
+5470,1,polisan spray paint
+5471,1,polisan spray paint
+5472,1,polisan spray paint
+5473,1,polisan spray paint
+5474,1,polisan spray paint
+5475,1,2-piece coffee cup set
+5476,1,2-piece ceramic cup set
+5477,1,2-piece cup set
+5478,1,2-piece ceramic cup set
+5479,1,2-piece coffee cup set
+5480,1,voonka collagen product
+5481,1,voonka collagen product
+5482,1,voonka collagen product
+5483,1,voonka collagen product
+5484,1,voonka collagen product
+5485,1,civil boys t-shirt
+5486,1,civil boys jeans
+5487,1,civil boys shirt
+5488,1,civil boys sweatshirt
+5489,1,civil boys jeans
+5490,1,plaid silk shawl
+5491,1,plaid patterned shawl
+5492,1,checkered pattern shawl
+5493,0,tablecloth not shawl
+5494,0,shirt not shawl
+5495,1,laundry fragrance
+5496,1,laundry fragrance granules
+5497,1,natural laundry fragrance
+5498,1,laundry scent for dryer balls
+5499,1,laundry scent for dryer balls
+5500,1,baby moccasin shoe
+5501,1,baby moccasin shoe
+5502,1,baby moccasin style shoe
+5503,1,baby moccasin style shoe
+5504,1,baby moccasin shoe
+5505,1,carolina herrera perfume
+5506,1,carolina herrera perfume
+5507,1,carolina herrera perfume
+5508,1,carolina herrera perfume
+5509,1,carolina herrera perfume
+5510,1,pacifier baby doll toy
+5511,1,pacifier baby doll toy
+5512,1,pacifier baby doll toy
+5513,1,pacifier baby doll toy
+5514,1,pacifier baby doll toy
+5515,1,fish necklace
+5516,1,fish shaped necklace
+5517,1,fish necklace
+5518,1,fish figure necklace
+5519,1,fish necklace
+5520,1,beyond brand home slipper
+5521,1,beyond brand home slipper
+5522,1,beyond brand home slipper
+5523,1,beyond brand home slipper
+5524,1,beyond brand home slipper
+5525,1,nine west loafer
+5526,1,nine west loafer
+5527,1,nine west loafer
+5528,1,nine west loafer
+5529,1,nine west loafer
+5530,1,vakko women's bag
+5531,1,vakko women's bag
+5532,1,vakko women's bag
+5533,1,vakko women's bag
+5534,1,vakko women's bag
+5535,1,tablet device
+5536,1,tablet device
+5537,1,tablet device
+5538,1,tablet device
+5539,1,tablet device
+5540,1,cigar lighter
+5541,1,cigar lighter
+5542,1,cigar lighter
+5543,1,cigar lighter
+5544,1,cigar lighter
+5545,1,baby safety lock
+5546,1,baby safety lock
+5547,1,baby safety lock
+5548,1,baby safety lock
+5549,1,baby safety lock
+5550,1,converse sneaker
+5551,1,converse sneaker
+5552,1,converse sneaker
+5553,1,converse sneaker
+5554,1,converse sneaker
+5555,1,grinder coffee machine
+5556,1,grinder coffee machine
+5557,1,grinder espresso machine
+5558,1,grinder coffee machine
+5559,1,grinder espresso machine
+5560,1,leather jacket
+5561,1,leather jacket
+5562,1,leather jacket
+5563,1,leather jacket
+5564,1,leather jacket
+5565,0,dress not sweater
+5566,0,knit dress not sweater
+5567,0,knit dress not sweater
+5568,0,shirt dress not sweater
+5569,0,dress not sweater
+5570,1,magnetic coding toy
+5571,1,magnetic coding toy
+5572,0,magnetic blocks not coding toy
+5573,0,magnetic numbers not coding toy
+5574,0,magnetic blocks not coding toy
+5575,1,rice serving plate
+5576,0,mold not plate
+5577,0,cooking pot not plate
+5578,0,cooking pot not plate
+5579,0,cooking pot not plate
+5580,1,edible butterfly cake decoration
+5581,1,edible butterfly cake decoration
+5582,1,edible butterfly decoration
+5583,1,edible butterfly decoration
+5584,1,edible butterfly cake decoration
+5585,0,case accessory not huawei device
+5586,0,wrong brand not huawei
+5587,0,wrong brand not huawei
+5588,0,wrong brand not huawei
+5589,0,wrong brand not huawei
+5590,1,cigit brand kids set
+5591,1,cigit brand kids set
+5592,1,cigit brand kids set
+5593,1,cigit brand kids set
+5594,1,cigit brand kids set
+5595,1,hascevher steel pot set
+5596,1,hascevher steel pot set
+5597,0,wrong brand emsan not hascevher
+5598,0,wrong brand oms not hascevher
+5599,0,wrong brand falez not hascevher

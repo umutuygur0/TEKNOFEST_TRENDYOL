@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+0,1,doğru model telefon
+1,0,farklı model x7 pro
+2,0,farklı model f4
+3,0,farklı model f7 pro
+4,0,telefon değil kılıf aksesuar
+5,0,yanlış araç peugeot
+6,0,yanlış model clio
+7,0,yanlış model megane 4
+8,0,yanlış araç peugeot
+9,0,yanlış model megane iv
+10,1,aynı ürün kolej ceket
+11,1,aynı ürün kolej ceket
+12,1,aynı ürün kolej ceket
+13,1,aynı ürün kolej ceket
+14,1,kız çocuk kolej ceket eşleşiyor
+15,1,diş macunu tutucu eşleşiyor
+16,1,diş macunu sıkacağı tutucu
+17,1,diş macunu sıkacağı tutucu
+18,1,diş fırçalık macun standı
+19,1,diş macunu sıkacağı tutucu
+20,1,gold küpe eşleşiyor
+21,1,gold küpe eşleşiyor
+22,1,gold halka küpe eşleşiyor
+23,1,gold küpe eşleşiyor
+24,1,gold küpe seti eşleşiyor
+25,1,lotus çiçeği yüzük eşleşiyor
+26,1,lotus yüzük eşleşiyor
+27,1,lotus çiçeği yüzük eşleşiyor
+28,1,lotus çiçeği yüzük eşleşiyor
+29,1,lotus çiçeği yüzük eşleşiyor
+30,1,bohem komodin eşleşiyor
+31,1,bohem komodin eşleşiyor
+32,1,bohem komodin eşleşiyor
+33,1,bohem komodin eşleşiyor
+34,1,bohem komodin eşleşiyor
+35,1,kiwi kahve makinesi eşleşiyor
+36,1,kiwi kahve makinesi eşleşiyor
+37,1,kiwi kahve makinesi eşleşiyor
+38,1,kiwi kahve makinesi eşleşiyor
+39,1,kiwi kahve makinesi eşleşiyor
+40,1,plastik kelepçe eşleşiyor
+41,1,plastik kelepçe eşleşiyor
+42,1,plastik kelepçe eşleşiyor
+43,1,plastik kelepçe eşleşiyor
+44,1,plastik kelepçe eşleşiyor
+45,1,bianchi marka bisiklet
+46,0,marka bisan gerçek bianchi değil
+47,1,bianchi marka bisiklet
+48,1,bianchi marka bisiklet
+49,1,bianchi marka bisiklet
+50,1,taşlı direksiyon kılıfı eşleşiyor
+51,1,taşlı direksiyon kılıfı eşleşiyor
+52,1,taşlı pırlanta direksiyon kılıfı
+53,1,taşlı direksiyon kılıfı eşleşiyor
+54,1,taşlı direksiyon kılıfı eşleşiyor
+55,1,tunca çocuk bisikleti eşleşiyor
+56,1,tunca küçük jant çocuk bisikleti
+57,1,tunca çocuk bisikleti eşleşiyor
+58,1,tunca çocuk bisikleti eşleşiyor
+59,1,tunca çocuk bisikleti eşleşiyor
+60,1,tv sehpası eşleşiyor
+61,1,tv sehpası eşleşiyor
+62,1,tv sehpası eşleşiyor
+63,1,tv sehpası eşleşiyor
+64,1,tv sehpası eşleşiyor
+65,1,lacoste erkek gömlek eşleşiyor
+66,1,lacoste erkek gömlek eşleşiyor
+67,1,lacoste erkek gömlek eşleşiyor
+68,1,lacoste erkek gömlek eşleşiyor
+69,1,lacoste erkek gömlek eşleşiyor
+70,1,fisher price araba tipi ürün
+71,1,fisher price araba eşleşiyor
+72,1,fisher price ilk arabam eşleşiyor
+73,0,fil oyuncağı araba değil
+74,0,köpekçik oyuncağı araba değil
+75,0,yeşillik demeti çiçek değil renksiz
+76,1,renkli yapay çiçek eşleşiyor
+77,1,yapay çiçek eşleşiyor
+78,1,renkli yapay çiçek eşleşiyor
+79,1,renkli yapay çiçek eşleşiyor
+80,1,pierre cardin erkek jean eşleşiyor
+81,1,pierre cardin erkek jean eşleşiyor
+82,1,pierre cardin erkek jean eşleşiyor
+83,1,pierre cardin erkek jean eşleşiyor
+84,1,pierre cardin erkek jean eşleşiyor
+85,1,nutraxin selenyum marka eşleşiyor
+86,0,yanlış marka ocean
+87,0,yanlış marka ocean
+88,0,yanlış marka solgar
+89,1,nutraxin selenyum marka eşleşiyor
+90,1,manuka kaban eşleşiyor
+91,1,manuka kaban eşleşiyor
+92,1,manuka kaban eşleşiyor
+93,1,manuka kaban eşleşiyor
+94,1,manuka kaban eşleşiyor
+95,1,baglovis çanta eşleşiyor
+96,1,baglovis çanta eşleşiyor
+97,1,baglovis çanta eşleşiyor
+98,1,baglovis çanta eşleşiyor
+99,1,baglovis çanta eşleşiyor
+100,0,rotring 600 değil genel kalem seti
+101,0,rapid model 600 değil
+102,0,600 model belirtilmemiş farklı ürün
+103,1,rotring 600 model eşleşiyor
+104,0,sadece kalem ucu 600 değil
+105,1,gofret eşleşiyor
+106,1,gofret eşleşiyor
+107,1,gofret eşleşiyor
+108,1,gofret ürünü eşleşiyor
+109,1,gofret ürünü eşleşiyor
+110,1,yazıcı kartuşu eşleşiyor
+111,1,yazıcı kartuşu eşleşiyor
+112,1,yazıcı kartuşu eşleşiyor
+113,1,yazıcı kartuşu eşleşiyor
+114,1,yazıcı kartuşu eşleşiyor
+115,1,dp tuzsuz şampuan eşleşiyor
+116,1,dp marka şampuan eşleşiyor
+117,1,dp marka şampuan eşleşiyor
+118,1,dp tuzsuz şampuan eşleşiyor
+119,1,dp tuzsuz şampuan eşleşiyor
+120,1,tanklı yazıcı eşleşiyor
+121,1,tanklı yazıcı eşleşiyor
+122,1,tanklı yazıcı eşleşiyor
+123,1,tanklı yazıcı eşleşiyor
+124,1,tanklı yazıcı eşleşiyor
+125,1,uno kart oyunu eşleşiyor
+126,1,uno kart oyunu eşleşiyor
+127,1,uno kart oyunu eşleşiyor
+128,1,uno kart oyunu eşleşiyor
+129,1,uno kart oyunu eşleşiyor
+130,1,yüzey temizleyici kapsül eşleşiyor
+131,1,yüzey temizleyici kapsül eşleşiyor
+132,1,yüzey temizleyici kapsül eşleşiyor
+133,1,yüzey temizleyici kapsül eşleşiyor
+134,0,kapsül değil sıvı şişe
+135,1,onedekor kahvaltı takımı eşleşiyor
+136,1,onedekor kahvaltı takımı eşleşiyor
+137,1,onedekor kahvaltı takımı eşleşiyor
+138,1,onedekor kahvaltı takımı eşleşiyor
+139,1,onedekor kahvaltı takımı eşleşiyor
+140,1,nazar boncuğu eşleşiyor
+141,1,nazar boncuğu eşleşiyor
+142,1,nazar boncuğu eşleşiyor
+143,1,nazar boncuğu eşleşiyor
+144,1,nazar boncuğu eşleşiyor
+145,1,zaman bisikleti kitabı eşleşiyor
+146,1,zaman bisikleti kitabı eşleşiyor
+147,1,zaman bisikleti kitabı eşleşiyor
+148,0,farklı kitap adı
+149,0,farklı kitap adı
+150,0,edc tipi edp değil
+151,1,erkek edp parfüm eşleşiyor
+152,1,erkek edp parfüm eşleşiyor
+153,1,erkek edp parfüm eşleşiyor
+154,1,erkek edp parfüm eşleşiyor
+155,0,s8 pro ultra değil s8 pro
+156,0,s8 pro ultra değil s8 pro
+157,0,s8 maxv ultra farklı model
+158,0,s8 maxv ultra farklı model
+159,0,s8 maxv ultra farklı model
+160,1,herend marka fincan eşleşiyor
+161,0,yanlış marka rende
+162,0,yanlış marka rende
+163,0,yanlış marka öğütücü
+164,0,yanlış marka tıraş makinesi
+165,1,bebek fotoğraf albümü eşleşiyor
+166,1,bebek fotoğraf albümü eşleşiyor
+167,1,bebek fotoğraf albümü eşleşiyor
+168,1,bebek fotoğraf albümü eşleşiyor
+169,1,bebek fotoğraf albümü eşleşiyor
+170,1,kız çocuk siyah pantolon eşleşiyor
+171,1,kız çocuk siyah pantolon eşleşiyor
+172,1,kız çocuk siyah pantolon eşleşiyor
+173,1,kız çocuk siyah pantolon eşleşiyor
+174,1,kız çocuk siyah pantolon eşleşiyor
+175,1,cam kutu eşleşiyor
+176,1,cam kutu eşleşiyor
+177,1,cam kapaklı kutu eşleşiyor
+178,1,cam kapaklı kutu eşleşiyor
+179,1,cam kutu eşleşiyor
+180,1,siyah duvar saati eşleşiyor
+181,1,siyah duvar saati eşleşiyor
+182,1,siyah duvar saati eşleşiyor
+183,1,siyah duvar saati eşleşiyor
+184,1,siyah duvar saati eşleşiyor
+185,1,çocuk scooter eşleşiyor
+186,1,çocuk scooter eşleşiyor
+187,1,çocuk scooter eşleşiyor
+188,1,çocuk scooter eşleşiyor
+189,1,çocuk scooter eşleşiyor
+190,1,el valizi eşleşiyor
+191,1,el valizi eşleşiyor
+192,1,el valizi eşleşiyor
+193,1,el valizi eşleşiyor
+194,1,el valizi eşleşiyor
+195,1,imajbutik ceket eşleşiyor
+196,1,imajbutik ceket eşleşiyor
+197,1,imajbutik ceket eşleşiyor
+198,1,imajbutik ceket eşleşiyor
+199,1,imajbutik ceket eşleşiyor
+200,0,şal kolye değil
+201,0,yanlış marka kolye
+202,0,yüzük kolye değil
+203,0,mont kolye değil
+204,0,yanlış marka kolye
+205,1,takı aksesuar dolabı eşleşiyor
+206,1,takı dolabı eşleşiyor
+207,1,takı aksesuar dolabı eşleşiyor
+208,1,takı dolabı eşleşiyor
+209,1,takı dolabı eşleşiyor
+210,1,tatlı cup eşleşiyor
+211,1,tatlı cup eşleşiyor
+212,1,tatlı cup eşleşiyor
+213,1,tatlı cup eşleşiyor
+214,1,tatlı cup eşleşiyor
+215,1,ferrari lisanslı tişört
+216,1,ferrari tasarım sweatshirt
+217,1,ferrari lisanslı tişört
+218,1,ferrari lisanslı tişört
+219,1,ferrari lisanslı tişört
+220,0,keysmart değil kapı kumandası
+221,0,keysmart değil kumanda
+222,0,keysmart değil kumanda
+223,0,keysmart değil anahtar kabı
+224,0,keysmart değil oto kumanda
+225,1,lacoste kadın parfüm eşleşiyor
+226,1,lacoste kadın parfüm eşleşiyor
+227,0,erkek parfümü pour homme
+228,0,yanlış marka qlife imitasyon
+229,0,yanlış marka infinite love imitasyon
+230,1,kamp mutfağı eşleşiyor
+231,1,kamp mutfağı eşleşiyor
+232,1,kamp mutfağı seti eşleşiyor
+233,0,pazarcı tezgahı mutfak değil
+234,1,kamp mutfak seti eşleşiyor
+235,1,oyuncu masası eşleşiyor
+236,1,oyuncu masası eşleşiyor
+237,1,oyuncu masası eşleşiyor
+238,1,oyuncu masası eşleşiyor
+239,1,gaming masa eşleşiyor
+240,1,huawei tablet eşleşiyor
+241,1,huawei tablet eşleşiyor
+242,1,huawei tablet eşleşiyor
+243,1,huawei tablet eşleşiyor
+244,1,huawei tablet eşleşiyor
+245,1,korkmaz süzgeç eşleşiyor
+246,1,korkmaz süzgeç eşleşiyor
+247,1,korkmaz süzgeç eşleşiyor
+248,1,korkmaz süzgeç eşleşiyor
+249,1,korkmaz süzgeç eşleşiyor
+250,0,alakasız kitap
+251,0,alakasız kitap
+252,0,alakasız kitap
+253,0,alakasız kitap
+254,0,alakasız kitap
+255,1,büyük tablo eşleşiyor
+256,1,kanvas tablo eşleşiyor
+257,1,büyük tablo eşleşiyor
+258,1,kanvas tablo eşleşiyor
+259,1,büyük boy tablo eşleşiyor
+260,1,koton eşofman eşleşiyor
+261,1,koton eşofman eşleşiyor
+262,1,koton eşofman eşleşiyor
+263,1,koton eşofman eşleşiyor
+264,1,koton eşofman eşleşiyor
+265,1,erkek yazlık mont eşleşiyor
+266,1,erkek yazlık mont eşleşiyor
+267,1,erkek yazlık mont eşleşiyor
+268,1,erkek yazlık mont eşleşiyor
+269,1,erkek yazlık mont eşleşiyor
+270,0,avengers oyuncağı batman değil
+271,1,batman figürü eşleşiyor
+272,1,sette batman figürü var
+273,0,spiderman figürü batman değil
+274,0,superman figürü batman değil
+275,1,salon avizesi eşleşiyor
+276,1,salon avizesi eşleşiyor
+277,1,salon avizesi eşleşiyor
+278,1,salon avizesi eşleşiyor
+279,1,salon avizesi eşleşiyor
+280,1,oklava merdane seti eşleşiyor
+281,1,oklava seti eşleşiyor
+282,1,oklava merdane seti eşleşiyor
+283,1,oklava seti eşleşiyor
+284,1,oklava seti eşleşiyor
+285,1,bayan eşofman altı eşleşiyor
+286,1,unisex eşofman altı eşleşiyor
+287,1,unisex eşofman altı eşleşiyor
+288,1,kadın eşofman altı eşleşiyor
+289,1,kadın eşofman altı eşleşiyor
+290,1,askılık eşleşiyor
+291,1,askılık eşleşiyor
+292,1,askılık eşleşiyor
+293,1,askılık eşleşiyor
+294,1,askılık eşleşiyor
+295,1,mantar lamba eşleşiyor
+296,1,mantar lamba eşleşiyor
+297,1,mantar lamba eşleşiyor
+298,1,mantar lamba eşleşiyor
+299,1,mantar lamba eşleşiyor
+300,1,çocuk yağmurluk eşleşiyor
+301,1,çocuk yağmurluk eşleşiyor
+302,1,çocuk yağmurluk eşleşiyor
+303,1,çocuk yağmurluk eşleşiyor
+304,1,çocuk yağmurluk eşleşiyor
+305,0,farklı seri love story
+306,1,chloe imza parfüm eşleşiyor
+307,0,deodorant parfüm değil
+308,0,farklı seri nomade
+309,0,farklı seri nomade
+310,1,genç odası avizesi eşleşiyor
+311,1,genç odası avizesi eşleşiyor
+312,1,genç odası avizesi eşleşiyor
+313,1,genç odası avizesi eşleşiyor
+314,1,genç odası avizesi eşleşiyor
+315,1,erkek baba gömlek eşleşiyor
+316,1,erkek baba gömlek eşleşiyor
+317,1,erkek baba gömlek eşleşiyor
+318,1,erkek baba gömlek eşleşiyor
+319,1,erkek baba gömlek eşleşiyor
+320,1,fluorocarbon misina eşleşiyor
+321,1,fluorocarbon misina eşleşiyor
+322,1,fluorocarbon misina eşleşiyor
+323,1,fluorocarbon misina eşleşiyor
+324,1,fluorocarbon misina eşleşiyor
+325,0,yanlış marka mango
+326,0,yanlış marka mango
+327,0,yanlış marka mango
+328,0,yanlış marka mango
+329,0,yanlış marka tommy hilfiger
+330,1,krem salon halısı eşleşiyor
+331,1,krem salon halısı eşleşiyor
+332,1,krem salon halısı eşleşiyor
+333,1,krem salon halısı eşleşiyor
+334,1,krem salon halısı eşleşiyor
+335,1,kahve fincan takımı eşleşiyor
+336,1,kahve fincan takımı eşleşiyor
+337,1,kahve fincan takımı eşleşiyor
+338,1,kahve fincan takımı eşleşiyor
+339,1,kahve fincan takımı eşleşiyor
+340,1,pilli led işık eşleşiyor
+341,1,pilli led işık eşleşiyor
+342,1,pilli led işık eşleşiyor
+343,1,pilli led işık eşleşiyor
+344,1,pilli led işık eşleşiyor
+345,1,chuba kazak eşleşiyor
+346,1,chuba kazak eşleşiyor
+347,1,chuba kazak eşleşiyor
+348,1,chuba kazak eşleşiyor
+349,1,chuba kazak eşleşiyor

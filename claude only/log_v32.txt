@@ -1,0 +1,161 @@
+=================================================================
+[A] VERİ YÜKLENİYOR...
+  962,873 ürün | 250,000 pozitif | 3,359,679 test | 27.5s
+  Train-test term_id örtüşmesi: 0 (0 olmalı)
+
+[A2] Enhanced negatives (NEG_PER_POS=5, v23/v31 ile birebir aynı)...
+  Negatif kaynak: {'same_brand_diff_sub': 116056, 'same_main_category': 249999, 'different_main_category': 717995, 'same_brand_diff_main': 115262, 'gender_conflict': 36733, 'age_conflict': 13954}
+  (v23/v31 ile karşılaştır — birebir aynı olmalı: kesin fark yoksa negatif üretimi bozulmamış demektir)
+  Train: 1,499,999 | pos=250,000 neg=1,249,999
+
+[B] BERT (v23 negatifleriyle fine-tune veya cache)...
+  Device: cuda
+  Test BERT yeniden hesaplanacak: model test-cache'ten daha yeni (v31'de keşfedilen tutarsızlık düzeltiliyor)
+  BERT v23 cache'de var → yükleniyor (yeniden eğitim YOK)
+  Train BERT cache'den (bu oturumun modeliyle tutarlı): 1,499,999
+  Test BERT inference (3,359,679 çift)...
+    test 50,000/3,359,679
+    test 100,000/3,359,679
+    test 150,000/3,359,679
+    test 200,000/3,359,679
+    test 250,000/3,359,679
+    test 300,000/3,359,679
+    test 350,000/3,359,679
+    test 400,000/3,359,679
+    test 450,000/3,359,679
+    test 500,000/3,359,679
+    test 550,000/3,359,679
+    test 600,000/3,359,679
+    test 650,000/3,359,679
+    test 700,000/3,359,679
+    test 750,000/3,359,679
+    test 800,000/3,359,679
+    test 850,000/3,359,679
+    test 900,000/3,359,679
+    test 950,000/3,359,679
+    test 1,000,000/3,359,679
+    test 1,050,000/3,359,679
+    test 1,100,000/3,359,679
+    test 1,150,000/3,359,679
+    test 1,200,000/3,359,679
+    test 1,250,000/3,359,679
+    test 1,300,000/3,359,679
+    test 1,350,000/3,359,679
+    test 1,400,000/3,359,679
+    test 1,450,000/3,359,679
+    test 1,500,000/3,359,679
+    test 1,550,000/3,359,679
+    test 1,600,000/3,359,679
+    test 1,650,000/3,359,679
+    test 1,700,000/3,359,679
+    test 1,750,000/3,359,679
+    test 1,800,000/3,359,679
+    test 1,850,000/3,359,679
+    test 1,900,000/3,359,679
+    test 1,950,000/3,359,679
+    test 2,000,000/3,359,679
+    test 2,050,000/3,359,679
+    test 2,100,000/3,359,679
+    test 2,150,000/3,359,679
+    test 2,200,000/3,359,679
+    test 2,250,000/3,359,679
+    test 2,300,000/3,359,679
+    test 2,350,000/3,359,679
+    test 2,400,000/3,359,679
+    test 2,450,000/3,359,679
+    test 2,500,000/3,359,679
+    test 2,550,000/3,359,679
+    test 2,600,000/3,359,679
+    test 2,650,000/3,359,679
+    test 2,700,000/3,359,679
+    test 2,750,000/3,359,679
+    test 2,800,000/3,359,679
+    test 2,850,000/3,359,679
+    test 2,900,000/3,359,679
+    test 2,950,000/3,359,679
+    test 3,000,000/3,359,679
+    test 3,050,000/3,359,679
+    test 3,100,000/3,359,679
+    test 3,150,000/3,359,679
+    test 3,200,000/3,359,679
+    test 3,250,000/3,359,679
+    test 3,300,000/3,359,679
+    test 3,350,000/3,359,679
+    test 3,359,679/3,359,679
+  → bert_scores_v23_test.npy | 122.3 dk
+
+[C] TY-ECOMM-EMBED COSINE (grup feature olmadan)...
+  item_embs: (962873, 768) | train_q: (17968, 768) | test_q: (32185, 768)
+  Train cosine hesaplanıyor...
+    50,000/1,499,999 (3%)
+    1,050,000/1,499,999 (70%)
+    1,499,999/1,499,999 (100%)
+  train_cos: pos mean=0.684 neg mean=0.135
+  Test cosine hesaplanıyor...
+    50,000/3,359,679 (1%)
+    1,050,000/3,359,679 (31%)
+    2,050,000/3,359,679 (61%)
+    3,050,000/3,359,679 (91%)
+    3,359,679/3,359,679 (100%)
+  test_cos: mean=0.317
+  → 0.5 dk
+
+[C2] Trusted brand + category phrase sözlükleri kuruluyor...
+  Trusted brand sayısı: 55,580 (toplam benzersiz brand: 79,790)
+  Category phrase sayısı: 3,421
+  Örnek query_type: [('defacto kız bebek elbise', 'brand_category'), ('bebek oto koltuğu', 'category_attr'), ('sava lastik', 'brand_category'), ('kadın tesettür kışlık gömlek', 'category_attr'), ('erkek çocuk kranpon', 'other')]
+
+[D] FEATURE ENGINEERING...
+  Train features: (1499999, 41) | 509.8s
+
+[E] BINARY LGBM 5-FOLD (n_estimators=4000, early_stop=150)...
+  Fold 1 | iter=2583 | val F1≈0.9664
+  Fold 2 | iter=2511 | val F1≈0.9707
+  Fold 3 | iter=2478 | val F1≈0.9709
+  Fold 4 | iter=2206 | val F1≈0.9740
+  Fold 5 | iter=2700 | val F1≈0.9723
+
+  OOF F1=0.97081 | thr=0.7600
+
+  Feature Önemleri (top 20):
+    bert_score               :  36577
+    tyembed_cos              :  33715
+    fuzz_basic               :  24989
+    fuzz_partial             :  23590
+    fuzz_sort                :  21579
+    fuzz_set                 :  18421
+    tfidf_cos                :  15439
+    t_len                    :  15259
+    ana_kategori             :  10870
+    cat_overlap              :   9835
+    stem_cat_jac             :   8900
+    attr_jac_fixed           :   8045
+    stem_jaccard             :   5175
+    q_len                    :   5017
+    category_phrase_match    :   4877
+    jaccard                  :   4052
+    t_cov_query              :   4050
+    weighted_q_cov           :   3815
+    brand_weight             :   3492
+    attr_q_cov               :   3481
+
+=================================================================
+SAĞLIK KONTROLÜ
+=================================================================
+  ✓ OOF F1 (0.9708) v31'e (0.9705) yakın/altında — makul bir sinyal.
+  ✓ En baskın feature 'bert_score' importance'ın sadece %13'ini oluşturuyor.
+=================================================================
+
+[F] TEST INFERENCE + SUBMISSION (doğrudan threshold, quantile mapping YOK)...
+  thr=0.7600 (OOF'tan doğrudan) → Pozitif=916,511 (27.3%)
+
+=================================================================
+TAMAMLANDI — v32 more features (age_cross, material_mismatch, query_type)
+  OOF F1        : 0.97081
+  OOF threshold : 0.7600
+  Pozitif       : 916,511 (27.3%)
+  Train çifti   : 1,499,999
+  Feature sayısı: 41 (38 v31 + 3 yeni)
+  Toplam süre   : 167.1 dk
+  Dosya         : C:\Users\Lenovo\Desktop\projeler egit\TEKNOFEST_TRENDYOL\claude only\submissions\submission_v32_more_features.csv
+=================================================================

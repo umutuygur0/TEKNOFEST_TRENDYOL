@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+2100,0,LTB jean is women's not men's
+2101,1,LTB men's jean pants match
+2102,1,LTB men's jean pants match
+2103,1,LTB men's jean pants match
+2104,1,LTB men's jean pants match
+2105,1,Levidor women's shoulder bag matches
+2106,1,Levidor women's shoulder bag matches
+2107,1,Levidor women's hand bag matches
+2108,1,Levidor women's hand bag matches
+2109,1,Levidor women's hand bag matches
+2110,1,Adidas football jersey match
+2111,1,Adidas football jersey match
+2112,1,Adidas football jersey match
+2113,1,Adidas football jersey match
+2114,1,Adidas football jersey match
+2115,0,Different book title than query
+2116,0,Different book title than query
+2117,0,Different book title than query
+2118,0,Different book title than query
+2119,0,Different book title than query
+2120,1,Mom baby care bag matches
+2121,1,Mom baby care bag matches
+2122,1,Mom baby care bag matches
+2123,1,Mom baby care bag matches
+2124,1,Mom baby care bag matches
+2125,1,Wrangler branded men's t-shirt
+2126,1,Wrangler men's t-shirt match
+2127,1,Wrangler men's t-shirt match
+2128,1,Wrangler men's t-shirt match
+2129,1,Wrangler men's t-shirt match
+2130,1,Foreign language education book
+2131,1,English learning dictionary for kids
+2132,1,Bilingual language-teaching story book
+2133,1,English grammar self-learning book
+2134,0,Novel, not a language book
+2135,1,Tea machine strainer accessory
+2136,1,Tea machine strainer accessory
+2137,1,Exact category tea/coffee accessory
+2138,1,Tea/coffee machine spare part
+2139,1,Teapot spare part accessory
+2140,1,Ozkent brand teapot match
+2141,1,Ozkent brand teapot match
+2142,1,Ozkent brand teapot match
+2143,1,Ozkent brand teapot match
+2144,0,Ozlife brand, not Ozkent
+2145,1,Jument brand women's pants
+2146,1,Jument brand women's pants
+2147,1,Jument pants despite mistagged category
+2148,1,Jument brand women's pants
+2149,1,Jument brand women's pants
+2150,1,Writing board matches query
+2151,0,Wrong category, baby bodysuit not board
+2152,1,Writing board matches query
+2153,1,Writing board matches query
+2154,1,Writing board matches query
+2155,1,Koton necklace matches query
+2156,1,Koton necklace matches query
+2157,1,Koton necklace matches query
+2158,1,Koton necklace matches query
+2159,1,Koton necklace matches query
+2160,1,Echo brand chainsaw match
+2161,1,Echo brand chainsaw match
+2162,1,Echo brand chainsaw match
+2163,1,Echo brand chainsaw match
+2164,1,Echo brand chainsaw match
+2165,1,Fenomen 7th grade math A bank
+2166,1,Fenomen 7th grade math A book
+2167,1,Fenomen 7th grade math A bank
+2168,0,Variant B not requested A
+2169,0,Combined science-math, different product
+2170,1,Pure acetone matches query
+2171,1,Pure acetone matches query
+2172,0,Foot peeling product, not acetone
+2173,1,Pure acetone matches query
+2174,1,Pure acetone, industrial use
+2175,1,Unisex sweatshirt fits women query
+2176,1,Unisex sweatshirt fits women query
+2177,1,Women's sweatshirt matches query
+2178,0,Men's sweatshirt, wrong gender
+2179,1,Unisex sweatshirt fits women query
+2180,1,Mirror suitable for bedroom
+2181,1,Decorative mirror for bedroom
+2182,1,Bedroom mirror exact match
+2183,1,Floor mirror for bedroom
+2184,1,Floor mirror for bedroom
+2185,1,Personalized baby bodysuit match
+2186,1,Personalized baby bodysuit match
+2187,1,Named personalized baby bodysuit
+2188,1,Named personalized baby bodysuit
+2189,1,Named personalized baby bodysuit
+2190,1,Sisley shoulder bag matches
+2191,1,Sisley shoulder bag matches
+2192,0,Hand bag/wallet, not shoulder bag
+2193,1,Sisley shoulder bag matches
+2194,1,Sisley shoulder bag matches
+2195,1,Karaca bathrobe set matches
+2196,0,Single robe, not a set
+2197,1,Karaca bathrobe set matches
+2198,0,Single robe, not a set
+2199,0,Single robe, not a set
+2200,1,Stroller organizer bag matches
+2201,1,Stroller bag matches query
+2202,1,Stroller organizer bag matches
+2203,1,Stroller organizer bag matches
+2204,1,Stroller organizer bag matches
+2205,0,Clinique skincare, not Clin brand
+2206,0,Clinique skincare, not Clin brand
+2207,0,Wrong brand, not Clin cleaner
+2208,0,Wrong brand, not Clin cleaner
+2209,0,Wrong brand, not Clin cleaner
+2210,1,Italian style bracelet matches
+2211,1,Italian charm bracelet matches
+2212,1,Italian charm bracelet matches
+2213,1,Italian charm bracelet matches
+2214,1,Italian charm bracelet matches
+2215,1,Mia Vento silver ring match
+2216,1,Mia Vento silver ring match
+2217,1,Mia Vento silver ring match
+2218,1,Mia Vento silver ring match
+2219,1,Mia Vento silver ring set
+2220,1,White soap scent air freshener
+2221,1,White soap named air freshener
+2222,1,White soap scent air freshener
+2223,1,White soap scent air freshener
+2224,1,White soap scented diffuser oil
+2225,1,Korkmaz Mia waffle maker match
+2226,1,Korkmaz Mia waffle maker match
+2227,1,Korkmaz Mia waffle maker match
+2228,1,Korkmaz Mia waffle maker match
+2229,1,Korkmaz Mia waffle maker match
+2230,1,Wall-mount home key holder
+2231,1,Wall-mount home key holder
+2232,1,Decorative home key rack
+2233,1,Decorative home key rack
+2234,1,Home-shaped key holder rack
+2235,1,Map-based history exam book
+2236,1,Map-based history exam book
+2237,1,Map-based history exam book
+2238,1,Map-based history/geography set
+2239,1,Map-based history exam notes
+2240,1,Baby bathtub matches query
+2241,1,Foldable baby tub matches
+2242,1,Kitchen prep tub matches
+2243,1,Multipurpose tub matches
+2244,1,Kitchen prep tub matches
+2245,1,Tavaf/hajj bootie match
+2246,1,Tavaf/hajj bootie match
+2247,1,Tavaf/hajj bootie match
+2248,1,Tavaf/hajj bootie match
+2249,1,Tavaf/hajj bootie match
+2250,1,Bag canvas material match
+2251,1,Bag canvas material match
+2252,1,Bag canvas material match
+2253,1,DIY bag canvas match
+2254,1,DIY bag canvas match
+2255,0,Generic Eti biscuit, not Bifa
+2256,0,Generic Eti biscuit, not Bifa
+2257,0,Generic Eti biscuit, not Bifa
+2258,0,Ulker biscuit, not Bifa
+2259,0,Ulker biscuit, not Bifa
+2260,0,Wall sconce not chandelier
+2261,0,Downward-facing, wrong direction
+2262,0,Downward-facing, wrong direction
+2263,0,Wall sconce not chandelier
+2264,1,Upward-facing chandelier exact match
+2265,1,Defacto baby outfit set
+2266,1,Defacto baby outfit set
+2267,1,Defacto baby 2-piece set
+2268,1,Defacto baby outfit set
+2269,1,Defacto baby outfit set
+2270,1,4-piece spice rack match
+2271,1,4-piece spice rack match
+2272,1,4-compartment spice rack match
+2273,1,4-piece spice set per title
+2274,0,3-piece set, wrong count
+2275,1,Rattan-style garden table set
+2276,1,Rattan-style garden table set
+2277,1,Rattan table plus 6 chairs
+2278,1,Rattan table and chairs set
+2279,1,Rattan table plus 6 chairs
+2280,1,Benguen brand cardigan match
+2281,1,Benguen brand cardigan match
+2282,1,Benguen brand cardigan match
+2283,1,Benguen brand cardigan match
+2284,1,Benguen brand cardigan match
+2285,1,Bic felt-tip pens match
+2286,1,Bic felt-tip pens match
+2287,1,Bic felt-tip pens match
+2288,1,Bic felt-tip pens match
+2289,0,Dry crayons, not felt pens
+2290,1,Puma men's vest match
+2291,1,Puma men's vest match
+2292,1,Puma men's vest match
+2293,1,Puma men's vest match
+2294,1,Puma men's vest match
+2295,1,Yuka Atelier wallet match
+2296,1,Yuka Atelier wallet match
+2297,1,Yuka Atelier wallet match
+2298,1,Yuka Atelier wallet match
+2299,1,Yuka Atelier wallet match
+2300,1,Blazer jacket suit match
+2301,1,Blazer jacket suit match
+2302,1,Blazer jacket suit match
+2303,1,Blazer jacket suit match
+2304,1,Blazer jacket suit match
+2305,1,Cabinet LED light match
+2306,1,Cabinet LED light match
+2307,1,Cabinet LED lamp match
+2308,1,Cabinet LED light match
+2309,1,Cabinet LED light match
+2310,1,Steel tragus piercing match
+2311,1,Steel tragus piercing match
+2312,1,Steel tragus piercing match
+2313,1,Steel tragus piercing match
+2314,1,Steel tragus piercing match
+2315,0,3000 pieces, wrong count
+2316,0,1000 pieces, wrong count
+2317,0,1000 pieces, wrong count
+2318,0,1000 pieces, wrong count
+2319,0,1000 pieces, wrong count
+2320,1,Personalized keychain match
+2321,1,Personalized keychain match
+2322,1,Personalized name keychain match
+2323,1,Personalized keychain match
+2324,1,Personalized keychain match
+2325,0,Poster, not vinyl record
+2326,0,Poster, not vinyl record
+2327,0,Poster, not vinyl record
+2328,0,Poster, not vinyl record
+2329,0,Poster set, not vinyl record
+2330,1,iPhone charging cable match
+2331,1,iPhone charging cable match
+2332,1,iPhone charging cable match
+2333,1,iPhone charging cable match
+2334,1,iPhone charging cable match
+2335,1,Vicco girl baby shoe match
+2336,1,Vicco girl baby shoe match
+2337,1,Vicco girl baby shoe match
+2338,1,Vicco girl baby shoe match
+2339,1,Vicco girl baby shoe match
+2340,1,Sandpaper product match
+2341,1,Sandpaper product match
+2342,1,Wet sandpaper set match
+2343,1,Wet sandpaper set match
+2344,1,Wet sandpaper sheet match
+2345,1,Straw/pipette bottle accessory
+2346,1,Straw/pipette water bottle match
+2347,1,Straw water bottle match
+2348,1,Straw water bottle match
+2349,0,Wrong category, house slippers
+2350,1,Laundry basket cabinet match
+2351,1,Laundry basket cabinet match
+2352,1,Laundry basket cabinet match
+2353,1,Laundry basket cabinet match
+2354,1,Laundry basket cabinet match
+2355,1,Grey zip sweatshirt match
+2356,1,Grey zip sweatshirt match
+2357,0,Cardigan, not a sweatshirt
+2358,1,Grey zip sweatshirt match
+2359,1,Grey zip hoodie match
+2360,1,Nike Blazer Jumbo sneaker match
+2361,1,Nike Blazer Jumbo sneaker match
+2362,1,Nike Blazer Jumbo sneaker match
+2363,1,Nike Blazer Jumbo sneaker match
+2364,1,Nike Blazer Jumbo sneaker match
+2365,1,Similar name outfit set match
+2366,0,Different named outfit set
+2367,0,Different named outfit set
+2368,0,Different named outfit set
+2369,0,Different named outfit set
+2370,1,Mother's modest outfit set
+2371,1,Mother's modest outfit set
+2372,1,Mother's modest outfit set
+2373,0,Single dress, not a set
+2374,1,Mother's modest outfit set
+2375,1,Profilo fridge shelf part match
+2376,0,Whole fridge, not a shelf
+2377,0,Whole fridge, not a shelf
+2378,0,Whole fridge, not a shelf
+2379,0,Whole fridge, not a shelf
+2380,1,Hunting/waterproof boots match
+2381,1,Hunting/waterproof boots match
+2382,1,Hunting/waterproof boots match
+2383,1,Hunting/waterproof boots match
+2384,1,Hunting/waterproof boots match
+2385,1,Dove Sugar Cookie shower gel
+2386,1,Dove Sugar Cookie shower gel
+2387,1,Dove Sugar Cookie liquid soap
+2388,1,Dove Sugar Cookie shower foam
+2389,1,Dove Sugar Cookie bundle set
+2390,1,Shower cabin glass match
+2391,1,Shower cabin glass match
+2392,1,Shower cabin glass match
+2393,1,Shower cabin glass match
+2394,1,Shower cabin glass match
+2395,1,Fishing tackle gear match
+2396,1,Fishing tackle gear match
+2397,1,Fishing tackle set match
+2398,1,Fishing lead/gear match
+2399,1,Fishing tackle set match
+2400,1,Book set matches query
+2401,1,Book set matches query
+2402,1,Book set matches query
+2403,1,Book set matches query
+2404,1,Book set matches query
+2405,1,Altinyildiz Classics pants match
+2406,1,Altinyildiz Classics pants match
+2407,1,Altinyildiz Classics pants match
+2408,1,Altinyildiz Classics pants match
+2409,1,Altinyildiz Classics pants match
+2410,0,Air purifier, not Airbot product
+2411,0,Bluetooth earbuds, unrelated product
+2412,0,Bluetooth earbuds, unrelated product
+2413,0,Bluetooth earbuds, unrelated product
+2414,0,Bluetooth earbuds, unrelated product
+2415,0,Hair serum, unrelated to query
+2416,0,Perfume, unrelated to query
+2417,0,Perfume, unrelated to query
+2418,0,Cookware set, unrelated product
+2419,0,Perfume, unrelated to query
+2420,1,Roborock robot vacuum match
+2421,1,Roborock robot vacuum match
+2422,1,Roborock robot vacuum match
+2423,0,Dreame brand, not Roborock
+2424,1,Roborock robot vacuum match
+2425,1,Fishbone tagging gun match
+2426,1,Fishbone tagging gun match
+2427,1,Fishbone tagging gun match
+2428,1,Fishbone tagging gun match
+2429,1,Fishbone tagging gun match
+2430,1,Girl's leather jacket match
+2431,1,Girl's leather jacket match
+2432,1,Girl's leather jacket match
+2433,1,Girl's leather jacket match
+2434,1,Girl's leather jacket match
+2435,1,Dell monitor match
+2436,1,Dell monitor match
+2437,1,Dell monitor match
+2438,1,Dell monitor match
+2439,1,Dell monitor match
+2440,1,Newvit vitamin C match
+2441,1,Newvit probiotic match
+2442,1,Newvit iron syrup match
+2443,0,Nevfix brand, not Newvit
+2444,0,Nevfix brand, not Newvit
+2445,1,Motorcycle cover/tent match
+2446,1,Motorcycle cover/tent match
+2447,1,Motorcycle cover/tent match
+2448,1,Motorcycle cover/tent match
+2449,1,Motorcycle cover/tent match

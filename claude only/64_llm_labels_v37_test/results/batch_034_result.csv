@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11900,1,mario themed plush toy
+11901,1,mario figure toy
+11902,0,t-shirt not a game
+11903,0,t-shirt not a game
+11904,0,t-shirt not a game
+11905,1,nike basketball ball
+11906,1,nike basketball ball
+11907,1,nike basketball ball
+11908,1,nike basketball ball
+11909,1,nike basketball ball
+11910,1,merinos single blanket
+11911,1,merinos single blanket
+11912,1,merinos single blanket
+11913,1,merinos single blanket
+11914,1,merinos single blanket
+11915,1,porcelain breakfast set
+11916,1,porcelain breakfast set
+11917,1,porcelain breakfast set
+11918,1,porcelain breakfast set
+11919,1,porcelain breakfast set
+11920,1,lacoste shoe
+11921,1,lacoste shoe
+11922,1,lacoste shoe
+11923,1,lacoste shoe
+11924,1,lacoste shoe
+11925,1,duru brand carpet
+11926,1,duru brand carpet
+11927,0,wrong brand - not duru
+11928,0,wrong brand - not duru
+11929,0,wrong brand - not duru
+11930,0,wrong model k616 not k617
+11931,1,exact model k617 fizz match
+11932,0,wrong brand redline
+11933,0,wrong brand sprange
+11934,0,wrong brand coverzone
+11935,1,beige jeans match
+11936,1,beige jeans match
+11937,1,beige jeans match
+11938,1,beige jeans match
+11939,1,beige jeans match
+11940,1,tink brand tile
+11941,1,tink brand tile
+11942,1,tink brand tile
+11943,1,tink brand tile
+11944,1,tink brand tile
+11945,1,tekbir porselen brand
+11946,1,tekbir porselen brand
+11947,1,tekbir porselen brand
+11948,1,tekbir porselen brand
+11949,1,tekbir porselen brand
+11950,1,beeswax product
+11951,1,beeswax candle material
+11952,1,beeswax product
+11953,1,beeswax beads
+11954,1,beeswax tealight candles
+11955,1,small snack bowl
+11956,1,small snack bowl
+11957,1,small snack bowl
+11958,1,small snack bowl
+11959,1,small snack bowl
+11960,1,small pilates ball
+11961,1,small pilates ball
+11962,1,small pilates ball
+11963,1,mini pilates ball
+11964,1,mini pilates ball
+11965,1,girl heeled shoe
+11966,1,girl heeled shoe
+11967,1,girl heeled shoe
+11968,1,girl heeled shoe
+11969,1,girl heeled shoe
+11970,0,white daisy not yellow
+11971,0,peony bouquet not yellow daisy
+11972,0,pillow not a flower
+11973,0,pink rose bouquet not daisy
+11974,0,chrysanthemum not daisy
+11975,1,hair tie
+11976,1,hair tie
+11977,1,hair tie
+11978,1,hair tie set
+11979,1,hair tie
+11980,1,dry food storage container
+11981,1,dry food storage container
+11982,1,dry food storage container
+11983,1,dry food storage container
+11984,1,dry food storage container
+11985,0,ice cream mold not muffin
+11986,0,ice cube mold not muffin
+11987,0,generic ice/soap mold not muffin
+11988,0,ice mold not muffin
+11989,0,ice cube mold not muffin
+11990,1,arda türkmen prep set
+11991,1,arda türkmen prep set
+11992,1,arda türkmen prep set
+11993,1,arda türkmen prep set
+11994,1,arda türkmen prep set
+11995,0,cardigan not a dress set
+11996,0,unisex cardigan set not dress
+11997,0,cardigan not dress
+11998,0,underwear set not dress
+11999,0,baby cardigan not dress
+12000,1,skechers watch
+12001,1,skechers watch
+12002,1,skechers watch
+12003,1,skechers watch
+12004,1,skechers watch
+12005,1,car window regulator
+12006,1,car window regulator
+12007,1,car window regulator
+12008,1,car window regulator
+12009,1,car window regulator
+12010,1,men's classic jacket
+12011,1,men's blazer jacket
+12012,1,men's classic jacket
+12013,1,men's jacket
+12014,1,men's blazer jacket
+12015,0,mdf material not wood
+12016,1,wood dining table set
+12017,0,mdf material not wood
+12018,0,mdf material not wood
+12019,1,wood dining table set
+12020,1,hacı şakir brand soap
+12021,1,hacı şakir brand soap
+12022,1,hacı şakir brand soap
+12023,1,hacı şakir brand soap
+12024,1,hacı şakir brand soap
+12025,0,no sequin detail mentioned
+12026,0,no sequin detail mentioned
+12027,0,no sequin detail mentioned
+12028,0,no sequin detail mentioned
+12029,0,no sequin detail mentioned
+12030,1,lrf fishing rod
+12031,1,lrf fishing rod
+12032,1,lrf fishing rod
+12033,1,lrf fishing rod
+12034,1,lrf fishing rod
+12035,1,short evening dress
+12036,1,short evening dress
+12037,1,short evening dress
+12038,1,short mini evening dress
+12039,1,short evening dress
+12040,1,large chandelier
+12041,1,large chandelier
+12042,1,large chandelier
+12043,1,large chandelier
+12044,1,large chandelier
+12045,1,huda beauty brand powder
+12046,0,wrong brand farmasi
+12047,0,wrong brand clio
+12048,0,wrong brand mac
+12049,0,wrong brand muson
+12050,1,stiga table tennis racket
+12051,1,stiga table tennis racket
+12052,1,stiga table tennis racket
+12053,1,stiga table tennis racket
+12054,1,stiga table tennis racket
+12055,1,modamorfo brand skirt
+12056,1,modamorfo brand skirt
+12057,1,modamorfo brand skirt
+12058,1,modamorfo brand skirt
+12059,1,modamorfo brand skirt
+12060,1,exact book match
+12061,0,different book
+12062,0,different book
+12063,0,different book
+12064,0,different book
+12065,1,star wars mandalorian toy
+12066,1,star wars mandalorian mask
+12067,1,star wars lego set
+12068,1,star wars lego set
+12069,1,star wars lego set
+12070,1,white kraş skirt explicit
+12071,0,no white color confirmed
+12072,0,no white color confirmed
+12073,0,no white color confirmed
+12074,0,no white color confirmed
+12075,1,adidas superstar sneaker
+12076,1,adidas superstar sneaker
+12077,1,adidas superstar sneaker
+12078,1,adidas superstar sneaker
+12079,1,adidas superstar sneaker
+12080,1,menekşe flower pot
+12081,1,menekşe flower pot
+12082,1,menekşe flower pot
+12083,1,menekşe flower pot
+12084,1,menekşe flower pot
+12085,1,heeled shoe
+12086,1,heeled shoe
+12087,1,heeled shoe
+12088,1,heeled shoe
+12089,1,heeled shoe
+12090,0,milky dessert sauce not chocolate
+12091,0,spicy pepper sauce not chocolate
+12092,1,chocolate waffle sauce
+12093,0,pepper sauce not chocolate
+12094,0,lemon flavored not chocolate
+12095,1,bicycle accessory
+12096,1,bicycle accessory
+12097,1,bicycle accessory
+12098,1,bicycle accessory
+12099,1,bicycle accessory
+12100,1,women's long shirt
+12101,1,women's long shirt
+12102,1,women's long shirt
+12103,1,women's long shirt
+12104,1,women's long shirt
+12105,1,madame coco bedspread
+12106,1,madame coco bedspread
+12107,1,madame coco bedspread
+12108,1,madame coco bedspread
+12109,1,madame coco bedspread
+12110,1,hidden security camera
+12111,1,hidden wifi camera
+12112,0,screen protector not camera
+12113,0,warning sign not camera
+12114,1,mini spy camera
+12115,1,bosch tool bag
+12116,1,bosch tool bag
+12117,1,bosch tool bag
+12118,1,bosch tool bag
+12119,1,bosch tool backpack
+12120,1,car wire rope
+12121,1,car wire rope
+12122,1,car wire rope
+12123,1,car wire rope
+12124,1,car wire rope
+12125,1,black mug title match
+12126,1,black mug title match
+12127,1,black ceramic mug
+12128,0,white mug not black
+12129,0,white mug not black
+12130,1,hedef bijuteri brand beads
+12131,1,hedef bijuteri brand beads
+12132,1,hedef bijuteri brand beads
+12133,1,hedef bijuteri brand beads
+12134,1,hedef bijuteri brand beads
+12135,1,pcx modification part
+12136,1,pcx modification part
+12137,1,pcx modification part
+12138,1,pcx modification part
+12139,1,pcx modification part
+12140,1,proforce treadmill
+12141,1,proforce treadmill
+12142,1,proforce treadmill
+12143,1,proforce treadmill
+12144,1,proforce treadmill
+12145,1,small spoon
+12146,1,small dessert spoon set
+12147,0,spatula not spoon
+12148,0,large scoop not spoon
+12149,0,strainer not spoon
+12150,0,manual not electric toothbrush
+12151,1,rechargeable electric toothbrush
+12152,1,rechargeable electric toothbrush
+12153,1,rechargeable electric toothbrush
+12154,0,manual toothbrush not electric
+12155,1,inoa brand hair dye
+12156,1,inoa brand hair dye
+12157,1,inoa brand hair dye
+12158,1,inoa brand hair dye
+12159,1,inoa brand hair dye
+12160,1,brita filter water pitcher
+12161,1,brita filter water pitcher
+12162,1,brita filter water pitcher
+12163,0,replacement filter not pitcher
+12164,0,replacement filter not pitcher
+12165,1,guess steel necklace
+12166,1,guess steel necklace
+12167,1,guess steel necklace
+12168,1,guess steel necklace
+12169,1,guess steel necklace
+12170,1,double lastiksiz bedsheet
+12171,1,double lastiksiz bedsheet
+12172,1,double lastiksiz bedsheet
+12173,1,double lastiksiz bedsheet
+12174,0,duvet set without sheet
+12175,1,meta quest device match
+12176,0,unrelated brand headphone
+12177,0,unrelated brand headphone
+12178,0,unrelated brand headphone
+12179,0,unrelated brand headphone
+12180,1,room night lamp
+12181,1,room night lamp
+12182,1,room night lamp
+12183,1,room led light lamp
+12184,0,wall art not a lamp
+12185,1,hm brand sweater
+12186,1,hm brand sweater
+12187,1,hm brand sweater
+12188,0,wrong brand stradivarius
+12189,0,wrong brand jm
+12190,0,navy not antrasit color
+12191,0,wrong product type - cape not sweater
+12192,0,color not specified as antrasit
+12193,0,color not specified as antrasit
+12194,0,black not antrasit
+12195,1,istanbul porselen coffee cups
+12196,1,istanbul porselen coffee cups
+12197,1,istanbul porselen coffee cups
+12198,1,istanbul porselen coffee cups
+12199,1,istanbul porselen coffee cups
+12200,1,waterproof backpack
+12201,1,women's waterproof backpack
+12202,1,waterproof backpack
+12203,1,waterproof backpack
+12204,1,waterproof backpack
+12205,0,car wash glove not motorcycle glove
+12206,0,car wash glove not motorcycle glove
+12207,0,car wash glove not motorcycle glove
+12208,0,car wash glove not motorcycle glove
+12209,0,car wash glove not motorcycle glove
+12210,1,wheeled storage box
+12211,1,wheeled storage box
+12212,1,wheeled storage box
+12213,1,wheeled storage box
+12214,1,wheeled storage box
+12215,1,urban care brand shampoo
+12216,1,urban care brand shampoo
+12217,1,urban care brand shampoo
+12218,1,urban care brand shampoo
+12219,1,urban care brand shampoo
+12220,1,spiderman birthday party set
+12221,1,spiderman birthday balloon set
+12222,1,spiderman birthday party set
+12223,1,spiderman birthday balloon set
+12224,1,spiderman birthday balloon set
+12225,0,wrong model pad x9 not pad9
+12226,0,wrong model pad x9a not pad9
+12227,0,wrong model pad x9a not pad9
+12228,0,wrong model pad x9 not pad9
+12229,0,wrong model pad x9a not pad9
+12230,1,padded half vest match
+12231,0,no pedli attribute mentioned
+12232,0,explicitly padless pedsiz
+12233,1,padded half vest match
+12234,1,padded half vest match
+12235,1,children's water shoe
+12236,1,children's water shoe
+12237,1,children's water shoe
+12238,1,children's water shoe
+12239,1,children's water shoe
+12240,1,pink backdrop curtain
+12241,1,pink backdrop curtain
+12242,1,pink backdrop curtain
+12243,1,pink backdrop curtain
+12244,1,pink backdrop curtain
+12245,1,explicit hardcover book
+12246,1,explicit hardcover book
+12247,0,hardcover not confirmed
+12248,1,explicit hardcover book
+12249,0,hardcover not confirmed

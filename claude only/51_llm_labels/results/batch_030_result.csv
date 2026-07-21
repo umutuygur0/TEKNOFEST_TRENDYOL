@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+10500,1,brand category and gender match
+10501,1,brand category and gender match
+10502,1,brand category and gender match
+10503,1,brand category and gender match
+10504,1,defacto womens t-shirt match
+10505,1,defacto womens t-shirt match
+10506,1,defacto womens t-shirt match
+10507,1,defacto womens t-shirt match
+10508,1,defacto womens t-shirt match
+10509,1,runner table linen match
+10510,1,runner table centerpiece match
+10511,1,runner table linen match
+10512,1,runner table linen match
+10513,1,runner table linen match
+10514,0,nursing pillow itself not a cover
+10515,0,nursing pillow itself not a cover
+10516,0,nursing pillow itself not a cover
+10517,0,nursing pillow itself not a cover
+10518,0,nursing pillow itself not a cover
+10519,1,caterpillar cookie cutter match
+10520,1,caterpillar cookie cutter match
+10521,1,caterpillar cookie cutter match
+10522,1,caterpillar cookie cutter match
+10523,1,caterpillar cookie cutter match
+10524,0,not genuine ugg brand
+10525,0,not genuine ugg brand
+10526,0,not genuine ugg brand
+10527,0,not genuine ugg brand
+10528,0,not genuine ugg brand
+10529,1,koton womens coat match
+10530,1,koton womens coat match
+10531,1,koton womens coat match
+10532,1,koton womens coat match
+10533,1,koton womens coat match
+10534,1,baby care backpack match
+10535,1,baby care backpack match
+10536,1,baby care backpack match
+10537,1,baby care backpack match
+10538,1,baby care backpack match
+10539,1,riccon loafer match
+10540,1,riccon loafer match
+10541,1,riccon loafer match
+10542,1,riccon loafer match
+10543,1,riccon loafer match
+10544,1,bluetooth music/sound system
+10545,1,home cinema sound system
+10546,1,wooden sound system soundbar
+10547,1,5.1 sound system speaker
+10548,1,surround sound system speaker
+10549,1,avon viva la vita perfume same line
+10550,1,avon viva la vita perfume same line
+10551,1,avon viva la vita perfume same line
+10552,1,avon viva la vita perfume same line
+10553,1,avon viva la vita perfume same line
+10554,1,tchibo espresso coffee match
+10555,1,tchibo espresso coffee match
+10556,1,tchibo espresso coffee match
+10557,1,tchibo espresso coffee match
+10558,1,tchibo espresso coffee match
+10559,1,red switch mechanical keyboard
+10560,1,red switch mechanical keyboard
+10561,1,red switch mechanical keyboard
+10562,1,red switch mechanical keyboard
+10563,1,red switch mechanical keyboard
+10564,1,potted artificial flower match
+10565,1,potted artificial flower match
+10566,1,potted artificial flower match
+10567,1,potted artificial flower match
+10568,1,potted artificial flower match
+10569,1,zebra roller blind match
+10570,1,zebra roller blind match
+10571,1,zebra roller blind match
+10572,1,zebra roller blind match
+10573,1,zebra roller blind match
+10574,0,mango kids line not baby age group child
+10575,1,mango baby brand and baby age match
+10576,1,mango baby item age bebek
+10577,1,mango baby item age bebek
+10578,1,mango baby brand and age bebek
+10579,1,pumpkin seed oil match
+10580,1,pumpkin seed oil match
+10581,1,pumpkin seed oil match
+10582,1,pumpkin seed oil match
+10583,1,pumpkin seed oil match
+10584,1,car accessory generic match
+10585,1,car wash care set match
+10586,1,car organizer accessory match
+10587,1,car wash care set match
+10588,1,car care cleaning set match
+10589,1,publisher name matches exactly
+10590,1,publisher name matches exactly
+10591,1,publisher name matches exactly
+10592,1,publisher name matches exactly
+10593,1,publisher name matches exactly
+10594,1,garden furniture set match
+10595,1,garden furniture set match
+10596,1,garden furniture set match
+10597,1,garden/balcony furniture set match
+10598,1,garden furniture set match
+10599,1,tommy hilfiger perfume match
+10600,1,tommy hilfiger perfume match
+10601,1,tommy hilfiger perfume match
+10602,1,tommy hilfiger perfume match
+10603,1,tommy hilfiger perfume match
+10604,1,intimate wash product match
+10605,1,intimate wash product match
+10606,1,intimate wash product match
+10607,1,intimate wash product match
+10608,1,intimate wash product match
+10609,1,countertop utensil holder match
+10610,1,countertop utensil holder match
+10611,1,countertop utensil holder match
+10612,1,countertop utensil holder match
+10613,1,countertop utensil holder match
+10614,1,face sunscreen category match
+10615,0,body sunscreen not face specific
+10616,1,face sunscreen category match
+10617,0,body sunscreen not face specific
+10618,1,face sunscreen category match
+10619,1,english learning material match
+10620,1,english learning material match
+10621,1,english learning material match
+10622,1,english learning material match
+10623,1,english learning dictionary match
+10624,1,letter bead set match
+10625,1,letter bead set match
+10626,1,letter bead set match
+10627,1,letter bead set match
+10628,1,letter bead set match
+10629,0,scarf category not shawl
+10630,0,scarf category not shawl
+10631,0,scarf category not shawl
+10632,0,scarf category not shawl
+10633,0,scarf category not shawl
+10634,1,tefal bagless vacuum match
+10635,1,tefal bagless vacuum match
+10636,1,tefal bagless vacuum match
+10637,1,title states bagless matches query
+10638,1,tefal bagless vacuum match
+10639,0,no clear vaggon style/brand match
+10640,0,no clear vaggon style/brand match
+10641,0,no clear vaggon style/brand match
+10642,0,no clear vaggon style/brand match
+10643,0,no clear vaggon style/brand match
+10644,1,benetton suitcase match
+10645,1,benetton suitcase match
+10646,1,benetton suitcase match
+10647,1,benetton suitcase match
+10648,1,benetton suitcase match
+10649,1,adidas sneaker category match
+10650,1,adidas sneaker category match
+10651,0,training shoe not sneaker subtype
+10652,0,tennis shoe not sneaker subtype
+10653,1,adidas sneaker category match
+10654,1,artline brand pen match
+10655,1,artline brand pen match
+10656,1,artline brand pen match
+10657,1,artline brand pen match
+10658,1,artline brand pen match
+10659,1,personalized canvas print match
+10660,1,personalized canvas print match
+10661,1,personalized canvas print match
+10662,1,personalized canvas print match
+10663,1,personalized canvas frame match
+10664,1,cba akademi publisher match
+10665,1,cba akademi publisher match
+10666,1,cba akademi publisher match
+10667,1,cba akademi publisher match
+10668,1,cba akademi publisher match
+10669,1,hospital going-home outfit match
+10670,1,hospital going-home outfit match
+10671,1,hospital going-home outfit match
+10672,1,hospital going-home outfit match
+10673,1,hospital going-home outfit match
+10674,1,nisantasi shoes heels match
+10675,1,nisantasi shoes heels match
+10676,1,nisantasi shoes heels match
+10677,0,boot category not classic heel
+10678,0,boot category not classic heel
+10679,1,zeiron gaming desktop match
+10680,1,zeiron gaming desktop match
+10681,1,zeiron gaming desktop match
+10682,1,zeiron gaming desktop match
+10683,1,zeiron gaming desktop match
+10684,1,toy museum book title match
+10685,1,toy museum book title match
+10686,1,toy museum book title match
+10687,1,toy museum book title match
+10688,1,toy museum book set match
+10689,1,capybara toy match
+10690,1,capybara toy match
+10691,1,capybara toy match
+10692,1,capybara toy match
+10693,1,capybara toy match
+10694,1,baby onesie set match
+10695,1,baby onesie set match
+10696,1,baby onesie set match
+10697,1,baby onesie set match
+10698,1,baby onesie set match
+10699,1,baby girl socks match
+10700,1,baby girl socks match
+10701,1,baby girl socks match
+10702,1,baby girl socks match
+10703,1,baby girl socks match
+10704,0,different brand bartech not eratec
+10705,0,different brand eysp not eratec
+10706,0,different brand master not eratec
+10707,1,eratec brand match
+10708,0,different brand lincoln not eratec
+10709,1,osse sunglasses brand match
+10710,1,osse sunglasses brand match
+10711,1,osse sunglasses brand match
+10712,1,osse sunglasses brand match
+10713,1,osse sunglasses brand match
+10714,1,epify brand close to query epfay
+10715,1,epify brand close to query epfay
+10716,1,epify brand close to query epfay
+10717,0,different brand epivia not epify
+10718,0,unrelated frame product wrong brand
+10719,0,coffee cup set is 2-person not 6
+10720,0,coffee cup set is 2-person not 6
+10721,0,coffee cup set is 2-person not 6
+10722,0,coffee cup set is 1-person not 6
+10723,0,coffee cup set is 2-person not 6
+10724,1,loose fit sweatpants match
+10725,1,loose fit sweatpants match
+10726,1,loose fit sweatpants match
+10727,1,loose fit sweatpants match
+10728,1,loose fit sweatpants match
+10729,1,gut/bowel probiotic support match
+10730,1,gut/bowel digestive paste match
+10731,1,gut/bowel digestive paste match
+10732,1,bowel issue drops match
+10733,1,gut health supporting product match
+10734,1,single size quilt match
+10735,1,single size quilt match
+10736,1,single size quilt match
+10737,1,single size quilt match
+10738,1,single size quilt match
+10739,1,talking dancing musical toy match
+10740,1,talking dancing musical toy match
+10741,1,talking dancing plush toy match
+10742,1,talking dancing musical toy match
+10743,1,talking storytelling doll match
+10744,1,kemal tanca womens brand match
+10745,1,kemal tanca womens brand match
+10746,1,kemal tanca womens brand match
+10747,1,kemal tanca womens brand match
+10748,1,kemal tanca womens brand match
+10749,1,tirtir cushion foundation brand match
+10750,1,tirtir cushion foundation brand match
+10751,1,tirtir cushion foundation brand match
+10752,1,tirtir cushion foundation brand match
+10753,1,tirtir cushion foundation brand match
+10754,1,betta fish food match
+10755,1,betta fish food match
+10756,0,fish tank not food product
+10757,0,aquarium tank not food product
+10758,1,betta fish food match
+10759,1,pure olive oil match
+10760,1,pure olive oil match
+10761,1,pure olive oil match
+10762,1,pure olive oil match
+10763,1,pure olive oil match
+10764,1,black girl child dress match
+10765,1,black girl child dress match
+10766,1,black girl child dress match
+10767,1,black girl child dress match
+10768,1,black girl child dress match
+10769,1,english home lampshade match
+10770,1,english home lampshade match
+10771,1,english home lampshade match
+10772,0,different brand bella maison
+10773,0,different brand homing
+10774,1,wall mounted shoe rack match
+10775,1,wall mounted shoe rack match
+10776,1,wall mounted shoe rack match
+10777,1,wall mounted shoe organizer match
+10778,1,wall mounted shoe rack match
+10779,1,japanese super glue match
+10780,1,japanese super glue match
+10781,1,japanese super glue match
+10782,1,fast glue related match
+10783,1,japanese glue type match
+10784,1,kinesiology tape match
+10785,1,kinesiology tape match
+10786,1,kinesiology tape match
+10787,1,kinesiology tape match
+10788,1,kinesiology tape match
+10789,1,epson compatible cartridge match
+10790,1,epson compatible cartridge match
+10791,1,genuine epson printer match
+10792,1,epson compatible cartridge match
+10793,1,epson compatible cartridge match
+10794,1,brita maxtra pro filter match
+10795,1,brita maxtra pro filter match
+10796,1,brita maxtra pro filter match
+10797,1,brita maxtra pro filter match
+10798,1,brita maxtra pro filter match
+10799,1,single duvet cover set match
+10800,1,single duvet cover set match
+10801,1,single duvet cover set match
+10802,1,single duvet cover set match
+10803,1,single duvet cover set match
+10804,1,q&q quartz watch brand match
+10805,1,q&q quartz watch brand match
+10806,1,q&q quartz watch brand match
+10807,1,q&q quartz watch brand match
+10808,1,q&q quartz watch brand match
+10809,1,black-gray tesettur shawl match
+10810,1,gray-smoke tesettur shawl match
+10811,1,black-gray tesettur shawl match
+10812,1,light gray tesettur shawl match
+10813,1,dark gray tesettur shawl match
+10814,0,no hood mentioned in listing
+10815,1,hooded sweatshirt explicit match
+10816,1,hooded sweatshirt hoodie match
+10817,1,hooded sweatshirt hoodie match
+10818,1,hooded sweatshirt explicit match
+10819,1,tv unit furniture leg match
+10820,1,tv unit furniture leg match
+10821,1,tv unit furniture leg match
+10822,1,tv unit furniture leg match
+10823,1,tv unit furniture leg match
+10824,1,cerave skin serum match
+10825,1,cerave skin serum match
+10826,1,cerave skin serum match
+10827,0,care set not a serum product
+10828,1,cerave skin serum match
+10829,1,water heater match
+10830,1,water heater match
+10831,1,water heater match
+10832,1,water heater match
+10833,1,water heater match
+10834,1,cetaphil brand match
+10835,0,different brand cerave not cetaphil
+10836,0,different brand cerave not cetaphil
+10837,0,different brand skinceuticals not cetaphil
+10838,0,different brand avene not cetaphil
+10839,1,baby bookshelf match
+10840,1,baby bookshelf match
+10841,1,baby bookshelf match
+10842,1,baby bookshelf match
+10843,1,baby bookshelf match
+10844,1,knorr soup brand match
+10845,1,knorr noodle brand match
+10846,0,different brand tryon not knorr
+10847,0,different brand tryon not knorr
+10848,0,different brand albastar not knorr
+10849,1,adjustable wrench kurbagacik match

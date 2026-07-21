@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+7700,1,toy arrow set matches
+7701,1,toy arrow set matches
+7702,1,toy arrow set matches
+7703,1,wooden arrow set matches
+7704,0,not an arrow toy
+7705,1,brown color bag matches
+7706,1,brown color bag matches
+7707,1,brown bag matches
+7708,1,brown bag matches
+7709,1,brown bag matches
+7710,0,monitor stand not vertical monitor
+7711,0,no vertical/pivot feature
+7712,0,no vertical/pivot feature
+7713,0,no vertical/pivot feature
+7714,1,pivot vesa supports vertical use
+7715,0,sweatpants bottom not top
+7716,0,sweatpants bottom not top
+7717,0,sweatpants bottom not top
+7718,1,blouse is a top for girls
+7719,0,sweatpants bottom not top
+7720,0,tshirt body not cashmere jacket
+7721,0,rayon body not cashmere jacket
+7722,0,denim top not cashmere jacket
+7723,0,tshirt not cashmere jacket
+7724,0,tshirt not cashmere jacket
+7725,1,pinterest style pajama set
+7726,1,pajama set matches
+7727,1,pinterest style pajama set
+7728,1,pinterest style pajama set
+7729,1,pajama set matches
+7730,1,5-way power strip
+7731,1,5-way group socket
+7732,1,5-way switched socket
+7733,1,5-way outlet with usb
+7734,0,3-way not 5-way socket
+7735,1,vicco girls shoe
+7736,1,vicco girls sneaker
+7737,1,vicco girls sneaker
+7738,1,vicco girls sneaker
+7739,1,vicco girls sneaker
+7740,1,koltuk takimi sofa set
+7741,1,koltuk takimi sofa set
+7742,1,koltuk takimi sofa set
+7743,1,koltuk takimi sofa set
+7744,1,koltuk takimi sofa set
+7745,1,baby girl outfit
+7746,1,baby girl outfit set
+7747,1,baby girl outfit set
+7748,1,baby girl outfit set
+7749,1,baby girl outfit set
+7750,1,portable cradle
+7751,1,portable cradle
+7752,1,portable cradle
+7753,1,portable cradle
+7754,1,portable cradle
+7755,1,men's leather boot
+7756,1,unisex winter boot usable by men
+7757,1,men's leather boot
+7758,1,men's outdoor boot
+7759,1,tactical boot usable by men
+7760,0,organizer stand not a plate
+7761,0,cosmetic organizer not a plate
+7762,0,basin not a plate
+7763,0,cosmetic organizer not a plate
+7764,0,drawer organizer not a plate
+7765,1,twill scarf matches
+7766,1,twill scarf matches
+7767,1,twill scarf matches
+7768,1,twill scarf matches
+7769,1,twill scarf matches
+7770,1,white marker pen
+7771,1,white paint marker
+7772,1,white marker pen
+7773,1,white paint marker
+7774,1,white chalk marker
+7775,0,ram for wrong acer model
+7776,0,ram for wrong acer model
+7777,0,ram for wrong acer model
+7778,0,ram for acer swift not aspire 3
+7779,0,ram for acer swift not aspire 3
+7780,1,coffee cup matches
+7781,1,coffee cup matches
+7782,1,coffee cup matches
+7783,1,coffee cup matches
+7784,1,coffee cup matches
+7785,0,isana micellar water not wash gel
+7786,0,isana cleansing oil not wash gel
+7787,1,isana face wash gel exact match
+7788,0,wrong brand not isana
+7789,0,wrong brand not isana
+7790,1,wet n wild eyeshadow palette
+7791,1,wet n wild eyeshadow palette
+7792,1,wet n wild eyeshadow palette
+7793,1,wet n wild eyeshadow palette
+7794,0,contour stick not eyeshadow palette
+7795,1,ozdilek double quilt
+7796,1,ozdilek double quilt
+7797,1,ozdilek double quilt
+7798,1,ozdilek double quilt
+7799,1,ozdilek double quilt
+7800,1,akmina mineral water
+7801,1,akmina mineral water
+7802,1,akmina mineral water
+7803,1,akmina mineral water
+7804,1,akmina mineral water
+7805,1,24-count crayons
+7806,1,24-count crayons
+7807,1,24-count crayons
+7808,1,24-count crayons
+7809,0,36-count not 24-count
+7810,1,pimapen window lock
+7811,1,pimapen window lock
+7812,1,pimapen window lock
+7813,1,pimapen window lock
+7814,1,pimapen window lock
+7815,1,solgar hyaluronic acid collagen
+7816,1,solgar hyaluronic acid collagen
+7817,1,solgar hyaluronic acid collagen
+7818,1,solgar hyaluronic acid collagen
+7819,0,wrong brand not solgar
+7820,1,iskandinav yolluk runner rug
+7821,1,iskandinav yolluk runner rug
+7822,1,iskandinav yolluk runner rug
+7823,1,iskandinav yolluk runner rug
+7824,1,iskandinav yolluk runner rug
+7825,1,jimmy choo perfume
+7826,1,jimmy choo perfume
+7827,1,jimmy choo perfume
+7828,0,wrong brand gucci
+7829,0,wrong brand antonio banderas
+7830,1,women's half boot
+7831,1,women's half boot
+7832,1,women's half boot
+7833,1,women's half boot
+7834,1,women's half boot
+7835,1,cabinet gas piston
+7836,1,cabinet gas piston
+7837,0,shelf pin not piston
+7838,0,hinge not piston
+7839,0,drawer rail not piston
+7840,1,men's tactical pants
+7841,1,tactical pants usable by men
+7842,1,men's tactical cargo pants
+7843,1,men's tactical pants
+7844,1,men's tactical pants
+7845,1,boys black pants
+7846,1,boys black pants
+7847,1,boys black pants
+7848,1,boys black pants
+7849,1,boys black pants
+7850,0,wifi camera not wifi card
+7851,0,ip camera set not wifi card
+7852,0,security camera not wifi card
+7853,0,action camera not wifi card
+7854,0,motherboard not wifi card
+7855,0,duvet cover not blanket
+7856,0,tablecloth not blanket
+7857,0,bathrobe not blanket
+7858,0,bedsheet set not blanket
+7859,0,bathrobe not blanket
+7860,1,daycare brand product
+7861,1,daycare brand product
+7862,1,daycare brand product
+7863,1,daycare brand product
+7864,1,daycare brand product
+7865,1,law exam prep book
+7866,1,law book administrative law
+7867,1,law book constitutional law
+7868,1,law book constitutional law notes
+7869,1,intro to law book
+7870,1,radiator cover cabinet
+7871,1,radiator cover cabinet
+7872,1,radiator cover cabinet
+7873,1,radiator cover shelf
+7874,1,radiator cover shelf
+7875,1,baby stroller essential
+7876,0,nail polish not baby item
+7877,0,kids activity set not baby need
+7878,1,baby bedding set
+7879,0,flash cards for children not baby need
+7880,1,baby velvet bootie
+7881,1,baby bootie
+7882,1,baby knit bootie
+7883,1,baby shoes
+7884,1,baby girl leather bootie
+7885,1,hummel boys shoe
+7886,1,hummel boys shoe
+7887,1,hummel boys shoe
+7888,1,hummel boys shoe
+7889,1,hummel boys shoe
+7890,0,thermal paper roll not printer
+7891,0,printer cable not printer
+7892,0,desktop computer not printer
+7893,0,usb-c adapter not printer
+7894,0,laptop adapter not printer
+7895,1,pellet stove
+7896,1,pellet stove
+7897,1,pellet stove
+7898,1,pellet stove
+7899,1,pellet stove
+7900,1,inflatable car bed
+7901,1,inflatable car bed
+7902,0,pet carrier not car bed
+7903,0,car window regulator part wrong product
+7904,0,seat cushion cover not inflatable bed
+7905,1,us polo sneaker
+7906,1,us polo sneaker
+7907,1,us polo sneaker
+7908,1,us polo sneaker
+7909,1,us polo sneaker
+7910,1,mom jean
+7911,1,mom jean
+7912,1,mom jean
+7913,1,mom jean
+7914,1,mom jean
+7915,1,powdery scented perfume matches
+7916,0,no pudra scent match
+7917,0,floral scent not pudra
+7918,0,fruity scent not pudra
+7919,0,liquid highlighter not perfume
+7920,1,altus microwave
+7921,1,altus microwave
+7922,1,altus microwave
+7923,1,altus microwave
+7924,1,altus microwave
+7925,1,antiqued gold floor lamp
+7926,1,antiqued gold floor lamp
+7927,1,antiqued floor lamp
+7928,1,antiqued floor lamp
+7929,1,antiqued gold floor lamp
+7930,1,two-compartment laundry basket
+7931,1,two-compartment laundry basket
+7932,1,two-compartment laundry basket
+7933,1,two-compartment laundry basket
+7934,1,two-compartment laundry basket
+7935,1,viking surface cleaner
+7936,1,viking surface cleaner
+7937,1,viking multi-purpose spray
+7938,0,wrong brand domol
+7939,0,wrong brand cif
+7940,1,ferro c supplement name match
+7941,1,ferro brand bracelet
+7942,0,no ferro match
+7943,0,no ferro match
+7944,1,ferro brand watch
+7945,1,warhammer figure
+7946,1,warhammer figure
+7947,1,warhammer branded mug
+7948,1,warhammer figure
+7949,1,warhammer figure
+7950,1,ysl men's perfume
+7951,1,ysl men's perfume
+7952,1,ysl men's perfume
+7953,1,ysl men's perfume
+7954,1,ysl men's perfume
+7955,1,kpss onlisans book
+7956,1,kpss onlisans book
+7957,1,kpss onlisans book
+7958,1,kpss onlisans book
+7959,1,kpss onlisans book
+7960,1,traditional wedding kaftan
+7961,1,traditional wedding kaftan
+7962,1,traditional style dress
+7963,0,no yoresel style mentioned
+7964,0,regular child dress not yoresel
+7965,1,adidas originals sweatshirt
+7966,1,adidas originals sneaker
+7967,1,adidas originals sneaker
+7968,1,adidas originals sweatshirt
+7969,1,adidas originals belt
+7970,0,elmos chip not elamco match
+7971,0,elmo character case not elamco
+7972,0,elmo character case not elamco
+7973,0,elmo character case not elamco
+7974,0,elmo character case not elamco
+7975,1,davines oi shampoo
+7976,1,davines oi shampoo
+7977,1,davines oi cream
+7978,1,davines oi hair oil
+7979,1,davines oi hair butter
+7980,1,golden goose shoe
+7981,0,wrong brand converse
+7982,0,wrong brand guja
+7983,0,wrong brand adidas
+7984,0,wrong brand greyder
+7985,1,bingo liquid detergent
+7986,1,bingo liquid detergent
+7987,1,bingo powder detergent
+7988,0,wrong brand abc
+7989,0,wrong brand rinso
+7990,1,tesettur style dress
+7991,1,tesettur dress
+7992,1,tesettur dress
+7993,1,tesettur dress
+7994,1,tesettur suitable dress
+7995,1,casper phone
+7996,1,casper phone
+7997,1,casper phone
+7998,0,wrong brand reeder
+7999,0,wrong brand realme
+8000,1,motorcycle mirror
+8001,1,motorcycle mirror
+8002,1,motorcycle mirror
+8003,1,motorcycle mirror
+8004,1,motorcycle mirror
+8005,1,toy rail train
+8006,1,toy rail train
+8007,1,toy rail train set
+8008,1,toy rail train set
+8009,1,toy rail train
+8010,1,wall repair filler
+8011,0,tile grout not wall filler
+8012,1,multi-purpose repair filler
+8013,0,tile grout not wall filler
+8014,0,wood adhesive not wall filler
+8015,1,torima headphone
+8016,1,torima headphone
+8017,1,torima headphone
+8018,1,torima headphone
+8019,1,torima headphone
+8020,1,tyt ayt geography book
+8021,1,tyt ayt geography book
+8022,1,tyt ayt geography book
+8023,1,tyt ayt geography book
+8024,1,tyt ayt geography book
+8025,1,dough kneading machine
+8026,1,dough kneading machine
+8027,1,dough kneading machine
+8028,1,dough kneading machine
+8029,1,dough kneading machine
+8030,1,aymumi home candle set
+8031,1,aymumi home candle set
+8032,1,aymumi home candle set
+8033,0,wrong brand enashop
+8034,1,aymumi home candle set
+8035,1,rechargeable screwdriver
+8036,1,rechargeable screwdriver
+8037,1,rechargeable screwdriver set
+8038,1,rechargeable screwdriver
+8039,1,rechargeable screwdriver set
+8040,1,cata led projector
+8041,1,cata led projector
+8042,1,cata led projector
+8043,1,cata led projector
+8044,1,cata led projector
+8045,1,ayse kulin novel
+8046,1,ayse kulin novel
+8047,1,ayse kulin book
+8048,1,ayse kulin novel
+8049,1,ayse kulin novel

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+0,0,not specifically summer item
+1,0,hoodie not summer wear
+2,0,winter puffer coat opposite of summer
+3,0,unrelated art canvas supply
+4,0,unrelated book
+5,1,kinder brand surprise egg
+6,1,kinder brand chocolate
+7,1,kinder brand surprise egg
+8,1,kinder brand surprise egg pack
+9,1,kinder brand surprise egg
+10,1,buckwheat product match
+11,1,buckwheat product match
+12,1,buckwheat product match
+13,1,buckwheat product match
+14,1,buckwheat product match
+15,1,glade brand air freshener
+16,1,glade brand air freshener
+17,1,glade brand air freshener
+18,1,glade brand air freshener
+19,1,glade brand air freshener
+20,1,peripera brand lip tint
+21,1,peripera brand lip tint
+22,1,peripera brand lip tint
+23,1,peripera brand lip tint
+24,1,peripera brand lip tint
+25,1,i love shoes brand match
+26,0,wrong brand saltopik
+27,0,wrong brand women lay-z
+28,0,wrong brand acmz shoes
+29,0,wrong brand soho
+30,1,robeve brand humidifier
+31,1,robeve brand humidifier
+32,1,robeve brand humidifier
+33,1,robeve brand humidifier
+34,1,robeve brand humidifier
+35,1,isotonic electrolyte product
+36,1,title explicitly electrolyte
+37,1,electrolyte powder product
+38,1,electrolyte drink mix
+39,0,taurine powder not electrolyte
+40,0,nail glue with brush not a brush
+41,0,eyeliner with brush not a brush
+42,0,brush holder organizer not a brush
+43,0,mascara with brush not a brush
+44,0,nail glue with brush not a brush
+45,1,gillette brand razor
+46,1,gillette brand razor
+47,1,gillette brand razor
+48,1,gillette brand razor
+49,1,gillette brand razor
+50,1,h.ola brand blush
+51,1,h.ola brand blush
+52,1,h.ola brand blush
+53,1,h.ola brand blush
+54,1,h.ola brand lip gloss
+55,1,buket - butterfly bouquet gift
+56,1,buket - butterfly bouquet gift
+57,1,buket - butterfly bouquet gift
+58,1,buket - butterfly bouquet gift
+59,1,buket - butterfly bouquet gift
+60,1,flormar brand foundation - typo match
+61,1,flormar brand foundation - typo match
+62,1,flormar brand concealer - typo match
+63,1,flormar brand lipstick - typo match
+64,1,flormar brand mascara - typo match
+65,1,book bookmark set match
+66,1,book bookmark set match
+67,1,book bookmark match
+68,1,book bookmark match
+69,1,book bookmark match
+70,1,metallica themed tshirt
+71,1,metallica themed tshirt
+72,1,metallica themed tshirt
+73,1,metallica themed poster
+74,1,metallica themed tshirt
+75,1,plaid pattern coat matches ekoseli
+76,0,plain skirt no plaid pattern
+77,0,plain blazer no plaid pattern
+78,0,plain blazer no plaid pattern
+79,0,plain dress no plaid pattern
+80,1,maybelline sunkisser blush line match
+81,1,maybelline sunkisser blush line match
+82,1,maybelline sunkisser blush line match
+83,0,different brand not sunkisser line
+84,0,different brand not sunkisser line
+85,1,apotemi yayinlari publisher match
+86,1,apotemi yayinlari publisher match
+87,1,apotemi yayinlari publisher match
+88,1,apotemi yayinlari publisher match
+89,1,apotemi yayinlari publisher match
+90,1,shaving/trimmer machine
+91,1,trimmer machine
+92,1,shaving machine
+93,1,shaving machine
+94,1,ear/nose hair trimmer machine
+95,1,motorcycle battery
+96,1,car battery
+97,1,motorcycle battery
+98,1,6v battery
+99,1,motorcycle battery
+100,1,granola product match
+101,1,granola product match
+102,1,granola product match
+103,1,granola product match
+104,1,granola product match
+105,1,digital thermometer
+106,1,wall thermometer
+107,1,food thermometer
+108,1,kitchen thermometer
+109,1,indoor/outdoor thermometer
+110,1,stiletto heel shoe
+111,1,stiletto heel shoe
+112,1,stiletto heel shoe
+113,1,stiletto heel shoe
+114,1,stiletto heel shoe
+115,1,valezium brand bedding
+116,1,valezium brand bedding
+117,1,valezium brand bedding
+118,1,valezium brand bedding
+119,1,valezium brand bedding
+120,1,bluetooth tws earbuds
+121,1,bluetooth earbuds
+122,1,bluetooth earbuds
+123,1,bluetooth earbuds typo title
+124,1,bluetooth over-ear headphones
+125,1,car spoiler
+126,1,car spoiler
+127,1,car spoiler
+128,1,car spoiler
+129,1,car spoiler
+130,1,handpan instrument match
+131,1,handpan instrument match
+132,1,handpan instrument match
+133,1,handpan instrument match
+134,1,handpan instrument match
+135,1,shimano rear derailleur
+136,1,shimano rear derailleur
+137,1,shimano rear derailleur
+138,1,shimano rear derailleur
+139,1,shimano rear derailleur
+140,0,keychain not food product
+141,0,dough mold not kofte specific
+142,0,birthday poster not food
+143,0,poster not food
+144,0,dough cutter not kofte specific
+145,1,sefiller book edition
+146,1,sefiller book edition
+147,1,sefiller book edition
+148,1,sefiller book edition
+149,1,sefiller book edition
+150,1,milonsa brand bathroom organizer
+151,1,milonsa brand laundry basket
+152,1,milonsa brand bathroom shelf
+153,1,milonsa brand laundry basket
+154,1,milonsa brand bathroom shelf
+155,1,creatine supplement
+156,1,creatine supplement
+157,1,creatine supplement
+158,1,creatine supplement
+159,1,creatine supplement
+160,1,wrench tool
+161,1,wrench tool
+162,1,wrench tool
+163,1,wrench tool
+164,1,wrench tool
+165,1,nike cortez shoe
+166,1,nike cortez shoe
+167,1,nike cortez shoe
+168,1,nike cortez shoe
+169,1,nike cortez shoe
+170,1,hazelnut/nut spread
+171,0,protein powder not nut product
+172,0,meal powder not nut product
+173,0,whey protein not nut product
+174,0,bcaa powder not nut product
+175,1,carob product match
+176,1,carob product match
+177,1,carob product match
+178,1,carob extract match
+179,1,carob extract match
+180,1,bargello 384 exact code match
+181,1,bargello 384 exact code match
+182,1,bargello no384 exact code match
+183,0,different fragrance code 255
+184,0,different fragrance code 335
+185,0,wrong brand not palex
+186,1,palex brand match
+187,1,palex brand match
+188,1,palex brand match
+189,1,palex brand match
+190,1,lelas brand perfume
+191,1,lelas brand perfume
+192,1,lelas brand perfume
+193,1,lelas brand perfume
+194,1,lelas brand perfume
+195,1,axe brand deodorant
+196,1,axe brand deodorant
+197,1,axe brand deodorant
+198,1,axe brand deodorant
+199,1,axe brand deodorant
+200,1,powerbank product match
+201,1,powerbank product match
+202,1,powerbank product match
+203,1,powerbank product match
+204,1,wireless powerbank match
+205,1,snob brand perfume
+206,1,snob brand sunglasses same brand
+207,1,snob brand perfume set
+208,1,snob brand perfume
+209,1,snob brand perfume set
+210,0,weak link to japan theme
+211,1,japanese anime theme
+212,1,japanese koi fish theme
+213,1,tokyo japan poster
+214,1,japan exclusive flavor
+215,1,new year postcard set
+216,1,new year postcard set
+217,1,new year postcard set
+218,1,glittery postcard set
+219,1,postcard set
+220,1,garnier brand cleanser
+221,1,garnier brand serum
+222,1,garnier brand serum
+223,1,garnier brand moisturizer
+224,1,garnier brand cleanser
+225,1,tire valve set matches sibop
+226,1,tire valve matches sibop
+227,1,valve cap matches sibop
+228,1,motorcycle/bike valve matches sibop
+229,1,inner tube valve matches sibop
+230,1,pusi kefiye shawl match
+231,1,pusi kefiye shawl match
+232,1,pusi kefiye shawl match
+233,1,pusi kefiye shawl match
+234,1,pusi etnik shawl match
+235,1,fiat brand keychain
+236,1,fiat egea compatible keychain
+237,1,fiat models compatible key case
+238,1,fiat grande panda compatible roof bar
+239,0,ford compatible not fiat
+240,1,baby soup product
+241,1,baby soup product
+242,1,soup set product
+243,1,soup base product
+244,1,baby soup product
+245,1,explicit growth booster hair cream
+246,0,no growth claim just hair cream
+247,0,no growth claim just hair cream
+248,0,strengthening not growth claim
+249,0,repair cream not growth claim
+250,1,loafer shoe match
+251,1,loafer shoe match
+252,1,loafer shoe match
+253,1,loafer shoe match
+254,1,loafer shoe match
+255,1,itfaiye themed toy
+256,1,fire truck toys
+257,1,fire truck toy
+258,1,fire truck with ladder toy
+259,1,fire truck toy
+260,1,spicy pepper flakes
+261,1,spicy pepper flakes
+262,1,hot pepper paste
+263,1,hot pepper paste
+264,1,hot pepper paste
+265,1,syrup dispenser bottle match
+266,1,syrup dispenser bottle match
+267,1,dispenser labeled syrupluk
+268,0,vinegar/oil dispenser not syrup specific
+269,0,vinegar/oil dispenser not syrup specific
+270,1,makeup setting spray
+271,1,setting powder
+272,1,makeup setting spray
+273,1,makeup setting spray
+274,1,makeup setting spray
+275,1,jigsaw puzzle match
+276,1,jigsaw puzzle match
+277,1,puzzle match
+278,1,puzzle match
+279,1,jigsaw puzzle match
+280,1,wurth brand car care
+281,1,wurth brand car care
+282,1,wurth brand car care
+283,1,wurth brand car care
+284,1,wurth brand tire care
+285,1,bibs brand pacifier
+286,1,bibs brand pacifier
+287,1,bibs brand pacifier
+288,1,bibs brand baby bottle
+289,1,bibs brand pacifier
+290,0,unclear relevance to query sivit
+291,0,unclear relevance to query sivit
+292,0,unclear relevance to query sivit
+293,0,unclear relevance to query sivit
+294,0,unclear relevance to query sivit
+295,1,vaseline brand lip balm
+296,1,vaseline brand gel cream
+297,1,vaseline brand petroleum jelly
+298,1,vaseline brand baby gel
+299,1,vaseline brand body lotion
+300,0,hot wheels brand not inno64
+301,1,inno brand model car
+302,1,inno64 brand model car
+303,1,inno brand model car
+304,1,inno brand model car
+305,1,kama brand tiller machine
+306,1,kama brand wheel part
+307,1,kama brand wheel part
+308,0,wrong brand kaan not kama
+309,1,kama brand wheel part
+310,1,crucial brand ssd
+311,1,crucial brand ram
+312,1,crucial brand ram
+313,0,wrong brand verbatim not crucial
+314,0,wrong brand samsung not crucial
+315,1,kaveh brand plate
+316,1,kaveh brand plate
+317,1,kaveh brand plate
+318,1,kaveh brand plate
+319,1,kaveh brand bottle
+320,1,ikea kalas product line match
+321,0,no kalas product line match
+322,0,no kalas product line match
+323,0,unrelated nutcracker
+324,0,no kalas product line match
+325,1,glue product match
+326,1,glue product match
+327,1,glue product match
+328,1,glue product match
+329,1,glue product match
+330,1,panel radiator match
+331,1,oil radiator heater match
+332,1,panel radiator match
+333,1,oil radiator heater match
+334,1,car radiator match
+335,1,caqqa brand bedding
+336,1,caqqa brand bedding
+337,1,caqqa brand bedding
+338,1,caqqa brand bedding
+339,1,caqqa brand bedding
+340,1,loreal panorama mascara line
+341,1,loreal panorama mascara line
+342,0,different mascara line telescopic
+343,0,different mascara line telescopic
+344,0,different mascara line telescopic
+345,1,dimmer product match
+346,1,dimmer switch match
+347,1,dimmer control circuit match
+348,1,dimmer switch match
+349,1,dimmer product match

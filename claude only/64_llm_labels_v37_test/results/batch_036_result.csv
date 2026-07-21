@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+12600,1,eşleşen ürün kategorisi yürüteç
+12601,1,yürüteç ürünü eşleşiyor
+12602,1,yürüteç ürünü eşleşiyor
+12603,1,yürüteç ürünü eşleşiyor
+12604,1,yürüteç ürünü eşleşiyor
+12605,0,tek parça tablo - 3 parça değil
+12606,0,tek parça tablo
+12607,0,yorgan - alakasız kategori
+12608,1,3'lü tablo seti - 3 parça eşleşiyor
+12609,0,pantolon - alakasız
+12610,1,gelin tokası eşleşiyor
+12611,1,gelin aksesuarı toka eşleşiyor
+12612,1,gelin tacı/toka eşleşiyor
+12613,1,gelin tokası eşleşiyor
+12614,1,gelin tokası eşleşiyor
+12615,1,perotti marka tepsi
+12616,1,perotti marka tepsi seti
+12617,1,perotti marka tepsi/sunumluk
+12618,1,perotti marka sunumluk tepsi
+12619,1,perotti marka tepsi/sunumluk
+12620,0,runner ürünü - mum değil
+12621,0,çam ağacı temalı değil genel mum
+12622,0,dekoratif obje - mum değil
+12623,0,sandalye minderi - mum değil
+12624,0,sandal ağacı kokulu - çam değil
+12625,1,box torbası eşleşiyor
+12626,1,box torbası eşleşiyor
+12627,1,box torbası eşleşiyor
+12628,1,box torbası eşleşiyor
+12629,1,box torbası eşleşiyor
+12630,1,first class marka parfüm
+12631,1,first class marka parfüm seti
+12632,1,first class marka deodorant
+12633,1,first class marka deodorant
+12634,1,first class marka deodorant
+12635,1,pasta servis seti eşleşiyor
+12636,1,pasta servis seti eşleşiyor
+12637,1,pasta sunum servis tabak seti
+12638,1,pasta servis tabak seti
+12639,1,pasta servis seti eşleşiyor
+12640,1,kpss coğrafya kitabı
+12641,1,kpss coğrafya kitabı
+12642,1,kpss coğrafya kitabı
+12643,1,kpss coğrafya kitabı
+12644,1,kpss coğrafya kitabı
+12645,1,philips lazer navigasyonlu süpürge
+12646,0,lazer özelliği belirtilmemiş
+12647,0,lazer özelliği belirtilmemiş
+12648,0,lazer özelliği belirtilmemiş
+12649,0,lazer özelliği belirtilmemiş
+12650,1,nike kadın spor çanta
+12651,1,nike spor çanta unisex
+12652,1,nike unisex spor çanta
+12653,1,nike unisex spor çanta
+12654,1,nike unisex spor çanta
+12655,1,cerave yüz yıkama jeli
+12656,0,form krem - jel değil
+12657,0,form köpük - jel değil
+12658,1,cerave yüz bakım jeli
+12659,0,marka cetaphil - cerave değil
+12660,1,ayt edebiyat kitabı
+12661,1,ayt edebiyat ders notu
+12662,1,ayt edebiyat soru bankası
+12663,1,ayt edebiyat soru bankası
+12664,1,ayt edebiyat soru bankası
+12665,1,çocuk bluetooth kulaklık
+12666,1,çocuk kulaklığı
+12667,1,çocuk bluetooth kulaklık
+12668,1,çocuk kulaklığı
+12669,1,çocuk bluetooth kulaklık
+12670,1,dolap içi düzenleyici kutu
+12671,1,dolap içi düzenleyici kutu
+12672,1,dolap içi düzenleyici kutu
+12673,1,dolap içi düzenleyici kutu seti
+12674,1,dolap içi düzenleyici kutu
+12675,1,1.5 tog uyku tulumu tam eşleşme
+12676,0,1.0 tog - spec uyuşmuyor
+12677,0,2.7 tog - spec uyuşmuyor
+12678,0,2.5 tog - spec uyuşmuyor
+12679,0,2.5 tog - spec uyuşmuyor
+12680,1,çelik moka pot eşleşiyor
+12681,0,materyal alüminyum - çelik değil
+12682,0,materyal alüminyum - çelik değil
+12683,0,materyal alüminyum - çelik değil
+12684,1,çelik moka pot eşleşiyor
+12685,1,mega boy büyük bigudi
+12686,1,bigudi set genel
+12687,0,2 cm küçük bigudi - büyük değil
+12688,0,kategori saç bandı - bigudi değil
+12689,1,bigudi seti isısız
+12690,0,duvar kağıdı - raf değil
+12691,0,duvar kağıdı - raf değil
+12692,0,kapı askı kancası - raf değil
+12693,0,kapı askı kancası - raf değil
+12694,0,kapı askı kancası - raf değil
+12695,0,golf 5 - model uyuşmuyor
+12696,0,golf mk4 - model uyuşmuyor
+12697,0,bora modeli - golf 7 değil
+12698,0,golf4/bora - model uyuşmuyor
+12699,0,golf4/bora/passat - model uyuşmuyor
+12700,1,kurutulmuş hindistan cevizi
+12701,1,kurutulmuş hindistan cevizi
+12702,1,kurutulmuş hindistan cevizi
+12703,1,kurutulmuş hindistan cevizi
+12704,1,kurutulmuş hindistan cevizi
+12705,1,jakuzi ürünü
+12706,1,jakuzi ürünü
+12707,1,jakuzi ürünü
+12708,1,jakuzi ürünü
+12709,1,jakuzi ürünü
+12710,1,işıklı paten ayakkabı
+12711,1,işıklı paten ayakkabı
+12712,1,işıklı paten ayakkabı
+12713,1,işıklı paten ayakkabı
+12714,1,işıklı paten ayakkabı
+12715,1,sıfır yaka tişört
+12716,1,sıfır yaka tişört
+12717,1,sıfır yaka tişört başlığı
+12718,1,sıfır yaka tişört
+12719,0,bisiklet yaka - sıfır yaka değil
+12720,1,yüz peelingi eşleşiyor
+12721,1,yüz peelingi eşleşiyor
+12722,1,yüz peelingi eşleşiyor
+12723,1,yüz vücut peelingi
+12724,1,yüz peelingi eşleşiyor
+12725,0,kategori oyuncak - zemin ürünü değil
+12726,0,tekerlek aksesuarı - zemin değil
+12727,0,rulman aksesuarı - zemin değil
+12728,0,kapı altı suluk - zemin değil
+12729,0,tekerlek aksesuarı - zemin değil
+12730,1,talens marka ürün
+12731,1,talens marka ürün
+12732,1,talens marka ürün
+12733,1,talens marka ürün
+12734,1,talens marka ürün
+12735,1,porselen tuzluk eşleşiyor
+12736,1,porselen tuzluk/baharatlık
+12737,1,porselen tuzluk seti
+12738,1,porselen tuzluk
+12739,1,porselen tuzluk biberlik
+12740,1,bebek arabası yağmurluğu
+12741,1,bebek arabası yağmurluğu
+12742,1,bebek arabası yağmurluğu
+12743,1,bebek arabası yağmurluğu
+12744,1,bebek arabası yağmurluğu
+12745,1,koltuk takımı
+12746,1,koltuk
+12747,1,kanepe/koltuk
+12748,1,koltuk
+12749,1,kanepe koltuk
+12750,1,adidas bebek eşofman takımı
+12751,1,adidas bebek eşofman takımı
+12752,1,adidas bebek eşofman takımı
+12753,1,adidas bebek takım
+12754,1,adidas bebek eşofman takımı
+12755,1,so chic marka kolye
+12756,1,so chic marka kolye
+12757,1,so chic marka kolye
+12758,1,so chic marka kolye
+12759,1,so chic marka kolye
+12760,1,contigo marka suluk
+12761,1,contigo marka suluk
+12762,1,contigo marka matara
+12763,1,contigo marka matara
+12764,1,contigo marka çocuk suluğu
+12765,1,kemik materyalli bileklik
+12766,1,kemik materyalli bileklik
+12767,1,kemik materyalli bileklik
+12768,0,materyal çelik - kemik değil
+12769,0,materyal çelik - kemik değil
+12770,1,bonhair marka wax
+12771,1,bonhair marka wax
+12772,1,bonhair marka wax
+12773,1,bonhair marka wax
+12774,1,bonhair marka wax
+12775,0,e46/e90 uyumlu - e30 değil
+12776,1,bmw e30 model oyuncak araba
+12777,0,e65 uyumlu - e30 değil
+12778,0,f30 uyumlu - e30 değil
+12779,0,e53 uyumlu - e30 değil
+12780,1,adidas vs pace 2.0 eşleşiyor
+12781,1,adidas vs pace 2.0 eşleşiyor
+12782,1,adidas vs pace 2.0 eşleşiyor
+12783,1,adidas vs pace 2.0 eşleşiyor
+12784,1,adidas vs pace 2.0 eşleşiyor
+12785,1,iphone 11 eşleşiyor
+12786,1,iphone 11 eşleşiyor
+12787,1,iphone 11 eşleşiyor
+12788,1,iphone 11 eşleşiyor
+12789,1,iphone 11 eşleşiyor
+12790,1,zip hoodie eşleşiyor
+12791,1,zip hoodie eşleşiyor
+12792,1,fermuarlı hoodie
+12793,1,zıp hoodie eşleşiyor
+12794,0,fermuar belirtilmemiş sweatshirt
+12795,1,özdilek ayak havlusu
+12796,1,özdilek ayak havlusu
+12797,1,özdilek ayak havlusu
+12798,1,özdilek ayak havlusu
+12799,1,özdilek ayak havlusu
+12800,1,kağıt yüz maskesi
+12801,1,kağıt yüz maskesi
+12802,1,kağıt yüz maskesi
+12803,1,kağıt yüz maskesi
+12804,1,kağıt yüz maskesi
+12805,1,flormar marka far
+12806,1,flormar marka far
+12807,1,flormar marka far
+12808,1,flormar marka far
+12809,1,flormar marka far
+12810,1,küçük boy hurç
+12811,1,küçük boy hurç
+12812,1,küçük boy hurç
+12813,1,küçük boy hurç
+12814,1,küçük boy hurç
+12815,1,venalisa tırnak aksesuarı
+12816,1,venalisa tırnak aksesuarı
+12817,1,venalisa tırnak aksesuarı
+12818,1,venalisa tırnak aksesuarı
+12819,1,venalisa takma tırnak
+12820,1,koleston saç boyası
+12821,1,koleston saç boyası
+12822,1,koleston saç boyası
+12823,1,koleston saç boyası
+12824,1,koleston saç boyası
+12825,1,saç waks eşleşiyor
+12826,1,saç waks eşleşiyor
+12827,1,saç waks eşleşiyor
+12828,1,saç waks eşleşiyor
+12829,1,saç waks eşleşiyor
+12830,1,paşabahçe diamond bardak
+12831,1,paşabahçe diamond bardak
+12832,1,paşabahçe diamond bardak
+12833,1,paşabahçe diamond ürün
+12834,1,paşabahçe diamond ürün
+12835,1,reyyan marka eşarp
+12836,1,reyyan marka eşarp
+12837,1,reyyan marka eşarp
+12838,1,reyyan marka eşarp
+12839,1,reyyan marka eşarp
+12840,1,og natural organik bebek ürünü
+12841,1,og natural organik bebek ürünü
+12842,1,og natural organik bebek ürünü
+12843,1,og natural organik bebek ürünü
+12844,1,og natural organik bebek ürünü
+12845,1,schafer marka blender seti
+12846,1,schafer marka blender seti
+12847,1,schafer marka blender seti
+12848,1,schafer marka blender seti
+12849,1,schafer marka blender
+12850,1,sinbo marka süpürge
+12851,1,sinbo marka süpürge
+12852,1,sinbo marka süpürge
+12853,1,sinbo marka süpürge
+12854,0,marka beko - sinbo değil
+12855,1,lastik tamir kiti
+12856,1,lastik tamir kiti
+12857,1,lastik tamir kiti
+12858,1,lastik tamir kiti
+12859,1,lastik tamir kiti
+12860,1,dgn marka topuklu ayakkabı
+12861,1,dgn marka topuklu ayakkabı
+12862,1,dgn marka topuklu ayakkabı
+12863,1,dgn marka topuklu ayakkabı
+12864,1,dgn marka topuklu ayakkabı
+12865,1,gap çocuk giyim
+12866,1,gap çocuk giyim
+12867,1,gap çocuk giyim
+12868,1,gap çocuk giyim
+12869,1,gap çocuk giyim
+12870,1,isteme tepsisi
+12871,1,isteme tepsisi
+12872,1,isteme tepsisi
+12873,1,isteme tepsisi
+12874,1,isteme tepsisi
+12875,1,bol paça kadın pantolon
+12876,1,bol paça kadın pantolon
+12877,1,bol paça kadın pantolon
+12878,1,bol paça kadın pantolon
+12879,1,bol paça kadın pantolon
+12880,1,garnier bb krem
+12881,1,garnier bb krem
+12882,1,garnier bb krem
+12883,1,garnier bb krem
+12884,1,garnier bb krem
+12885,1,zil eşleşiyor
+12886,1,zil eşleşiyor
+12887,1,zil eşleşiyor
+12888,1,zil eşleşiyor
+12889,1,zil eşleşiyor
+12890,1,mutfak sıvı sabunluk
+12891,1,mutfak sıvı sabunluk
+12892,1,mutfak sıvı sabunluk
+12893,1,mutfak sıvı sabunluk
+12894,1,mutfak sıvı sabunluk
+12895,0,aksiyon kelimesi farklı bağlamda
+12896,0,aksiyon kelimesi farklı bağlamda
+12897,0,sınav kitabı - aksiyon türü değil
+12898,0,sınav kitabı - aksiyon türü değil
+12899,0,konuyla alakasız soru bankası
+12900,1,rocs marka ürün
+12901,1,rocs marka ürün
+12902,1,rocs marka ürün
+12903,1,rocs marka ürün
+12904,1,rocs marka ürün
+12905,1,mutfak bataryası
+12906,1,mutfak bataryası
+12907,1,mutfak bataryası
+12908,1,mutfak bataryası
+12909,1,mutfak bataryası
+12910,1,erkek bomber ceket
+12911,1,erkek bomber ceket
+12912,0,kategori t-shirt - ceket değil
+12913,1,erkek bomber ceket
+12914,1,unisex bomber ceket
+12915,1,sprey krem şanti
+12916,1,sprey krem şanti
+12917,1,sprey krem şanti
+12918,1,sprey krem şanti
+12919,1,sprey krem şanti
+12920,1,mujgan marka allık
+12921,1,mujgan marka allık
+12922,1,mujgan marka allık
+12923,0,marka muson - mujgan değil
+12924,0,marka pastel - mujgan değil
+12925,1,tesettür dünyası alt üst takım
+12926,1,tesettür dünyası alt üst takım
+12927,1,tesettür dünyası alt üst takım
+12928,1,tesettür dünyası alt üst takım
+12929,1,tesettür dünyası alt üst takım
+12930,1,kanz park yatak
+12931,1,kanz park yatak
+12932,1,kanz park yatak
+12933,1,kanz park yatak
+12934,1,kanz park yatak
+12935,1,moliendo filtre kahve
+12936,1,moliendo filtre kahve
+12937,1,moliendo filtre kahve
+12938,1,moliendo filtre kahve
+12939,1,moliendo filtre kahve
+12940,1,küçük boy tabure
+12941,1,küçük boy tabure
+12942,1,küçük boy tabure
+12943,1,küçük boy tabure
+12944,1,küçük boy tabure
+12945,1,ahşap masa
+12946,1,ahşap masa
+12947,1,ahşap masa
+12948,1,ahşap masa
+12949,1,ahşap masa

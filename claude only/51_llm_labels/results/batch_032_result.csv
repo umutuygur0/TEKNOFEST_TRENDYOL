@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+11200,1,mango man brand jeans matches generic mango erkek query
+11201,1,mango man brand jeans matches generic mango erkek query
+11202,1,mango man brand jeans matches generic mango erkek query
+11203,1,mango man brand jacket matches generic mango erkek query
+11204,1,baba ayak (pedestal leg) wooden table matches query
+11205,1,baba ayak wooden table matches query
+11206,1,baba ayak wooden table matches query
+11207,1,baba ayak wooden table matches query
+11208,1,baba ayak wooden table matches query
+11209,1,engagement/ribbon scissors matches query
+11210,0,wall decoration item not actual scissors despite title wording
+11211,1,engagement scissors matches query
+11212,1,engagement scissors matches query
+11213,1,engagement/ceremony ribbon scissors matches query
+11214,1,fur-collar knit cardigan matches kürk hırka query
+11215,1,fur-detail collar cardigan matches query
+11216,1,fur-collar knit cardigan matches query
+11217,1,removable faux-fur collar cardigan matches query
+11218,1,fur-collar cardigan/jacket matches query
+11219,1,exact book title and author match
+11220,1,bundle explicitly contains exact book title and same author
+11221,0,school wall chart not the novel
+11222,0,different book different author
+11223,0,unrelated mug product
+11224,1,women's plaid lumberjack shirt matches query
+11225,1,women's plaid lumberjack shirt matches query
+11226,1,women's oversize lumberjack shirt matches query
+11227,1,women's slim fit lumberjack shirt matches query
+11228,1,women's oversize lumberjack shirt/jacket matches query
+11229,1,garden furniture set matches generic query
+11230,1,garden seating set matches generic query
+11231,1,garden seating set matches generic query
+11232,1,garden seating set matches generic query
+11233,1,garden seating set matches generic query
+11234,1,vardem brand animal toy set matches query
+11235,1,vardem brand wild animal toy set matches query
+11236,1,vardem brand animal toy set matches query
+11237,1,vardem brand farm animal figure set matches query
+11238,1,vardem brand animal/dinosaur toy set matches query
+11239,0,leaf-wrapping (dolma) machine not thread winding machine
+11240,0,leaf-wrapping machine not thread winding machine
+11241,0,leaf-wrapping machine not thread winding machine
+11242,0,leaf-wrapping machine not thread winding machine
+11243,0,leaf-wrapping machine not thread winding machine
+11244,1,floral pattern cushion cover matches query
+11245,1,floral pattern cushion cover matches query
+11246,1,floral pattern cushion cover matches query
+11247,1,cushion cover matches query
+11248,1,floral pattern cushion matches query
+11249,1,schafer brand tea maker matches query
+11250,1,schafer brand tea maker matches query
+11251,1,schafer brand tea maker matches query
+11252,1,schafer brand tea maker matches query
+11253,1,schafer brand tea maker matches query
+11254,1,crib fitted sheet matches query
+11255,1,crib fitted sheet matches query
+11256,1,crib fitted sheet matches query
+11257,1,crib fitted sheet matches query
+11258,1,crib fitted sheet matches query
+11259,1,curtain ornament/accessory matches query
+11260,1,curtain accessory ornament matches query
+11261,1,curtain ornament matches query
+11262,1,curtain tieback ornament matches query
+11263,1,curtain accessory ornament matches query
+11264,1,birthday party decoration matches query
+11265,1,birthday party decoration matches query
+11266,1,birthday decoration set matches query
+11267,1,birthday decoration set matches query
+11268,1,birthday balloon decoration set matches query
+11269,1,mikasa moor brand jar matches query
+11270,1,mikasa moor brand jar set matches query
+11271,1,mikasa moor brand jar set matches query
+11272,0,perfume bottle not a jar (kavanoz)
+11273,0,decorative ceramic object not a jar
+11274,1,sofya aktivite koltuğu matches query exactly
+11275,1,sofya aktivite koltuğu matches query exactly
+11276,1,sofya aktivite koltuğu matches query exactly
+11277,1,activity chair/sofa set matches query
+11278,1,activity chair/sofa matches query
+11279,1,baby cradle matches query
+11280,1,portable rocking basket cradle matches query
+11281,1,wooden rocking cradle matches query
+11282,1,co-sleeper rocking cradle matches query
+11283,1,baby cradle matches query
+11284,0,avocado themed mug not lawyer gift (name confusion)
+11285,1,explicitly a personalized lawyer gift mug
+11286,0,avocado pillow not lawyer gift
+11287,0,generic gift set unrelated to lawyer theme
+11288,0,decorative dandelion light globe unrelated to lawyer gift
+11289,1,boy baby clothing set matches query
+11290,1,boy baby clothing set matches query
+11291,1,baby clothing set matches query
+11292,1,boy baby clothing set matches query
+11293,1,boy baby clothing set matches query
+11294,1,acar brand pot set matches query
+11295,1,acar brand pot set matches query
+11296,1,acar brand pot set matches query
+11297,1,acar brand pot set matches query
+11298,1,acar brand pot set matches query
+11299,1,cufflinks match query
+11300,1,cufflinks match query
+11301,1,cufflinks match query
+11302,1,cufflinks match query
+11303,1,cufflinks match query
+11304,1,arı yayıncılık practice book matches query
+11305,1,arı yayıncılık practice book matches query
+11306,1,arı yayıncılık practice book matches query
+11307,1,arı yayıncılık book matches query
+11308,1,arı yayıncılık workbook matches query
+11309,1,pantene nem terapisi shampoo exact line match
+11310,1,pantene nem terapisi serum exact line match
+11311,0,different pantene line (nem yüklemesi) not nem terapisi
+11312,0,different pantene line not nem terapisi
+11313,0,different pantene line (nem yüklemesi) not nem terapisi
+11314,1,motorcycle rim accessory matches generic query
+11315,1,motorcycle sticker accessory matches generic query
+11316,1,motorcycle decorative sticker matches generic query
+11317,1,motorcycle/helmet sticker accessory matches query
+11318,1,motorcycle sticker accessory matches query
+11319,1,adhesive label matches query
+11320,1,adhesive label matches query exactly
+11321,1,adhesive name label matches query
+11322,1,adhesive paper label matches query
+11323,1,adhesive printer label sheet matches query
+11324,1,altınyıldız classics brand shirt matches query
+11325,1,altınyıldız classics brand shirt matches query
+11326,1,altınyıldız classics brand shirt matches query
+11327,1,altınyıldız classics brand shirt matches query
+11328,1,altınyıldız classics brand shirt matches query
+11329,1,layette brand baby clothing matches query
+11330,1,layette brand baby clothing matches query
+11331,1,layette brand baby clothing matches query
+11332,1,layette brand baby clothing matches query
+11333,1,layette brand baby clothing matches query
+11334,0,liquid soap not solid (katı) soap as query specifies
+11335,0,liquid soap not solid soap
+11336,1,dove branded solid/bar soap matches katı sabun query
+11337,1,dove branded solid soap matches query
+11338,1,dove branded solid soap matches query
+11339,1,tesettür spor elbise matches query
+11340,1,tesettür spor elbise matches query
+11341,1,tesettür spor elbise matches query
+11342,1,tesettür spor elbise matches query
+11343,1,tesettür spor elbise matches query
+11344,1,punching/sand bag matches query
+11345,1,punching bag matches query
+11346,1,boxing/sand bag matches query
+11347,1,punching bag matches query
+11348,1,child boxing bag matches query
+11349,1,wireless gamepad matches query
+11350,1,wireless gamepad matches query
+11351,1,wireless gamepad matches query
+11352,1,usb gamepad joystick matches query
+11353,1,wireless gamepad matches query
+11354,1,paşabahçe brand salad bowl matches query
+11355,1,paşabahçe brand salad bowl matches query
+11356,1,paşabahçe brand salad bowl matches query
+11357,1,paşabahçe brand salad bowl matches query
+11358,1,paşabahçe brand salad/serving bowl matches query
+11359,1,okyanus home brand trash bin matches query
+11360,1,okyanus home brand trash bin matches query
+11361,1,okyanus home brand trash bin matches query
+11362,1,okyanus home brand trash bin matches query
+11363,1,okyanus home brand trash bin matches query
+11364,1,chair cover matches query
+11365,1,chair cover set matches query
+11366,1,chair cover matches query
+11367,1,elastic chair cover matches query
+11368,1,chair cover matches query
+11369,1,wooden lath/batten matches query
+11370,1,wooden wall batten panel matches query
+11371,1,wooden model-making batten matches query
+11372,1,wooden wall batten matches query
+11373,1,wooden decorative wall batten matches query
+11374,1,moda ilgi brand dress matches query
+11375,1,moda ilgi brand dress matches query
+11376,1,moda ilgi brand dress matches query
+11377,1,moda ilgi brand dress matches query
+11378,1,moda ilgi brand dress matches query
+11379,1,thor themed t-shirt matches thorne query
+11380,1,thor hammer replica matches query
+11381,1,thor costume matches query
+11382,1,thor themed mug matches query
+11383,1,thor hammer replica matches query
+11384,1,artificial tulip bouquet matches query
+11385,1,artificial tulip bouquet matches query
+11386,1,artificial tulip bouquet matches query
+11387,1,artificial tulip bouquet matches query
+11388,1,artificial tulip bouquet matches query
+11389,1,vakko brand shawl matches query
+11390,1,vakko brand scarf closely matches shawl query
+11391,1,vakko brand silk shawl matches query
+11392,1,vakko brand silk shawl matches query
+11393,1,vakko brand silk shawl matches query
+11394,1,newton's cradle desk toy matches query
+11395,1,newton balance ball desk toy matches query
+11396,1,newton's cradle desk toy matches query
+11397,1,newton balance ball desk toy matches query
+11398,1,newton's cradle desk toy matches query
+11399,1,1st grade reading book set matches query
+11400,1,1st grade reading book set matches query
+11401,1,1st grade reading book set matches query
+11402,1,1st grade reading book set matches query
+11403,1,1st grade reading book set matches query
+11404,1,car speaker matches query
+11405,1,car speaker matches query
+11406,1,car speaker matches query
+11407,1,car speaker matches query
+11408,1,car speaker matches query
+11409,1,tarnish-resistant steel ring matches query
+11410,1,tarnish-resistant ring matches query
+11411,1,tarnish-free ring matches query
+11412,1,steel ring same category as tarnish-free ring query
+11413,1,tarnish-resistant steel ring matches query
+11414,1,baby food jar matches query
+11415,1,jarred baby food matches query
+11416,1,baby food jar matches query
+11417,1,jarred baby food matches query
+11418,1,jarred baby food matches query
+11419,1,adidas f50 football boot matches query
+11420,1,adidas f50 turf shoe matches query
+11421,1,adidas f50 turf shoe matches query
+11422,1,adidas f50 football boot matches query
+11423,1,adidas f50 football boot matches query
+11424,1,le mabelle brand crown/tiara matches query
+11425,1,le mabelle brand crown matches query
+11426,1,le mabelle brand crown matches query
+11427,1,le mabelle brand crown matches query
+11428,1,le mabelle brand crown matches query
+11429,1,dalin brand vaseline matches query
+11430,1,dalin brand vaseline matches query
+11431,1,dalin brand vaseline matches query
+11432,0,dalin baby oil not vaseline
+11433,0,dalin baby oil not vaseline
+11434,1,swim ring matches query
+11435,1,swim ring/pool tube matches query
+11436,1,swim tube ring matches query
+11437,1,swim ring (kolluk/simit) matches query
+11438,1,themed swim ring matches query
+11439,1,apella brand slipper matches query
+11440,1,apella brand slipper matches query
+11441,1,apella brand orthopedic slipper matches query
+11442,1,apella brand orthopedic slipper matches query
+11443,1,apella brand orthopedic slipper matches query
+11444,1,omix brand smartphone matches query
+11445,1,omix brand smartphone matches query
+11446,1,omix brand smartphone matches query
+11447,1,omix brand smartphone matches query
+11448,1,omix brand smartphone matches query
+11449,1,single bed fitted sheet set matches query
+11450,1,single bed fitted sheet set matches query
+11451,1,single bed fitted sheet set matches query
+11452,1,single bed sheet matches query
+11453,1,single bed sheet matches query
+11454,1,porçöz brand stain remover exact match
+11455,0,porçöz multi-purpose cleaner not stain remover
+11456,0,porçöz rust/lime remover not stain remover
+11457,0,porçöz washing machine cleaner not stain remover
+11458,0,porçöz oven cleaner not stain remover
+11459,1,ikea brand chair cushion matches query exactly
+11460,0,evidea brand not ikea as query specifies
+11461,0,evidea brand not ikea as query specifies
+11462,0,evidea brand not ikea as query specifies
+11463,0,evidea brand not ikea as query specifies
+11464,1,carraro brand bicycle matches query
+11465,1,carraro brand bicycle matches query
+11466,1,carraro brand bicycle matches query
+11467,1,carraro brand bicycle matches query
+11468,1,carraro brand bicycle matches query
+11469,1,pierre cardin brand watch matches generic brand query
+11470,1,pierre cardin brand watch matches query
+11471,1,pierre cardin brand scarf matches query
+11472,1,pierre cardin brand handbag matches query
+11473,1,pierre cardin brand shoulder bag matches query
+11474,1,pedometer device exact match
+11475,1,smart bracelet with pedometer function matches query
+11476,1,smart bracelet with adımsayar feature matches query
+11477,1,smart bracelet with step counter matches query
+11478,1,smart bracelet with adımsayar feature matches query
+11479,1,halter neck evening dress matches query
+11480,1,halter neck evening dress matches query
+11481,1,halter neck evening dress matches query
+11482,1,halter neck dress matches query
+11483,1,halter neck evening dress matches query
+11484,1,iphone-compatible fast charger serves apple şarj aleti intent
+11485,1,iphone-compatible charger serves query intent
+11486,1,iphone-compatible charger serves query intent
+11487,1,iphone-compatible charger serves query intent
+11488,1,iphone-compatible charger serves query intent
+11489,1,kral model bracelet matches query
+11490,1,kral model silver bracelet matches query
+11491,1,kral chain bracelet matches query
+11492,1,kral model steel bracelet matches query
+11493,1,kral model steel bracelet matches query
+11494,1,stitch themed birthday cake topper matches query
+11495,1,stitch themed birthday cake topper matches query
+11496,1,stitch themed birthday cake topper matches query
+11497,1,stitch themed birthday balloon set matches query
+11498,0,jewelry charm not a birthday party item
+11499,1,fabrika brand men's shoe matches query
+11500,1,fabrika brand men's sneaker matches query
+11501,1,fabrika brand men's boot matches query
+11502,1,fabrika brand men's shoe matches query
+11503,1,fabrika brand men's boot matches query
+11504,1,led chandelier suitable for kitchen matches query
+11505,1,led chandelier suitable for kitchen matches query
+11506,1,led chandelier suitable for kitchen matches query
+11507,1,led chandelier suitable for kitchen matches query
+11508,1,led chandelier suitable for kitchen matches query
+11509,1,zinc supplement tablet matches query
+11510,1,zinc supplement tablet matches query
+11511,1,zinc supplement tablet matches query
+11512,1,zinc supplement capsule matches query
+11513,1,zinc supplement capsule matches query
+11514,1,bargello niche brand perfume matches query
+11515,1,bargello niche brand perfume matches query
+11516,1,bargello niche brand perfume matches query
+11517,0,different brand (d&p perfumum) not bargello
+11518,1,bargello niche brand perfume matches query
+11519,1,chicco brand baby bouncer matches query
+11520,0,different brand (ciciko) not chicco
+11521,1,chicco brand baby bouncer matches query
+11522,0,chicco stroller not ana kucağı (bouncer)
+11523,0,chicco mattress pad not ana kucağı (bouncer)
+11524,1,sun protection set matches query
+11525,1,sun protection set matches query
+11526,1,sun protection care set matches query
+11527,1,sun care set matches query
+11528,1,sun protection care set matches query
+11529,1,coffee table leg matches query
+11530,1,furniture leg suitable for sehpa matches query
+11531,1,furniture leg suitable for sehpa matches query
+11532,1,sehpa ayağı explicitly matches query
+11533,1,furniture leg suitable for sehpa matches query
+11534,1,paperlike screen protector matches query
+11535,1,paperlike screen protector matches query
+11536,1,paperlike screen protector matches query
+11537,1,paperlike screen protector matches query (generic query no device brand specified)
+11538,1,paperlike screen protector matches query
+11539,1,new well brand foundation matches query
+11540,1,new well brand foundation matches query
+11541,1,new well brand foundation matches query
+11542,1,new well brand foundation matches query
+11543,1,new well brand foundation matches query
+11544,1,fermente mutfağım brand product matches query
+11545,1,fermente mutfağım brand fermented drink matches query
+11546,1,fermente mutfağım brand fermented drink matches query
+11547,1,fermente mutfağım brand vinegar matches query
+11548,1,fermente mutfağım brand vinegar set matches query
+11549,1,dalin brand baby set matches query

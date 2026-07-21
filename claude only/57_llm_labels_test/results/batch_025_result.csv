@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+8750,1,forx5 brand kahve match
+8751,1,forx5 brand kahve match
+8752,0,different brand not forx5
+8753,0,different brand not forx5
+8754,0,different brand not forx5
+8755,0,title shows elsbeauty not lacoste
+8756,0,brand calvin klein not lacoste
+8757,0,brand fabrika not lacoste
+8758,0,brand mkm not lacoste
+8759,0,brand fabrika not lacoste
+8760,1,stitch figure toy matches
+8761,0,wall sticker not stitch item
+8762,1,disney stitch plush matches
+8763,0,dragon ball figure not stitch
+8764,1,stitch plush toy matches
+8765,1,aksu brand blanket match
+8766,1,aksu brand blanket match
+8767,1,aksu brand blanket match
+8768,1,aksu brand blanket match
+8769,1,aksu brand blanket match
+8770,1,adhesive plexi mirror strip match
+8771,1,adhesive plexi mirror strip match
+8772,1,adhesive mirrored plexi strip match
+8773,1,adhesive plexi mirror strip match
+8774,1,adhesive plexi mirror strip match
+8775,1,dark grey blackout curtain match
+8776,0,beige not dark colored
+8777,0,raw fabric not finished curtain
+8778,1,black blackout curtain match
+8779,1,blackout curtain matches dark intent
+8780,1,pocket napkin match
+8781,1,pocket napkin match
+8782,1,pocket napkin match
+8783,1,pocket napkin match
+8784,1,pocket napkin match
+8785,1,fakir carpet upholstery shampoo match
+8786,1,fakir carpet upholstery shampoo match
+8787,1,fakir carpet upholstery shampoo match
+8788,1,fakir carpet upholstery shampoo match
+8789,1,fakir carpet upholstery shampoo match
+8790,1,coffee corner shelf match
+8791,1,coffee corner shelf match
+8792,1,coffee corner shelf match
+8793,1,coffee corner shelf match
+8794,1,coffee corner shelf match
+8795,1,morpanya brand bookshelf match
+8796,1,morpanya brand bookshelf match
+8797,1,morpanya brand bookshelf match
+8798,1,morpanya brand bookshelf match
+8799,1,morpanya brand bookshelf match
+8800,1,other spice category match
+8801,1,other spice category match
+8802,1,other spice category match
+8803,1,other spice category match
+8804,1,other spice category match
+8805,1,philips solid juicer match
+8806,1,philips solid juicer match
+8807,1,philips solid juicer match
+8808,1,philips solid juicer match
+8809,1,philips solid juicer match
+8810,1,seiko women watch match
+8811,1,seiko women watch match
+8812,1,seiko women watch match
+8813,1,seiko women watch match
+8814,1,seiko women watch match
+8815,1,boy baby astronaut coat match
+8816,1,unisex baby astronaut coat match
+8817,1,boy baby astronaut coat match
+8818,1,unisex baby astronaut coat match
+8819,1,unisex baby astronaut coat match
+8820,1,bingo dust remover spray match
+8821,1,bingo dust remover spray match
+8822,1,bingo dust remover spray match
+8823,0,laundry powder detergent not dust remover
+8824,0,laundry powder detergent not dust remover
+8825,1,gofrik product match
+8826,1,gofrik product match
+8827,1,gofrik product match
+8828,1,gofrik product match
+8829,1,gofrik product match
+8830,1,induction compatible cookware match
+8831,1,induction compatible cookware match
+8832,1,induction compatible cookware match
+8833,1,induction compatible cookware match
+8834,1,induction compatible cookware match
+8835,1,kervan brand match
+8836,1,kervan brand match
+8837,1,kervan brand match
+8838,1,kervan brand match
+8839,1,kervan brand match
+8840,1,cantu brand match
+8841,1,cantu brand match
+8842,1,cantu brand match
+8843,1,cantu brand match
+8844,1,cantu brand match
+8845,1,cat themed canvas art match
+8846,1,cat themed canvas art match
+8847,1,cat themed canvas art match
+8848,1,cat themed canvas art match
+8849,1,cat themed canvas art match
+8850,1,16cm car speaker match
+8851,1,16cm car speaker match
+8852,1,16cm car speaker match
+8853,1,16cm car speaker match
+8854,0,24cm speaker not 16cm
+8855,1,wall panel match
+8856,1,wall panel match
+8857,1,wall panel match
+8858,1,wall panel match
+8859,1,wall panel match
+8860,1,tory burch bag match
+8861,1,tory burch bag match
+8862,1,tory burch bag match
+8863,1,tory burch bag match
+8864,1,tory burch bag match
+8865,1,stabilo boss 23 color set match
+8866,0,single marker not 23 set
+8867,0,single marker not 23 set
+8868,0,10 pack not 23 set
+8869,0,4 set not 23 set
+8870,1,vicco sneaker match
+8871,1,vicco sneaker match
+8872,1,vicco sneaker match
+8873,1,vicco sneaker match
+8874,1,vicco sneaker match
+8875,1,pistachio powder match
+8876,1,pistachio powder match
+8877,1,pistachio powder match
+8878,1,pistachio powder match
+8879,1,pistachio powder match
+8880,1,us polo women watch match
+8881,1,us polo women watch match
+8882,1,us polo women watch match
+8883,1,us polo women watch match
+8884,1,us polo women watch match
+8885,1,examination glove match
+8886,1,examination glove match
+8887,1,examination glove match
+8888,1,examination glove match
+8889,1,examination glove match
+8890,1,loreal excellence hair dye match
+8891,1,loreal excellence hair dye match
+8892,1,loreal excellence hair dye match
+8893,1,loreal excellence hair dye match
+8894,1,loreal excellence hair dye match
+8895,1,isana med body lotion match
+8896,1,title confirms isana med line
+8897,1,isana med hand cream match
+8898,1,isana med shower gel match
+8899,1,isana med shampoo match
+8900,1,tac brand curtain match
+8901,1,title confirms tac curtain
+8902,1,tac brand curtain match
+8903,1,tac brand curtain match
+8904,1,tac brand curtain match
+8905,1,abiyefon brand dress match
+8906,1,abiyefon brand dress match
+8907,1,abiyefon brand dress match
+8908,1,abiyefon brand dress match
+8909,1,abiyefon brand dress match
+8910,1,salih suruc book match
+8911,1,salih suruc book match
+8912,1,salih suruc book match
+8913,0,different author book
+8914,0,different book unrelated
+8915,1,motocross goggles match
+8916,1,motocross goggles match
+8917,0,industrial safety goggles not motocross
+8918,0,mask product not goggles
+8919,0,industrial safety goggles not motocross
+8920,1,white bathroom trash can match
+8921,1,white bathroom trash can match
+8922,1,white bathroom trash can match
+8923,1,white bathroom trash can match
+8924,0,gray not white
+8925,1,s-link brand headphone match
+8926,1,s-link brand headphone match
+8927,1,s-link brand headphone match
+8928,0,brand mobil go not s-link
+8929,0,brand pioneer not s-link
+8930,1,knife sharpening stone match
+8931,1,knife sharpening stone match
+8932,1,knife sharpening stone match
+8933,1,knife sharpening stone match
+8934,1,knife sharpening stone match
+8935,0,hair clip not teacher gift for men
+8936,0,engagement tray unrelated
+8937,0,boxing ball unrelated to gift theme
+8938,0,generic whiskey glass not themed
+8939,0,mens jacket unrelated to gift theme
+8940,1,office bookshelf match
+8941,1,office bookshelf match
+8942,1,office bookshelf match
+8943,1,office bookshelf match
+8944,1,office bookshelf match
+8945,1,duvet cover set match
+8946,1,duvet cover set match
+8947,1,duvet cover set match
+8948,1,duvet cover set match
+8949,1,duvet cover set match
+8950,1,cvs brand upright vacuum match
+8951,1,cvs brand upright vacuum match
+8952,0,brand vestel not cvs
+8953,0,brand kiwi not cvs
+8954,0,brand sinbo not cvs
+8955,1,sleepy bed protector match
+8956,1,sleepy bed protector match
+8957,1,sleepy bed protector match
+8958,1,sleepy bed protector match
+8959,1,sleepy bed protector match
+8960,1,girls hooded cardigan match
+8961,1,girls hooded cardigan match
+8962,1,girls hooded cardigan match
+8963,1,girls hooded cardigan match
+8964,1,unisex hooded cardigan includes girls
+8965,0,mother pajama not child
+8966,0,mother pajama not child
+8967,0,kids pajama but not velvet
+8968,0,kids pajama but not velvet cotton
+8969,0,kids pajama but not velvet
+8970,1,petrol ofisi motor oil match
+8971,1,petrol ofisi motor oil match
+8972,1,petrol ofisi motor oil match
+8973,1,petrol ofisi motor oil match
+8974,1,petrol ofisi motor oil match
+8975,1,guess steel necklace match
+8976,1,guess steel necklace match
+8977,1,guess steel necklace match
+8978,1,guess steel necklace match
+8979,1,guess steel necklace match
+8980,1,coffee cup set match
+8981,1,coffee cup set match
+8982,1,coffee cup set match
+8983,1,coffee cup set match
+8984,1,coffee cup set match
+8985,1,brown heeled boot match
+8986,1,brown heeled boot match
+8987,0,black not brown
+8988,0,color unclear not confirmed brown
+8989,0,mens flat chelsea boot not heeled
+8990,1,mens sweatpants match
+8991,1,mens sweatpants match
+8992,1,unisex sweatpants acceptable
+8993,1,unisex sweatpants acceptable
+8994,1,mens sweatpants match
+8995,1,mini artificial flower match
+8996,1,mini artificial flower match
+8997,1,mini artificial flower match
+8998,1,mini artificial flower match
+8999,1,mini artificial flower match
+9000,1,pruning shears match
+9001,1,pruning shears match
+9002,1,pruning shears match
+9003,1,pruning shears match
+9004,1,pruning shears match
+9005,1,copper presentation piece match
+9006,1,copper presentation piece match
+9007,1,copper presentation piece match
+9008,1,copper presentation piece match
+9009,1,copper serving pan presentation match
+9010,1,exact book title match
+9011,0,different book 1984
+9012,0,different book marcus aurelius
+9013,0,different book unrelated
+9014,0,different book tolstoy
+9015,1,gemlik olive match
+9016,1,gemlik olive match
+9017,1,gemlik olive match
+9018,1,gemlik olive match
+9019,1,gemlik olive match
+9020,1,suede coat match
+9021,1,suede like coat match
+9022,1,suede coat match
+9023,1,suede jacket match
+9024,0,suede look not real suede
+9025,1,royal canin kitten food match
+9026,1,royal canin kitten food match
+9027,1,royal canin kitten food match
+9028,1,royal canin kitten food match
+9029,1,royal canin kitten food match
+9030,1,pastel brand blush match
+9031,1,pastel brand blush match
+9032,1,pastel brand blush match
+9033,1,pastel brand blush match
+9034,1,pastel brand blush match
+9035,1,mini screwdriver set match
+9036,1,mini screwdriver set match
+9037,1,mini screwdriver set match
+9038,1,mini screwdriver set match
+9039,1,mini screwdriver set match
+9040,1,atom cayi product match
+9041,1,atom cayi product match
+9042,1,atom cayi product match
+9043,1,atom cayi product match
+9044,1,atom cayi product name match
+9045,1,lion brand football shoe match
+9046,1,lion brand football shoe match
+9047,1,lion brand football shoe match
+9048,1,lion brand football shoe match
+9049,1,lion brand product match
+9050,1,oral care tongue cleaner match
+9051,1,oral care tongue cleaner match
+9052,1,oral care tongue cleaner match
+9053,1,oral care tongue cleaner match
+9054,1,oral care mouthwash match
+9055,1,sultan eksioglu dress match
+9056,1,sultan eksioglu dress match
+9057,1,sultan eksioglu dress match
+9058,1,sultan eksioglu dress match
+9059,1,sultan eksioglu dress match
+9060,1,mango woman skirt match
+9061,1,mango woman skirt match
+9062,1,mango woman skirt match
+9063,1,mango woman skirt match
+9064,1,mango woman skirt match
+9065,1,corkscrew match
+9066,1,corkscrew match
+9067,1,corkscrew match
+9068,1,corkscrew match
+9069,1,corkscrew match
+9070,1,computer category match
+9071,1,computer category match
+9072,1,computer category match
+9073,1,computer category match
+9074,1,computer category match
+9075,1,vacuum bathroom shelf match
+9076,1,vacuum bathroom shelf match
+9077,1,vacuum bathroom shelf match
+9078,1,vacuum bathroom shelf match
+9079,1,vacuum bathroom shelf match
+9080,1,goalkeeper football glove match
+9081,1,goalkeeper football glove match
+9082,1,goalkeeper football glove match
+9083,1,goalkeeper football glove match
+9084,1,goalkeeper football glove match
+9085,1,bonheur brand tote bag match
+9086,1,bonheur brand tote bag match
+9087,1,bonheur brand tote bag match
+9088,0,brand fluffy not bonheur
+9089,0,brand armine not bonheur
+9090,1,teasing comb match
+9091,1,teasing comb match
+9092,1,teasing comb match
+9093,1,teasing comb match
+9094,1,teasing comb match
+9095,1,placemat runner set match
+9096,1,placemat runner set match
+9097,1,placemat runner set match
+9098,1,placemat runner set match
+9099,1,placemat runner set match

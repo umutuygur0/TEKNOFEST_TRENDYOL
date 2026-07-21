@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+3500,1,same brand and product type
+3501,1,same brand and product type
+3502,1,same brand and product type
+3503,1,same brand and product type
+3504,1,same brand and product type
+3505,1,sheep shearing machine matches
+3506,0,replacement blade not the machine
+3507,1,sheep goat shearing machine matches
+3508,0,pet groomer not sheep shearing machine
+3509,0,pet groomer not sheep shearing machine
+3510,1,ikea table matches
+3511,1,ikea table matches
+3512,1,ikea table matches
+3513,1,ikea table matches
+3514,1,ikea table matches
+3515,0,wrong brand baby turco not sleepy
+3516,1,sleepy size 6 diaper
+3517,1,sleepy size 6 diaper
+3518,1,sleepy size 6 diaper
+3519,1,sleepy size 6 diaper
+3520,1,samsung phone screen generic match
+3521,1,samsung phone screen generic match
+3522,1,samsung phone screen generic match
+3523,1,samsung phone screen generic match
+3524,1,samsung phone screen generic match
+3525,1,aldo women's bag
+3526,1,aldo women's bag
+3527,1,aldo women's bag
+3528,0,shoes not a bag
+3529,0,shoes not a bag
+3530,1,serve deep pen matches
+3531,1,serve deep pen matches
+3532,1,serve deep pen matches
+3533,0,pen refill tip not pen
+3534,1,serve deep pencil matches
+3535,1,stitch figure matches
+3536,0,plush toy not a figure
+3537,0,plush toy not a figure
+3538,0,plush toy not a figure
+3539,0,lilo plush not stitch figure
+3540,1,silva ironing board cover
+3541,0,wrong brand perilla not silva
+3542,1,silva ironing board cover
+3543,0,wrong brand gercella not silva
+3544,0,wrong brand gercella not silva
+3545,1,baby organizer generic match
+3546,1,baby organizer generic match
+3547,1,baby organizer generic match
+3548,1,baby organizer generic match
+3549,1,baby organizer generic match
+3550,1,battery led candle matches
+3551,1,battery led candle matches
+3552,1,battery led candle matches
+3553,1,battery led candle matches
+3554,1,battery led candle matches
+3555,0,ear tips accessory not headphones
+3556,1,bluetooth headphones matches
+3557,1,bluetooth headphones matches
+3558,1,bluetooth headphones matches
+3559,1,bluetooth headphones matches
+3560,1,women's bomber jacket
+3561,1,women's bomber jacket
+3562,1,bomber style jacket matches
+3563,1,women's bomber jacket
+3564,1,bomber jacket matches
+3565,1,armani exchange t-shirt
+3566,1,armani exchange t-shirt
+3567,1,armani exchange t-shirt
+3568,1,armani exchange t-shirt
+3569,1,armani exchange t-shirt
+3570,1,arginine supplement matches
+3571,1,arginine powder matches
+3572,1,contains l-arginine matches
+3573,1,arginine capsules matches
+3574,1,l-arginine supplement matches
+3575,1,wide leg denim jeans
+3576,1,wide leg denim jeans
+3577,1,wide leg denim jeans
+3578,1,wide leg denim jeans
+3579,1,wide leg denim jeans
+3580,1,fnx wax hair product
+3581,1,fnx wax hair product
+3582,1,fnx wax hair product
+3583,1,fnx wax hair product
+3584,1,fnx wax line product
+3585,1,generic fluffy slipper match
+3586,1,generic fluffy slipper match
+3587,1,generic fluffy slipper match
+3588,1,generic fluffy slipper match
+3589,1,generic fluffy slipper match
+3590,1,h4 xenon led bulb
+3591,1,h4 bulb fits universally
+3592,1,h4 xenon bulb match
+3593,1,h4 xenon led bulb
+3594,1,h4 led xenon bulb
+3595,1,swiss army knife match
+3596,1,swiss style pocket knife
+3597,1,swiss camp knife match
+3598,1,swiss knife match
+3599,1,swiss knife match
+3600,1,door tulle decoration match
+3601,1,door tulle decoration match
+3602,1,tulle used as door decor
+3603,0,window curtain not door tulle
+3604,1,door decoration tulle match
+3605,0,unrelated backpack wrong brand
+3606,0,unrelated t-shirt wrong brand
+3607,0,unrelated sweatshirt wrong brand
+3608,1,correct brand krijen serum
+3609,1,correct brand krijen shampoo
+3610,1,fountain pen matches
+3611,0,ink cartridge not the pen
+3612,1,fountain pen matches
+3613,0,ink cartridge not the pen
+3614,1,fountain pen matches
+3615,1,tommy life men's product
+3616,1,tommy life men's product
+3617,1,tommy life men's product
+3618,1,tommy life men's product
+3619,1,tommy life men's product
+3620,1,splenda sweetener tablets
+3621,1,splenda sweetener tablets
+3622,1,splenda sweetener tablets
+3623,1,splenda sweetener tablets
+3624,1,splenda sweetener granules
+3625,1,ceramic clay dough match
+3626,1,ceramic clay dough match
+3627,1,ceramic clay dough match
+3628,1,ceramic clay dough match
+3629,1,ceramic clay dough match
+3630,1,stick lipstick match
+3631,1,stick lipstick match
+3632,1,stick lipstick match
+3633,1,stick lipstick match
+3634,1,stick lipstick set match
+3635,1,modest sportswear set match
+3636,1,modest sportswear set match
+3637,1,modest sportswear set match
+3638,1,modest sportswear set match
+3639,1,modest sportswear set match
+3640,1,steel material matches query
+3641,0,gold plated not steel
+3642,1,stainless steel bracelet match
+3643,0,gold plated not steel
+3644,0,pearl material not steel
+3645,1,plus size modest set match
+3646,1,plus size modest set match
+3647,1,plus size modest set match
+3648,1,plus size modest set match
+3649,1,plus size modest set match
+3650,1,mouse pad match
+3651,1,mouse pad match
+3652,1,mouse pad match
+3653,1,mouse pad match
+3654,1,mouse pad match
+3655,0,whipped cream not pudding
+3656,1,protein pudding matches
+3657,0,whipped cream not pudding
+3658,0,makeup powder not pudding
+3659,0,baby powder not pudding
+3660,1,tefal vertical steam iron
+3661,0,regular iron not vertical
+3662,0,regular iron not vertical
+3663,1,tefal vertical iron match
+3664,1,vertical and horizontal ironing
+3665,1,hot wheels toyota supra
+3666,1,hot wheels toyota supra
+3667,1,hot wheels toyota supra
+3668,1,hot wheels toyota supra
+3669,0,wrong brand majorette not hotwheels
+3670,1,matte foundation match
+3671,1,matte foundation match
+3672,1,matte foundation match
+3673,1,matte foundation match
+3674,1,matte foundation match
+3675,1,boxing headgear match
+3676,1,boxing headgear match
+3677,1,boxing headgear match
+3678,1,boxing headgear match
+3679,1,boxing headgear match
+3680,1,plush llama toy match
+3681,0,wrong animal tiger not llama
+3682,1,knitted llama toy match
+3683,0,labubu not llama
+3684,0,labubu not llama
+3685,1,gaming chair match
+3686,1,gaming chair match
+3687,1,gaming chair match
+3688,1,gaming chair match
+3689,1,gaming chair match
+3690,1,daxtors boot match
+3691,1,daxtors boot match
+3692,1,daxtors boot match
+3693,1,daxtors boot match
+3694,1,daxtors boot match
+3695,1,pink girl child dress
+3696,1,pink girl child dress
+3697,1,pink girl child dress
+3698,1,pink girl child dress
+3699,1,pink girl child dress
+3700,0,different unrelated book
+3701,0,animal farm not requested book
+3702,0,animal tissue chart not book
+3703,0,animal farm not requested book
+3704,0,different animal atlas book
+3705,1,arçelik gurme tea maker
+3706,0,not gurme line arçelik
+3707,1,arçelik gurme tea maker
+3708,1,arçelik gurme line match
+3709,0,resital line not gurme
+3710,1,marker ink refill match
+3711,1,diffuser refill match
+3712,1,cream refill match
+3713,0,refillable bottle not a refill
+3714,0,empty bottle not a refill
+3715,1,black heeled boot match
+3716,1,black heeled boot match
+3717,1,black heeled boot match
+3718,1,black heeled boot match
+3719,1,black heeled boot match
+3720,0,not actually pink colored
+3721,0,white not pink
+3722,1,pink porcelain cup match
+3723,1,pink porcelain cup match
+3724,0,base color black not pink
+3725,1,children's punching bag match
+3726,1,children's punching bag match
+3727,1,children's punching bag match
+3728,1,children's punching bag match
+3729,1,children's punching bag match
+3730,1,paçi oil dispenser match
+3731,1,paçi oil dispenser match
+3732,1,paçi oil dispenser match
+3733,1,paçi oil dispenser match
+3734,1,paçi oil dispenser match
+3735,1,pierre cardin brand match
+3736,1,pierre cardin brand match
+3737,1,pierre cardin brand match
+3738,1,pierre cardin brand match
+3739,1,pierre cardin brand match
+3740,1,samsung galaxy a33 phone
+3741,1,samsung galaxy a33 phone
+3742,0,screen protector not the phone
+3743,0,phone case not the phone
+3744,0,wrong model m33 and a case
+3745,0,wrong brand not ngk
+3746,0,wrong brand not ngk
+3747,0,wrong brand not ngk
+3748,0,wrong brand not ngk
+3749,0,wrong brand not ngk
+3750,1,keyboard mouse set includes keyboard
+3751,1,keyboard mouse set includes keyboard
+3752,1,keyboard mouse set includes keyboard
+3753,1,standalone keyboard match
+3754,1,keyboard mouse set includes keyboard
+3755,1,women's shirt generic match
+3756,1,women's shirt generic match
+3757,1,women's shirt generic match
+3758,1,women's shirt generic match
+3759,1,women's shirt generic match
+3760,1,generic children's toy match
+3761,1,generic children's toy match
+3762,1,generic children's toy match
+3763,1,generic children's toy match
+3764,1,generic children's toy match
+3765,1,decathlon men's coat
+3766,1,decathlon men's coat
+3767,1,decathlon men's coat
+3768,1,decathlon men's coat
+3769,1,decathlon outdoor jacket match
+3770,1,kiko makeup base match
+3771,1,kiko makeup base match
+3772,1,kiko makeup base match
+3773,1,kiko makeup base match
+3774,1,kiko makeup base match
+3775,1,folding dining table match
+3776,1,folding dining table match
+3777,1,folding dining table match
+3778,1,folding dining table match
+3779,1,folding dining table match
+3780,1,lucky art brand match
+3781,1,lucky art brand match
+3782,1,lucky art brand match
+3783,1,lucky art brand match
+3784,1,lucky art brand match
+3785,1,profilo vacuum cleaner
+3786,1,profilo vacuum cleaner
+3787,1,profilo vacuum cleaner
+3788,1,profilo vacuum cleaner
+3789,1,profilo vacuum cleaner
+3790,1,generic keyboard match
+3791,1,generic keyboard match
+3792,1,generic keyboard match
+3793,1,generic keyboard match
+3794,1,generic keyboard match
+3795,1,long denim jacket match
+3796,1,long denim jacket match
+3797,1,long denim jacket match
+3798,1,long denim jacket match
+3799,1,long denim jacket match
+3800,1,lacoste dress match
+3801,1,lacoste dress match
+3802,1,lacoste dress match
+3803,1,lacoste dress child variant
+3804,0,wrong brand guess not lacoste
+3805,1,özdilek towel match
+3806,1,özdilek towel match
+3807,1,özdilek towel match
+3808,1,özdilek towel match
+3809,1,özdilek towel match
+3810,1,bathroom laundry basket set match
+3811,1,bathroom laundry basket set match
+3812,1,laundry basket set match
+3813,1,bathroom laundry basket set match
+3814,1,bathroom laundry basket set match
+3815,1,happiness istanbul jumpsuit
+3816,1,happiness istanbul jumpsuit
+3817,1,happiness istanbul jumpsuit
+3818,1,happiness istanbul jumpsuit
+3819,1,happiness istanbul jumpsuit
+3820,1,burgundy nurse uniform match
+3821,1,burgundy nurse uniform match
+3822,1,burgundy nurse uniform match
+3823,1,burgundy nurse uniform match
+3824,1,burgundy nurse uniform match
+3825,1,caterpillar men's boot match
+3826,1,caterpillar men's boot match
+3827,1,caterpillar boot match
+3828,1,caterpillar men's boot match
+3829,1,caterpillar unisex boot match
+3830,1,pet water feeder match
+3831,1,cattle water feeder match
+3832,1,cattle water feeder match
+3833,1,dog water bottle match
+3834,1,pet water bottle match
+3835,1,kitchen drawer cabinet match
+3836,1,kitchen drawer cabinet match
+3837,1,kitchen drawer cabinet match
+3838,1,kitchen drawer cabinet match
+3839,1,kitchen drawer module match
+3840,0,galaxy a06 not a07
+3841,0,galaxy a06 not a07
+3842,0,galaxy a06 not a07
+3843,0,tablet not the a07 phone
+3844,0,wrong model case not phone
+3845,1,baby gas relief belt match
+3846,1,baby gas relief product match
+3847,1,baby gas relief belt match
+3848,1,baby gas relief patik match
+3849,1,baby gas relief belt match

@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+0,1,tümosan uyumlu parça - brand match
+1,1,brand tümosan filtre
+2,1,tümosan model uyumlu kılıf
+3,1,brand tümosan etiket
+4,1,tümosan tip ürün adı
+5,1,brand smoothly ağda seti
+6,1,brand smoothly peeling
+7,0,brand gillette venus not smoothly
+8,1,brand smoothly konserve ağda
+9,0,brand gillette venus not smoothly
+10,1,brand clarks balerin
+11,1,brand clarks ayakkabı
+12,0,brand crocs not clarks
+13,0,brand crocs not clarks
+14,1,brand clarks bot
+15,1,brand d&p parfüm
+16,1,brand d&p parfüm
+17,1,brand d&p parfüm
+18,1,brand d&p parfüm
+19,1,brand d&p parfüm
+20,1,baggy pantolon eşleşiyor
+21,1,baggy pantolon eşleşiyor
+22,1,baggy pantolon eşleşiyor
+23,1,baggy pantolon eşleşiyor
+24,1,baggy pantolon eşleşiyor
+25,1,metal dedektörü eşleşiyor
+26,1,metal dedektörü eşleşiyor
+27,1,metal dedektörü eşleşiyor
+28,1,dedektör eşleşiyor
+29,1,dedektörü eşleşiyor
+30,1,çanta askılığı organizer
+31,1,çanta saklama organizeri
+32,1,çanta organizer
+33,1,çanta saklama organizeri
+34,1,çanta düzenleyicisi
+35,1,krom plakalık eşleşiyor
+36,1,krom plakalık eşleşiyor
+37,1,araç plakalık eşleşiyor
+38,1,isimli plakalık eşleşiyor
+39,1,pleksi plakalık eşleşiyor
+40,1,erkek kemer eşleşiyor
+41,1,erkek kemer eşleşiyor
+42,1,erkek kemer eşleşiyor
+43,1,erkek kemer eşleşiyor
+44,1,erkek kemer eşleşiyor
+45,1,gaming monitör eşleşiyor
+46,1,gaming monitör eşleşiyor
+47,1,led monitör eşleşiyor
+48,1,gaming monitör eşleşiyor
+49,1,gaming monitör eşleşiyor
+50,1,başlıkta kuzmina geçiyor
+51,0,kuzmina eşleşmesi yok - sweatshirt
+52,0,kuzmina eşleşmesi yok - farklı jean
+53,0,kuzmina eşleşmesi yok - farklı jean
+54,0,kuzmina eşleşmesi yok - kot ceket
+55,1,brand blondme
+56,1,brand blondme açıcı
+57,1,brand alanı blondme
+58,1,brand blondme oksidan
+59,1,brand blondme developer
+60,1,brand sgs matkap
+61,0,brand öztürk not sgs
+62,1,brand sgs kontrol kalemi
+63,1,brand sgs dekupaj testere
+64,1,brand sgs kaynak makinesi
+65,1,punisher baskılı tişört
+66,1,punisher baskılı sweatshirt
+67,1,punisher baskılı tişört
+68,0,genel kurukafa deseni punisher değil
+69,1,punisher tasarımlı maske
+70,1,protein shaker eşleşiyor
+71,1,protein shaker eşleşiyor
+72,1,protein shaker eşleşiyor
+73,1,paslanmaz çelik shaker
+74,1,pocket shaker eşleşiyor
+75,1,brand harby bisküvi
+76,1,brand harby bisküvi
+77,1,başlıkta harby geçiyor
+78,0,brand haribo not harby
+79,0,brand haribo not harby
+80,1,krom pikolinat eşleşiyor
+81,1,krom kapsül eşleşiyor
+82,1,krom pikolinat eşleşiyor
+83,1,chromium picolinate krom eşleşiyor
+84,1,krom pikolinat eşleşiyor
+85,1,brand sebago ayakkabı
+86,1,brand sebago ayakkabı
+87,0,brand voyager not sebago
+88,0,brand scooter not sebago
+89,0,brand voyager not sebago
+90,1,ranza eşleşiyor
+91,1,ranza eşleşiyor
+92,1,ranza eşleşiyor
+93,1,ranza eşleşiyor
+94,1,ranza eşleşiyor
+95,1,glikolik asit tonik
+96,1,glikolik asit tonik
+97,1,glikolik asit tonik
+98,1,glikolik asit kimyasal ürün
+99,1,glikolik asit tonik seti
+100,1,brand guja ayakkabı
+101,1,brand guja ayakkabı
+102,1,brand guja ayakkabı
+103,1,brand guja bot
+104,1,brand guja sneaker
+105,1,brand metapet sprey
+106,1,brand metapet koku giderici
+107,1,brand metapet hijyen sprey
+108,0,brand resteril not metapet
+109,1,brand metapet bakım seti
+110,1,allık eşleşiyor
+111,1,allık eşleşiyor
+112,1,allık eşleşiyor
+113,1,allık blusher eşleşiyor
+114,1,allık eşleşiyor
+115,1,brand wasa crispbread
+116,1,brand wasa sandviç
+117,0,brand harras not wasa
+118,0,brand harras not wasa
+119,0,brand grizzone not wasa
+120,1,brand aktarloji
+121,1,brand aktarloji
+122,1,brand aktarloji
+123,1,brand aktarloji
+124,1,brand aktarloji
+125,1,brand xaura transdermal bant
+126,0,brand mistirik not xaura
+127,0,brand mistirik not xaura
+128,0,brand xolo not xaura
+129,0,brand harmonyaura not xaura
+130,0,brand sofa - eduscho eşleşmesi yok
+131,0,brand 3a mobilya - eduscho eşleşmesi yok
+132,0,brand çavdardekorasyon - eduscho eşleşmesi yok
+133,0,brand dericibey - eduscho eşleşmesi yok
+134,0,brand rabellashoes - eduscho eşleşmesi yok
+135,1,brand agv kask
+136,1,brand agv kask
+137,1,brand agv kask
+138,1,brand agv kask
+139,1,brand agv kask
+140,1,brand soltis dudak nemlendirici
+141,1,brand soltis dudak nemlendirici
+142,1,brand soltis dudak nemlendirici
+143,1,brand soltis stick allık
+144,1,brand soltis dudak nemlendirici
+145,1,brand nars allık
+146,1,brand nars pudra
+147,1,brand nars kapatıcı
+148,1,brand nars fondöten
+149,1,brand nars fondöten
+150,1,brand driclor roll-on
+151,1,brand driclor roll-on
+152,0,brand tereson not driclor
+153,0,brand tereson not driclor
+154,0,brand tereson not driclor
+155,0,brand wessi - wemsey eşleşmesi yok
+156,0,brand wessi - wemsey eşleşmesi yok
+157,0,brand wessi - wemsey eşleşmesi yok
+158,0,brand weskam - wemsey eşleşmesi yok
+159,0,brand by markasso - wemsey eşleşmesi yok
+160,0,pokemon ürünü - pochita değil
+161,0,pokemon ürünü - pochita değil
+162,0,pokemon ürünü - pochita değil
+163,0,pokemon ürünü - pochita değil
+164,0,pokemon ürünü - pochita değil
+165,1,brand reflex ödül maması
+166,1,brand reflex köpek maması
+167,1,brand reflex kedi maması
+168,1,brand reflex plus kedi maması
+169,1,brand reflex kedi maması
+170,1,pleksi dekoratif eşleşiyor
+171,1,pleksi akrilik levha
+172,1,pleksi akrilik levha
+173,1,pleksi akrilik levha
+174,1,pleksi akrilik levha
+175,1,gigabyte marka anakart
+176,1,brand gigabyte anakart
+177,1,brand gigabyte anakart
+178,1,brand gigabyte anakart
+179,1,gigabyte aorus fan
+180,1,brand blade deodorant
+181,1,brand blade deodorant
+182,1,brand blade deodorant
+183,1,brand blade deodorant
+184,1,brand blade parfüm
+185,1,mobilya kulpu eşleşiyor
+186,1,mobilya kulpu eşleşiyor
+187,1,mobilya kulpu eşleşiyor
+188,1,mobilya kulpu eşleşiyor
+189,1,mobilya kulpu eşleşiyor
+190,0,tevbe kitabı - tevhid konusu değil
+191,0,kuran-ı kerim - tevhid'e özgü değil
+192,0,tevbe kitabı - tevhid konusu değil
+193,0,kuran-ı kerim - tevhid'e özgü değil
+194,0,kuran-ı kerim - tevhid'e özgü değil
+195,1,brand sennheiser kulaklık
+196,1,brand sennheiser kulaklık
+197,1,brand sennheiser kulaklık
+198,1,brand sennheiser kulaklık
+199,1,brand sennheiser kulaklık
+200,1,konvektör isıtıcı eşleşiyor
+201,1,konvektör isıtıcı eşleşiyor
+202,1,konvektör isıtıcı eşleşiyor
+203,1,konvektör isıtıcı eşleşiyor
+204,1,konvektör isıtıcı eşleşiyor
+205,1,şemsiyelik eşleşiyor
+206,1,şemsiyelik eşleşiyor
+207,1,şemsiyelik eşleşiyor
+208,1,şemsiyelik eşleşiyor
+209,1,şemsiyelik/askılık işlevi eşleşiyor
+210,1,cry babies bebek oyuncağı
+211,1,cry babies bebek oyuncağı
+212,1,cry babies bebek oyuncağı
+213,1,cry babies bebek oyuncağı
+214,1,cry babies bebek oyuncağı
+215,0,salatalık salata değil - farklı ürün
+216,1,hazır salata eşleşiyor
+217,1,salata kreması eşleşiyor
+218,1,hazır salata eşleşiyor
+219,1,hazır salata eşleşiyor
+220,1,anakart eşleşiyor
+221,1,tv anakart eşleşiyor
+222,1,anakart eşleşiyor
+223,1,anakart eşleşiyor
+224,1,anakart eşleşiyor
+225,1,aroma difüzör eşleşiyor
+226,1,aroma difüzör eşleşiyor
+227,1,aroma difüzör eşleşiyor
+228,1,aroma difüzör eşleşiyor
+229,1,aroma difüzör eşleşiyor
+230,1,brand bernardo fincan takımı
+231,0,brand claude bernard not bernardo
+232,0,brand claude bernard not bernardo
+233,0,brand straswans not bernardo
+234,0,brand kronik kitap not bernardo
+235,1,sandalet eşleşiyor
+236,1,sandalet eşleşiyor
+237,1,sandalet eşleşiyor
+238,1,sandalet eşleşiyor
+239,1,sandalet eşleşiyor
+240,1,brand caudalie
+241,1,brand caudalie
+242,1,brand caudalie
+243,1,brand caudalie
+244,1,brand caudalie
+245,1,komodin eşleşiyor
+246,1,komodin eşleşiyor
+247,1,komodin eşleşiyor
+248,1,komodin eşleşiyor
+249,1,komodin eşleşiyor
+250,1,brand oppo telefon
+251,1,brand oppo telefon
+252,1,brand oppo telefon
+253,1,brand oppo telefon
+254,1,brand oppo telefon
+255,1,redbull baskılı tişört
+256,1,red bull rb19 hoodie
+257,1,red bull rb19 tişört
+258,1,redbull baskılı tişört
+259,1,red bull racing tişört
+260,1,brand heqa kaban
+261,1,brand heqa kaban
+262,1,brand heqa kaban
+263,1,brand heqa trençkot
+264,1,brand heqa kaban
+265,0,brand bahels not biggdesign
+266,0,brand spoyi not biggdesign
+267,0,brand bigpoint not biggdesign
+268,0,brand bigotti not biggdesign
+269,0,brand bagzone not biggdesign
+270,1,bornoz eşleşiyor
+271,1,bornoz eşleşiyor
+272,1,bornoz eşleşiyor
+273,1,bornoz eşleşiyor
+274,1,bornoz eşleşiyor
+275,1,brand karaca fincan
+276,1,brand karaca fincan
+277,1,brand karaca fincan
+278,1,brand karaca fincan
+279,1,brand karaca fincan
+280,1,brand smartware kutu
+281,1,brand smartware kutu
+282,1,brand smartware kase
+283,1,brand smartware kutu
+284,1,brand smartware kutu
+285,1,brand anta basketbol ayakkabısı
+286,1,brand anta spor ayakkabı
+287,1,brand anta basketbol ayakkabısı
+288,0,brand under armour not anta
+289,0,brand nike not anta
+290,1,brand dinamis takviye
+291,1,brand dinamis vitamin
+292,0,brand tonguç yayınları not dinamis
+293,0,brand edulab not dinamis
+294,0,brand tonguç yayınları not dinamis
+295,1,klozet eşleşiyor
+296,1,klozet eşleşiyor
+297,1,klozet eşleşiyor
+298,1,klozet eşleşiyor
+299,1,klozet eşleşiyor
+300,1,zemzem takımı eşleşiyor
+301,1,zemzem takımı eşleşiyor
+302,1,zemzem takımı eşleşiyor
+303,1,zemzem takımı eşleşiyor
+304,1,zemzem takımı eşleşiyor
+305,1,sudoku kitabı eşleşiyor
+306,1,sudoku kitabı eşleşiyor
+307,1,sudoku kitap seti eşleşiyor
+308,1,sudoku kitabı eşleşiyor
+309,1,sudoku kitabı eşleşiyor
+310,1,brand akface çorap
+311,1,brand akface çorap
+312,1,brand akface çorap
+313,1,brand akface çorap
+314,1,brand akface çorap
+315,0,brand bartech not eratec
+316,0,brand eysp not eratec
+317,0,brand master not eratec
+318,1,brand eratec taş fırın seti
+319,0,brand lincoln not eratec
+320,0,brand derimod not leatherman
+321,0,brand derimod not leatherman
+322,0,brand derimod not leatherman
+323,0,brand derimod not leatherman
+324,0,brand derimod not leatherman
+325,1,sallanan salıncak eşleşiyor
+326,1,sallanan sandalye eşleşiyor
+327,1,sallanan sandalye eşleşiyor
+328,1,sallanan tv koltuk eşleşiyor
+329,1,sallanan berjer eşleşiyor
+330,1,başlıkta solgar geçiyor
+331,1,brand solgar omega3
+332,1,brand solgar omega3
+333,1,brand solgar omega3
+334,1,brand solgar omega3
+335,1,brand doque kap
+336,1,brand doque tunik
+337,0,brand tuğba not doque
+338,0,brand tuğba not doque
+339,1,brand doque pardesü
+340,1,brand sermeks bazlama makinası
+341,1,brand sermeks lahmacun makinesi
+342,1,brand sermeks tost makinesi
+343,0,brand duyar not sermeks
+344,1,brand sermeks tost makinesi
+345,0,anlamsız başlık - odka eşleşmesi yok
+346,0,brand focus complex not odka
+347,0,brand allergo not odka
+348,0,brand bornova gümrük market not odka
+349,0,brand ak sofa - odessa odka değil

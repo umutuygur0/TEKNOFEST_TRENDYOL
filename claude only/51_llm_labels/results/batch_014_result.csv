@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+4900,1,same brand trenchcoat kadin
+4901,1,same brand trenchcoat category match
+4902,1,same brand trenchcoat kadin
+4903,1,4 door wardrobe match
+4904,1,4 door wardrobe match
+4905,1,4 door wardrobe match
+4906,1,4 door wardrobe match
+4907,1,4 door wardrobe match
+4908,1,bike accessory match
+4909,1,bike accessory match
+4910,1,bike accessory match
+4911,1,bike accessory match
+4912,1,bike accessory match
+4913,1,surgical scrub top match
+4914,1,surgical scrub top match
+4915,1,surgical scrub top match
+4916,1,surgical scrub top match
+4917,1,surgical scrub top match
+4918,1,shimmer body spray match
+4919,1,shimmer body spray match
+4920,1,shimmer body spray match
+4921,1,shimmer body spray match
+4922,1,glow body mist similar product
+4923,1,bargello 444 perfume match
+4924,1,bargello 444 perfume match
+4925,1,bargello 444 perfume match
+4926,1,set includes bargello 444
+4927,1,bargello 444 perfume match
+4928,1,jimmy key cardigan match
+4929,1,jimmy key cardigan match
+4930,1,jimmy key cardigan match
+4931,1,jimmy key cardigan match
+4932,1,jimmy key cardigan match
+4933,1,bioxcin shampoo match
+4934,1,bioxcin shampoo match
+4935,1,bioxcin shampoo match
+4936,1,bioxcin shampoo line match
+4937,1,bioxcin shampoo match
+4938,1,iron man figure match
+4939,1,iron man figure match
+4940,1,includes iron man figure
+4941,1,iron man figure match
+4942,1,iron man figure/bust match
+4943,1,trendgar sweatshirt match
+4944,1,trendgar sweatshirt match
+4945,1,trendgar sweatshirt match
+4946,1,trendgar sweatshirt match
+4947,1,trendgar sweatshirt match
+4948,1,large gift box match
+4949,1,large gift box match
+4950,1,large gift box match
+4951,1,large gift box match
+4952,1,large gift box match
+4953,0,ps5 accessory not the game
+4954,1,gta5 ps5 game match
+4955,1,gta5 digital game match
+4956,1,gta5 game different platform ok
+4957,1,gta5 game different platform ok
+4958,1,venus women boot match
+4959,1,venus women boot match
+4960,1,venus women boot match
+4961,1,venus boot unisex ok
+4962,1,venus women boot match
+4963,1,girl baby bedding set match
+4964,1,girl baby bedding set match
+4965,1,girl baby bedding set match
+4966,1,girl baby bedding set match
+4967,1,girl baby bedding set match
+4968,1,ataturk bust match
+4969,1,ataturk bust match
+4970,1,ataturk bust/statue match
+4971,1,ataturk bust match
+4972,1,ataturk bust match
+4973,1,flormar lip gloss match
+4974,1,flormar lip gloss match
+4975,1,flormar lip gloss match
+4976,1,flormar lip gloss match
+4977,1,flormar lip gloss product match
+4978,1,exact skater jean match
+4979,1,skater fit jean match
+4980,0,baggy fit not skater fit
+4981,0,baggy fit not skater fit
+4982,0,baggy fit not skater fit
+4983,1,pierre cardin handbag match
+4984,1,pierre cardin handbag match
+4985,1,pierre cardin handbag match
+4986,1,pierre cardin handbag match
+4987,1,pierre cardin handbag match
+4988,1,cross tulle curtain match
+4989,1,cross tulle curtain match
+4990,1,cross tulle curtain match
+4991,1,cross tulle curtain match
+4992,1,cross tulle curtain match
+4993,1,colins men shirt match
+4994,1,colins men shirt match
+4995,1,colins men shirt match
+4996,1,colins men shirt match
+4997,1,colins men shirt match
+4998,1,olive green bag exact match
+4999,1,olive green bag exact match
+5000,0,mint green not olive green
+5001,0,mint green not olive green
+5002,0,mint green not olive green
+5003,1,pilloveland runner match
+5004,1,pilloveland runner match
+5005,1,pilloveland runner match
+5006,1,pilloveland runner match
+5007,1,pilloveland runner match
+5008,0,pitcher not purifier device
+5009,0,pitcher not purifier device
+5010,0,pitcher not purifier device
+5011,1,philips water purifier device match
+5012,0,pitcher not purifier device
+5013,1,micellar makeup remover water match
+5014,1,micellar makeup remover water match
+5015,1,micellar makeup remover water match
+5016,1,micellar makeup remover water match
+5017,1,micellar makeup remover water match
+5018,1,kids single bedding set match
+5019,1,kids single bedding set match
+5020,1,kids single bedding set match
+5021,1,kids single bedding set match
+5022,1,kids single bedding set match
+5023,1,activity table match
+5024,1,activity table match
+5025,1,activity table match
+5026,1,activity table match
+5027,1,activity table match
+5028,1,venom figure match
+5029,1,venom figure match
+5030,1,venom figure match
+5031,1,venom figure match
+5032,1,venom lego minifigure counts
+5033,1,tac bamboo tulle curtain match
+5034,1,tac bamboo tulle curtain match
+5035,1,tac bamboo tulle curtain match
+5036,1,tac bamboo tulle curtain match
+5037,1,tac bamboo tulle curtain match
+5038,1,cupro fabric outfit set match
+5039,1,cupro fabric outfit set match
+5040,1,cupro fabric outfit set match
+5041,1,cupro fabric outfit set match
+5042,1,cupro fabric outfit set match
+5043,1,bingo laundry detergent match
+5044,1,bingo laundry detergent match
+5045,1,bingo laundry detergent match
+5046,1,bingo laundry detergent match
+5047,1,bingo laundry detergent match
+5048,1,curaprox toothbrush match
+5049,1,curaprox toothbrush match
+5050,1,curaprox toothbrush match
+5051,1,curaprox toothbrush match
+5052,1,curaprox toothbrush match
+5053,1,wooden legged floor lamp match
+5054,1,wooden legged lamp match
+5055,1,wooden lamp match
+5056,1,wooden legged floor lamp match
+5057,1,wooden legged floor lamp match
+5058,0,walking shoe not sneaker
+5059,1,timberland sneaker match
+5060,1,timberland sneaker match
+5061,1,timberland sneaker match
+5062,1,timberland sneaker match
+5063,1,girl child tshirt match
+5064,0,age group baby not child
+5065,1,girl child tshirt match
+5066,1,girl child tshirt match
+5067,1,girl child tshirt match
+5068,1,fenerbahce branded coat match
+5069,0,raincoat not a mont coat
+5070,0,sweatshirt not a mont coat
+5071,0,cardigan not a mont coat
+5072,0,ceremony jacket not mont
+5073,1,ice tea powder product match
+5074,1,ice tea drink match
+5075,1,ice tea drink match
+5076,1,ice tea drink match
+5077,1,ice tea drink match
+5078,1,electric stove match
+5079,1,electric stove match
+5080,1,electric hotplate stove match
+5081,1,electric stove match
+5082,1,electric stove match
+5083,1,us polo sweatpants match
+5084,1,us polo sweatpants match
+5085,1,us polo sweatpants match
+5086,1,us polo sweatpants match
+5087,1,us polo sweatpants match
+5088,1,salomon men outdoor shoe match
+5089,1,salomon men outdoor shoe match
+5090,1,salomon men outdoor shoe match
+5091,1,salomon men outdoor shoe match
+5092,1,salomon men outdoor shoe match
+5093,0,lens case not lens itself
+5094,0,lens solution not lens itself
+5095,0,lens case not lens itself
+5096,0,lens case not lens itself
+5097,0,lens case not lens itself
+5098,1,eye area serum match
+5099,1,eye area serum match
+5100,1,eye area serum match
+5101,1,eye area serum match
+5102,1,eye area serum match
+5103,1,sekizbiralti brand hoodie match
+5104,1,sekizbiralti brand tshirt match
+5105,1,sekizbiralti brand hoodie match
+5106,1,sekizbiralti brand hoodie match
+5107,1,sekizbiralti brand hoodie match
+5108,1,girl plush coat match
+5109,1,girl plush coat match
+5110,1,girl plush coat match
+5111,1,girl plush coat match
+5112,1,girl plush coat match
+5113,0,different poppy playtime characters
+5114,0,paw patrol not huggy
+5115,0,mommy long legs not huggy
+5116,0,different character fuggler toy
+5117,0,sonny angel not huggy
+5118,1,ayhanhome towel match
+5119,1,ayhanhome towel set match
+5120,1,ayhanhome towel set match
+5121,1,ayhanhome towel set match
+5122,1,ayhanhome towel set match
+5123,1,laptop wireless mouse match
+5124,1,laptop wireless mouse match
+5125,1,laptop wireless mouse match
+5126,1,laptop wireless mouse match
+5127,1,laptop wireless mouse match
+5128,1,straw look rug match
+5129,1,straw look rug match
+5130,1,straw look rug match
+5131,1,straw look rug match
+5132,1,straw look rug match
+5133,1,electric blender match
+5134,1,hand blender match
+5135,1,blender set match
+5136,1,blender set match
+5137,1,stick blender match
+5138,1,runner set match
+5139,1,runner set match
+5140,1,runner set match
+5141,1,runner set match
+5142,1,runner set match
+5143,1,trousseau list planner match
+5144,1,trousseau list planner match
+5145,1,trousseau list planner match
+5146,1,trousseau list planner match
+5147,1,trousseau list planner match
+5148,1,mom vest match
+5149,1,mom vest match
+5150,1,mom vest match
+5151,1,mom vest match
+5152,1,mom vest match
+5153,1,aksu double blanket match
+5154,1,aksu double blanket match
+5155,1,aksu double blanket match
+5156,1,aksu double blanket match
+5157,1,aksu double blanket match
+5158,1,kitchen rug match
+5159,1,kitchen rug match
+5160,1,kitchen rug match
+5161,1,kitchen rug match
+5162,1,kitchen rug match
+5163,1,blue shoe match
+5164,1,blue shoe match
+5165,1,blue sneaker match
+5166,1,blue accented sneaker
+5167,1,blue sneaker match
+5168,1,camp teapot match
+5169,1,camp teapot match
+5170,1,camp teapot match
+5171,1,camp teapot match
+5172,1,camp teapot match
+5173,1,anex stroller match
+5174,1,anex stroller match
+5175,1,anex stroller match
+5176,1,anex stroller match
+5177,1,anex stroller match
+5178,1,sliding door wardrobe match
+5179,1,sliding door wardrobe match
+5180,1,sliding door wardrobe match
+5181,1,sliding door wardrobe match
+5182,1,sliding door wardrobe match
+5183,1,benetton shoulder bag match
+5184,1,benetton shoulder bag match
+5185,1,benetton shoulder bag match
+5186,1,benetton shoulder bag match
+5187,1,benetton shoulder bag match
+5188,1,aloe vera product match
+5189,1,aloe vera product match
+5190,1,aloe vera cream match
+5191,1,aloe vera care set match
+5192,1,aloe vera cream match
+5193,1,after shave lotion match
+5194,1,after shave product match
+5195,1,after shave lotion match
+5196,1,before/after shave lotion match
+5197,1,after shave lotion match
+5198,1,small scissors match
+5199,1,small scissors match
+5200,1,set includes small scissors
+5201,0,large size not small scissors
+5202,1,small scissors set match
+5203,1,fissler pressure cooker match
+5204,1,fissler pressure cooker match
+5205,1,fissler pressure cooker match
+5206,1,fissler pressure cooker match
+5207,1,fissler pressure cooker match
+5208,1,trench coat match
+5209,1,trench coat match
+5210,1,trench coat match
+5211,1,trench coat match
+5212,1,trench coat match
+5213,1,shaving machine match
+5214,1,shaving/trimmer match
+5215,1,shaving machine match
+5216,1,shaving machine match
+5217,1,shaving machine match
+5218,1,beer glass match
+5219,1,beer glass match
+5220,1,beer glass match
+5221,1,beer glass match
+5222,1,beer glass match
+5223,0,wrong brand not iremkarahome
+5224,0,wrong brand not iremkarahome
+5225,0,wrong brand not iremkarahome
+5226,0,wrong brand and category rug
+5227,0,wrong brand and category rug
+5228,1,fiorella chocolate match
+5229,1,fiorella biscuit match
+5230,1,fiorella dubai chocolate match
+5231,1,fiorella dubai chocolate match
+5232,1,fiorella dubai chocolate match
+5233,1,burgundy earring match
+5234,1,burgundy earring match
+5235,1,burgundy earring match
+5236,1,burgundy earring match
+5237,1,burgundy earring match
+5238,1,brown hair dye match
+5239,1,brown hair dye match
+5240,1,brown hair dye match
+5241,1,brown hair dye match
+5242,1,brown hair dye match
+5243,1,davines hair mask match
+5244,1,davines hair mask match
+5245,1,davines hair mask match
+5246,1,davines hair mask match
+5247,0,hair dye not hair mask
+5248,1,pleated skirt match
+5249,1,pleated skirt match

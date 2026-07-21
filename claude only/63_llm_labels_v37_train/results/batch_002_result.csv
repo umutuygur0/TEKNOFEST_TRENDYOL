@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+700,1,samsung galaxy phone matches samsun/samsung query
+701,1,samsung galaxy phone matches samsun/samsung query
+702,1,samsung galaxy phone matches samsun/samsung query
+703,1,samsung galaxy phone matches samsun/samsung query
+704,1,samsung galaxy phone matches samsun/samsung query
+705,1,pilates resistance band
+706,1,pilates equipment set
+707,0,dinner plate not pilates
+708,0,dessert plate set not pilates
+709,1,weight plates for gym matches plates
+710,1,mont/coat matches montlar
+711,1,mont/coat matches montlar
+712,1,mont/coat matches montlar
+713,1,mont/coat matches montlar
+714,1,mont/coat matches montlar
+715,1,fular/scarf matches flar
+716,1,fular/scarf matches flar
+717,1,fular/scarf matches flar
+718,1,fular/scarf matches flar
+719,1,fular/scarf matches flar
+720,1,vacuum model name stratos matches strath
+721,0,water purifier unrelated brand coincidence
+722,0,watch brand unrelated to query
+723,0,watch brand unrelated to query
+724,0,medical strip unrelated
+725,1,door mat matches paspas
+726,1,door mat matches paspas
+727,1,door mat matches paspas
+728,1,door mat matches paspas
+729,1,door mat matches paspas
+730,1,wideleg jean pants match
+731,1,wideleg pants match
+732,1,wideleg jean pants match
+733,1,wideleg jean pants match
+734,1,wideleg jean pants match
+735,1,funko fortnite figure
+736,1,funko fortnite figure
+737,1,licensed fortnite toy gun
+738,0,minecraft ps4 game not fortnite
+739,1,licensed fortnite toy
+740,1,karışım kabı/container matches kab
+741,1,storage container matches kab
+742,1,kase/container matches kab
+743,1,kase/container matches kab
+744,1,mixing storage container matches kab
+745,1,bosch power tool brand match
+746,1,bosch tool accessory brand match
+747,1,bosch drill parts brand match
+748,1,bosch grinder brand match
+749,1,bosch drill brand match
+750,1,gymnastic trapeze swing
+751,1,trapeze bar swing
+752,1,trapeze bar swing
+753,1,trapeze bar swing
+754,1,trapeze wooden swing
+755,1,tigger plush character toy
+756,0,tiger watch brand not tigger character
+757,0,tiger watch brand not tigger character
+758,0,tiger watch brand not tigger character
+759,0,unrelated boot brand tugerdi
+760,1,skin cleanser gel matches cleanser
+761,1,cleanser lotion product
+762,1,cleanser gel product
+763,1,cleanser makeup remover gel
+764,0,nail surface cleanser not skin cleanser
+765,1,kartix phone case product line match
+766,1,kartix phone case product line match
+767,1,kartix phone case product line match
+768,0,card holder wrong brand/product
+769,0,card holder unrelated brand
+770,0,vacuum cleaner unrelated to nefeli
+771,0,quran stand unrelated to nefeli
+772,0,quran stand unrelated to nefeli
+773,0,book unrelated to nefeli
+774,0,wind instrument weak/unclear match
+775,1,friendship necklace matches arkadaşlık
+776,1,best friends necklace matches arkadaşlık
+777,1,best friends necklace matches arkadaşlık
+778,1,title says arkadaşlık kolyesi friendship necklace
+779,1,friendship necklace matches arkadaşlık
+780,1,men's coat matches erkekmont
+781,1,men's coat matches erkekmont
+782,1,men's coat matches erkekmont
+783,1,men's coat matches erkekmont
+784,1,men's coat matches erkekmont
+785,1,embroidery kit matches nakış
+786,1,embroidery kit matches nakış
+787,1,embroidery patch matches nakış
+788,1,embroidery fabric matches nakış
+789,1,embroidery fabric matches nakış
+790,0,gaming keyboard wrong brand ajazz not ajax
+791,0,gaming keyboard wrong brand ajazz not ajax
+792,0,gaming keyboard wrong brand ajazz not ajax
+793,0,gaming keyboard wrong brand ajazz not ajax
+794,0,gaming keyboard wrong brand ajazz not ajax
+795,1,adblue diesel emission fluid direct match
+796,0,car speaker unrelated to adblue
+797,0,obd diagnostic tool unrelated
+798,0,obd diagnostic tool unrelated
+799,0,air freshener device unrelated
+800,1,sodium nitrate chemical matches sodyum
+801,1,sodium percarbonate matches sodyum
+802,1,baking soda/carbonate matches sodyum
+803,1,sodium bicarbonate direct match
+804,1,washing soda sodium carbonate match
+805,1,steering wheel set matches direksiyon
+806,1,steering wheel set matches direksiyon
+807,1,logitech steering wheel matches direksiyon
+808,1,logitech steering wheel set matches direksiyon
+809,1,steering wheel set matches direksiyon
+810,1,brand baybay product match
+811,1,baybay branded drops product
+812,1,baybay branded drops product
+813,0,different brand baybaby wrong product type
+814,1,baybay branded sleep drops
+815,1,wardrobe matches gardırop
+816,1,wardrobe matches gardırop
+817,1,wardrobe matches gardırop
+818,1,wardrobe matches gardırop
+819,1,wardrobe matches gardırop
+820,1,meat bouillon matches bulyon
+821,1,chicken bouillon matches bulyon
+822,1,broth bouillon matches bulyon
+823,1,chicken bouillon powder matches bulyon
+824,1,chicken bouillon powder matches bulyon
+825,1,chips snack matches cips
+826,1,chips assortment matches cips
+827,1,pringles chips matches cips
+828,1,pringles chips matches cips
+829,1,pringles chips matches cips
+830,1,living room textile set matches salon
+831,1,living room carpet matches salon
+832,1,living room textile set matches salon
+833,1,living room textile set matches salon
+834,1,living room textile set matches salon
+835,1,voonka brand vitamin d
+836,1,voonka brand collagen
+837,1,voonka brand collagen
+838,1,voonka brand omega3
+839,1,voonka brand vitamin c
+840,1,tutu skirt matches tütü
+841,1,tutu skirt matches tütü
+842,1,tutu skirt matches tütü
+843,1,tutu skirt matches tütü
+844,1,tutu skirt matches tütü
+845,1,groot figure matches groot
+846,1,groot figure matches groot
+847,1,groot themed pot matches groot
+848,1,funko groot figure matches groot
+849,1,groot themed t-shirt matches groot
+850,1,playstation 5 matches ps
+851,1,playstation 5 matches ps
+852,1,playstation 5 matches ps
+853,1,playstation 3 matches ps
+854,1,playstation 5 matches ps
+855,1,jacket/ceket matches cejet
+856,1,jacket/ceket matches cejet
+857,1,jacket/ceket matches cejet
+858,1,jacket/ceket matches cejet
+859,1,jacket/ceket matches cejet
+860,1,tadıbu brand chocolate spread
+861,1,tadıbu brand chocolate spread
+862,1,tadıbu brand chocolate spread
+863,1,tadıbu bitter chocolate spread
+864,1,tadıbu brand chocolate spread combo
+865,1,garlic matches sarımsak
+866,1,black garlic matches sarımsak
+867,1,peeled garlic matches sarımsak
+868,1,granulated garlic matches sarımsak
+869,1,garlic powder matches sarımsak
+870,1,makeup highlighter matches highligter
+871,1,makeup highlighter matches highligter
+872,1,makeup highlighter matches highligter
+873,1,makeup highlighter matches highligter
+874,1,2in1 highlighter stick
+875,1,jute rug/mat matches jüt
+876,1,jute rope craft matches jüt
+877,1,jute rug matches jüt
+878,1,jute door mat matches jüt
+879,1,jute rug matches jüt
+880,0,wrong brand paşabahçe carafe not 24bottles
+881,0,water bottle pack wrong brand
+882,0,baby training cup wrong product
+883,0,competitor thermos wrong brand
+884,0,wrong brand paşabahçe bottle
+885,0,gift card not raffle item
+886,1,raffle drawing balls direct match
+887,0,gift box not raffle item
+888,0,gift snow globe not raffle item
+889,0,gift snow globe not raffle item
+890,1,bidet valve matches taharet
+891,1,bidet shower matches taharet
+892,1,bidet tap matches taharet
+893,1,bidet shattaf matches taharet
+894,1,bidet tap matches taharet
+895,1,how to train your dragon figure
+896,1,dragon keychain matches ejderha
+897,1,dragon figure set matches ejderha
+898,1,dragon figure set matches ejderha
+899,1,dragon toothless figure matches ejderha
+900,0,wax product wrong brand not soft99
+901,0,scarf unrelated to soft99
+902,0,scarf unrelated to soft99
+903,0,carpet unrelated to soft99
+904,0,perfume unrelated to soft99
+905,1,babybjörn baby carrier direct brand match
+906,1,babybjörn baby carrier direct brand match
+907,1,babybjörn baby lounger direct brand match
+908,1,babybjörn baby carrier direct brand match
+909,1,babybjörn baby lounger direct brand match
+910,0,dishwasher wrong brand altus not arçelik
+911,1,arçelik refrigerator direct brand match
+912,1,arçelik food processor direct brand match
+913,1,arçelik coffee maker direct brand match
+914,1,arçelik coffee maker direct brand match
+915,1,rabbit plush toy matches rabbit
+916,1,rabbit family playset matches rabbit
+917,0,yarn product line name only weak match
+918,1,rabbit themed plush rug
+919,1,rabbit themed plush rug
+920,0,office desk unclear match to kuletaş
+921,0,office desk unclear match to kuletaş
+922,0,office furniture set unclear match to kuletaş
+923,0,office furniture set unclear match to kuletaş
+924,0,desk unclear match to kuletaş
+925,1,bee'o brand propolis drops
+926,1,bee'o brand propolis
+927,1,bee'o brand propolis drops
+928,1,bee'o brand propolis drops
+929,1,bee'o brand propolis drops
+930,1,bbq serving item matches barbekü
+931,1,bbq set matches barbekü
+932,1,charcoal bbq grill matches barbekü
+933,1,gas bbq grill matches barbekü
+934,1,gas bbq grill matches barbekü
+935,1,catalytic converter matches katalizör
+936,1,catalytic converter matches katalizör
+937,1,catalytic system cleaner related to katalizör
+938,1,catalytic system cleaner related to katalizör
+939,1,catalytic system cleaner related to katalizör
+940,1,oneplus phone case likely matches onetick/oneplus
+941,0,label roll unrelated
+942,0,office folder unrelated
+943,1,oneplus phone case likely matches onetick/oneplus
+944,0,lint remover unrelated
+945,1,bracelet set matches bileklikler
+946,1,bracelet matches bileklikler
+947,1,bracelet matches bileklikler
+948,1,bracelet combo matches bileklikler
+949,1,bracelet set matches bileklikler
+950,0,g-star raw jeans wrong brand not dsquared2
+951,0,g-star raw jeans wrong brand not dsquared2
+952,0,g-star raw pants wrong brand not dsquared2
+953,0,jack&jones sweatshirt wrong brand
+954,0,dqmane shirt wrong brand not dsquared2
+955,1,rebul brand cologne direct match
+956,1,rebul brand cologne direct match
+957,1,rebul brand cologne direct match
+958,1,rebul brand cologne direct match
+959,1,rebul brand cologne direct match
+960,1,jk20 brand motorcycle helmet
+961,1,jk20 brand motorcycle helmet
+962,1,jk20 brand motorcycle helmet
+963,1,jk20 brand motorcycle helmet
+964,1,jk20 brand motorcycle helmet
+965,1,title names rapala fishing lure
+966,1,rapala brand fishing lure direct match
+967,1,title names rapala fishing lure
+968,1,title names rapala fishing lure
+969,1,title names rapala max rap lure
+970,0,wrong brand özsultan not öztiryakiler
+971,0,wrong brand özkent not öztiryakiler
+972,0,wrong brand my zey not öztiryakiler
+973,0,olive oil wrong brand not öztiryakiler
+974,0,rice wrong brand not öztiryakiler
+975,1,pelin aksesuar brand earring
+976,1,pelin aksesuar brand necklace
+977,1,pelin aksesuar brand earring
+978,1,pelin aksesuar brand necklace
+979,1,pelin aksesuar brand earring
+980,1,chalk matches tebeşir
+981,1,washable chalk matches tebeşir
+982,1,chalk box matches tebeşir
+983,1,washable chalk matches tebeşir
+984,1,chalk box matches tebeşir
+985,1,title says shaving machine matches traş
+986,1,hair/beard/body shaver matches traş
+987,1,shaver matches traş
+988,1,shaver matches traş
+989,1,shaver matches traş
+990,1,silver necklace matches gümüş
+991,1,silver bracelet matches gümüş
+992,1,silver bracelet matches gümüş
+993,1,silver jewelry set matches gümüş
+994,1,silver jewelry set matches gümüş
+995,1,müslüm gürses vinyl record
+996,1,müslüm gürses vinyl record
+997,1,müslüm gürses titled vinyl record
+998,1,müslüm gürses wall art set
+999,1,müslüm gürses poster
+1000,1,squishy toy matches skuşi
+1001,1,squishy toy matches skuşi
+1002,1,squishy toy matches skuşi
+1003,1,squishy toy matches skuşi
+1004,1,squishy toy matches skuşi
+1005,1,grinder tool matches taşlama
+1006,1,grinder tool matches taşlama
+1007,1,grinder tool matches taşlama
+1008,1,grinder tool matches taşlama
+1009,1,grinder tool matches taşlama
+1010,0,leather belt unclear match to gaye
+1011,0,hat product unclear match to gaye
+1012,0,leather belt set unclear match to gaye
+1013,0,dress unclear match to gaye
+1014,1,brand name gaye ev tekstili direct match
+1015,1,chest of drawers matches şifınyer/şifonyer
+1016,1,chest of drawers matches şifınyer/şifonyer
+1017,1,chest of drawers matches şifınyer/şifonyer
+1018,1,chest of drawers matches şifınyer/şifonyer
+1019,1,chest of drawers matches şifınyer/şifonyer
+1020,1,smallrig brand tripod direct match
+1021,0,dji drone accessory wrong brand
+1022,0,tablet case unrelated
+1023,0,pet cage unrelated
+1024,1,smallrig brand led light direct match
+1025,1,tenda brand router direct match
+1026,1,tenda brand range extender direct match
+1027,1,tenda brand modem router direct match
+1028,1,tenda brand mobile wifi router direct match
+1029,1,tenda brand modem direct match
+1030,1,nike pegasus running shoe direct match
+1031,1,nike pegasus running shoe direct match
+1032,1,nike pegasus running shoe direct match
+1033,0,pegasus plush toy not the nike shoe
+1034,0,pajama set named pegasus not the shoe
+1035,1,file tool set matches eğe
+1036,1,file tool matches eğe
+1037,1,file tool matches eğe
+1038,1,file tool matches eğe
+1039,1,file tool matches eğe
+1040,1,tamtur ring style direct match
+1041,1,tamtur ring style direct match
+1042,1,tamtur ring style direct match
+1043,1,tamtur ring style direct match
+1044,1,tamtur ring style direct match
+1045,1,insta360 brand camera accessory
+1046,1,insta360 brand action camera
+1047,1,insta360 brand mount accessory
+1048,1,insta360 brand action camera
+1049,1,insta360 brand camera kit

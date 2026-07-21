@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+9100,1,generic kulp query matches furniture handle product
+9101,1,furniture handle matches generic query
+9102,1,furniture handle matches generic query
+9103,1,furniture handle matches generic query
+9104,0,gender listed kadin but query wants erkek jacket
+9105,0,gender listed kadin but query wants erkek jacket
+9106,1,erkek spor ceket matches gender and category
+9107,1,title explicitly says erkek spor ceket
+9108,1,title explicitly says erkek spor ceket
+9109,1,generic hediyelik set query matches gift set
+9110,1,generic hediyelik set query matches gift set
+9111,1,generic hediyelik set query matches gift set
+9112,1,generic hediyelik set query matches gift set
+9113,1,generic hediyelik set query matches gift set
+9114,1,boya seti matches generic query
+9115,1,boya seti matches generic query
+9116,1,boya seti matches generic query
+9117,1,boya seti matches generic query
+9118,1,boya seti matches generic query
+9119,1,oysho brand tank top matches
+9120,1,oysho tank top titled product
+9121,1,oysho tank top titled product
+9122,1,oysho tank top titled product
+9123,1,oysho tank top titled product
+9124,1,decathlon house brand quechua t-shirt
+9125,1,decathlon t-shirt matches
+9126,1,decathlon t-shirt kids variant
+9127,1,decathlon house brand domyos t-shirt
+9128,1,decathlon t-shirt kids variant
+9129,1,fitness gym station matches generic query
+9130,1,gym station matches
+9131,1,pilates station is a workout station type
+9132,1,weight station matches
+9133,1,cable crossover station matches
+9134,0,wrong brand bahels not biggdesign
+9135,0,wrong brand spoyi not biggdesign
+9136,0,wrong brand bigpoint not biggdesign
+9137,0,wrong brand bigotti not biggdesign
+9138,0,wrong brand bagzone not biggdesign
+9139,1,2026 kpss paragraf book matches
+9140,1,kpss paragraf book matches
+9141,1,kpss paragraf book matches
+9142,1,kpss paragraf book covering multiple exams incl kpss
+9143,1,kpss paragraf book 2025 edition still relevant
+9144,1,oval sandalye kilifi matches exactly
+9145,1,oval sandalye kilifi matches
+9146,1,oval sandalye kilifi matches
+9147,1,oval sandalye kilifi matches
+9148,1,oval sandalye kilifi matches
+9149,1,hazir sistem pc matches
+9150,1,hazir sistem pc matches
+9151,1,hazir sistem pc matches
+9152,1,hazir sistem pc office variant still prebuilt pc
+9153,1,hazir sistem pc matches
+9154,1,simli far paleti matches
+9155,1,simli far paleti matches
+9156,1,simli far paleti matches
+9157,1,simli far paleti matches
+9158,1,simli ve mat far matches
+9159,1,sarjli agac kesme motoru matches
+9160,1,sarjli agac kesme motoru matches
+9161,0,benzinli gasoline not sarjli battery as query requires
+9162,1,sarjli agac kesme motoru matches
+9163,1,sarjli agac kesme motoru matches
+9164,1,profilo buzdolabi matches
+9165,1,profilo buzdolabi matches
+9166,1,profilo buzdolabi matches
+9167,1,profilo buzdolabi matches
+9168,1,profilo buzdolabi matches
+9169,1,fissler vitavit premium matches
+9170,1,fissler vitavit premium matches
+9171,1,fissler vitavit premium matches
+9172,1,fissler vitavit premium matches
+9173,1,fissler vitavit premium matches
+9174,0,foosball table langirt not a board game
+9175,0,foosball table langirt not a board game
+9176,0,foosball toy langirt not a board game
+9177,1,monopoly board game matches
+9178,1,twister box game matches
+9179,1,pest killer targeting silverfish type pests
+9180,1,explicitly lists gumus bocegi as target pest
+9181,1,explicitly lists gumus bocegi as target pest
+9182,1,explicitly lists gumus bocegi as target pest
+9183,1,hasere ilaci targeting silverfish pests
+9184,1,emsan brand cutlery set matches
+9185,1,emsan brand cutlery set matches
+9186,1,emsan brand cutlery set matches
+9187,1,emsan brand cutlery set matches
+9188,1,emsan brand cutlery set matches
+9189,1,altin metal dedektor matches
+9190,1,altin dedektor matches
+9191,1,altin metal dedektor matches
+9192,1,altin dedektor matches
+9193,1,altin dedektoru matches
+9194,1,beyaz servis tabagi matches
+9195,1,beyaz servis tabagi matches
+9196,1,beyaz servis tabagi matches
+9197,1,beyaz servis tabagi matches
+9198,1,beyaz servis tabagi matches exactly
+9199,1,generic yazici query printer matches
+9200,1,printer matches
+9201,1,printer matches
+9202,1,printer matches
+9203,1,printer matches
+9204,1,arcelik davlumbaz matches
+9205,1,arcelik davlumbaz matches
+9206,1,arcelik davlumbaz matches
+9207,1,arcelik davlumbaz matches
+9208,1,arcelik davlumbaz matches
+9209,1,kpss turkce deneme matches
+9210,1,kpss turkce deneme matches
+9211,1,kpss turkce deneme matches
+9212,1,kpss turkce deneme matches
+9213,1,kpss turkce deneme 2025 still relevant
+9214,1,love themed classic novel matches generic query
+9215,1,love themed book matches
+9216,1,love themed classic novel matches
+9217,1,book about romantic love matches thematic query
+9218,1,love themed prose poetry matches
+9219,1,filografi malzemesi matches
+9220,1,filografi malzemesi matches
+9221,1,filografi malzemesi matches
+9222,1,filografi malzemesi matches
+9223,1,filografi malzemesi matches
+9224,1,coffee cup fincan set matches likely intended query
+9225,1,coffee cup set matches
+9226,1,coffee cup set matches
+9227,1,coffee cup set matches
+9228,1,coffee cup set matches
+9229,1,iyot damla matches
+9230,1,iyot damla matches
+9231,1,iyot damla matches
+9232,1,iyot damla matches
+9233,1,iyot damla matches
+9234,1,evmila tek kisilik pike takimi matches
+9235,1,evmila pike takimi matches
+9236,1,evmila pike takimi matches
+9237,1,evmila pike takimi matches
+9238,1,evmila pike takimi matches
+9239,1,dikdortgen saklama kabi matches
+9240,1,dikdortgen saklama kabi matches
+9241,1,dikdortgen saklama kabi matches
+9242,1,dikdortgen saklama kabi matches
+9243,1,dikdortgen saklama kabi matches
+9244,0,billiard cue istaka is an accessory not the table
+9245,1,billiard style table product size matches table
+9246,0,wall sticker with billiard design not a table
+9247,0,cue shaft accessory not the table
+9248,0,cue tip accessory not the table
+9249,1,couple watch set matches
+9250,1,couple watch set matches
+9251,1,couple watch set matches
+9252,1,couple watch set matches
+9253,1,couple watch set matches
+9254,1,asus mouse matches
+9255,1,asus mouse matches
+9256,1,asus mouse matches
+9257,1,asus mouse matches
+9258,1,asus mouse matches
+9259,1,daiwa brand fishing reel matches
+9260,1,daiwa fishing reel matches
+9261,1,daiwa fishing rod brand match
+9262,1,daiwa fishing reel matches
+9263,1,daiwa fishing reel matches
+9264,1,clio far paleti matches
+9265,1,clio far paleti matches
+9266,1,clio far paleti matches
+9267,1,clio far paleti mini variant matches
+9268,1,clio far paleti matches
+9269,1,exact wonder rose zara perfume match
+9270,1,wonder rose included in bundle product
+9271,0,different zara perfume variant mystic rose
+9272,0,different zara perfume variant rose gourmand
+9273,0,different zara perfume unrelated name
+9274,1,vans sweatshirt matches
+9275,1,vans sweatshirt matches
+9276,1,vans sweatshirt matches
+9277,1,vans sweatshirt matches
+9278,1,vans sweatshirt matches
+9279,1,madamra el cantasi matches
+9280,1,madamra el cantasi matches
+9281,1,madamra el ve omuz cantasi matches
+9282,1,madamra el ve omuz cantasi matches
+9283,1,madamra el cantasi matches
+9284,1,biskuvi kremasi spread matches
+9285,1,biskuvi kremasi spread matches
+9286,0,oreo sandwich cookies not a cream spread jar
+9287,0,biscoff sandwich cookies not a jar cream spread
+9288,1,biscoff spreadable cream matches
+9289,1,tabak rafi matches
+9290,1,tabak rafi matches
+9291,1,tabaklik rafi matches
+9292,1,tabaklik tabak standi matches
+9293,1,tabaklik rafi matches
+9294,1,atelier rebul kolonya matches
+9295,1,atelier rebul kolonya matches
+9296,1,atelier rebul kolonya matches
+9297,0,reed diffuser room fragrance not cologne
+9298,0,room spray not cologne
+9299,1,haki khaki vest matches
+9300,1,haki khaki vest matches
+9301,0,tactical hunting vest no khaki color specified
+9302,0,generic vest no khaki color specified
+9303,0,tactical hunting vest no khaki color specified
+9304,1,hali hurcu matches exactly
+9305,1,hali hurcu matches
+9306,1,hali hurcu matches
+9307,1,hali hurcu matches
+9308,1,hali hurcu matches
+9309,1,soz nisan hediyelik candle favor matches
+9310,1,soz nisan hediyelik candle favor matches
+9311,1,soz nisan hediyelik candle favor matches
+9312,1,soz nisan hediyelik candle favor matches
+9313,1,soz nisan hediyelik candle favor matches
+9314,1,vatandaslik soru bankasi kpss matches
+9315,1,vatandaslik soru bankasi matches
+9316,1,vatandaslik soru bankasi matches
+9317,1,vatandaslik soru notlari set matches
+9318,1,vatandaslik soru bankasi matches
+9319,1,mutfak dekorasyon wall art matches
+9320,1,mutfak dekorasyon poster matches
+9321,1,mutfak dekorasyon duvar dekoru matches
+9322,1,mutfak duvar tablosu matches
+9323,1,mutfak konsepti dekor set matches
+9324,1,et kiyma makinasi matches
+9325,1,et kiyma makinasi manual variant matches
+9326,1,et kiyma makinesi title match despite miscategorized listing
+9327,1,et kiyma makinesi matches
+9328,1,et kiyma makinasi matches
+9329,1,yosun peeling matches
+9330,1,yosun ingredient peeling mentioned in title
+9331,1,yosun ozlu peeling scrub matches
+9332,0,yosun kil maskesi is a mask not a peeling product
+9333,0,yosun kil maskesi is a mask not a peeling product
+9334,1,nike branded glove matches
+9335,1,nike branded glove matches
+9336,1,nike branded glove matches
+9337,1,nike branded running glove matches
+9338,1,nike branded fitness glove matches
+9339,1,salon saksi matches
+9340,1,salon saksi matches
+9341,1,salon saksi matches
+9342,1,saksi planter matches despite category error
+9343,1,salon saksi matches
+9344,1,makita matkap drill matches
+9345,0,makita vidalama driver not a matkap drill
+9346,0,makita vidalama driver not a matkap drill
+9347,1,makita matkap drill matches
+9348,1,makita matkap vidalama combo includes drill
+9349,1,fitilli kadife ceket matches
+9350,0,plain kadife ceket no fitilli ribbed detail
+9351,0,gabardine jacket with only fitilli kadife collar trim not full corduroy jacket
+9352,1,fitilli kadife ceket matches
+9353,1,fitilli kadife ceket matches
+9354,1,arzum blender whisk replacement part matches
+9355,1,arzum blender whisk replacement part matches
+9356,1,arzum blender whisk replacement part matches
+9357,1,arzum blender whisk replacement part matches
+9358,1,arzum blender whisk replacement part matches
+9359,1,falken lastik matches
+9360,1,falken lastik matches
+9361,1,falken lastik matches
+9362,1,falken lastik matches
+9363,1,falken lastik matches
+9364,1,erkek gunluk ayakkabi matches
+9365,1,erkek gunluk ayakkabi matches
+9366,1,erkek gunluk ayakkabi matches
+9367,1,erkek gunluk ayakkabi matches
+9368,1,erkek gunluk ayakkabi matches
+9369,1,dunya kupasi 2026 tasarim futbol topu matches
+9370,1,dunya kupasi 2026 tasarim futbol topu matches
+9371,0,uefa sampiyonlar ligi topu not world cup themed
+9372,1,dunya kupasi ozel tasarim futbol topu matches
+9373,0,uefa sampiyonlar ligi topu not world cup themed
+9374,1,mini dalin baby cologne matches likely intended query
+9375,1,dalin brand baby product matches
+9376,1,dalin baby oil cologne set matches
+9377,0,dalin laundry detergent unrelated product type
+9378,0,wrong brand round lab not dalin
+9379,1,hasir sepet matches
+9380,1,hasir sepet title matches
+9381,1,hasir sepet matches
+9382,1,hasir sepet matches
+9383,1,hasir sepet matches
+9384,0,wrong brand rafiel not lucina
+9385,1,lucina brand baby bag matches
+9386,1,lucina brand baby bag matches
+9387,0,wrong brand lui baby not lucina
+9388,0,wrong brand lui baby not lucina
+9389,1,kurk fur matches title
+9390,1,kadin kurk mont matches
+9391,1,kadin kurk mont suni kurk matches
+9392,1,kadin kurk kaban matches
+9393,1,kadin kurk mont matches
+9394,1,tamer tanca loafer matches
+9395,1,tamer tanca loafer matches
+9396,1,tamer tanca loafer matches
+9397,1,tamer tanca loafer matches
+9398,1,tamer tanca loafer matches
+9399,1,avize ampulu candle bulb matches
+9400,1,avize ampulu matches
+9401,1,avize ampulu matches
+9402,1,avize candle bulb matches
+9403,1,mum ampul e14 matches avize ampulu
+9404,1,puma erkek ayakkabisi matches
+9405,1,puma erkek ayakkabisi matches
+9406,1,puma erkek sneaker matches
+9407,1,puma erkek sneaker matches
+9408,1,puma erkek sneaker matches
+9409,1,camasir kurutma asisi matches
+9410,1,camasir kurutmalik matches
+9411,1,camasir kurutmalik matches
+9412,1,camasir kurutma rack matches
+9413,1,camasir kurutma askiligi matches
+9414,1,kahve fon perde matches
+9415,1,kahve fon perde matches
+9416,1,kahve fon perde matches
+9417,1,kahve fon perde matches
+9418,1,kahve fon perde matches
+9419,1,siemens buzdolabi matches
+9420,1,siemens buzdolabi matches
+9421,1,siemens buzdolabi matches
+9422,1,siemens buzdolabi matches
+9423,1,siemens buzdolabi matches
+9424,1,p9 model kulaklik matches
+9425,1,p9 model kulaklik matches
+9426,1,p9 model kulaklik matches
+9427,1,p9 plus kulaklik matches
+9428,1,p9 plus kulaklik matches
+9429,0,only 3 stools not 6 as query requires
+9430,0,only 4 stools not 6 as query requires
+9431,0,only 4 stools not 6 as query requires
+9432,0,only 4 stools not 6 as query requires
+9433,0,only 4 stools not 6 as query requires
+9434,1,kucuk tencere small pot matches
+9435,1,kucuk tencere seti matches
+9436,1,kucuk tencere single pot matches
+9437,1,kucuk tencere seti matches
+9438,1,kucuk tencere seti matches
+9439,1,ocean methyl b12 product matches
+9440,1,ocean methyl b12 product matches
+9441,1,ocean methyl b12 product matches
+9442,1,ocean methyl b12 product matches
+9443,1,ocean methyl b12 product matches
+9444,1,sicak cikolata matches
+9445,1,sicak cikolata matches
+9446,1,sicak cikolata matches
+9447,1,sicak cikolata matches
+9448,1,sicak cikolata matches
+9449,1,erkek sac tarak comb matches

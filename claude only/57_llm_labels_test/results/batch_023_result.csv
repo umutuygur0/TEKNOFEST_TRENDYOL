@@ -1,0 +1,351 @@
+pair_id,verdict,reason
+8050,1,pike ev tekstili eşleşiyor
+8051,1,pike ev tekstili eşleşiyor
+8052,1,pike ev tekstili eşleşiyor
+8053,1,pike ev tekstili eşleşiyor
+8054,1,pike ev tekstili eşleşiyor
+8055,1,yurudesign tv sehpa eşleşiyor
+8056,1,yurudesign tv sehpa eşleşiyor
+8057,1,yurudesign tv sehpa eşleşiyor
+8058,1,yurudesign tv sehpa eşleşiyor
+8059,1,yurudesign tv sehpa eşleşiyor
+8060,1,akvaryum aydınlatması eşleşiyor
+8061,1,akvaryum aydınlatması eşleşiyor
+8062,1,akvaryum aydınlatması eşleşiyor
+8063,1,akvaryum aydınlatması eşleşiyor
+8064,1,akvaryum aydınlatması eşleşiyor
+8065,1,mustela stelatopia atopik ürünü
+8066,1,mustela stelatopia atopik cilt bariyeri
+8067,0,mustela ama pişik kremi - atopik değil
+8068,0,cetaphil marka - mustela değil
+8069,0,thalia marka - mustela değil
+8070,1,pandora gümüş küpe eşleşiyor
+8071,1,pandora gümüş küpe eşleşiyor
+8072,1,pandora gümüş küpe eşleşiyor
+8073,1,pandora gümüş küpe eşleşiyor
+8074,1,pandora gümüş küpe eşleşiyor
+8075,1,maymun anahtarlık eşleşiyor
+8076,1,maymun anahtarlık eşleşiyor
+8077,1,maymun anahtarlık eşleşiyor
+8078,1,peluş maymun anahtarlık eşleşiyor
+8079,0,tom&jerry anahtarlık - maymun değil
+8080,1,kinetix marka ayakkabı eşleşiyor
+8081,1,kinetix marka ayakkabı eşleşiyor
+8082,1,kinetix marka ayakkabı eşleşiyor
+8083,1,kinetix marka ayakkabı eşleşiyor
+8084,1,kinetix marka ayakkabı eşleşiyor
+8085,1,bisiklet sticker seti eşleşiyor
+8086,1,bisiklet dahil araç sticker seti
+8087,1,bisiklet dahil sticker seti
+8088,0,tekli oto sticker - bisiklet için set değil
+8089,0,tekli oto sticker - bisiklet için set değil
+8090,1,cep feneri eşleşiyor
+8091,1,cep feneri eşleşiyor
+8092,1,cep feneri eşleşiyor
+8093,1,cep feneri eşleşiyor
+8094,1,cep feneri eşleşiyor
+8095,1,ocak üstü tost makinası eşleşiyor
+8096,1,ocak üstü tost makinası eşleşiyor
+8097,1,ocak üstü tost makinası eşleşiyor
+8098,1,ocak üstü tost makinası eşleşiyor
+8099,1,ocak üstü tost makinası eşleşiyor
+8100,1,oje kurutucu sprey eşleşiyor
+8101,1,oje kurutucu sprey eşleşiyor
+8102,1,oje kurutucu sprey eşleşiyor
+8103,1,oje kurutucu sprey eşleşiyor
+8104,1,oje kurutucu sprey eşleşiyor
+8105,0,metal boya - çamsan parke değil
+8106,0,metal boya - çamsan parke değil
+8107,0,iç cephe boyası - parke değil
+8108,0,iç cephe boyası - parke değil
+8109,0,metal boyası - parke değil
+8110,1,dalin şampuan eşleşiyor
+8111,1,dalin şampuan eşleşiyor
+8112,1,dalin şampuan eşleşiyor
+8113,1,dalin şampuan eşleşiyor
+8114,1,dalin bebek şampuanı eşleşiyor
+8115,1,70mai araç kamerası eşleşiyor
+8116,1,70mai araç içi kamera eşleşiyor
+8117,0,samsung telefon parçası - 70mai değil
+8118,0,alfa romeo arıza cihazı - ilgisiz
+8119,0,polen filtresi - ilgisiz
+8120,1,logitech kablosuz klavye eşleşiyor
+8121,1,logitech kablosuz klavye eşleşiyor
+8122,1,logitech kablosuz klavye eşleşiyor
+8123,1,logitech kablosuz klavye eşleşiyor
+8124,1,logitech kablosuz klavye eşleşiyor
+8125,1,eğitici çocuk kitabı eşleşiyor
+8126,1,eğitici etkinlik kitabı eşleşiyor
+8127,1,eğitici kitap seti eşleşiyor
+8128,1,eğitici etkinlik kitapları eşleşiyor
+8129,1,eğitici etkinlik kitabı eşleşiyor
+8130,1,stanley 1.9l termos eşleşiyor
+8131,0,0.35l termos - kapasite uyuşmuyor
+8132,1,stanley 1.9 litre termos eşleşiyor
+8133,0,1.18l termos - kapasite uyuşmuyor
+8134,0,1.18l tumbler - kapasite uyuşmuyor
+8135,1,wee baby emzik eşleşiyor
+8136,1,wee baby emzik eşleşiyor
+8137,1,wee baby emzik eşleşiyor
+8138,1,wee baby emzik eşleşiyor
+8139,1,wee baby emzik eşleşiyor
+8140,1,çatı medikal iş kıyafeti eşleşiyor
+8141,1,çatı medikal iş kıyafeti eşleşiyor
+8142,1,çatı medikal iş kıyafeti eşleşiyor
+8143,1,çatı medikal iş kıyafeti eşleşiyor
+8144,1,çatı medikal iş kıyafeti eşleşiyor
+8145,1,kadın polo yaka tişört eşleşiyor
+8146,1,kadın polo yaka tişört eşleşiyor
+8147,1,kadın polo yaka tişört eşleşiyor
+8148,1,kadın polo yaka tişört eşleşiyor
+8149,1,kadın polo yaka tişört eşleşiyor
+8150,1,adidas erkek eşofman takımı eşleşiyor
+8151,1,adidas erkek eşofman takımı eşleşiyor
+8152,1,adidas erkek eşofman takımı eşleşiyor
+8153,1,adidas erkek eşofman takımı eşleşiyor
+8154,1,adidas erkek eşofman takımı eşleşiyor
+8155,0,oppo reno kılıfı - realme değil
+8156,0,realme 11 pro plus kılıfı - model uyuşmuyor
+8157,1,uyumlu model realme 12 lite belirtilmiş
+8158,1,uyumlu model realme 12 lite belirtilmiş
+8159,0,samsung galaxy a81 kılıfı - ilgisiz
+8160,1,kamyon leo karakteri eşleşiyor
+8161,0,leon oyuncak kamyon - leo değil
+8162,0,chevy model araba - leo ile ilgisiz
+8163,0,chevrolet model araba - leo ile ilgisiz
+8164,0,ford mustang model araba - leo ile ilgisiz
+8165,1,rscollections avize eşleşiyor
+8166,1,rscollections avize eşleşiyor
+8167,1,rscollections avize eşleşiyor
+8168,1,rscollections avize eşleşiyor
+8169,1,rscollections avize eşleşiyor
+8170,1,taş rengi trençkot eşleşiyor
+8171,1,taş rengi trençkot eşleşiyor
+8172,1,taş rengi trençkot eşleşiyor
+8173,1,taş rengi trençkot eşleşiyor
+8174,1,taş rengi trençkot eşleşiyor
+8175,1,kırmızı hırka eşleşiyor
+8176,1,kırmızı hırka eşleşiyor
+8177,1,kırmızı hırka eşleşiyor
+8178,1,kırmızı hırka eşleşiyor
+8179,1,kırmızı hırka eşleşiyor
+8180,1,trendline köpek maması eşleşiyor
+8181,1,trendline köpek maması eşleşiyor
+8182,1,trendline köpek maması eşleşiyor
+8183,1,trendline köpek maması eşleşiyor
+8184,1,trendline köpek maması eşleşiyor
+8185,0,honor pad x9 kılıfı - pad 9 değil
+8186,0,honor pad x9a kılıfı - pad 9 değil
+8187,0,honor pad x9 kılıfı - pad 9 değil
+8188,0,honor pad x9 kılıfı - pad 9 değil
+8189,0,honor pad x9 kılıfı - pad 9 değil
+8190,1,gs galatasaray tesbih eşleşiyor
+8191,1,gs galatasaray tesbih eşleşiyor
+8192,1,galatasaray temalı tesbih eşleşiyor
+8193,0,galatasaray teması yok - genel tesbih
+8194,0,galatasaray teması yok - genel tesbih
+8195,0,renault clio 3 paspas - clio 4 değil
+8196,0,renault clio hb paspas - clio 4 değil
+8197,0,renault clio 3 paspas - clio 4 değil
+8198,0,renault clio 2 paspas - clio 4 değil
+8199,1,clio 4 dönemine uygun stop çıtası
+8200,1,çift kişilik karyola eşleşiyor
+8201,1,çift kişilik karyola eşleşiyor
+8202,1,çift kişilik karyola eşleşiyor
+8203,1,çift kişilik karyola eşleşiyor
+8204,1,çift kişilik karyola eşleşiyor
+8205,1,columbia erkek mont eşleşiyor
+8206,1,columbia erkek mont eşleşiyor
+8207,1,columbia erkek mont eşleşiyor
+8208,1,columbia erkek mont eşleşiyor
+8209,1,columbia erkek mont eşleşiyor
+8210,1,kiraz küpe eşleşiyor
+8211,1,kiraz küpe eşleşiyor
+8212,1,kiraz küpe eşleşiyor
+8213,1,kiraz küpe eşleşiyor
+8214,1,kiraz küpe eşleşiyor
+8215,1,guess bot eşleşiyor
+8216,1,guess bot eşleşiyor
+8217,1,guess bot eşleşiyor
+8218,1,guess bot eşleşiyor
+8219,1,guess bot eşleşiyor
+8220,1,biyotik yayınları ayt biyoloji eşleşiyor
+8221,0,farklı yayınevi ve ders - kimya
+8222,0,farklı yayınevi ve ders - fizik
+8223,0,farklı yayınevi - biyotik değil
+8224,0,farklı yayınevi - biyotik değil
+8225,1,kadın yazlık pantolon eşleşiyor
+8226,1,kadın yazlık pantolon eşleşiyor
+8227,1,kadın yazlık pantolon eşleşiyor
+8228,1,kadın yazlık pantolon eşleşiyor
+8229,1,kadın yazlık pantolon eşleşiyor
+8230,1,7 sınıf test kitabı eşleşiyor
+8231,1,7 sınıf test kitabı eşleşiyor
+8232,1,7 sınıf test kitabı eşleşiyor
+8233,1,7 sınıf test kitabı eşleşiyor
+8234,1,7 sınıf test kitabı eşleşiyor
+8235,1,dermodicos plus krem eşleşiyor
+8236,0,dermoskin marka - dermodicos değil
+8237,0,bioderma marka - dermodicos değil
+8238,0,dermacol marka - dermodicos değil
+8239,0,bepanthol marka - dermodicos değil
+8240,1,rich gömlek eşleşiyor
+8241,0,ramsey marka - rich değil
+8242,1,rich gömlek eşleşiyor
+8243,1,rich gömlek eşleşiyor
+8244,1,rich gömlek eşleşiyor
+8245,1,küçük plastik kutu eşleşiyor
+8246,0,küçük prens temalı ürün - kutu değil
+8247,0,ahşap poşetlik - kutu değil
+8248,0,çatal iğne ürünü - kutu değil
+8249,0,led lamba - kutu değil
+8250,1,emporio armani stronger with you eşleşiyor
+8251,1,emporio armani stronger with you eşleşiyor
+8252,0,miskhane taklit ürün - orijinal marka değil
+8253,0,lulapi taklit ürün - orijinal marka değil
+8254,0,jimmy choo farklı ürün
+8255,1,mini fosforlu kalem eşleşiyor
+8256,1,mini fosforlu kalem eşleşiyor
+8257,1,mini fosforlu kalem eşleşiyor
+8258,1,mini fosforlu kalem eşleşiyor
+8259,1,mini fosforlu kalem eşleşiyor
+8260,1,grat marka ürün eşleşiyor
+8261,1,grat marka ürün eşleşiyor
+8262,1,grat marka ürün eşleşiyor
+8263,1,grat marka ürün eşleşiyor
+8264,0,hopeway home marka - grat değil
+8265,1,eşofman takımı eşleşiyor
+8266,1,eşofman takımı eşleşiyor
+8267,1,eşofman takımı eşleşiyor
+8268,1,eşofman takımı eşleşiyor
+8269,1,eşofman takımı eşleşiyor
+8270,1,pampas vazosu eşleşiyor
+8271,1,pampas vazosu eşleşiyor
+8272,1,pampas vazosu eşleşiyor
+8273,1,pampas vazosu eşleşiyor
+8274,1,pampas vazosu eşleşiyor
+8275,1,erkek uzun kollu tişört eşleşiyor
+8276,0,kadın çocuk ürünü - erkek değil
+8277,1,erkek uzun kollu tişört eşleşiyor
+8278,0,kısa kollu ürün - uzun kol değil
+8279,0,kol boyu belirtilmemiş - uzun kol garantisi yok
+8280,1,dolap sticker eşleşiyor
+8281,1,dolap sticker eşleşiyor
+8282,1,dolap kaplama folyo sticker eşleşiyor
+8283,1,dolap sticker eşleşiyor
+8284,1,dolap sticker eşleşiyor
+8285,0,g46 parfüm kodu - g102 değil
+8286,0,psu ürünü - g102 ile ilgisiz
+8287,0,farklı parfüm kodu - g102 değil
+8288,0,farklı parfüm kodu - g102 değil
+8289,0,farklı parfüm - g102 ile ilgisiz
+8290,1,banyo seti lavabo aksesuarı eşleşiyor
+8291,1,mermer banyo seti eşleşiyor
+8292,0,çöp kovası seti - lavabo seti değil
+8293,1,banyo seti eşleşiyor
+8294,1,mermer banyo seti eşleşiyor
+8295,1,dezenfektan eşleşiyor
+8296,1,dezenfektan eşleşiyor
+8297,1,dezenfektan eşleşiyor
+8298,1,dezenfektan eşleşiyor
+8299,1,dezenfektan eşleşiyor
+8300,0,silikon uçlu servis seti - kaşık bıçak değil
+8301,0,pasta tabak seti - kaşık bıçak değil
+8302,0,sebze doğrayıcı - kaşık bıçak değil
+8303,0,kesme tahtası - kaşık bıçak değil
+8304,0,ezici - kaşık bıçak değil
+8305,1,kirli kaşıklık eşleşiyor
+8306,1,kirli kaşıklık eşleşiyor
+8307,1,kirli kaşıklık eşleşiyor
+8308,1,kirli kaşıklık eşleşiyor
+8309,1,kirli kaşıklık eşleşiyor
+8310,1,bilekli spor ayakkabı eşleşiyor
+8311,1,uzun bilekli sneaker eşleşiyor
+8312,1,uzun bilekli sneaker eşleşiyor
+8313,1,uzun bilekli sneaker eşleşiyor
+8314,1,yüksek bilekli sneaker eşleşiyor
+8315,1,ipekyol şort eşleşiyor
+8316,1,ipekyol şort eşleşiyor
+8317,1,ipekyol şort eşleşiyor
+8318,1,ipekyol şort eşleşiyor
+8319,1,ipekyol şort eşleşiyor
+8320,1,hakiki deri sırt çantası eşleşiyor
+8321,1,hakiki deri sırt çantası eşleşiyor
+8322,1,deri sırt çantası eşleşiyor
+8323,0,deri belirtilmemiş - erkek sırt çantası
+8324,0,deri belirtilmemiş - laptop çantası
+8325,1,arnica dik süpürge eşleşiyor
+8326,1,arnica dik süpürge eşleşiyor
+8327,1,arnica dik süpürge eşleşiyor
+8328,1,arnica dik süpürge eşleşiyor
+8329,0,akillielma marka - arnica değil
+8330,1,soley çift kişilik çarşaf seti eşleşiyor
+8331,1,soley çift kişilik lastikli çarşaf eşleşiyor
+8332,1,soley çift kişilik çarşaf eşleşiyor
+8333,0,bebek çarşafı 70x140 - çift kişilik değil
+8334,0,theberb marka - soley değil
+8335,1,yemek hazırlık ürünü eşleşiyor
+8336,1,yemek hazırlık ürünü eşleşiyor
+8337,1,yemek hazırlık ürünü eşleşiyor
+8338,1,yemek hazırlık ürünü eşleşiyor
+8339,1,yemek hazırlık ürünü eşleşiyor
+8340,1,kallos cosmetics eşleşiyor
+8341,1,kallos cosmetics eşleşiyor
+8342,1,kallos cosmetics eşleşiyor
+8343,1,kallos cosmetics eşleşiyor
+8344,1,kallos cosmetics eşleşiyor
+8345,1,silva mop eşleşiyor
+8346,1,silva mop eşleşiyor
+8347,1,silva mop eşleşiyor
+8348,0,dükkanönü marka - silva değil
+8349,0,silver home marka - silva değil
+8350,1,oto çakmak eşleşiyor
+8351,1,oto çakmak eşleşiyor
+8352,1,oto çakmak eşleşiyor
+8353,1,oto çakmak eşleşiyor
+8354,1,oto çakmak eşleşiyor
+8355,1,güreş ayakkabısı eşleşiyor
+8356,1,güreş ayakkabısı eşleşiyor
+8357,1,güreş ayakkabısı eşleşiyor
+8358,1,güreş ayakkabısı eşleşiyor
+8359,1,güreş ayakkabısı eşleşiyor
+8360,1,dyo boya eşleşiyor
+8361,1,dyo boya eşleşiyor
+8362,1,dyo boya eşleşiyor
+8363,1,dyo boya eşleşiyor
+8364,1,dyo boya eşleşiyor
+8365,0,paşabahçe marka - rakle değil
+8366,0,rakle marka vazo - sürahi değil
+8367,0,mudo concept marka - rakle değil
+8368,0,lui tasarım marka - rakle değil
+8369,0,mudo home marka - rakle değil
+8370,1,pierre cardin göz farı eşleşiyor
+8371,1,pierre cardin göz farı eşleşiyor
+8372,1,pierre cardin göz farı eşleşiyor
+8373,1,pierre cardin göz farı eşleşiyor
+8374,0,kiko marka - pierre cardin değil
+8375,1,manifest kitabı eşleşiyor
+8376,0,farklı roman - manifest değil
+8377,0,farklı roman - manifest değil
+8378,0,farklı roman - manifest değil
+8379,0,farklı roman - manifest değil
+8380,1,namaz kolluğu eşleşiyor
+8381,1,namaz kolluğu eşleşiyor
+8382,1,namaz kolluğu eşleşiyor
+8383,1,namaz kolluğu eşleşiyor
+8384,1,namaz kolluğu eşleşiyor
+8385,1,kedi gözü oje eşleşiyor
+8386,1,kedi gözü oje eşleşiyor
+8387,1,kedi gözü oje eşleşiyor
+8388,1,kedi gözü oje eşleşiyor
+8389,1,kedi gözü oje eşleşiyor
+8390,1,furminator eşleşiyor
+8391,1,furminator eşleşiyor
+8392,1,furminator eşleşiyor
+8393,1,furminator eşleşiyor
+8394,1,furminator eşleşiyor
+8395,1,tommy hilfiger sırt çantası eşleşiyor
+8396,1,tommy hilfiger sırt çantası eşleşiyor
+8397,1,tommy hilfiger sırt çantası eşleşiyor
+8398,1,tommy hilfiger sırt çantası eşleşiyor
+8399,1,tommy hilfiger sırt çantası eşleşiyor
